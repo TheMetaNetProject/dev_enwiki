@@ -1,0 +1,51 @@
+{{Metaphor
+|Aliases=
+|Family=Legislation metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Forced movement
+|Target frame=Legislation enactment
+|Mappings={{Mapping
+|Target=legislators
+|Source=agent
+}}{{Mapping
+|Target=bill
+|Source=mover
+}}{{Mapping
+|Target=bill_status_change
+|Source=motion
+}}{{Mapping
+|Target=bill_initial_status
+|Source=source
+}}{{Mapping
+|Target=bill_ongoing_status
+|Source=path
+}}{{Mapping
+|Target=legislator_enactment_actions
+|Source=forceful_action
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LEGISLATIVE ACTIVITY IS MOTION ALONG A PATH
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=legislator's objective is for bill to be enacted
+|Entailment.Source inference=agent's objective is for mover to reach goal
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Democrats Push Through Historic, Controversial Health Care Legislation
+|Example.Provenance=http://www.pbs.org/newshour/extra/features/us/jan-june10/healthcare_03-23.html
+}}{{Example
+|Example.Language=English
+|Example.Text=The Senate voted 92-5 Tuesday to move the bill forward to a full vote later this week.
+|Example.Provenance=http://www.kansascity.com/2012/11/13/3916390/senate-readies-bill-allowing-hunters.html
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

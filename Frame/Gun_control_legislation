@@ -1,0 +1,137 @@
+{{Frame
+|Family=Control of guns family, Gun debate, Legislation frames,
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=legislation
+|Role.Definition=bill or law concerning use, ownership, etc. of guns
+}}{{Role
+|Role.Name=proponent_of_legislation
+}}{{Role
+|Role.Name=opponenent_of_legislation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun control
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Gun legislation
+|Related frame.Description=All relevant frames are tied in at that level.
+}}
+|Bindings={{Binding
+|Binding.Local role=legislation
+|Binding.Bound role=Legislative action.legislative_action_outcome
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun law.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control politics.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control measure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control policy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun ban.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-ban.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-ban.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control statute.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Brady bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Brady campaign
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assault weapons ban
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=S.A.F.E. Act
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=SAFE Act
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=NY SAFE Act
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun measure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun safety measure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun measure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun violence prevention measure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulation of firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulation.n on firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulation of gun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulation.n on gun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handgun regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun ownership regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rule.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control policy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=policy.n
+}}
+|Applicability=English
+}}

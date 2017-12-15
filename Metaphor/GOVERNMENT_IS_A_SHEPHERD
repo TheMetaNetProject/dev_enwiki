@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Shepherding
+|Target frame=Government
+|Mappings={{Mapping
+|Target=governor
+|Source=shepherd
+}}{{Mapping
+|Target=governed
+|Source=sheep
+}}{{Mapping
+|Target=governor_objectives
+|Source=objective(s)
+}}{{Mapping
+|Target=governing_actions
+|Source=shepherding_activities
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=If government sucessfully performs action, people will flourish
+|Entailment.Source inference=If shepherd successfully performs actions, sheep will flourish
+}}{{Entailment
+|Entailment.Target entailment=government makes decisions, people do what government wants them to
+|Entailment.Source inference=shepherd makes decsions; sheep do what shepherd wants them to
+}}{{Entailment
+|Entailment.Target entailment=Governed people are not capable of making decisions or protecting themselves
+|Entailment.Source inference=Sheep are not capable of flourishing on their own (without shepherd).
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Citizen Sheep Government Shepherds
+|Example.Provenance=Book title, by Mike Sodrel
+}}{{Example
+|Example.Language=English
+|Example.Text=Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd.
+|Example.Provenance=Alexis de Tocqueville, Democracy in America, section 4 chapter 6
+}}{{Example
+|Example.Language=English
+|Example.Text=Obama and the Progressives do not believe this. They believe they must decide what is best. In their view Americans are sheep and they are the shepherd.
+|Example.Provenance="Conservative Historian" webpage: http://conservativehistorian.com/columns/platoandpresidentobama.html  Accessed 11/29/12
+}}
+|Entered by=Ellen
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

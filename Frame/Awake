@@ -1,0 +1,15 @@
+{{Frame
+|FrameNet frame=Being_awake
+|Type=Primary
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=animate_entity
+|Role.FrameNet role=Protagonist
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

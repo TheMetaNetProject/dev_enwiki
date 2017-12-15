@@ -1,0 +1,44 @@
+{{Frame
+|Family=Economic Frames, Poverty frames,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=actor
+|Role.Definition=economic actor
+}}{{Role
+|Role.Name=objective
+|Role.Definition=economic objectives of actor
+}}{{Role
+|Role.Name=difficulty
+|Role.Definition=difficulties in achieving economic objective
+}}{{Role
+|Role.Name=cause_of_difficulty
+|Role.Definition=entity or situation that causes difficulty
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Difficulty
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Economy
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Experiencing an economic status
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Difficulty.actor
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Difficulty.objective
+}}{{Binding
+|Binding.Local role=difficulty
+|Binding.Bound role=Difficulty.difficulty
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Adversidad económica
+|Applicability=English
+}}

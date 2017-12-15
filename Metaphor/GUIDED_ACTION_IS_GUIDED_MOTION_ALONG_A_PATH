@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GUIDED ACTION IS GUIDED MOTION ALONG A PATH
+|Metaphor.Alias.Provenance=Oana
+}}
+|Comments=Changed to specific, since there is imagery, and non-primary, since no experiential basis is given
+|Family=Location Event Structure Metaphor, Action is Motion metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Guided motion
+|Target frame=Action
+|Mappings={{Mapping
+|Target=actor
+|Source=follower
+}}{{Mapping
+|Target=action_x-schema
+|Source=follower_motion_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She guided him through the problem.
+}}{{Example
+|Example.Language=English
+|Example.Text=She walked him through the analysis.
+}}{{Example
+|Example.Language=English
+|Example.Text=She led him through the rough parts of the course.
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen,Jisup
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

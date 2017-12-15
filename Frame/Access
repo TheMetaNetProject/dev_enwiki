@@ -1,0 +1,38 @@
+{{Frame
+|FrameNet frame=Access_scenario
+|Family=Impediment and enablement frames, Location frames,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+
+|Status=in development
+|Roles={{Role
+|Role.Name=accessor
+}}{{Role
+|Role.Name=accessed_entity
+}}{{Role
+|Role.Name=barrier_to_access
+}}{{Role
+|Role.Name=path_of_access
+|Role.Definition=path between Accessor and Accessed_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barrier
+}}
+|Bindings={{Binding
+|Binding.Local role=path_of_access
+|Binding.Bound role=Barrier.path
+}}{{Binding
+|Binding.Local role=barrier_to_access
+|Binding.Bound role=Barrier.barrier_object
+}}
+|Inferences={{Inference
+|Inference.Description=If barrier is present, accessor cannot access the accessed_entity.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=access.v
+}}
+|LinkSpanish=Acceso
+}}

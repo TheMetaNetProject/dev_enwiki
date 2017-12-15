@@ -1,0 +1,50 @@
+{{Frame
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Governance frames,
+|Type=Frame
+|Cultural scope=American English, Persian
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Nation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Political region
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=country
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=United States
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=The United States
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=The US
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Mexico
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Iran
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Russia
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=US
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=U.S.
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=The U.S.
+}}
+|LinkSpanish=País
+|LinkPersian=کشور
+|Applicability=English
+}}

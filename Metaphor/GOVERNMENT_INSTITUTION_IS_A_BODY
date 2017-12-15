@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Government institution metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Body
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This responsibility falls squarely on the shoulders of the government.
+}}
+|Entered by=Oana,
+|Last reviewed by=Elise
+|Status=in development
+|LinkPersian=بخش دولتی حیوان است
+|Investigated for=English
+}}

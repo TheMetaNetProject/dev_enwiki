@@ -1,0 +1,110 @@
+{{Frame
+|FrameNet frame=Intoxicants
+|Other aliases=Drug use
+|Comments=removed some polysemous slang LUs, e.g. crack, weed, blow, acid.
+|Family=Harm,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Elise
+|Roles={{Role
+|Role.Name=drug
+}}{{Role
+|Role.Name=drug_user
+}}{{Role
+|Role.Name=physical_effects
+}}{{Role
+|Role.Name=drug_dealer
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Intoxicants
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical affliction
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Crime
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social problems
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Addiction
+}}
+|Bindings={{Binding
+|Binding.Local role=drug
+|Binding.Bound role=Physical_affliction.affliction
+}}{{Binding
+|Binding.Local role=drug_user
+|Binding.Bound role=Physical_affliction.patient
+}}{{Binding
+|Binding.Local role=physical_effects
+|Binding.Bound role=Physical_affliction.symptoms
+}}{{Binding
+|Binding.Local role=drug
+|Binding.Bound role=Crime.criminal_activity
+}}{{Binding
+|Binding.Local role=drug_user
+|Binding.Bound role=Crime.criminal
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cocaine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heroin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alcohol.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marijuana.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=coke.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=meth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=methamphetamine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ecstasy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mdma.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ketamine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=salvia.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pcp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lsd.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mescaline.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=psilocybin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narcotic.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narcotic.a
+}}
+|LinkSpanish=Drogas
+|Applicability=English
+}}

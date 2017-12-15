@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RELATIONSHIPS ARE PHYSICAL STRUCTURES
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Physical structure
+|Target frame=Relationship
+|Mappings={{Mapping
+|Target=relationship
+|Source=structure_whole
+}}{{Mapping
+|Target=related_entity_1
+|Source=structure_creator
+}}{{Mapping
+|Target=related_entity_2
+|Source=structure_creator
+}}{{Mapping
+|Target=relationship_status
+|Source=structural_stability
+}}{{Mapping
+|Target=relation_basis
+|Source=base_support
+}}{{Mapping
+|Target=relation_framework
+|Source=structural_framework
+}}{{Mapping
+|Target=relationship_intensity
+|Source=structural_integrity
+}}{{Mapping
+|Target=change_in_relationship_intensity
+|Source=change_in_integrity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=RELATIONSHIPS ARE COMPLEX STRUCTURES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Their relationship is built on a solid foundation of trust and commitment.
+}}
+|Entered by=Elise
+|Status=in development
+|Investigated for=English
+}}

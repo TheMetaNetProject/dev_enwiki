@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Government institution metaphors, Ontological Metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Machine
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A MACHINE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our state government, a well oiled machine of efficiency.
+|Example.Provenance=http://newyorkers.livejournal.com/5144993.html
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,126 @@
+{{Frame
+|Family=Legislation frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=legislators
+}}{{Role
+|Role.Name=bill
+|Role.Definition=proposed legislation
+}}{{Role
+|Role.Name=enactment_process
+|Role.Definition=overall process in which legislators' actions change status of bill
+}}{{Role
+|Role.Name=bill_status_change
+}}{{Role
+|Role.Name=bill_initial_status
+|Role.Definition=bill has been written
+}}{{Role
+|Role.Name=bill_ongoing_status
+|Role.Definition=bill is under consideration
+}}{{Role
+|Role.Name=bill_enacted_status
+|Role.Definition=bill has been enacted (vote of approval)
+}}{{Role
+|Role.Name=legislator_enactment_actions
+}}{{Role
+|Role.Name=legislation_proposal
+|Role.Definition=introduction of proposed legislation
+}}{{Role
+|Role.Name=legislation_consideration
+|Role.Definition=e.g. debate
+}}{{Role
+|Role.Name=enactment_interruption
+|Role.Definition=interruption or termination of enactment process
+}}{{Role
+|Role.Name=legislation_voting
+|Role.Definition=decision making-process
+}}{{Role
+|Role.Name=bill_contents
+}}{{Role
+|Role.Name=legislation_standards
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Legislative action
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Legislation drafting
+|Related frame.Description=drafting precedes entactment process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Voting
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Government decision making
+}}
+|Bindings={{Binding
+|Binding.Local role=enactment_process
+|Binding.Bound role=Government decision making.decision_making_process
+}}{{Binding
+|Binding.Local role=legislator_enactment_actions
+|Binding.Bound role=Government decision making.decision_maker_action
+}}{{Binding
+|Binding.Local role=legislators
+|Binding.Bound role=Government decision making.decision_maker
+}}{{Binding
+|Binding.Local role=legislator_enactment_actions
+|Binding.Bound role=Government decision making.decision_maker_actions
+}}{{Binding
+|Binding.Local role=legislation_proposal
+|Binding.Bound role=Government decision making.introduction_of_entity_under_consideration
+}}{{Binding
+|Binding.Local role=legislation_consideration
+|Binding.Bound role=Government decision making.consideration
+}}{{Binding
+|Binding.Local role=legislation_voting
+|Binding.Bound role=Government decision making.act_of_deciding
+}}{{Binding
+|Binding.Local role=legislation_enactment_outcome
+|Binding.Bound role=Government decision making.decison_making_outcome
+}}{{Binding
+|Binding.Local role=legislation_voting
+|Binding.Bound role=Voting.voting_event
+}}{{Binding
+|Binding.Local role=legislators
+|Binding.Bound role=Voting.voter
+}}{{Binding
+|Binding.Local role=bill
+|Binding.Bound role=Government decision making.entity_under_consideration
+}}{{Binding
+|Binding.Local role=bill_initial_status
+|Binding.Bound role=Government decision making.entity_under_consideration_initial_state
+}}{{Binding
+|Binding.Local role=bill_entacted_status
+|Binding.Bound role=Government decision making.entity_under_consideration_final_state
+}}{{Binding
+|Binding.Local role=bill_ongoing.status
+|Binding.Bound role=Government decision making.entity_under_consideration_ongoing_status
+}}{{Binding
+|Binding.Local role=legislators
+|Binding.Bound role=Legislative action.legislative_actor
+}}{{Binding
+|Binding.Local role=legislator_enactment_actions
+|Binding.Bound role=Legislative action.legislative_action
+}}{{Binding
+|Binding.Local role=bill_contents
+|Binding.Bound role=Government decision making.entity_under_consideration_characteristics
+}}{{Binding
+|Binding.Local role=legislation_standards
+|Binding.Bound role=Government decision making.decision_making_standard
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resolution.n
+}}
+|Applicability=English
+}}
+removed LU 'agenda' 4/1/2014 EKD

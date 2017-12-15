@@ -1,0 +1,74 @@
+{{Frame
+|Comments=There's a sister frame to this: Gun ownership. For now let's keep both, we'll consolidate them soon. oana
+|Family=Gun debate,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=gun_owner
+}}{{Role
+|Role.Name=gun
+}}{{Role
+|Role.Name=possess_relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Personal weapon
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Possession
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Gun use
+}}
+|Bindings={{Binding
+|Binding.Local role=gun_owner
+|Binding.Bound role=Possession.possessor
+}}{{Binding
+|Binding.Local role=gun
+|Binding.Bound role=Personal weapon.weapon
+}}{{Binding
+|Binding.Local role=gun
+|Binding.Bound role=Possession.possession
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun ownership.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun possession.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-toting.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun license.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun ownership license.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bear.v arms
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=concealed carry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=open carry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disarmament.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=civilian disarmament.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=access.n to guns
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=access.n to firearms
+}}
+|Applicability=English
+}}

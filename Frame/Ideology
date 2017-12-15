@@ -1,0 +1,25 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=ideology_holder
+}}{{Role
+|Role.Name=ideological_domain
+}}{{Role
+|Role.Name=ideology
+}}{{Role
+|Role.Name=competing_ideology
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=ideology.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ideologue.n
+}}
+|Applicability=English
+}}

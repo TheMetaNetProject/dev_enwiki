@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PSYCHOLOGICAL CONTROL IS PHYSICAL RESTRAINT
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL OF ACTION IS PHYSICAL RESTRAINT
+}}
+|Family=Object Event Structure Metaphor, Primary Metaphors, DEMO metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Cultural scope=American English
+|Source frame=Object manipulation
+|Target frame=Control
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CONTROL IS OBJECT MANIPULATION
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

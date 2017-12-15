@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Emotion Metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Heat
+|Target frame=Emotion
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=PASSION IS HEAT
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ANGER IS HEAT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is a man of fiery passions.
+|Example.Provenance=Grady 1998
+}}{{Example
+|Example.Language=English
+|Example.Text=The argument really heated up when she accused him of losing the car on purpose.
+|Example.Provenance=Grady 1998
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

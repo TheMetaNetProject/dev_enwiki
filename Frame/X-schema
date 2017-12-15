@@ -1,0 +1,69 @@
+{{Frame
+|Comments=X-schema is different from Process; Process inherits x-schema stages.
+|Family=X-schema family,
+|Type=Primary
+|Entered by=MetaNet group,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=x-schema_initial_state
+|Role.Type=stage
+|Role.Definition=initial state
+}}{{Role
+|Role.Name=x-schema_start
+|Role.Type=stage
+|Role.Definition=transition from initial to ongoing
+}}{{Role
+|Role.Name=x-schema_continue
+|Role.Type=stage
+}}{{Role
+|Role.Name=x-schema_end
+|Role.Type=stage
+|Role.Definition=transition from ongoing to final state
+}}{{Role
+|Role.Name=x-schema_stopped_state
+|Role.Type=stage
+}}{{Role
+|Role.Name=x-schema_kind
+|Role.Definition=specific type of x-schema
+}}{{Role
+|Role.Name=finish_conditions
+|Role.Definition=condtions for finish transition
+}}{{Role
+|Role.Name=start_conditions
+|Role.Definition=conditions for start transition
+}}{{Role
+|Role.Name=whole
+|Role.Definition=entire x-schema
+}}{{Role
+|Role.Name=interruption
+|Role.Definition=interruption in x-schema execution
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema continue
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema initial state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema stopped state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema start
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema end
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema uncompleted state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=X-schema stop
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=x-schema stages are ordered.  Intitial > start > ongoing > finish > final
+|Inference.Type=x-schema stage
+}}
+|Relevant LUs=
+}}

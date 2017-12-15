@@ -1,0 +1,59 @@
+{{Metaphor
+|Aliases=
+|Comments=A given entity's ability to control is a possession possessed by that entity.
+|Family=Governance metaphors, Possession metaphors, 
+|Source frame=Possession
+|Target frame=Control
+|Mappings={{Mapping
+|Target=controlling_entity
+|Source=possessor
+}}{{Mapping
+|Target=ability_to_control
+|Source=possession
+}}{{Mapping
+|Target=control_relation
+|Source=possess_relation
+}}{{Mapping
+|Target=control_relation_status
+|Source=possess_relation_status
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ATTRIBUTES ARE POSSESSIONS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=being able to control a person or situation
+|Entailment.Source inference=possessing a possession
+}}{{Entailment
+|Entailment.Target entailment=not being able to control a person or possession
+|Entailment.Source inference=not having a possession
+}}{{Entailment
+|Entailment.Target entailment=change in ability to control a person or situation
+|Entailment.Source inference=change in possession
+|Entailment.Type=x-schema
+}}{{Entailment
+|Entailment.Target entailment=attaining control
+|Entailment.Source inference=gaining a possession
+|Entailment.Type=x-schema
+|Entailment.Entailed metaphors=ATTAINING CONTROL IS GAINING A POSSESSION
+}}{{Entailment
+|Entailment.Target entailment=end of controller's control
+|Entailment.Source inference=loss of a possession
+|Entailment.Type=x-schema
+|Entailment.Entailed metaphors=TERMINATION OF CONTROL IS LOSS OF A POSSESSION
+}}
+|Examples={{Example
+|Example.Text=He has control over all the workers.
+}}{{Example
+|Example.Language=English
+|Example.Text=The president kept his hold on power.
+}}{{Example
+|Example.Text=She regained control of the assembly.
+}}{{Example
+|Example.Text=He possesses the power to heal small animals.
+}}
+|Entered by=Ellen
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=КОНТРОЛЬ - ЭТО ВЛАДЕНИЕ
+}}

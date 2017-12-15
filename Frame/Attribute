@@ -1,0 +1,36 @@
+{{Frame
+|FrameNet frame=Attributes
+|Family=Property-related frames
+|Type=Primary
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=entity
+|Role.Definition=entity that attribute is identified with
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=attribute
+|Role.Definition=state or property that attributor attributes to entity
+|Role.FrameNet role=Attribute
+}}{{Role
+|Role.Name=value
+|Role.Definition=value of attribute
+|Role.FrameNet role=Value
+}}{{Role
+|Role.Name=attributor
+|Role.Definition=person who makes the attribution
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=State
+}}
+|Bindings={{Binding
+|Binding.Local role=attribute
+|Binding.Bound role=State.domain
+}}{{Binding
+|Binding.Local role=value
+|Binding.Bound role=State.profiled_state_value
+}}
+|Inferences=
+|Relevant LUs=
+}}

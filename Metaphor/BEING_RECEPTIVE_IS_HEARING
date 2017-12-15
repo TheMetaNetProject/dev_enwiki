@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BEING RECEPTIVE IS HEARING
+}}
+|Family=Mind Metaphors, Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Hearing
+|Target frame=Being_receptive
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=KNOWING IS PERCEIVING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I heard her out and became convinced of her arguments.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

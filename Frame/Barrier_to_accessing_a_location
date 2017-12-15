@@ -1,0 +1,60 @@
+{{Frame
+|Comments=Obstacles_to_accessing_a_location was removed; LUs moved here.
+
+Sisters include:
+Barrier on a path
+Confinement
+|Family=Motion-affecting frames, Impediment and enablement frames, Location frames, Motion impediments frames,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, reviewed
+|Entered by=Metabot,
+|Last reviewed by=Oana, Elise, Ellen, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Access to a location
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barrier
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Inability to access a location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hurdle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rocky.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=treacherous.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stand.v in the way of
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=barricade.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=barricade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dead end.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cul de sac.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cul-de-sac.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deadend.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dead-end.n
+}}
+}}

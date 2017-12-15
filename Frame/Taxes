@@ -1,0 +1,70 @@
+{{Frame
+|Description=amount and type of taxes
+|Family=Taxes frames
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles={{Role
+|Role.Name=tax
+}}{{Role
+|Role.Name=amount
+}}{{Role
+|Role.Name=rate
+}}{{Role
+|Role.Name=type
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Taxation
+}}
+|Bindings={{Binding
+|Binding.Local role=tax
+|Binding.Bound role=Taxation.tax
+}}{{Binding
+|Binding.Local role=rate
+|Binding.Bound role=Taxation.tax_rate
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=death tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=income tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=capital gains tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inheritance tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sales tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=property tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tort tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax rate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earnings tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=school tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=estate tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corporate tax.n
+}}
+|LinkSpanish=Impuesto
+}}

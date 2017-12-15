@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POSITIVITY IS VERTICALITY
+|Metaphor.Alias.Provenance=Oana
+}}
+|Tags=orientational,
+|Family=Orientational Metaphors, Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Positivity scale
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=POSITIVE IS UP
+}}{{Entailment
+|Entailment.Entailed metaphors=NEGATIVE IS DOWN
+}}
+|Examples=
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

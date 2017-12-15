@@ -1,0 +1,21 @@
+{{Frame
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=public_as_trusting_entity
+}}{{Role
+|Role.Name=institution_as_trusted_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Trust relationship
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=اعتماد جمعی
+|Applicability=English
+}}

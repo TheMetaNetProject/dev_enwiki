@@ -1,0 +1,52 @@
+{{Frame
+|Family=Impediment and enablement frames, Motion-affecting frames, Motion Frames,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aids to motion
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Aids to downward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=rope.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lifeline.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ladder.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trampoline.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leg.n up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=staircase.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rope.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=springboard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stairway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foothold.n
+}}
+|LinkSpanish=Ayudas al movimiento hacia arriba
+}}

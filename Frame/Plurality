@@ -1,0 +1,17 @@
+{{Frame
+|Comments=Multiple entities of a given 'kind'
+|Type=Cog
+|Status=in development
+|Entered by=Ellen, 
+|Roles={{Role
+|Role.Name=plurality_entity
+|Role.Definition=multiplex -- the plurality as an entity
+}}{{Role
+|Role.Name=individual_entities
+|Role.Definition=the individual entities that comprise the plurality
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

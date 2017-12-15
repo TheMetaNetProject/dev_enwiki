@@ -1,0 +1,30 @@
+{{Frame
+|Family=Impediment and enablement frames, Motion Frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot
+|Last reviewed by=Ellen, Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=grease.v the wheel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grease.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lubricant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lubricate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=oil.v
+}}
+}}

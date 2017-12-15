@@ -1,0 +1,81 @@
+{{Frame
+|Family=Location frames, Position frames,
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=located_thing
+}}{{Role
+|Role.Name=current_location
+}}{{Role
+|Role.Name=low_landmark
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Being at a location
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vertical position
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Being at a High Location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottom of the totem pole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottom of the heap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the pits.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rock bottom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rock-bottom.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=abysmal.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottom.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lower.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lowest.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottom percent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=low.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lower.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=depths.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=depth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=be.v under
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=live.v below
+}}
+|LinkSpanish=Estar en un lugar bajo
+}}

@@ -1,0 +1,45 @@
+{{Frame
+|FrameNet frame=Quarreling, Reasoning
+|Family=Communication Frames, Excluded frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=arguers
+}}{{Role
+|Role.Name=arguing_event
+}}{{Role
+|Role.Name=arguments_expressed
+}}{{Role
+|Role.Name=trigger_of_argument
+|Role.Type=x-schema condition
+}}{{Role
+|Role.Name=argument_domain
+}}{{Role
+|Role.Name=argument_content
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Reasoning
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=argument.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=point.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=claim.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=criticism.n
+}}
+|LinkSpanish=Argumento
+|Applicability=English
+}}

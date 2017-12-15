@@ -1,0 +1,110 @@
+{{Frame
+|FrameNet frame=Gizmo
+|Family=Entity frames, Machine frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=machine_entity
+}}{{Role
+|Role.Name=purpose
+|Role.Definition=the purpose the machine is designed to  accomplish
+|Role.FrameNet role=Use
+}}{{Role
+|Role.Name=functional_status
+|Role.Definition=e.g. broken down, functional
+}}{{Role
+|Role.Name=operator_of_machine
+|Role.Definition=person who controls the machine
+}}{{Role
+|Role.Name=operating_x-schema
+|Role.Definition=e.g. machine is 'running'
+}}{{Role
+|Role.Name=parts
+}}{{Role
+|Role.Name=power_source
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical structure
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}
+|Bindings={{Binding
+|Binding.Local role=machine_entity
+|Binding.Bound role=Control.dependent_entity
+}}{{Binding
+|Binding.Local role=operator_of_machine
+|Binding.Bound role=Control.controlling_entity
+}}
+|Inferences={{Inference
+|Inference.Description=The ability of the machine to function (operating_x-schema execution) depends on the state of its physical structure (functional_status).  If a machine is broken, it will not function.  If it is 'well-oiled' it will perform more efficiently than if it is 'rusty'.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=machine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-oiled.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=device.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gadget.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=malfunction.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=run.v smoothly
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gear.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=apparatus.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mechanical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hum.v along
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=break down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=take.v apart
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repair.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cog.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bolt.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=engine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=appliance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=motor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mechanism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=machinery.n
+}}
+|LinkSpanish=Máquina
+|Applicability=English
+}}

@@ -1,0 +1,7 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-noun_poss_S-noun
+|CxnMPDescription='s Posessives: reg exp backup
+|Comments=poverty's morass
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=&#91;^=&#93;+=(?P<tidx>\d+) 's='s=POS=\d+ &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=&#91;^=&#93;+=(?P<sidx>\d+)\b
+}}

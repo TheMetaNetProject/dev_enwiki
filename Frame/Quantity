@@ -1,0 +1,67 @@
+{{Frame
+|FrameNet frame=Quantity
+|Family=Scale Frames, Excluded frames,
+|Type=Cog
+|Status=in development
+|Roles={{Role
+|Role.Name=entity
+|Role.Definition=the thing that is being quantified
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=entity_amount
+|Role.Type=entity property
+|Role.Definition=the amount of a given instance of this type of entity
+}}{{Role
+|Role.Name=quantity_scale
+}}{{Role
+|Role.Name=measure_of_quantity
+|Role.Definition=position on quantity scale
+|Role.FrameNet role=Value
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=quantity values progressively increase from one end of the scale ('bottom') to the other ('top').
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=amount.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=more.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=less.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quantity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=increase.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decrease.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=increase.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decrease.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=add.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=addition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=augment.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=augmentation.n
+}}
+|LinkSpanish=Cantidad
+}}

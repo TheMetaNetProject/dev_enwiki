@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CREATING IS MAKING
+|Metaphor.Alias.Provenance=Master Metaphor List (Lakoff, Espenson & Schwartz 1991)
+}}
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Making
+|Target frame=Creating
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The solution only created more problems.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

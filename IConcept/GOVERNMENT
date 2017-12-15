@@ -1,0 +1,36 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptDefinition=frames related to structure (3 branches), function, and legitimacy of government
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Legislative branch; Institution; Organization; Citizen evaluation of government; Authority; Citizens; Community; Country; International relations; Judicial action; Judicial branch; Judicial decision-making; Law, Legislation drafting; Legislation enactment; Legitimacy; Nation; Organization of power; Political region; Power; Public trust Rights; Trust relationship; Voting.
+|ConceptFrames={{Linked frame
+|Frame name=Branches of government
+}}{{Linked frame
+|Frame name=Government
+}}{{Linked frame
+|Frame name=Government institution
+}}{{Linked frame
+|Frame name=Government institution US
+}}{{Linked frame
+|Frame name=Governing action
+}}{{Linked frame
+|Frame name=Government decision making
+}}{{Linked frame
+|Frame name=Government executive action
+}}{{Linked frame
+|Frame name=Government legitimacy
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Money
+}}
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=building.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=employee.n
+}}
+}}

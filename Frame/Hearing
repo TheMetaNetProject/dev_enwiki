@@ -1,0 +1,22 @@
+{{Frame
+|Family=Perception frames,
+|Type=Frame
+|Status=in development
+|Entered by=Mark,
+|Last reviewed by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Perception
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hear.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overhear.v
+}}
+|Applicability=English
+}}

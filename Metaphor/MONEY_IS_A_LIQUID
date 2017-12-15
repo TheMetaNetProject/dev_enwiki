@@ -1,0 +1,53 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CASH IS A LIQUID
+|Metaphor.Alias.Provenance=Master Metaphor List (Lakoff, Espenson & Schwartz 1991)
+|Metaphor.Alias.Page no=183
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Liquid
+|Target frame=Money
+|Mappings={{Mapping
+|Target=money
+|Source=liquid
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=RESOURCE IS A LIQUID
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=MONEY IS A SUBSTANCE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=loss of money
+|Entailment.Source inference=draining or leaking of liquid
+}}{{Entailment
+|Entailment.Target entailment=state of having no money
+|Entailment.Source inference=state of being dry
+}}{{Entailment
+|Entailment.Target entailment=transferring money
+|Entailment.Source inference=flow of liquid
+|Entailment.Entailed metaphors=MONEY TRANSFER IS FLUID MOTION
+}}{{Entailment
+|Entailment.Target entailment=wasting money
+|Entailment.Source inference=allowing liquid to drain or leak
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The money is all dried up.
+}}{{Example
+|Example.Language=English
+|Example.Text=Liquid assets.
+}}{{Example
+|Example.Language=English
+|Example.Text=Currency
+}}{{Example
+|Example.Language=English
+|Example.Text=He's just sponging off of you.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

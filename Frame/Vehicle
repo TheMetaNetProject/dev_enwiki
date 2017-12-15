@@ -1,0 +1,114 @@
+{{Frame
+|FrameNet frame=Vehicle
+|Family=Entity frames, Vehicle frames, Machine frames
+|Type=Frame, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=vehicle
+|Role.Type=physical_object
+}}{{Role
+|Role.Name=vehicle_passengers
+|Role.Type=person
+}}{{Role
+|Role.Name=vehicle_freight
+|Role.Type=physical_object
+|Role.Definition=optional role
+}}{{Role
+|Role.Name=vehicle_driver
+|Role.Type=person
+}}{{Role
+|Role.Name=vehicle_location
+|Role.Type=location
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Machine
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Controlled vehicular motion
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Mode_of_transportation
+}}
+|Bindings={{Binding
+|Binding.Local role=vehicle
+|Binding.Bound role=Controlled vehicular motion.vehicle
+}}{{Binding
+|Binding.Local role=vehicle
+|Binding.Bound role=Containing.container
+}}{{Binding
+|Binding.Local role=vehicle_passengers
+|Binding.Bound role=Containing.contents
+}}{{Binding
+|Binding.Local role=freight
+|Binding.Bound role=Containing.contents
+}}{{Binding
+|Binding.Local role=driver
+|Binding.Bound role=Containing.contents
+}}{{Binding
+|Binding.Local role=driver
+|Binding.Bound role=Controlled vehicular motion.motion_controller
+}}{{Binding
+|Binding.Local role=vehicle
+|Binding.Bound role=Mode_of_transportation.transportation_vehicle
+}}{{Binding
+|Binding.Local role=vehicle_location
+|Binding.Bound role=Physical structure.structure_location
+}}
+|Inferences={{Inference
+|Inference.Description=A vehicle is a means for reaching destinations.
+}}{{Inference
+|Inference.Description=A vehicle is solid and can last a long time.
+}}{{Inference
+|Inference.Description=A multi-person vehicle is a means for reaching common destinations.
+}}{{Inference
+|Inference.Description=In a two-person vehicle, the travellers are close.
+}}{{Inference
+|Inference.Description=When a vehicle is moving, its contents (driver, passengers,and/or freight) are also moving at the same speed and in the same direction.
+}}{{Inference
+|Inference.Description=The driver controls the speed and direction of the vehicle's motion in order to get the vehicle to the intended destination.  If the driver doesn't know which direction to steer, the vehicle is unlikely to reach its destination.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=vehicle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=car.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=train.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=transportation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=transport.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=driver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stall.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jump start.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hit.v the brake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slam.v on the brake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grind.v to a halt
+}}
+|LinkSpanish=Vehículo
+|Applicability=English
+}}

@@ -1,0 +1,36 @@
+{{Frame
+|Family=Scale Frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=middle.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=median.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mid-level.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=middling
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=middle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=median.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=middle-ground.a
+}}
+}}

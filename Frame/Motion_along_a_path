@@ -1,0 +1,100 @@
+{{Frame
+|Description=A moving entity  starts out in one place and ends up in another, having traversed the distance between these places
+|FrameNet frame=Motion, Motion_directional, Motion_scenario
+|Other aliases=Translational motion, Directional motion
+|Comments=A moving entity (the mover) starts out in one place (Source), and ends up in another place (Goal), having covered some space between these two (Path)
+
+I removed the LU 'go' for now (11/7/2014), to help extraction. We can add it back later! (Oana)
+|Family=Motion Frames, Movement frames, Directional movement frames, Translational motion frames, Moving entity frames,
+|Type=Cog, Composed
+|Cultural scope=universal
+|Status=in development, release candidate
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=mover
+|Role.Type=Entity
+|Role.Definition=from Motion
+}}{{Role
+|Role.Name=motion_x-schema
+|Role.Type=Process
+}}{{Role
+|Role.Name=source
+|Role.Type=Location
+|Role.Definition=mover's initial location
+}}{{Role
+|Role.Name=path
+|Role.Definition=mover's intermediate locations
+}}{{Role
+|Role.Name=goal
+|Role.Type=Location
+|Role.Definition=mover's final location
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}{{Role
+|Role.Name=pathway
+|Role.Type=Physical path
+|Role.Definition=the physical pathway the mover moves along
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Source_path_ goal
+|Related frame.Description=(future: is a process that incorporates)
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Physical path
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Source_path_goal.trajector
+}}{{Binding
+|Binding.Local role=source
+|Binding.Bound role=Source_path_goal.source
+}}{{Binding
+|Binding.Local role=path
+|Binding.Bound role=Source_path_goal.path
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Source_path_goal.goal
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion.mover
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Motion.motion_x-schema
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Motion.speed
+}}{{Binding
+|Binding.Local role=direction
+|Binding.Bound role=Motion.direction
+}}
+|Inferences={{Inference
+|Inference.Description=Alignment of motion x-schema stages and Source_Path-Goal locations: 1) when motion begins, mover is at Source location; 2) as motion proceeds, mover is at (series of) path locations; 3)  when motion ends, mover is at Goal location.
+}}{{Inference
+|Inference.Description=A single mover can only move along one path at a time.  Therefore, motion along a given path means the mover is not following other alternative paths.
+}}{{Inference
+|Inference.Description=The direction of the mover's motion determines which locations the mover will move to (including the Goal location).
+}}{{Inference
+|Inference.Description=The mover's mass affects the speed of motion and/or the amount of energy needed for mover to move.  For instance, if mass is increased (e.g. if 'burdens' are added), more energy is required.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=slide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=creep.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=speed.v
+}}
+|LinkSpanish=Movimiento a lo largo de un camino
+}}
+There are various ways we might handle 'energy-related' parameters.  The amount of energy might be handled as an x-schema resource and/or input.  The source of energy could be another role in this frame (energy-source), which would be bound to the actor for self-propelled motion, and to an external Causer in the case of CausedMotion.

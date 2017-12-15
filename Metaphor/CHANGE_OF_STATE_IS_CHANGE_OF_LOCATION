@@ -1,0 +1,93 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGES ARE MOVEMENTS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=179
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGE IS MOTION
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Location Event Structure Metaphor, States are Locations metaphors, Grady Primary Metaphors, 
+|Cultural scope=American English, Persian
+|Source frame=Source path goal
+|Target frame=Change of state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=trajector
+}}{{Mapping
+|Target=standard
+|Source=landmark
+}}{{Mapping
+|Target=initial_state
+|Source=source
+}}{{Mapping
+|Target=transition
+|Source=path
+}}{{Mapping
+|Target=final_state
+|Source=goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=starting to experience a state
+|Entailment.Source inference=moving into a bounded region (goal)
+|Entailment.Type=x-schema stage
+}}{{Entailment
+|Entailment.Target entailment=no longer experiencing a state
+|Entailment.Source inference=moving out of a bounded region (source)
+|Entailment.Type=x-schema stage
+}}{{Entailment
+|Entailment.Target entailment=transition to a state
+|Entailment.Source inference=moving across the boundary of a bounded region
+|Entailment.Type=x-schema stage
+}}{{Entailment
+|Entailment.Target entailment=state change can be caused by an external entity
+|Entailment.Source inference=location can be changed by external entity applying force
+|Entailment.Type=external causation
+|Entailment.Entailed metaphors=CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION
+}}{{Entailment
+|Entailment.Target entailment=Prevented change of state
+|Entailment.Source inference=Prevented change of location
+|Entailment.Type=external causation
+|Entailment.Entailed metaphors=PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION
+}}{{Entailment
+|Entailment.Target entailment=state can be changed by 'self'/experiencer
+|Entailment.Source inference=location can be changed by 'self'/trajector (e.g. self-propelled motion)
+|Entailment.Type=internal causation
+|Entailment.Entailed metaphors=SELF-INITIATED STATE CHANGE IS SELF-PROPELLED MOTION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He went crazy.
+|Example.Provenance=PITF, p. 183
+}}{{Example
+|Example.Language=English
+|Example.Text=He fell into a depression.
+|Example.Provenance=PITF, p. 183
+|Example.Comments=state is bounded region
+}}{{Example
+|Example.Language=English
+|Example.Text=I came out of my depression.
+|Example.Provenance=PITF, p. 183
+|Example.Comments=state is bounded region
+}}{{Example
+|Example.Language=English
+|Example.Text=He went over the edge.
+|Example.Provenance=PITF, p. 183
+|Example.Comments=state is bounded region
+}}{{Example
+|Example.Language=English
+|Example.Text=Things have gone from bad to worse lately.
+}}
+|Entered by=Ellen,
+|Last reviewed by=Oana
+|Status=in development
+|LinkPersian=تغییر وضعیت، تغییر مکان است
+|Investigated for=English
+|Relevant LUs=
+}}

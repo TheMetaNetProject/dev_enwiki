@@ -1,0 +1,40 @@
+{{Frame
+|FrameNet frame=Awareness
+|Family=Entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=sentient_entity
+|Role.Type=entity that has consciousness
+}}{{Role
+|Role.Name=state_of_consciousness
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cognizing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Consciousness
+}}
+|Bindings={{Binding
+|Binding.Local role=sentient_entity
+|Binding.Bound role=Entity.entity
+}}{{Binding
+|Binding.Local role=sentient_entity
+|Binding.Bound role=Cognizing.cognizer
+}}{{Binding
+|Binding.Local role=state_of_consciousness
+|Binding.Bound role=Consciousness.state_of_consciousness
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Entidad sintiente
+|Applicability=English
+}}

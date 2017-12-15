@@ -1,0 +1,41 @@
+{{Frame
+|Comments=Created for IARPA testing, see LUs and Spanish.
+
+Defined as some object used in order to carry out some action.
+|Family=Machine frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=instrument.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tool.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=utensil.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gear.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=equipment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contrivance.n
+}}
+|LinkSpanish=Herramienta
+|Applicability=English
+}}

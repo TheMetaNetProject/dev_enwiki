@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PROGRESS IS FORWARD MOTION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PROGRESS IS FORWARD MOVEMENT
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Cultural scope=American English, Persian
+|Source frame=Motion_along_a_path
+|Target frame=Action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He hadn't made much headway in writing the termpaper.
+}}{{Example
+|Example.Language=English
+|Example.Text=Let's keep moving forward on this experiment.
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm afraid I haven't gotten very far in grading the exams.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=پیشرفت، حرکت رو به جلو است
+|Investigated for=English
+|Relevant LUs=
+}}

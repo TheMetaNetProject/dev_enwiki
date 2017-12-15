@@ -1,0 +1,62 @@
+{{Frame
+|Family=Debt frames
+|Type=Frame
+|Status=in development
+|Entered by=Metabot
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Money
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=debt.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=owe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=due.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=financial liability.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=financially liable
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=owing
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unpaid
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arrears
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bankrupt.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indebted.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indebtedness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=insolvent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=insolvency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bankruptcy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mortgage.n
+}}
+|LinkSpanish=Deuda
+|Applicability=English
+}}

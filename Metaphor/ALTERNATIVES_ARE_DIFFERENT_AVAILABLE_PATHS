@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ALTERNATIVES ARE DIFFERENT AVAILABLE PATHS
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=115
+}}
+|Family=LOVE IS A JOURNEY Cascade, Life Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Source path goal
+|Target frame=Decision_making
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=LIFE IS A JOURNEY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Choosing a particular alternative of several available alternatives
+|Entailment.Source inference=Choosing a particular path of several available paths
+|Entailment.Entailed metaphors=CHOOSING AN ALTERNATIVE IS CHOOSING ONE AVAILABLE PATH
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He started going down a bad life path.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

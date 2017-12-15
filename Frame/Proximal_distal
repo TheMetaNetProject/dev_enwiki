@@ -1,0 +1,44 @@
+{{Frame
+|FrameNet frame=Within_distance
+|Family=Image Schemas,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=center
+}}{{Role
+|Role.Name=proximal region
+}}{{Role
+|Role.Name=distal region
+}}{{Role
+|Role.Name=boundary
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximity
+}}
+|Bindings={{Binding
+|Binding.Local role=proximal region
+|Binding.Bound role=Bounded region.interior
+}}{{Binding
+|Binding.Local role=distal region
+|Binding.Bound role=Bounded region.exterior
+}}{{Binding
+|Binding.Local role=boundary
+|Binding.Bound role=Bounded region.boundary
+}}{{Binding
+|Binding.Local role=center
+|Binding.Bound role=Proximity.ground
+}}
+|Inferences={{Inference
+|Inference.Description=The proximal and distal regions are defined in terms of relative proximity to the center.  The boundary is the furthest extent of what is considered proximal to the center.
+}}
+|Relevant LUs=
+|LinkSpanish=Próximo lejano
+}}

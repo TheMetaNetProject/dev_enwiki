@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Family=Location Event Structure Metaphor, States are Locations metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Bounded region
+|Target frame=Circumstances
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=How does the always manage to find herself in this situation?
+}}{{Example
+|Example.Language=English
+|Example.Text=circumstances
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

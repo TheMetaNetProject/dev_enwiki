@@ -1,0 +1,80 @@
+{{Frame
+|Comments=Needed for gun debate. Currently, it is very heterogeneous, will need to be broken up later.
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Citizen evaluation of government
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=tyranny.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tyrannical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tyrant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=authoritarian.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=authoritarianism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=autocracy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=autocratic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=totalitarian.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=totalitarianism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fascism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fascist.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dictator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dictatorship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=despotism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=despot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=communist.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=communism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=despotic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thug tactic.n
+}}
+|LinkSpanish=Tiranía
+|Applicability=English
+}}

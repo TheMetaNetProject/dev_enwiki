@@ -1,0 +1,63 @@
+{{Frame
+|FrameNet frame=Bounded_region
+|Comments=this frame does not include the Ground or Surface FE's of FNet Bounded-region frame.  However, note that this frame does inherit the 'background' role of the Region frame.  Also, this frame could be elaborated by binding each of the current roles to a (different)'location' role in the Region frame.
+|Family=Bounding, Location frames,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=release candidate
+|Entered by=Ellen
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=exterior
+|Role.Type=region
+|Role.FrameNet role=Exterior
+}}{{Role
+|Role.Name=interior
+|Role.Type=region
+|Role.FrameNet role=Interior
+}}{{Role
+|Role.Name=boundary
+|Role.FrameNet role=Boundary
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Region
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=topological structure is such that exterior and interior are separated by boundary.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=in.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=within.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inside.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=out.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outside.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=out of.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outside of.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boundary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sphere.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=expansive.a
+}}
+|LinkSpanish=Región delimitada
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Family=Education frames, Excluded frames, 
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Group of related ideas
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Education
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Educational institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=curriculum
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=curricula
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=curricular
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=class content
+}}
+}}

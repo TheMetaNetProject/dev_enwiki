@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=COMPETITION IS A RACE
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=A COMPETITION IS A RACE
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Race
+|Target frame=Competition
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Text=The arms race.
+|Example.Language=English
+}}{{Example
+|Example.Text=We’ve been playing chess for years, and he’s finally pulling ahead of me.
+|Example.Language=English
+}}{{Example
+|Example.Text=He’s a better writer than I am, and he’s widening the distance.
+|Example.Language=English
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

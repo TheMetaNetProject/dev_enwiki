@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HAPPINESS IS VERTICALITY
+|Metaphor.Alias.Provenance=Metaphor+
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=HAPPY IS UP
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=p. 14
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=SAD IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=p. 14
+}}
+|Family=Emotion Metaphors, Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Happiness
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Being happy
+|Entailment.Source inference=Being physically upright
+|Entailment.Type=Image schematic
+|Entailment.Entailed metaphors=HAPPY IS UP
+}}{{Entailment
+|Entailment.Target entailment=Being sad or unhappy
+|Entailment.Source inference=Being physically not upright or horizontal
+|Entailment.Entailed metaphors=SAD IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I'm soaring with joy.
+}}{{Example
+|Example.Language=English
+|Example.Text=His spirits fell.
+}}
+|Entered by=Oana, Elise,
+|Status=in development
+|Relevant LUs=
+}}

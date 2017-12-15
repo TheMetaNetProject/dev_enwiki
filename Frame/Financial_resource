@@ -1,0 +1,32 @@
+{{Frame
+|Family=Wealth and Social Class frames, Economic Frames, Resource Frames,
+|Cultural scope=American English
+|Cultural information=The LU 'handouts' was here but I took it out. This is a high-level frame with no LUs. We need to figure out where 'handouts' goes. (Oana)
+|Status=in development
+|Entered by=Ellen, Elise
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=resource
+}}{{Role
+|Role.Name=type
+}}{{Role
+|Role.Name=amount
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Resource
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Monetary evaluation
+}}
+|Bindings={{Binding
+|Binding.Local role=resource
+|Binding.Bound role=Resource.resource
+}}{{Binding
+|Binding.Local role=resource
+|Binding.Bound role=Monetary evaluation.resource
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

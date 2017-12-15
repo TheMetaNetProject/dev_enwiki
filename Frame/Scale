@@ -1,0 +1,57 @@
+{{Frame
+|Other aliases=Linear scale
+|Comments=Please do not also create a 'Linear scale' frame. This is automatically linear.
+|Family=Scale Frames, Property-related frames,
+|Type=Cog
+|Status=in development
+|Entered by=MetaNet group
+|Last reviewed by=Elise, Ellen
+|Roles={{Role
+|Role.Name=parameter
+|Role.Definition=what the scale is about
+}}{{Role
+|Role.Name=maximal value
+}}{{Role
+|Role.Name=minimal value
+}}{{Role
+|Role.Name=intermediate values
+|Role.Definition=ranked with respect to each other
+}}{{Role
+|Role.Name=position_on_scale
+}}{{Role
+|Role.Name=norm
+}}{{Role
+|Role.Name=ordered_value_relations
+|Role.Definition=the values are ordered in relation to one another
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=State
+}}
+|Bindings={{Binding
+|Binding.Local role=parameter
+|Binding.Bound role=State.domain
+}}{{Binding
+|Binding.Local role=maximal value
+|Binding.Bound role=State.possible_state_values
+}}{{Binding
+|Binding.Local role=minimal value
+|Binding.Bound role=State.possible_state_values
+}}{{Binding
+|Binding.Local role=intermediate values
+|Binding.Bound role=State.possible_state_values
+}}{{Binding
+|Binding.Local role=position on scale
+|Binding.Bound role=State.profiled_state_value
+}}{{Binding
+|Binding.Local role=ordered_value_relations
+|Binding.Bound role=State.value_relations
+}}
+|Inferences={{Inference
+|Inference.Description=ordering of values -- if B is greater than A, and C is greater than B, then C is greater than A.
+}}{{Inference
+|Inference.Description=continuity -- each intermediate value is adjacent to a lower value and a higher value
+}}
+|Relevant LUs=
+|Applicability=English
+}}

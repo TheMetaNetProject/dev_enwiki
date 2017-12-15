@@ -1,0 +1,19 @@
+{{Frame
+|FrameNet frame=Experiencer_focus
+|Family=Emotion Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=affection_feeler
+}}{{Role
+|Role.Name=degree_of_affection
+}}{{Role
+|Role.Name=target_of_affection
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

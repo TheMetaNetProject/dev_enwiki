@@ -1,0 +1,65 @@
+{{Frame
+|Family=Motion Frames, Movement frames, Affected movement frames, Mover-specific movement frames, Vehicle frames, Moving entity frames, 
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=motion_controller
+|Role.Definition=e.g. driver, pilot
+}}{{Role
+|Role.Name=vehicle
+}}{{Role
+|Role.Name=motion_x-schema
+|Role.Definition=motion of vehicle
+}}{{Role
+|Role.Name=vehicle_control_x-schema
+|Role.Definition=e.g. steering, braking
+}}{{Role
+|Role.Name=speed
+|Role.Definition=vehicle's speed
+}}{{Role
+|Role.Name=direction
+|Role.Definition=vehicle's direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Controlled motion
+|Related frame.Description=more specific case
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Vehicle
+}}
+|Bindings={{Binding
+|Binding.Local role=motion_controller
+|Binding.Bound role=Controlled motion.motion_controller
+}}{{Binding
+|Binding.Local role=vehicle
+|Binding.Bound role=Controlled motion.mover
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Controlled motion.motion_x-schema
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Controlled motion.speed
+}}{{Binding
+|Binding.Local role=direction
+|Binding.Bound role=Controlled motion.direction
+}}{{Binding
+|Binding.Local role=vehicle_control_x-schema
+|Binding.Bound role=Controlled motion.control_x-schema
+}}{{Binding
+|Binding.Local role=vehicle
+|Binding.Bound role=Vehicle.vehicle
+}}{{Binding
+|Binding.Local role=motion_controller
+|Binding.Bound role=Vehicle.driver
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=steer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brake.v
+}}
+|Applicability=English
+}}

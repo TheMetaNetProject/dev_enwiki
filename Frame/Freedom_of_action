@@ -1,0 +1,38 @@
+{{Frame
+|Family=Action frames, Impediment and enablement frames, Motion impediments frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=free.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=independent.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=autonomous.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=autonomy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unimpeded.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=free.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unfettered.a
+}}
+|LinkSpanish=Libertad de acción
+|Applicability=English
+}}

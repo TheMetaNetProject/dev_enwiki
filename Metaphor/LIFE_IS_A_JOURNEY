@@ -1,0 +1,103 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HUMAN LIFE IS A JOURNEY
+|Metaphor.Alias.Provenance=Kovecses, Metaphor: A Practical Introduction
+|Metaphor.Alias.Page no=9
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=LOVE IS A JOURNEY Cascade,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Journey
+|Target frame=Life
+|Mappings={{Mapping
+|Target=life_liver
+|Source=journeyer
+}}{{Mapping
+|Target=life_span
+|Source=journey_event
+}}{{Mapping
+|Target=main_life_goal
+|Source=journey_destination
+}}{{Mapping
+|Target=short_term_life_goals
+|Source=journey_stops
+}}{{Mapping
+|Target=course_of_life
+|Source=path_traced_by_sequence_of_motion
+}}{{Mapping
+|Target=life_stages
+|Source=locations_along_journey
+}}{{Mapping
+|Target=life_difficulties
+|Source=journey_difficulties
+}}{{Mapping
+|Target=lifestyle
+|Source=manner_of_journey
+}}{{Mapping
+|Target=life_companion
+|Source=journey_companion
+}}{{Mapping
+|Target=relationships_in_life
+|Source=vehicles_in_journey
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=ROMANTIC RELATIONSHIP IS A JOURNEY
+|Related metaphor.Description=activated
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=VIRTUAL MOTION IS ACTUAL MOTION
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=LIFE IS A SEQUENCE OF MOTIONS
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COURSE OF A LIFE IS THE PATH TRACED BY A SEQUENCE OF MOTIONS
+|Related metaphor.Description=The course of life is created by fictive motion metaphor; the course of life is an ontological metaphor – there is an entity created
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=RELATIONSHIP IS A BOUNDED REGION IN SPACE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=A purposeful life.
+|Entailment.Source inference=Sequence of motions towards a destination in a journey.
+|Entailment.Entailed metaphors=PURPOSE IN LIFE IS DESTINATION IN A JOURNEY
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She hasn't gone as far in life as her parents had hoped.
+|Example.Provenance=Grady 1998:113
+}}{{Example
+|Example.Language=English
+|Example.Text=His life has taken a good course.
+|Example.Provenance=Grady 1998:113
+}}{{Example
+|Example.Language=English
+|Example.Text=I go where my path leads me.
+|Example.Provenance=Grady 1998:113
+}}{{Example
+|Example.Language=English
+|Example.Text=I go where my path leads me.
+|Example.Provenance=Grady 1998:113
+}}{{Example
+|Example.Language=English
+|Example.Text=As I've traveled through life, I've made a lot of friends along the way.
+|Example.Provenance=Grady 1998:113
+}}{{Example
+|Example.Language=English
+|Example.Text=He has changed his direction in life, and taken a more spiritual path.
+|Example.Provenance=Grady 1998:114
+}}
+|Entered by=Oana
+|Status=in development, proposed
+|LinkPersian=زندگی سفر است
+|Relevant LUs=
+}}

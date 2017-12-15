@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Family=Wealth metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Resource
+|Target frame=Wealth
+|Mappings={{Mapping
+|Target=wealthy_entity
+|Source=resource_user
+}}{{Mapping
+|Target=wealth
+|Source=resource
+}}{{Mapping
+|Target=degree_of_wealth
+|Source=amount_of_resource
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Oana, 
+|Status=in development
+|Investigated for=English
+}}

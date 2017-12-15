@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LOW STATUS IS DOWN
+}}
+|Tags=orientational,
+|Family=Scalar Metaphors, Orientational Metaphors, 
+|Source frame=Verticality
+|Target frame=Status
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=STATUS IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is low on the totem pole.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

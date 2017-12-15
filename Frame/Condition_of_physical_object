@@ -1,0 +1,108 @@
+{{Frame
+|Description=property or state of physical object
+|Family=Scale Frames,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=physical_object
+}}{{Role
+|Role.Name=state_of_object
+|Role.Type=property
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Complex physical object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}{{Related frame
+|Related frame.Name=Physical attributes
+}}
+|Bindings={{Binding
+|Binding.Local role=physical_object
+|Binding.Bound role=Complex physical object
+}}{{Binding
+|Binding.Local role=state_of_object
+|Binding.Bound role=Scale.position_on_scale
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=deteriorated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=derelict.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ramshackle.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dilapidated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=staunch.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weathered.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rickety.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumbly.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumbledown.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoddy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gimcrack.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jerry-rigged.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jerrybuilt.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=haggard.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=run-down.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decrepit.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dingy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worn-out.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worn out.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumble-down.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fallen-in.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shabby.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumbling
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deformed.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=misshapen.a
+}}
+|LinkSpanish=Condición del objeto físico
+|Applicability=English
+}}

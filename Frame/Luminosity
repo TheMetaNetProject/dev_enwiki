@@ -1,0 +1,23 @@
+{{Frame
+|Description=Amount of light
+|FrameNet frame=Level_of_light
+|Family=Perception frames, Scale Frames, 
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=light_level
+|Role.Definition=scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=luminosity.n
+}}
+|Applicability=English
+}}

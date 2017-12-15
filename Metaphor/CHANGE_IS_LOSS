@@ -1,0 +1,51 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGE IS LOSS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=196
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGE OF STATE IS LOSS OF A POSSESSION
+}}
+|Description=The loss of possession is mapped to the offset of 'experiencing' a particular state
+|Comments=Relevant state is initial_state (i.e. is change out of a state)
+|Family=Object Event Structure Metaphor,
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Lose possession
+|Target frame=Change of state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=donor
+}}{{Mapping
+|Target=initial_state
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF POSSESSION
+|Related metaphor.Description=perspective of
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=at initial stage, experiencer experiences state
+|Entailment.Source inference=at initial stage, possessor possesses object
+|Entailment.Type=x-schema stage alignment
+}}{{Entailment
+|Entailment.Target entailment=at final stage, experiencer no longer experiences state
+|Entailment.Source inference=at final stage, possessor does not possess object
+|Entailment.Type=x-schema stage alignment
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=My headache went away.
+|Example.Provenance=PITF, p. 196
+}}{{Example
+|Example.Language=English
+|Example.Text=He lost his faith.
+|Example.Provenance=pc
+}}{{Example
+|Example.Language=English
+|Example.Text=He got rid of his headache.
+}}
+|Entered by=Ellen,
+|Status=in development
+|Relevant LUs=
+}}

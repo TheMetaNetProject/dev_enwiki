@@ -1,0 +1,43 @@
+{{Frame
+|Family=Emotion Frames, 
+|Status=in development
+|Roles={{Role
+|Role.Name=trusting_entity
+}}{{Role
+|Role.Name=trusted_entity
+}}{{Role
+|Role.Name=trust_emotion
+|Role.Definition=e.g. security
+}}{{Role
+|Role.Name=trust_reason
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Directed emotion
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust relationship
+}}
+|Bindings={{Binding
+|Binding.Local role=trusting_entity
+|Binding.Bound role=Directed emotion.experiencer
+}}{{Binding
+|Binding.Local role=trusted_entity
+|Binding.Bound role=Directed emotion.target
+}}{{Binding
+|Binding.Local role=emotion
+|Binding.Bound role=Directed emotion.emotion
+}}{{Binding
+|Binding.Local role=trusting_entity
+|Binding.Bound role=Trust relationship.trusting_entity
+}}{{Binding
+|Binding.Local role=trusted_entity
+|Binding.Bound role=Trust relationship.trusted_entity
+}}{{Binding
+|Binding.Local role=reason
+|Binding.Bound role=Directed emotion.reason
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

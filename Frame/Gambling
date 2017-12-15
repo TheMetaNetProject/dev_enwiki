@@ -1,0 +1,72 @@
+{{Frame
+|Family=Competition frames,
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Risky activity
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recreational competition
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gamble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gambling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bet.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=betting.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roulette.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ante.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=craps.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crapshoot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=high-stakes bet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=high-stakes
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poker game.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chip.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deal.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=card.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=high stakes
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jackpot.n
+}}
+|Applicability=English
+}}

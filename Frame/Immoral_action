@@ -1,0 +1,20 @@
+{{Frame
+|Family=Governance frames, Morality frames, Action frames, Harm,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=Action that causes harm or lack of well-being, that is, action that deprives someone of one or more of these: health, wealth, happiness, strength, freedom, safety, beauty, etc. (Lakoff, Moral Politics, p. 42).
+
+checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Moral_action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Acción inmoral
+|Applicability=English
+}}

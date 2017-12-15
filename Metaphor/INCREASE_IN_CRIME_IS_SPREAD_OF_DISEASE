@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Physical afflictions metaphors, 
+|Source frame=Disease
+|Target frame=Crime
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CRIME IS A DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EXTENT OF SOCIAL PROBLEMS IS EXTENT OF AFFLICTION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=As It Opens to Outsiders, Cuba Is Infected by Crime
+|Example.Provenance=http://www.nytimes.com/1999/04/04/world/as-it-opens-to-outsiders-cuba-is-infected-by-crime.html
+|Example.Comments=More lexical units connected with this metaphor than I might have thought - ES
+}}
+|Entered by=Jisup
+|Last reviewed by=Eve, Ellen, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

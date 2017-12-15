@@ -1,0 +1,59 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ROMANTIC RELATIONSHIP IS A JOURNEY
+|Metaphor.Alias.Provenance=Gibbs (1994, 2006); Gibbs & Matlock (2008)
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=LOVE IS A JOURNEY
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=LOVE IS A JOURNEY Cascade,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Journey
+|Target frame=Romantic relationship
+|Mappings={{Mapping
+|Target=relationship_participant
+|Source=journeyer
+}}{{Mapping
+|Target=relationship_co_participant
+|Source=co_journeyer
+}}{{Mapping
+|Target=relationship
+|Source=vehicle
+}}{{Mapping
+|Target=course_of_relationship
+|Source=path_of_journey
+}}{{Mapping
+|Target=difficulties_in_a_relationship
+|Source=obstacles/impediments_in_journey
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOTIONAL INTIMACY IS PHYSICAL PROXIMITY
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ACTION IS MOTION ALONG A PATH
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=LIFE IS A JOURNEY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Two people in a relationship have compatible purposes in a romantic relationship
+|Entailment.Source inference=Two people traveling together have a common destination a journey
+}}{{Entailment
+|Entailment.Target entailment=Difficulties in a romantic relationship
+|Entailment.Source inference=Obstacles to motion along a path
+|Entailment.Entailed metaphors=DIFFICULTIES IN A ROMANTIC RELATIONSHIP ARE IMPEDIMENTS TO MOTION ALONG A PATH
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Where are we in this relationship?
+}}{{Example
+|Example.Language=English
+|Example.Text=It feels like this relationship is going nowhere.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

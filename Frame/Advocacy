@@ -1,0 +1,63 @@
+{{Frame
+|Family=Unclassified,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen, 
+|Roles={{Role
+|Role.Name=advocate
+|Role.Type=person
+|Role.Definition=person or group that is advocating for issue
+}}{{Role
+|Role.Name=issue
+|Role.Definition=thing that is being advocated
+}}{{Role
+|Role.Name=actions
+|Role.Type=x-schema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=advocacy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=advocate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=promote.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=promoter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=promotion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=proponent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=proponence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lobby.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lobbyist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exponent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=patron.n
+}}
+|Applicability=English
+}}

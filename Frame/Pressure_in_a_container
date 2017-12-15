@@ -1,0 +1,20 @@
+{{Frame
+|Type=Cog, Composed
+|Applicability=English
+|Status=in development
+|Entered by=Oana, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Containment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Fluid containment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Pressure
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

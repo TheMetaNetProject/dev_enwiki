@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases=
+|Comments=Various enities may be conceptualized as followers, e.g the governed citizens, the business community, other governments.
+|Family=Governance metaphors,
+|Source frame=Leadership
+|Target frame=Government
+|Mappings={{Mapping
+|Target=governor
+|Source=leader
+}}{{Mapping
+|Target=governing_actions
+|Source=leader_motion_x-schema
+}}{{Mapping
+|Target=govenor_objectives
+|Source=leader_goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GUIDED ACTION IS GUIDED MOTION ALONG A PATH
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments={{Entailment}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text="In my view, the federal government should lead the way.  The bill we’ve introduced requires the federal government to increase its use of renewable electricity and reduce its overall energy consumption in federal buildings, both new and old.  We can’t expect consumers to embrace energy efficient technology if their government does not do the same."
+|Example.Provenance=Comments by U.S. Senator Pete Domenici, made April 23, 2007.  http://www.energy.senate.gov/public/index.cfm/republican-news?ID=b83395fc-6e11-4b32-8f05-be3dad9e2ff1  aCcessed 12/5/12
+}}{{Example
+|Example.Language=English
+|Example.Text=Parents are so uneducated about health that they will follow the government down any misguided path.
+|Example.Provenance=blog by Natalia Rose.  9/25/09 entry. http://www.detoxtheworld.com/blog-detail.php?ID=91  Accessed 12/512
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

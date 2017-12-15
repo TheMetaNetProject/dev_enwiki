@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POLITICAL REGION IS A VEHICLE
+}}
+|Comments=Captures commonality of fate and is independent of GOVERNMENT IS A DRIVER because this metaphor does not require there to be a driver.
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Vehicle
+|Target frame=Political region
+|Mappings={{Mapping
+|Target=governing_institution
+|Source=vehicle
+}}{{Mapping
+|Target=population
+|Source=passengers
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GOVERNMENT IS A DRIVER
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUTION IS A VEHICLE
+}}
+|Entailments={{Entailment}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=They are rocking the ship of state.
+}}{{Example
+|Example.Language=English
+|Example.Text=Dirt threatens to sink ship of state
+|Example.Provenance=headline
+}}
+|Entered by=Ellen, Jisup
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ПОЛИТИЧЕСКИЙ РЕГИОН - ЭТО ТРАНСПОРТНОЕ СРЕДСТВО
+}}

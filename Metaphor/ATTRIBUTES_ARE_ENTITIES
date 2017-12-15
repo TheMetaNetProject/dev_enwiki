@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ATTRIBUTES ARE ENTITIES
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Object Event Structure Metaphor, Ontological Metaphors, Primary Metaphors, 
+|Metaphor Type=Primary
+|Cultural scope=American English, Persian
+|Source frame=Entity
+|Target frame=Attribute
+|Mappings={{Mapping
+|Target=attribute
+|Source=entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=ATTRIBUTES ARE POSSESSIONS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=If you soak it in water, the wood will lose its rigidity.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=ویژگی ها، موجود هستند
+|Relevant LUs=
+}}

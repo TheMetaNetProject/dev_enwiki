@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=COMMUNICATING IS DRAWING A PICTURE
+}}
+|Tags=Generic is specific.
+|Family=Conduit Metaphor,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Draw_a_picture
+|Target frame=Communication
+|Mappings={{Mapping
+|Target=Communicator
+|Source=Drawer
+}}{{Mapping
+|Target=Addressee
+|Source=Audience
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=COMMUNICATING IS SHOWING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Text=Do I have to draw a picture for you?
+|Example.Language=English
+}}{{Example
+|Example.Text=He painted an idyllic picture of their life together.
+|Example.Language=English
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

@@ -1,0 +1,24 @@
+{{Frame
+|Family=Possession Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=own.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ownership.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=owner.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,43 @@
+{{Frame
+|Description=processes related to changes in external and internal conditions of physical objects
+|Family=Object Event Structure frames, Change-related frames, Entity frames, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=physical object
+|Role.Type=entity
+}}{{Role
+|Role.Name=x-schema
+|Role.Type=transition
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Condition of physical object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Complex physical object
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Change of state
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=deteriorate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decay.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collapse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disintegrate.v
+}}
+|Applicability=English
+}}

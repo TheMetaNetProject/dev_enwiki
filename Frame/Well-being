@@ -1,0 +1,37 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=state_of_well-being
+}}{{Role
+|Role.Name=entity_posessing_well-being
+}}{{Role
+|Role.Name=degree_of_well-being
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Goodness
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Health
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Wealth
+}}{{Related frame
+|Related frame.Name=Happiness
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cleanliness
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Beauty
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Upright posture
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

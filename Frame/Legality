@@ -1,0 +1,59 @@
+{{Frame
+|FrameNet frame=Legality
+|Family=The Law frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=legal_code
+|Role.Definition=legal code
+}}{{Role
+|Role.Name=action
+}}{{Role
+|Role.Name=legality_of_action
+|Role.Type=scale?
+|Role.Definition=illegal or legal
+}}{{Role
+|Role.Name=actor
+|Role.Definition=person that is performing action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=action
+|Binding.Bound role=Evaluation.behavior
+}}{{Binding
+|Binding.Local role=legality_of_action
+|Binding.Bound role=Evaluation.judgement
+}}{{Binding
+|Binding.Local role=legal_code
+|Binding.Bound role=Evaluation.standard
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=legal.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=illegal.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lawful.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=illicit.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=illegality.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legality.n
+}}
+|Applicability=English
+}}

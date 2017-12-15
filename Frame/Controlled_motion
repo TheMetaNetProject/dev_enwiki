@@ -1,0 +1,63 @@
+{{Frame
+|FrameNet frame=Cotheme
+|Comments=Central case:  A person physically controls the speed and/or direction of motion of a self-propelled mover (e.g. walking a dog on a leash). Control of vehicular motion is represented in a specific subcase of this frame (Controlled vehicular motion).
+|Family=Motion Frames, Movement frames, Affected movement frames, Moving entity frames, 
+|Type=Composed
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=motion_controller
+}}{{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=motion_x-schema
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}{{Role
+|Role.Name=control_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Control.dependent_entity
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Control.self-motion_x-schema
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Control.dependent_process
+}}{{Binding
+|Binding.Local role=motion_controller
+|Binding.Bound role=Control.controller
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Motion along a path.speed
+}}{{Binding
+|Binding.Local role=direction
+|Binding.Bound role=Motion along a path.direction
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Control.dependent_variable
+}}{{Binding
+|Binding.Local role=direction
+|Binding.Bound role=Control.dependent_variable
+}}{{Binding
+|Binding.Local role=control_x-schema
+|Binding.Bound role=Control.controlling_process
+}}
+|Inferences={{Inference
+|Inference.Description=The mover provides the energy for the motion, but the controller has at least partial control over the speed and/or direction of the mover's motion
+}}
+|Relevant LUs=
+}}

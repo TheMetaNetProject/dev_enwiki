@@ -1,0 +1,117 @@
+{{Frame
+|Program alias=ABYSS.Type
+|Family=Motion-affecting frames, Impediment and enablement frames, Motion impediments frames, 
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana, Ellen,
+|Roles={{Role
+|Role.Name=confined_entity
+}}{{Role
+|Role.Name=low_area_of_confinement
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Confinement
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Being at a Low Location
+}}
+|Bindings={{Binding
+|Binding.Local role=confined_entity
+|Binding.Bound role=Confinement.confined_entity
+}}{{Binding
+|Binding.Local role=confined_entity
+|Binding.Bound role=Being at a Low Location.located_thing
+}}{{Binding
+|Binding.Local role=low_area_of_confinement
+|Binding.Bound role=Being at a Low Location.low_landmark
+}}{{Binding
+|Binding.Local role=low_area_of_confinement
+|Binding.Bound role=Confinement.area_of_confinement
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=abyss.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cave.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=black.a hole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gaping.a maw.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chasm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hell.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crevasse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ravine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=void.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=canyon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cavity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gorge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fissure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gulch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rift.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wedge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hellhole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crater.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dig.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hell hole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hell-hole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deepen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sinkhole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sink hole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=black-hole.n
+}}
+|LinkSpanish=Confinamiento hundido
+}}

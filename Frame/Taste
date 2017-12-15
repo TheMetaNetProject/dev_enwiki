@@ -1,0 +1,72 @@
+{{Frame
+|FrameNet frame=Tasting
+|Family=Perception frames,
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=taste_faculty
+}}{{Role
+|Role.Name=taste_apparatus
+}}{{Role
+|Role.Name=tasted_thing
+}}{{Role
+|Role.Name=taste_qualia
+}}{{Role
+|Role.Name=taste_effector
+|Role.Type=part-whole
+|Role.Definition=I.e., the tongue and taste buds
+}}{{Role
+|Role.Name=tasting_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Perception
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=taste.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taste.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flavor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sour.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sweet.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bitter.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=umami.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=savory.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=salty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spicy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bitterness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sweetness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spiciness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sourness.n
+}}
+|Applicability=English
+}}

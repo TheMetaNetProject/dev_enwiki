@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Hunger
+|Target frame=Greed
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DESIRE IS HUNGER
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=INDULGING ONE'S GREED IS SATIATING ONE'S HUNGER
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He salivated with the thought of earning more money.
+}}{{Example
+|Example.Language=English
+|Example.Text=The robber baron hungered for even greater profits.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

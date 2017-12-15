@@ -1,0 +1,97 @@
+{{Frame
+|Description=Translational motion of some entity, with motion starting outside of some (bounded) area, and ending inside that area
+|Family=Motion Frames, Movement frames, Directional movement frames, Location frames, Translational motion frames, Moving entity frames,
+|Type=Frame
+|Status=in development
+|Entered by=oana
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=motion_x-schema
+}}{{Role
+|Role.Name=bounded_region
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Motion out of a location
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=bounded_region
+|Binding.Bound role=Bounded region.interior
+}}{{Binding
+|Binding.Local role=bounded_region
+|Binding.Bound role=Motion along a path.goal
+}}
+|Inferences={{Inference
+|Inference.Description=At beginning of motion, mover is not within bounded region; at end of motion mover is within bounded region
+|Inference.Type=aspectual
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=move into.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=go into.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get into.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entrance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entrance ramp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=onramp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get in.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=go in.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ingress.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infiltrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=penetrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rush in.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=set foot in.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fall into.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=on ramp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=on-ramp.n
+}}
+|Applicability=English
+}}

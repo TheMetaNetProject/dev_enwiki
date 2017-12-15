@@ -1,0 +1,21 @@
+{{Metaphor
+|Aliases=
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Caused Upward Motion
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=INCREASE IN QUANTITY IS UPWARD MOTION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION
+}}
+|Entailments=
+|Examples=
+|Entered by=Elise
+|Status=in development
+|Investigated for=English
+}}

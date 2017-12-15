@@ -1,0 +1,36 @@
+{{Frame
+|Family=Cognition Frames, Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=reasoner
+}}{{Role
+|Role.Name=premises
+}}{{Role
+|Role.Name=conclusion
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}
+|Bindings={{Binding
+|Binding.Local role=reasoner
+|Binding.Bound role=Cognizing.cognizer
+}}{{Binding
+|Binding.Local role=premises
+|Binding.Bound role=Cognizing.topic
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=reason.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conclude.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prove.v
+}}
+|Applicability=English
+}}

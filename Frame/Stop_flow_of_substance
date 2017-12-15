@@ -1,0 +1,27 @@
+{{Frame
+|Family=Impediment and enablement frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Fluid motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=congest.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clog.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=constrict.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clog.v
+}}
+|Applicability=English
+}}

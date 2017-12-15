@@ -1,0 +1,71 @@
+{{Frame
+|Comments=This is a very high level frame. It refers to things/factors/processes/entities/conditions etc. external to a mover or moving entity, that can (either positively or negatively, unspecified) affect the mover's motion (motion here being unspecified as to whether or not it's on a path or goal-directed).
+
+Children of this frame include:
+Motion-affecting objects (e.g. burdens and restraints)
+Motion-affecting actors (people acting directly on the mover)
+Motion-affecting forces (non-agentive, non-entity forces acting on the mover, e.g. winds)
+Motion-affecting properties of the landscape (e.g. smooth/rocky paths)
+
+None of these are specified for negative/positive affect or outcome.
+Go to each of the above frames for descriptions.
+
+Do not add any more LUs here; rather, add LUs in specific subcases of this general frame.
+|Family=Motion Frames, Motion-affecting frames,
+|Type=Composed
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Elise, Oana,
+|Roles={{Role
+|Role.Name=impediment
+}}{{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=affected_motion
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Causation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion impediments
+}}
+|Bindings={{Binding
+|Binding.Local role=impediment
+|Binding.Bound role=Causation.agent
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Causation.affected
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion.mover
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Causation.effect
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Motion.motion_x-schema
+}}
+|Inferences={{Inference
+|Inference.Description=The motion impediment negatively affects the mover's motion (e.g. slows or stops motion and/or increases energy needed for mover to move).
+|Inference.Type=causal
+}}{{Inference
+|Inference.Description=Causing a motion impediment to be present (indirectly) causes a negative effect on mover's motion.
+|Inference.Type=causal
+}}{{Inference
+|Inference.Description=Removing a motion impediment removes the negative effect on mover's motion.
+|Inference.Type=causal
+}}{{Inference
+|Inference.Description=The presence of an impediment may prevent mover from reaching goal.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=obstacle.n
+}}
+|LinkSpanish=Obstáculo físico
+|Applicability=English
+}}

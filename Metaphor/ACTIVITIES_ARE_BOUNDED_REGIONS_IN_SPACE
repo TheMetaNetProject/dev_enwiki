@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTIVITIES ARE CONTAINERS
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Event Structure Metaphor, Primary Metaphors, 
+|Metaphor Type=Primary
+|Experiential basis=Commonly particular activities occur in particular bounded regions of space
+|Cultural scope=American English, Persian
+|Source frame=Bounded region
+|Target frame=Activity
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=How did Jerry get out of washing the windows?
+}}{{Example
+|Example.Language=English
+|Example.Text=Outside of washing the windows, what else did you do?
+}}{{Example
+|Example.Language=English
+|Example.Text=I put a lot of energy into washing the windows.
+}}{{Example
+|Example.Language=English
+|Example.Text=I get a lot of satisfaction out of washing windows.
+}}
+|Entered by=Oana
+|Status=in development
+|LinkPersian=فعالیت، منطقه محدود است
+|Investigated for=English
+|Relevant LUs=
+}}

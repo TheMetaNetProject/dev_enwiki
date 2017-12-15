@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Corporation
+|Target frame=Government
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A BUSINESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=One of the worst-run businesses in the United States is also the largest business in the nation. The federal government is in financial disarray. It spends more than it makes and its investments are not based on sound financial principles.
+
+The question often asked is should the U.S. government be run like a business? Should it abide by the same rules that all businesses in the United States must follow?
+|Example.Provenance=http://money.usnews.com/money/blogs/the-smarter-mutual-fund-investor/2011/09/14/5-reasons-the-government-should-be-run-like-a-business
+}}
+|Investigated for=English
+}}

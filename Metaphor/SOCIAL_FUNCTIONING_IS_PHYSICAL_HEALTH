@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Social Metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Society
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=SOCIETY IS A PERSON
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=social problems lead to loss of function
+|Entailment.Source inference=poor physical health leads to loss of function
+|Entailment.Entailed metaphors=SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS
+}}
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Ellen, Elise
+|Status=in development
+|Investigated for=English
+}}

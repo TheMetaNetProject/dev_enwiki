@@ -1,0 +1,47 @@
+{{Frame
+|Description=An action an actor performs with the intent of achieving some objective
+|FrameNet frame=Accomplishment
+|Family=Action frames,
+|Type=Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Roles={{Role
+|Role.Name=actor
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=action_x-schema
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=objective
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=action_type
+|Role.Definition=aka, means
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Action
+|Related frame.Description=subcase, adds objective role
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Desiring
+}}
+|Bindings={{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Desiring.desired_situation
+}}{{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Desiring.experiencer
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Action.action_x-schema.finish_conditions
+}}{{Binding
+|Binding.Local role=action_type
+|Binding.Bound role=Action.action_x-schema.ontological_type
+}}
+|Inferences={{Inference
+|Inference.Description=Actor initiates action in order to bring about desired situation.  Actor continues action until desired situation has been accomplished, at which point actor terminates action.
+}}
+|Relevant LUs=
+|LinkSpanish=Acción propositiva
+}}

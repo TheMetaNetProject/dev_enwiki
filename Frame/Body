@@ -1,0 +1,107 @@
+{{Frame
+|FrameNet frame=Observable_body_part
+|Family=Entity frames, Body frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=body_whole
+}}{{Role
+|Role.Name=body_parts
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Animate entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}
+|Bindings={{Binding
+|Binding.Local role=body_whole
+|Binding.Bound role=Animate entity.body
+}}{{Binding
+|Binding.Local role=body_whole
+|Binding.Bound role=Part whole.whole
+}}{{Binding
+|Binding.Local role=body_parts
+|Binding.Bound role=Animate entity.specialized_parts
+}}{{Binding
+|Binding.Local role=body_parts
+|Binding.Bound role=Part whole.parts
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=body.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leg.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=belly.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=back.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hand.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=face.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ear.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mouth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=neck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eye.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cheek.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bosom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=head.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=finger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heart.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gut.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bowel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nerve.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tooth.n
+}}
+|LinkSpanish=Cuerpo
+|Applicability=English
+}}

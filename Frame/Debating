@@ -1,0 +1,24 @@
+{{Frame
+|Family=Communication Frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Argument
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Communication
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Discussing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Debatir
+|Applicability=English
+}}

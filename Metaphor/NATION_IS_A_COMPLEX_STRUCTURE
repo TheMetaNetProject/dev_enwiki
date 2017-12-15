@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS A COMPLEX PHYSICAL OBJECT
+}}
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Complex physical object
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=object_whole
+}}{{Mapping
+|Target=nation_traits
+|Source=object_parts
+}}{{Mapping
+|Target=nation_geographic_area
+|Source=object_location
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Putting together a nation
+|Entailment.Source inference=Putting together an object
+}}{{Entailment
+|Entailment.Target entailment=Taking apart a nation
+|Entailment.Source inference=Taking apart an object
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text="Are They Parts of Our Nation? Tanzanian and Zambian University Students’ Attitude to the European and South Asian Minorities Compared"
+|Example.Provenance=Paper at Amer. Anthro. Assoc 2011
+}}{{Example
+|Example.Language=English
+|Example.Text=No one built this country on their own. This nation is great because we built it together.
+|Example.Provenance=http://barackobama.tumblr.com/post/16453268087/no-one-built-this-country-on-their-own-this
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkSpanish=NACIÓN  ES  UNA  ESTRUCTURA  FÍSICA  COMPLEJA
+|Investigated for=English
+|Relevant LUs=
+}}

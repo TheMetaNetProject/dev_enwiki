@@ -1,0 +1,70 @@
+{{Frame
+|FrameNet frame=Kinship
+|Other aliases=Nuclear family, Elementary family
+|Comments=A family group consisting of two parents and their children
+|Family=Social frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=parent(s)
+}}{{Role
+|Role.Name=children
+}}{{Role
+|Role.Name=mother
+|Role.Definition=is a parent
+}}{{Role
+|Role.Name=father
+|Role.Definition=is a parent
+}}{{Role
+|Role.Name=family_whole
+}}{{Role
+|Role.Name=parenting_style
+}}{{Role
+|Role.Name=traits_in_children
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Family
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+|Related frame.Description=parents have authority over children
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Responsibility
+|Related frame.Description=parents have responsibilities
+}}
+|Bindings={{Binding
+|Binding.Local role=parents
+|Binding.Bound role=Family.family_members
+}}{{Binding
+|Binding.Local role=children
+|Binding.Bound role=Family.family_members
+}}{{Binding
+|Binding.Local role=mother
+|Binding.Bound role=Family.family_members
+}}{{Binding
+|Binding.Local role=father
+|Binding.Bound role=Family.family_members
+}}{{Binding
+|Binding.Local role=parents
+|Binding.Bound role=Authority.authority_entity
+}}{{Binding
+|Binding.Local role=children
+|Binding.Bound role=Authority.governed
+}}{{Binding
+|Binding.Local role=parents
+|Binding.Bound role=Responsibility.responsible_party
+}}{{Binding
+|Binding.Local role=family_whole
+|Binding.Bound role=Family.family_whole
+}}
+|Inferences={{Inference
+|Inference.Description=Parents have (some degree of) control over children's actions
+}}{{Inference
+|Inference.Description=Parents are responsible for taking care of children (feeding, housing, protecting from harm, etc.)
+}}
+|Relevant LUs=
+|Applicability=English
+}}

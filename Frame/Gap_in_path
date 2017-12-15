@@ -1,0 +1,47 @@
+{{Frame
+|Description=A gap or geographic void that impedes or prevents motion along that path
+|Comments=This frame is used as source in Economic Inequality metaphors such as those about the gap between the rich and the poor
+|Family=Motion Frames, Motion-affecting frames, Motion impediments frames,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barrier
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Geographic void
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The size of the gap is related to how difficult it is to cross it (e.g. the wider and/or deeper the gap, the more difficult it is to cross it).
+}}{{Inference
+|Inference.Description=A bridge across the gap provides a means to cross the gap.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=crack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cleft.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=schism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fissure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gulf.n
+}}
+|LinkSpanish=Brecha en el camino
+|Applicability=English
+}}

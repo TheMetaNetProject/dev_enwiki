@@ -1,0 +1,144 @@
+{{Frame
+|FrameNet frame=Medical_conditions
+|Comments=Why does Disease make use of Containing?? Why all the bindings to the roles of Containing?? Isn't the conceptualization of a disease as 'contained' in the body metaphoric? (Oana)
+|Family=Harm, Aversion frames, Harm to living entity, Disease frame family
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen, Elise,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=disease
+|Role.FrameNet role=Ailment
+}}{{Role
+|Role.Name=patient
+|Role.Definition=person or population afflicted by disease
+|Role.FrameNet role=Patient
+}}{{Role
+|Role.Name=symptom
+|Role.Definition=effect disease has on patient
+|Role.FrameNet role=Symptom
+}}{{Role
+|Role.Name=body_part
+|Role.Definition=part of the body that is affected
+|Role.FrameNet role=Body-Part
+}}{{Role
+|Role.Name=infection_process
+|Role.Definition=invasion and spread of disease
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containing
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical affliction
+}}
+|Bindings={{Binding
+|Binding.Local role=body_part
+|Binding.Bound role=Containing.container
+}}{{Binding
+|Binding.Local role=disease
+|Binding.Bound role=Containing.contents
+}}{{Binding
+|Binding.Local role=disease
+|Binding.Bound role=Harm to living entity.agent
+}}{{Binding
+|Binding.Local role=patient
+|Binding.Bound role=Harm to living entity.victim
+}}
+|Inferences={{Inference
+|Inference.Description=For infectious diseases, initially the disease is not in the patient.  
+At start, disease enters the patient.
+During ongoing, the extent of the disease within patient may increase or decrease (spread or shrink).
+}}{{Inference
+|Inference.Description=The effect the disease has on the patient is related to the extent of the disease/infection (e.g. the larger the extent of the disease, the worse the condition of the patient).
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cancer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disease.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sickness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gangrene.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=virus.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=illness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ill.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sick.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immune.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immunity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immune to
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immunity to
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immunity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=symptom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infectious.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blighted.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scourge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leprosy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infected.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cancerous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=carcinoma.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fever.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=virulent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pathology.n
+}}
+|LinkSpanish=Enfermedad
+|Applicability=English
+}}

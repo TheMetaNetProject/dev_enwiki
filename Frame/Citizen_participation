@@ -1,0 +1,24 @@
+{{Frame
+|Other aliases=civic engagement, civic involvement
+|Comments=Democracies require the involvement of citizens in the decision-making and in the information flow within their community and the society at large. They do so via civic institutions, both local and national. Participation occurs in the context of institutions, in political parties, campaigns, and issues-based organizations (e.g., NGOs, petitions, focus groups, issues-based service organizations). There are also volunteer-based institutions (e.g., stonemasons). Individual participation can also make use of the internet (e.g. blogging, social networking, forums).
+|Family=Democracy frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Participation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=civic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=citizenship.n
+}}
+|LinkPersian=مشارکت مردم
+|Applicability=English
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Roles={{Role
+|Role.Name=process1
+|Role.Type=Process
+}}{{Role
+|Role.Name=protagonist1
+}}{{Role
+|Role.Name=process2
+|Role.Type=Process
+}}{{Role
+|Role.Name=protagonist2
+}}{{Role
+|Role.Name=complex_x-schema
+|Role.Definition=process1, process2, and the relation between them
+}}{{Role
+|Role.Name=process_relation
+|Role.Definition=the relation between process1 and process2
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=protagonist1
+|Binding.Bound role=Complex_process.process1.protagonist
+}}{{Binding
+|Binding.Local role=protagonist2
+|Binding.Bound role=Complex_process.process2.protagonist
+}}
+|Inferences=
+|Relevant LUs=
+}}

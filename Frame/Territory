@@ -1,0 +1,24 @@
+{{Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=territory_whole
+|Role.Definition=region of land
+}}{{Role
+|Role.Name=boundary
+}}{{Role
+|Role.Name=owner
+|Role.Definition=person or group who owns or controls territory
+}}{{Role
+|Role.Name=spatial_extent
+|Role.Definition=size/spatial extent of territory
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bounded region
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

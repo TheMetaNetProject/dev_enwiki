@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Investigated for=English
+|Source frame=Food
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=IDEAS ARE FOOD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She's the kind of person you always need to sugar-coat it for to get her to do anything.
+}}
+|Relevant LUs=
+|Entered by=Oana, 
+|Status=in development
+}}

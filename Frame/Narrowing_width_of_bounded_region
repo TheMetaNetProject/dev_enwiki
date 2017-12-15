@@ -1,0 +1,27 @@
+{{Frame
+|Comments=needs further work -- add roles and more LUs if we keep this frame
+|Family=Impediment and enablement frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Last reviewed by=Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bounded region
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrowing.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.v the scope
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.v the width
+}}
+}}

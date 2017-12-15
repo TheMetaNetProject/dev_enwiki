@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FORCES ARE OBJECTS
+}}
+|Comments=this is not really an object event structure metaphor, but will temporarily class it as such
+|Family=Object Event Structure Metaphor, Ontological Metaphors, 
+|Source frame=Object
+|Target frame=Force
+|Mappings={{Mapping
+|Target=force
+|Source=object_entity
+}}{{Mapping
+|Target=force_amount
+|Source=size
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=more force
+|Entailment.Source inference=bigger object
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=A large force is needed to move a heavy object.
+}}
+|Entered by=Ellen
+|Status=in development
+}}

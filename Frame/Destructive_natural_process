@@ -1,0 +1,48 @@
+{{Frame
+|Description=Some entity undergoes a destructive natural process
+|Comments=Some inanimate entity experiences the effects of a destructive natural process
+|Family=Harm, Damage, 
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Last reviewed by=Elise, Oana
+|Roles={{Role
+|Role.Name=destructive_process
+|Role.FrameNet role=x-schema: slow, progressive, ongoing
+}}{{Role
+|Role.Name=destroyed_entity
+}}{{Role
+|Role.Name=destructive_effect
+}}{{Role
+|Role.Name=consequence_of_destruction
+}}{{Role
+|Role.Name=cause_of_destruction
+|Role.Definition=entity or process that brings about the destructive process.
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Natural process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Destructive force
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Destroying
+}}
+|Bindings={{Binding
+|Binding.Local role=destructive_process
+|Binding.Bound role=Natural process.natural_process
+}}{{Binding
+|Binding.Local role=destructive_process
+|Binding.Bound role=Destroying.cause
+}}{{Binding
+|Binding.Local role=destroyed_entity
+|Binding.Bound role=Destroying.harmed
+}}{{Binding
+|Binding.Local role=destructive_effect
+|Binding.Bound role=Destroying.harmful_effect
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

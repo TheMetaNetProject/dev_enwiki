@@ -1,0 +1,55 @@
+{{Metaphor
+|Aliases=
+|Comments=The target domain for this specific metaphor seems to be about the ability to learn (i.e. 'coming to know'), rather than the state of knowing something.  
+
+Cultural scope checked for Persian--Aria
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Cultural scope=American English, Persian
+|Source frame=Seeing scenario
+|Target frame=Knowing
+|Mappings={{Mapping
+|Target=knower
+|Source=seer
+}}{{Mapping
+|Target=knowledge
+|Source=object_seen
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=KNOWING IS SEEING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Knower's personal ability to know things affects how well he can learn about something
+|Entailment.Source inference=the quality of the Seer's vision affects how well he can see an object
+|Entailment.Type=precondition
+}}{{Entailment
+|Entailment.Target entailment=the ease with which the Knower can access knowledge affects how easily he can learn something
+|Entailment.Source inference=lighting conditions affect how well the See-er can see an ob
+|Entailment.Type=precondition
+}}{{Entailment
+|Entailment.Target entailment=the ease with which the Knower can access knowledge affects how easily he can learn something
+|Entailment.Source inference=the presence/absence of obstructions affects how well the See-er can see an object
+|Entailment.Type=precondition
+}}{{Entailment
+|Entailment.Target entailment=change in ability to know
+|Entailment.Source inference=change in ability to see
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The US is blind to the limits of Palestinian politics.
+|Example.Comments=See-er's vision is impaired
+}}{{Example
+|Example.Language=English
+|Example.Text=The issue was exposed to the light of day.
+}}{{Example
+|Example.Language=English
+|Example.Text=The government covered up the high levels of radiation.
+}}
+|Entered by=Ellen,
+|Last reviewed by=Oana
+|Status=in development
+|LinkSpanish=PODER COMPRENDER ES PODER VER
+|LinkPersian=توانایی دانستن، توانایی دیدن است
+|Investigated for=English
+}}

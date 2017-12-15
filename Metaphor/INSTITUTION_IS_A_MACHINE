@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Institution
+|Mappings={{Mapping
+|Target=institution_whole
+|Source=machine_entity
+}}{{Mapping
+|Target=mission
+|Source=purpose
+}}{{Mapping
+|Target=functional_status
+|Source=functional_status
+}}{{Mapping
+|Target=functions
+|Source=operating_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=INSTITUTION IS A COMPLEX PHYSICAL OBJECT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=More especially, the analogy mentioned between institutions and machines must not be interpreted as proposing the theory that institutions are machines—in some essentialist sense.
+|Example.Provenance=google books
+|Example.Annotation=Karl Popper, The Open Society and Its Enemies
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen, Eve (example)
+|Status=in development
+|Investigated for=English
+}}

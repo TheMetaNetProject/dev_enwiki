@@ -1,0 +1,22 @@
+{{Frame
+|Description=The fit of one object against/next to another object.
+|Comments=Defined as the fit of one object to another.
+Meant for certain gun debate CMs, but generally useful.
+|Family=Scale Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=fit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fit.v
+}}
+|LinkSpanish=Caber
+|Applicability=English
+}}

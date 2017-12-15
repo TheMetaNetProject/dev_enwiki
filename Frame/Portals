@@ -1,0 +1,46 @@
+{{Frame
+|Comments=is this Portal or Make Use of Portal or Open Portal?
+|Family=Impediment and enablement frames, Motion-affecting frames, Motion impediments frames, 
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Barrier
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containment
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=threshold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=doorway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=door.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gateway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=portal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entryway.n
+}}
+|LinkSpanish=Portales
+}}

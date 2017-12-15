@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Source frame=Transfer scenario
+|Target frame=Control
+|Mappings={{Mapping
+|Target=ability_to_control
+|Source=transferred_possession
+}}{{Mapping
+|Target=controlling_entity
+|Source=donor
+|Comment=at initial stage
+}}{{Mapping
+|Target=controlling_entity
+|Source=recipient
+|Comment=at final stage
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=CONTROL IS A POSSESSION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=willingness to transfer control
+|Entailment.Source inference=willingness to change possession
+}}
+|Examples={{Example
+|Example.Text=The US handed over control of the prisoners to Afghan authorities.
+}}{{Example
+|Example.Text=The Democrats wrested control of four governerships from the Republicans
+|Example.Comments=in some cases, the loss of possession is not voluntary
+}}{{Example
+|Example.Text=The government acquired control of the company's assets.
+}}
+|Entered by=Ellen,
+|Status=in development
+}}

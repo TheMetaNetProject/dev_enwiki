@@ -1,0 +1,58 @@
+{{Frame
+|FrameNet frame=Law
+|Other aliases=Law System
+|Family=The Law frames, Governance frames,
+|Type=Frame
+|Entered by=Eve, Ellen, Oana
+|Last reviewed by=Eve
+|Roles={{Role
+|Role.Name=law
+|Role.Definition=rule that guides activity
+|Role.FrameNet role=law
+}}{{Role
+|Role.Name=jurisdiction
+|Role.Definition=sociopolitical domain where the rule holds
+|Role.FrameNet role=jurisdiction
+}}{{Role
+|Role.Name=law_creator
+|Role.Definition=person who originates the law
+|Role.FrameNet role=creator
+}}{{Role
+|Role.Name=law_governees
+|Role.Definition=people whose actions are governed by the law
+}}{{Role
+|Role.Name=legal_actions
+|Role.Type=Actions
+|Role.Definition=actions which are allowed by the law
+|Role.FrameNet role=(related to Required Actions)
+}}{{Role
+|Role.Name=illegal_actions
+|Role.Type=Actions
+|Role.Definition=actions which are prohibited by the law)
+|Role.FrameNet role=(related to
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legality
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}
+|Bindings={{Binding
+|Binding.Local role=law
+|Binding.Bound role=Legality.legal_code
+}}{{Binding
+|Binding.Local role=law_governees
+|Binding.Bound role=Legality.actor
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=law.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=statute.n
+}}
+|LinkPersian=قانون
+|Applicability=English
+}}

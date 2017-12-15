@@ -1,0 +1,36 @@
+{{Frame
+|FrameNet frame=Reciprocality, Reciprocality_focus
+|Comments=Provenance: PITF, p. 293.
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=reciprocity_initiator
+}}{{Role
+|Role.Name=reciprocity_recipient
+}}{{Role
+|Role.Name=favor
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Reciprocal_motion
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=A owes B (is in debt to B) if B does something good for A.
+|Inference.Type=normative-Western society
+}}{{Inference
+|Inference.Description=After B does something good for A, and A is in debt with B, A has the opportunity to / is expected to repay the debt to B.
+|Inference.Type=normative-Western society
+}}{{Inference
+|Inference.Description=Once A repays B, A and B are even.
+|Inference.Type=normative-Western society
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=reciprocate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repay.v
+}}
+|Applicability=English
+}}

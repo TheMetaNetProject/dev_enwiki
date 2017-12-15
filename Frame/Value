@@ -1,0 +1,18 @@
+{{Frame
+|Family=Economic Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=MetaNet group, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=value
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worth
+}}
+|Applicability=English
+}}

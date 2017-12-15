@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BELIEFS ARE POSSESSIONS
+|Metaphor.Alias.Provenance=Master Metaphor List (Lakoff, Espenson & Schwartz 1991)
+|Metaphor.Alias.Page no=102
+}}
+|Family=Possession metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Possession
+|Target frame=Belief
+|Mappings={{Mapping
+|Target=belief
+|Source=possession
+}}{{Mapping
+|Target=believer
+|Source=possessor
+}}{{Mapping
+|Target=belief_relation_status
+|Source=possess_relation_status
+}}{{Mapping
+|Target=belief_relation
+|Source=possession_relation
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=IDEAS ARE OBJECTS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=IDEAS ARE POSSESSIONS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Hold on to your beliefs and never let them go.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

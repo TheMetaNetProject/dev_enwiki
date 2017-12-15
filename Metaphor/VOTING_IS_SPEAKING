@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Family=Election metaphors, 
+|Source frame=Speaking
+|Target frame=Voting
+|Mappings={{Mapping
+|Target=voter
+|Source=speaker
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=not being able to vote
+|Entailment.Source inference=not being able to speak
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The voters of Dillon have clearly spoken.
+|Example.Provenance=http://www.dillontribune.com/node/18300
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

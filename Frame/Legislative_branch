@@ -1,0 +1,55 @@
+{{Frame
+|Comments=Many kinds of government, though not all, have legislative branches, which do Legislative-action, a subclass of government action.
+|Family=Governance frames, Government frames, Legislation frames,
+|Type=Frame
+|Status=in development
+|Entered by=Eve
+|Roles={{Role
+|Role.Name=legislature
+|Role.Definition=body of people making laws
+}}{{Role
+|Role.Name=legislative_actor
+|Role.Definition=individual law-maker
+}}{{Role
+|Role.Name=legislative_action
+|Role.Type=x-schema
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legislative action
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Government institution
+|Related frame.Description=it is a SUBPART of some govt institutions
+}}
+|Bindings={{Binding
+|Binding.Local role=legislative_actor
+|Binding.Bound role=Legislative action.legislative_actor
+}}{{Binding
+|Binding.Local role=legislative_action
+|Binding.Bound role=Legislative action.legislative_action
+}}{{Binding
+|Binding.Local role=legislative_actor
+|Binding.Bound role=Government institution.position_holders
+}}{{Binding
+|Binding.Local role=legislature
+|Binding.Bound role=Government institution.subgroup
+}}{{Binding
+|Binding.Local role=legislative_action
+|Binding.Bound role=Government insitution.functions
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislature.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Congress.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Senate.n
+}}
+|LinkPersian=قوه مقننه
+|Applicability=English
+}}
+WE need a VOTING frame, and we need to link that with both election to office and voting for legislation.

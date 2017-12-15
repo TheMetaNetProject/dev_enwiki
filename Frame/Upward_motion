@@ -1,0 +1,148 @@
+{{Frame
+|Program alias=Movement Upward
+|Family=Motion Frames, Movement frames, Directional movement frames, Translational motion frames, Moving entity frames,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, release candidate
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=mover
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Verticality
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Downward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=rise.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ascend.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climb.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heighten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upsurge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ascent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rise.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climb.v the ladder
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v oneself up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=move.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upward mobility
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upwardly mobile
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ascension.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scale.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scaling.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ascendance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climb.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v self out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v self up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rise.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jump.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lift.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climbing.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climbing.v ladder
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skyrocket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sky rocket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sky-rocket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soar.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mount.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rising.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rocket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skyrocket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jump.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upsurge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=go.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upswing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upswell.n
+}}
+|LinkSpanish=Movimiento hacia arriba
+|Applicability=English
+}}

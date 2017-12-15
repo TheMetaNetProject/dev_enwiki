@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMOTIONS ARE SUBSTANCES
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Emotion Metaphors
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Substance
+|Target frame=Emotion
+|Mappings={{Mapping
+|Target=emotions
+|Source=substances
+}}{{Mapping
+|Target=body
+|Source=container_for_substances
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's filled with jealousy.
+}}{{Example
+|Example.Text=She's overflowing with love.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

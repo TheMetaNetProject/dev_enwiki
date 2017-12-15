@@ -1,0 +1,33 @@
+{{Frame
+|Family=Object frames, 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles={{Role
+|Role.Name=supporting entity
+}}{{Role
+|Role.Name=supported entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Weight
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contact
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=support.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=support.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=supportive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=supporting.a
+}}
+}}

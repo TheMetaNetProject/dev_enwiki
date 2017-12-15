@@ -1,0 +1,70 @@
+{{Frame
+|Family=Image Schemas,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Proximal
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Proximity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=far
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=far from
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=distant
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=distance
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=a long way from
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=far-off
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=far-removed
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=remote
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=far away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=faraway
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outlying
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outlier
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=removed
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=out of reach
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=out of grasp
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unreachable
+}}
+|LinkSpanish=Lejano
+|Applicability=English
+}}

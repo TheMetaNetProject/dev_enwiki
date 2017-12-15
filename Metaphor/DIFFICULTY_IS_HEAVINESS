@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DIFFICULTY IS HEAVINESS
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Weight
+|Target frame=Difficulties in action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=DIFFICULTY IS HARDNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I have a heavy workload this year.
+|Example.Provenance=Grady 1998
+}}{{Example
+|Example.Language=English
+|Example.Text=This situation is hard to bear.
+|Example.Provenance=Grady 1998
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

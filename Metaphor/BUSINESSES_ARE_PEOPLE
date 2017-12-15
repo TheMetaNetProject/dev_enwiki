@@ -1,0 +1,21 @@
+{{Metaphor
+|Aliases=
+|Family=Ontological Metaphors, 
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Business
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=BUSINESSES ARE LIVING ENTITIES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do businesses have a right to meddle in their workers' health and fitness habits?
+|Example.Provenance=http://www.debate.org/opinions/do-businesses-have-a-right-to-meddle-in-their-workers-health-and-fitness-habits
+}}
+|Entered by=X,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Legislation metaphors, 
+|Metaphor Level=Specific
+|Source frame=Create object
+|Target frame=Legislative action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=LAWS ARE OBJECTS
+|Related metaphor.Description=rather: "incorporates as a mapping"
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Congress is producing little this election year that will become law, yet both parties are churning out bills designed to make the other side look bad.
+|Example.Provenance=http://www.foxnews.com/us/2012/05/14/dems-gop-using-popular-bills-to-hurt-other-party/#ixzz2McqCT75i
+}}
+|Entered by=Eve
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

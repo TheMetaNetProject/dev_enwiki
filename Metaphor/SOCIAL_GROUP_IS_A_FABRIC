@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SOCIAL GROUP IS A TEXTILE
+}}
+|Comments=This metaphor focus on the relations between the members of a social group.
+|Source frame=Textile
+|Target frame=Social group
+|Mappings={{Mapping
+|Target=social_group_whole
+|Source=textile_whole
+}}{{Mapping
+|Target=member_relation
+|Source=fibers
+}}
+|Related metaphors={{Related metaphor}}
+|Entailments={{Entailment
+|Entailment.Target entailment=the strength of social relations
+|Entailment.Source inference=the strength of the fibers
+}}{{Entailment
+|Entailment.Target entailment=the strength/integrity of the social group as a whole depends on the strength/integrity of the relations between social members
+|Entailment.Source inference=The strength/integrity of the textile as a whole is dependent on the strength/integrity of the individual fibers. 
+}}{{Entailment
+|Entailment.Target entailment=processes that affect the strength of the social group 
+|Entailment.Source inference=processes that affect the strength of the fabric
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Cop scandals fray the social fabric.
+|Example.Provenance=headline, philly.com, August 31, 1995. http://articles.philly.com/1995-08-31/news/25708713_1_fuhrman-tapes-drug-dealers-police-force. Accessed 12/3/12 
+}}{{Example
+|Example.Language=English
+|Example.Text=Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.
+
+ 
+
+
+|Example.Provenance=From "Reweaving the Fabric of Rural America", by John Ikerd.  http://web.missouri.edu/ikerdj/papers/PASA%20-%20Food%20is%20Common%20Thread.htm.  Accessed 12/3/12
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

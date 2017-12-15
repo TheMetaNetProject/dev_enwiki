@@ -1,0 +1,56 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CRIME IS AN ANIMAL
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CRIME IS A BEAST
+|Metaphor.Alias.Provenance=Thibodeau PH, Boroditsky L (2011) Metaphors We Think With: The Role of Metaphor in Reasoning. PLoS ONE 6(2)
+}}
+|Family=Social problems metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Fierce animal
+|Target frame=Crime
+|Mappings={{Mapping
+|Target=crime
+|Source=dangerous_animal
+|Comment=crime itself is a beast, not the criminals
+}}{{Mapping
+|Target=criminal_activity
+|Source=endangering_action
+}}{{Mapping
+|Target=victim
+|Source=prey
+|Comment=add to source frame later
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=ADDRESSING CRIME IS CONTROLLING AN ANIMAL
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=CRIME IS A DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=MORAL CORRUPTION IS A DESTRUCTIVE FORCE
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE ANIMATE ENTITIES
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Controlling crime
+|Entailment.Source inference=Caging an animal prevents it from destroying things
+|Entailment.Entailed metaphors=ADDRESSING CRIME IS CONTROLLING AN ANIMAL
+}}{{Entailment
+|Entailment.Target entailment=Crime is destructive
+|Entailment.Source inference=A wild animal ravages its prey
+|Entailment.Entailed metaphors=UNCONTROLLED CRIME IS A RAMPAGING ANIMAL
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Crime is a beast ravaging the city.
+|Example.Provenance=Thibodeau PH, Boroditsky L (2011) Metaphors We Think With
+}}
+|Entered by=Elise
+|Last reviewed by=Oana, Oana
+|Status=in development, experimentally validated
+|Investigated for=English
+}}

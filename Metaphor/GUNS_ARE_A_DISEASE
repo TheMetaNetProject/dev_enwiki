@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Comments=This is actually more complex than the source and target suggest (the mappings don't work). There is a metonymy in the target domain.
+|Family=Gun debate metaphors, Disease metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, American progressive
+|Source frame=Disease
+|Target frame=Personal weapon
+|Mappings={{Mapping
+|Target=weapon
+|Source=disease
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=‘America’s gun disease is a national security issue’
+|Example.Provenance=Gun Debate GMR
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

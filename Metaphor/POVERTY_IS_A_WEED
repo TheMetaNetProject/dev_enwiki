@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "the strangling weeds of poverty"
+|Family=Poverty metaphors, Poverty as a social problem metaphors,
+|Source frame=Weed
+|Target frame=Poverty
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POVERTY IS A PLANT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We are not free from the creeping vines of poverty.
+|Example.Provenance=http://keenveneracion.blogspot.com/2009/09/we-can-again.html
+|Example.Comments=From out Gold Standard.
+}}{{Example
+|Example.Language=English
+|Example.Text=Mother Martha is working to loosen the strangling weeds of poverty and watching children blossom and thrive under her care.
+|Example.Provenance=http://www.childrensdefense.org/library/data/2013-sabbath-manual/documents/devotional-guide-2013.pdf
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

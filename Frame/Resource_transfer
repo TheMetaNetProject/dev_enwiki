@@ -1,0 +1,16 @@
+{{Frame
+|Family=Resource Frames,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Resource
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Transfer scenario
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

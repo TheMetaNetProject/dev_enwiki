@@ -1,0 +1,50 @@
+{{Frame
+|Comments=This is the Evaluation frame applied to Government - the governed citizens are the evaluators of their government. 
+|Family=Governance frames
+|Type=Composed
+|Status=in development
+|Entered by=Eve
+|Roles={{Role
+|Role.Name=Evaluator
+}}{{Role
+|Role.Name=Evaluation
+}}{{Role
+|Role.Name=Standard
+}}{{Role
+|Role.Name=Behavior
+}}{{Role
+|Role.Name=Evaluaee
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}
+|Bindings={{Binding
+|Binding.Local role=Evaluator
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=Evaluation
+|Binding.Bound role=Evaluation.evaluation
+}}{{Binding
+|Binding.Local role=Evaluee
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=Behavior
+|Binding.Bound role=Evaluation.behavior
+}}{{Binding
+|Binding.Local role=Evaluator
+|Binding.Bound role=Government.governed
+}}{{Binding
+|Binding.Local role=Evaluaee
+|Binding.Bound role=Government.governor
+}}{{Binding
+|Binding.Local role=Behavior
+|Binding.Bound role=Government.governing_actions
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

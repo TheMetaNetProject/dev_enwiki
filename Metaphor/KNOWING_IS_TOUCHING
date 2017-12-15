@@ -1,0 +1,49 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=KNOWING IS TOUCHING
+|Metaphor.Alias.Provenance=George Lakoff
+}}
+|Comments=HOW MANY MAPPINGS ARE INVOLVED HERE?
+I really think there is something like cognizing is physical interaction with objects, ideas of course being objects - but TOUCH is not the best example to use.  Grasp, put your finger on it....EVE
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Touching
+|Target frame=Knowing
+|Mappings={{Mapping
+|Target=knower
+|Source=toucher
+}}{{Mapping
+|Target=knowing_x-schema
+|Source=touching_x-schema
+}}{{Mapping
+|Target=mind
+|Source=limbs
+}}{{Mapping
+|Target=idea
+|Source=object
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 1
+|Related metaphor.Name=SEEING IS TOUCHING
+}}{{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 2
+|Related metaphor.Name=KNOWING IS SEEING
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=KNOWING IS PERCEIVING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I've almost got an idea, but I can't quite put my finger on it.
+}}{{Example
+|Example.Language=English
+|Example.Text=I could never put my finger on what the problem was. I felt crazy at times and there were so many times that I would approach him with a very well-thought out ...
+|Example.Provenance=www.searchquotes.com/search/Put_My_Finger_On_The_Trigger/
+}}
+|Entered by=Jisup
+|Last reviewed by=Eve
+|Status=in development
+|Relevant LUs=
+}}
+CONCERN ABOUT STATEMENT!  SHOULD THIS REALLY BE THIS NAME!

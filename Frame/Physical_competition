@@ -1,0 +1,87 @@
+{{Frame
+|Description=Competition between two entities that involves physical contact; often with the goal of achieving a resource such as territory
+|Family=Physical conflict frames, Competition frames, Physical combat frame family,
+|Type=Frame
+|Status=in development, release candidate
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=event
+}}{{Role
+|Role.Name=x-schema
+}}{{Role
+|Role.Name=prize
+|Role.Definition=resource or other desired outcome
+}}{{Role
+|Role.Name=purpose
+}}{{Role
+|Role.Name=start
+}}{{Role
+|Role.Name=end
+}}{{Role
+|Role.Name=competitor1
+}}{{Role
+|Role.Name=competitor2
+}}{{Role
+|Role.Name=outcome
+}}{{Role
+|Role.Name=winner
+}}{{Role
+|Role.Name=loser
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Competition
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Physical combat
+}}
+|Bindings={{Binding
+|Binding.Local role=event
+|Binding.Bound role=Competition.competition_event
+}}{{Binding
+|Binding.Local role=x-schema
+|Binding.Bound role=Competition.competition_x-schema
+}}{{Binding
+|Binding.Local role=prize
+|Binding.Bound role=Competition.competition_prize
+}}{{Binding
+|Binding.Local role=purpose
+|Binding.Bound role=Competition.competition_purpose
+}}{{Binding
+|Binding.Local role=start
+|Binding.Bound role=Competition.competition_start
+}}{{Binding
+|Binding.Local role=end
+|Binding.Bound role=Competition.competition_end
+}}{{Binding
+|Binding.Local role=competitor1
+|Binding.Bound role=Competition.competition_competitor1
+}}{{Binding
+|Binding.Local role=competitor2
+|Binding.Bound role=Competition.competition_competitor2
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Competition.competiition_outcome
+}}{{Binding
+|Binding.Local role=winner
+|Binding.Bound role=Competition.competition_winner
+}}{{Binding
+|Binding.Local role=loser
+|Binding.Bound role=Competition.competition_loser
+}}{{Binding
+|Binding.Local role=competitor1
+|Binding.Bound role=Physical combat.fighter1
+}}{{Binding
+|Binding.Local role=competitor2
+|Binding.Bound role=Physical combat.fighter2
+}}{{Binding
+|Binding.Local role=x-schema
+|Binding.Bound role=Physical combat.physical interaction x-schema
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Physical combat.outcome
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

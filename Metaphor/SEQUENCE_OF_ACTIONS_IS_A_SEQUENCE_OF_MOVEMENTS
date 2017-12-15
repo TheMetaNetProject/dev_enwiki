@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Event Structure Metaphor,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Cultural scope=American English, Persian
+|Source frame=Motion along a path
+|Target frame=Action
+|Mappings={{Mapping
+|Target=acting_entity
+|Source=moving_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.
+|Example.Provenance=http://www.projectsmart.co.uk/8-strategies-for-achieving-smart-goals.html
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=سلسله اعمال متوالی، سلسله حرکات متوالی است
+|Investigated for=English
+|Relevant LUs=
+}}

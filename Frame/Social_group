@@ -1,0 +1,49 @@
+{{Frame
+|Family=Social frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=social_group_whole
+}}{{Role
+|Role.Name=member
+|Role.Type=Person
+|Role.Definition=person or social animal
+}}{{Role
+|Role.Name=members
+|Role.Definition=multiplex of members
+}}{{Role
+|Role.Name=member_relation
+}}{{Role
+|Role.Name=defining_properties
+}}{{Role
+|Role.Name=group_decision_making
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Group
+}}
+|Bindings={{Binding
+|Binding.Local role=social_group_whole
+|Binding.Bound role=Group.group
+}}{{Binding
+|Binding.Local role=members
+|Binding.Bound role=Group.members
+}}{{Binding
+|Binding.Local role=defining_properties
+|Binding.Bound role=Group.defining_properties
+}}{{Binding
+|Binding.Local role=membership_fee
+|Binding.Bound role=Payment.payment
+}}{{Binding
+|Binding.Local role=member
+|Binding.Bound role=Payment.payer
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=social group.n
+}}
+|Applicability=English
+}}

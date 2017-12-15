@@ -1,0 +1,36 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Source frame=Verticality
+|Target frame=Government institution
+|Mappings={{Mapping
+|Target=government_whole
+|Source=vertical_entity
+}}{{Mapping
+|Target=functional_status
+|Source=scalar_position
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=FUNCTIONALITY IS VERTICALITY
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=change in government functional. status
+|Entailment.Source inference=change in verticality
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The government was toppled.
+}}{{Example
+|Example.Language=English
+|Example.Text=The government fell.
+}}
+|Entered by=Ellen
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ФУНКЦИОНАЛЬНОСТЬ ПРАВИТЕЛЬСТВА – ЭТО ВЕРТИКАЛЬНОСТЬ
+|Investigated for=English
+}}

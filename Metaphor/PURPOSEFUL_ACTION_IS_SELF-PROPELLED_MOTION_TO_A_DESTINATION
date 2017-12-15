@@ -1,0 +1,101 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=191
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSEFUL ACTION IS GOAL-DIRECTED MOTION
+}}
+|Comments=This is a GENERIC IS SPECIFIC metaphor since the Self propelled purposeful motion frame incorporates the structure of the Purposeful action frame. 
+
+In general, this metaphor assumes that the 'goal' location is in some sense more desirable than the 'source' location.
+|Family=Location Event Structure Metaphor, LOVE IS A JOURNEY Cascade, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Self propelled motion to a destination
+|Target frame=Purposeful action
+|Mappings={{Mapping
+|Target=objective
+|Source=goal
+|Comment=I.e. PURPSOSES ARE DESIRED LOCATIONS: goal has binding to objective in Source domain frame, and objective is bound to Desire.desired_situation
+}}{{Mapping
+|Target=actor
+|Source=self-mover
+|Comment=self-mover has binding to actor in Source domain frame
+}}{{Mapping
+|Target=action_x-schema
+|Source=self-motion_x-schema
+}}{{Mapping
+|Target=action_x-schema_kind
+|Source=path
+|Comment=a.k.a., MEANS ARE PATHS
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+|Related metaphor.Description=entailed
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MEANS ARE PATHS
+|Related metaphor.Description=(create relation type "has this as a mapping")
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=amount of progress
+|Entailment.Source inference=distance moved towards goal
+|Entailment.Entailed metaphors=AMOUNT OF PROGRESS IS AMOUNT OF DISTANCE MOVED
+}}{{Entailment
+|Entailment.Target entailment=achieving a purpose
+|Entailment.Source inference=reaching a destination
+|Entailment.Type=x-schema stage
+|Entailment.Entailed metaphors=ACHIEVING A PURPOSE IS REACHING A DESTINATION
+}}{{Entailment
+|Entailment.Target entailment=lack of purpose
+|Entailment.Source inference=lack of direction
+}}{{Entailment
+|Entailment.Target entailment=making progress
+|Entailment.Source inference=forward motion toward goal
+|Entailment.Entailed metaphors=PROGRESS IS FORWARD MOTION ALONG A PATH
+}}{{Entailment
+|Entailment.Target entailment=amount of effort it takes to perform action
+|Entailment.Source inference=amount of effort it takes to change location
+|Entailment.Entailed metaphors=EASE OF ACTION IS EASE OF MOTION ALONG A PATH
+}}{{Entailment
+|Entailment.Target entailment=actor stops acting when objective is accomplished
+|Entailment.Source inference=mover stops moving when destination (end of path) is reached
+|Entailment.Entailed metaphors=END OF AN ACTION IS THE END OF A PATH
+}}{{Entailment
+|Entailment.Target entailment=another person guide action
+|Entailment.Source inference=another person can lead mover along path
+|Entailment.Entailed metaphors=GUIDED ACTION IS GUIDED MOTION ALONG A PATH
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She made great strides in her dissertation.
+|Example.Provenance=Metaphor+
+|Example.Comments=Amount of progress is distance moved
+}}{{Example
+|Example.Language=English
+|Example.Text=We are sliding backward.
+|Example.Provenance=Philosophy in the Flesh (191)
+|Example.Comments=Undoing progress is backward movement
+}}{{Example
+|Example.Language=English
+|Example.Text=We are moving ahead.
+|Example.Provenance=Philosophy in the Flesh (191)
+|Example.Comments=Making progress is forward movement
+}}{{Example
+|Example.Language=English
+|Example.Text=We are going nowhere with this.
+|Example.Provenance=Philosophy in the Flesh (192)
+|Example.Comments=Lack of progress is lack of movement.
+}}{{Example
+|Example.Language=English
+|Example.Text=We have taken the first step.
+|Example.Provenance=Philosophy in the Flesh (191)
+|Example.Comments=Starting a purposeful action is starting out
+}}
+|Entered by=Ellen, Elise,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

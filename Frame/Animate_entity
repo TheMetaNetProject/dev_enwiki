@@ -1,0 +1,41 @@
+{{Frame
+|Family=Entity frames,
+|Type=Cog
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=animate_entity
+}}{{Role
+|Role.Name=body
+}}{{Role
+|Role.Name=specialized_parts
+|Role.FrameNet role=distinctive parts of the body
+}}{{Role
+|Role.Name=body_weight
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Self propelled motion
+}}
+|Bindings={{Binding
+|Binding.Local role=animate_entity
+|Binding.Bound role=Biological entity.organism
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Biological entity.body
+}}{{Binding
+|Binding.Local role=specialized_parts
+|Binding.Bound role=Biological entity.specialized_parts
+}}{{Binding
+|Binding.Local role=animate_entity
+|Binding.Bound role=Self propelled motion.self-mover
+}}{{Binding
+|Binding.Local role=body_weight
+|Binding.Bound role=Biological entity.body_weight
+}}
+|Inferences=
+|Relevant LUs=
+}}

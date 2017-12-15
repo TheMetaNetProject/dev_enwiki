@@ -1,0 +1,32 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA metaphor
+|metaphor.metaphor=
+|metaphor.evokingsourceelements=
+|metaphor.evokingtargetelements=
+|metaphor.comment=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Metaphor:
+| [[Involves metaphor::Metaphor:{{{metaphor.metaphor|}}}|{{{metaphor.metaphor|}}}]]
+|-
+! Evoking element(s):
+|
+|-
+| Source:
+| {{{metaphor.evokingsourceelements|}}}
+|-
+| Target:
+| {{{metaphor.evokingtargetelements|}}}
+|-
+! Comments:
+| {{{metaphor.comment|}}}
+|}{{#subobject:Is metaphor used in
+|Is metaphor=Metaphor:{{{metaphor.metaphor|}}}
+|Has source evoking elements={{{metaphor.evokingsourceelements|}}}
+|Has target evoking elements={{{metaphor.evokingtargetelements|}}}
+|Has comment={{{metaphor.comment|}}}}}
+</includeonly>

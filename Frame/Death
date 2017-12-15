@@ -1,0 +1,98 @@
+{{Frame
+|Description=The highest common level for death, to be further split into perspectives later.
+
+last phase/process in Life cycle; can be interrupted by the Restore to Life sub-process
+|FrameNet frame=Death
+|Type=Frame
+|Cultural information=This is highest level Death frame. Other subframes will include the temporal event of dying, the spiritual notions of death, the change of state involved, and the frame of death as experienced by the living (memorials, funerals, etc). For now, all death-related words will be here, until further splitting.
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=death_protagonist
+}}{{Role
+|Role.Name=cause_of_death
+}}{{Role
+|Role.Name=death_x-schema
+}}{{Role
+|Role.Name=dead_state
+|Role.Definition=As a sub-state of the x-schema.
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Birth
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Caused change of state
+}}
+|Bindings={{Binding
+|Binding.Local role=death_protagonist
+|Binding.Bound role=Biological entity
+}}{{Binding
+|Binding.Local role=death_protagonist
+|Binding.Bound role=Life cycle.life_liver
+}}{{Binding
+|Binding.Local role=death_state
+|Binding.Bound role=Life cycle.end_of_life
+}}{{Binding
+|Binding.Local role=death_protagonist
+|Binding.Bound role=Caused change of state.affected
+}}{{Binding
+|Binding.Local role=cause_of_death
+|Binding.Bound role=Caused change of state.cause
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=death.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dead.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=die.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=funeral.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demise.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deceased.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moribund.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fatality.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fatal.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mourning.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mourn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stillborn.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corpse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cadaver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=carcass.n
+}}
+|LinkSpanish=Muerte
+|Applicability=English
+}}

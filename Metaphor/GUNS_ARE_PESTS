@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Comments=Suffers from same metonymy issues as others in this family.
+|Family=Gun debate metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, American progressive
+|Source frame=Pest
+|Target frame=Personal weapon
+|Mappings={{Mapping
+|Target=weapon
+|Source=pest
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GUNS ARE LIVING ENTITIES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=gun-infested state
+|Example.Provenance=MetaNet GMR
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

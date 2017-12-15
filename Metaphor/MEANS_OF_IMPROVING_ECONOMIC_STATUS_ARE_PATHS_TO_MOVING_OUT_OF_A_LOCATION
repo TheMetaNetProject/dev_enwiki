@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "path out of poverty"
+|Comments=changed source frame to paths out of a location - Karie feb 2015
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors,
+|Metaphor Level=Specific
+|Source frame=Paths out of a location
+|Target frame=Improving economic status
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=MEANS ARE PATHS
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=IMPROVING ECONOMIC STATUS IS MOVING OUT OF A LOCATION
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Status=in development
+}}

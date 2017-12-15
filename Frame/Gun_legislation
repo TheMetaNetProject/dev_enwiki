@@ -1,0 +1,18 @@
+{{Frame
+|Comments=Not specifically Gun rights legislation or Gun control legislation, but a neutral form of gun legislation, of which the latter are subcases. No LUs here please. (Oana)
+|Family=Gun debate, Legislation frames,
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Legislation enactment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Personal weapon
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

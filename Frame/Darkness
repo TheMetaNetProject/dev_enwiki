@@ -1,0 +1,95 @@
+{{Frame
+|Family=Perception frames, Scale Frames, 
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Luminosity
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Lightness
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=darkness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gloom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twilight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=darken.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dim.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dim.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gloomy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sunless.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blackness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dusk.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overcast.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shady.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unlit.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=darkened.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inky.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pitch-black.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pitch-dark.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shade.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=caliginous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloud.n over
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=starless.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moonless.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dark day.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dark cloud.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shadow.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloud.n
+}}
+|Applicability=English
+}}

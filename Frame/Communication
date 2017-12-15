@@ -1,0 +1,44 @@
+{{Frame
+|FrameNet frame=Communication
+|Family=Communication Frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Unknown,
+|Last reviewed by=oana
+|Roles={{Role
+|Role.Name=communicator
+|Role.FrameNet role=Communicator
+}}{{Role
+|Role.Name=addressee
+|Role.FrameNet role=Addressee
+}}{{Role
+|Role.Name=message
+|Role.FrameNet role=Message
+}}{{Role
+|Role.Name=topic
+|Role.FrameNet role=Topic
+}}{{Role
+|Role.Name=medium
+|Role.FrameNet role=Medium
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=communicate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=communication.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tell.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inform.v
+}}
+|LinkSpanish=Comunicación
+}}

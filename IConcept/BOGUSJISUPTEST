@@ -1,0 +1,34 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=TESTBOGUS
+|ConceptDefinition=This is a test definition
+|ConceptComment=This is a test comment
+|ConceptStatus=test
+|ConceptFrames={{Linked frame
+|Frame name=Personal weapon
+}}{{Linked frame
+|Frame name=Poverty
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=bazooka.n
+}}
+|BlacklistTargetLUs={{Blacklist target LUs
+|BlacklistTargetLU=gun.n
+}}
+|BlacklistSourceFrameFamilies={{Blacklist source frame families
+|BlacklistSourceFrameFamily=Governance frames
+}}{{Blacklist source frame families
+|BlacklistSourceFrameFamily=Economic Inequality frames
+}}
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Democratic institution
+}}
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=take.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=make.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=building.n
+}}
+}}

@@ -1,0 +1,53 @@
+{{Frame
+|Comments=Created to handle case study oy2.
+
+We may not want this as 'makes use of' Personal weapon, because the latter is usually treated as a target frame, and Weapons_handling needs to appear as a source frame.
+
+Don't include the LU "bombard" here, that should be with War.
+|Family=Guns family, Gun debate,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object manipulation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=discharge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=launch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fire.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=torpedo.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blast.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=open.v fire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v the trigger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trigger.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=set.v off
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aim.v
+}}
+|Applicability=English
+}}

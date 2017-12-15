@@ -1,0 +1,63 @@
+{{Frame
+|FrameNet frame=Scrutiny
+|Family=Evaluation Frames, Excluded frames, 
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=analyzer
+}}{{Role
+|Role.Name=object_of_analysis
+}}{{Role
+|Role.Name=analytic_standard
+}}{{Role
+|Role.Name=object_characteristics
+}}{{Role
+|Role.Name=analytic_conclusion
+}}{{Role
+|Role.Name=analytic_method
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Reasoning
+}}
+|Bindings={{Binding
+|Binding.Local role=analyzer
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=object_of_analysis
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=analytic_standard
+|Binding.Bound role=Evaluation.standard
+}}{{Binding
+|Binding.Local role=object_characteristics
+|Binding.Bound role=Evaluation.behavior
+}}{{Binding
+|Binding.Local role=analytic_conclusion
+|Binding.Bound role=Evaluation.evaluation
+}}{{Binding
+|Binding.Local role=analyzer
+|Binding.Bound role=Reasoning.reasoner
+}}{{Binding
+|Binding.Local role=analytic_conclusion
+|Binding.Bound role=Reasoning.conclusion
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=analyze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=criticize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrutinize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=study.n
+}}
+|Applicability=English
+}}

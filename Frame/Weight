@@ -1,0 +1,18 @@
+{{Frame
+|Family=Scale Frames, Physical properties frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Mark,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=weight.n
+}}
+|Applicability=English
+}}

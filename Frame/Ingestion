@@ -1,0 +1,65 @@
+{{Frame
+|FrameNet frame=Ingestion
+|Family=Eating Frames,
+|Type=Frame, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=ingestor
+|Role.FrameNet role=Ingestor
+}}{{Role
+|Role.Name=ingestibles
+|Role.Definition=potentially nutritive substances
+|Role.FrameNet role=Ingestibles
+}}{{Role
+|Role.Name=ingestion_process
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bodily functioning
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Ingestion_process:  At initial stage, the ingestibles are outside of the ingestor's body. During ongoing stage, ingestibles move into ingestor's body (with motion often, but not always caused by the ingestor). At final stage, the ingestible is within some part of the ingestor's digestive system (e.g. its mouth)
+|Inference.Type=x-schema
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=ingest.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ingestion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=take in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=imbibe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sip.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slurp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sip.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drink.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drink.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quaff.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quaff.n
+}}
+|LinkSpanish=Ingestión
+}}

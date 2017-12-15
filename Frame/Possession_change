@@ -1,0 +1,37 @@
+{{Frame
+|FrameNet frame=Getting_scenario, Lose_possession_scenario
+|Comments=this frame includes both getting (change from not having to having a possession) and losing possession (change from having to not having a possession)
+|Family=Possession Frames, Change-related frames, 
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=possessor
+|Role.FrameNet role=Recipient, Donor
+}}{{Role
+|Role.Name=possession
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Possession
+}}
+|Bindings={{Binding
+|Binding.Local role=possessor
+|Binding.Bound role=Possession.possessor
+}}{{Binding
+|Binding.Local role=possession
+|Binding.Bound role=Possession.possession
+}}{{Binding
+|Binding.Local role=x-schema.ongoing
+|Binding.Bound role=Possession.possessing
+}}
+|Inferences={{Inference
+|Inference.Description=at x-schema.initial, possessor does not possess object.  At x-schema.start_transtion, possessor acquires object. At x-schema.ongoing, possessor possesses object.
+At x-schema.finish_transtion, possessor loses possession of object. 
+At x-schema.final, possessor does not possess object.
+}}
+|Relevant LUs=
+}}
+Lexical units tend to focus either on change from non-possession to possession (e.g. get, acquire) or on change from possession to non-possession (e.g. lose).  The initial-start-ongoing portion of the x-schema for the current frame captures the first type of change, and the ongoing-finish-final portion of the x-schema captures the second type of change.

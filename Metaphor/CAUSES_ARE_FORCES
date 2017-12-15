@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSES ARE FORCES
+|Metaphor.Alias.Provenance=PITF
+}}
+|Comments=see Discussion
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors,
+|Metaphor Type=Primary
+|Source frame=Force
+|Target frame=Causation
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=DIRECT CAUSATION IS DIRECT APPLICATION OF FORCE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The trial thrust O.J.'s attorney's into the limelight.
+|Example.Provenance=PITF
+}}{{Example
+|Example.Language=English
+|Example.Text=FDR's leadership brought the country out of the depression.
+|Example.Provenance=PITF
+}}{{Example
+|Example.Language=English
+|Example.Text=That experience pushed him over the edge
+|Example.Provenance=PITF
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

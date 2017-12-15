@@ -1,0 +1,12 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Immoral action; Moral corruption; Immorality.
+|ConceptFrames={{Linked frame
+|Frame name=Corruption
+}}{{Linked frame
+|Frame name=Institutional corruption
+}}
+}}

@@ -1,0 +1,47 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=KNOWING IS PERCEIVING
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Mind Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Perception
+|Target frame=Knowing
+|Mappings={{Mapping
+|Target=knower
+|Source=perceiver
+}}{{Mapping
+|Target=mind
+|Source=faculty
+}}{{Mapping
+|Target=knowing_x-schema
+|Source=perception_x-schema
+}}{{Mapping
+|Target=knowledge
+|Source=perceived_thing
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I see what you mean.
+}}{{Example
+|Example.Language=English
+|Example.Text=Something doesn't smell quite right here.
+|Example.Provenance=PITF
+}}{{Example
+|Example.Language=English
+|Example.Text=Listen to what your father tells you.
+|Example.Provenance=PITF
+}}{{Example
+|Example.Language=English
+|Example.Text=I have no idea what my friends are doing, they've kept me completely in the dark.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

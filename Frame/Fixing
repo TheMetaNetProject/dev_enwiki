@@ -1,0 +1,52 @@
+{{Frame
+|Family=Act on Object frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Restore
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Attach
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=mend.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fix.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glue.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stitch.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repair.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repair.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fix.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fixing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repairing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overhaul.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revamp.v
+}}
+|LinkSpanish=Reparar
+|Applicability=English
+}}

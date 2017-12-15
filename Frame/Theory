@@ -1,0 +1,46 @@
+{{Frame
+|Family=Cognition Frames, Excluded frames, 
+|Type=Frame
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=theoretical_domain
+|Role.Definition=E.g., physics, cognition, evolution
+}}{{Role
+|Role.Name=theoretical_question
+}}{{Role
+|Role.Name=theoretical_arguments
+}}{{Role
+|Role.Name=theoretical_process
+}}{{Role
+|Role.Name=theory_supporting_evidence
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Argument
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Idea
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=theory
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=postulate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conjecture
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=proposition
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=paradigm
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=proposal
+}}
+|Applicability=English
+}}

@@ -1,0 +1,71 @@
+{{Frame
+|FrameNet frame=People
+|Other aliases=People
+|Family=Entity frames, Excluded frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana, Elise,
+|Roles={{Role
+|Role.Name=person
+|Role.FrameNet role=person
+}}{{Role
+|Role.Name=body
+}}{{Role
+|Role.Name=body_parts
+}}{{Role
+|Role.Name=actions
+}}{{Role
+|Role.Name=objectives
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animate entity
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Sentient entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}
+|Bindings={{Binding
+|Binding.Local role=person
+|Binding.Bound role=Animate_entity.animate_entity
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Animate_entity.body
+}}{{Binding
+|Binding.Local role=body_parts
+|Binding.Bound role=Animate_entity.specialized_parts
+}}{{Binding
+|Binding.Local role=person
+|Binding.Bound role=Sentient_entity.sentient_entity
+}}{{Binding
+|Binding.Local role=person
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=actions
+|Binding.Bound role=Purposeful action.action_x-schema
+}}{{Binding
+|Binding.Local role=objectives
+|Binding.Bound role=Purposeful action.objective
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=person.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=individual.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=human being.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=human.n
+}}
+|LinkSpanish=Persona
+|Applicability=English
+}}

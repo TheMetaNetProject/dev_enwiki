@@ -1,0 +1,62 @@
+{{Frame
+|Comments=This is meant to handle life-stage and maturation distinctions in animals as opposed to humans (or plants). It may be useful for things like "the hatching of democratic ideology".
+|Family=Entity frames, Natural process frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=animal_life_cycle_beginning_stage
+|Role.Definition=e.g. 'hatch'
+}}{{Role
+|Role.Name=animal_life_cycle_beginning_state
+|Role.Definition=e.g. 'pup' 'calf'
+}}{{Role
+|Role.Name=animal_life_cycle_maturation_stage
+}}{{Role
+|Role.Name=animal_life_cycle_maturation_state
+}}{{Role
+|Role.Name=animal_life_cycle_death
+|Role.Definition=(same as human)
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Animal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=egg.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fledgling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pup.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=calf.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hatch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spawn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spawn.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=croak.v
+}}
+|LinkSpanish=Ciclo de vida de los animales
+|Applicability=English
+}}

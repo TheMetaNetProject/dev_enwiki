@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors
+|Source frame=Support
+|Target frame=Assistance
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ASSISTANCE IS SUPPORT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The poor in our country need a boost up.
+}}{{Example
+|Example.Language=English
+|Example.Text=In times of need, the impoverished should be able to lean on our government for support.
+}}{{Example
+|Example.Language=English
+|Example.Text=We need welfare as a safety net.
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

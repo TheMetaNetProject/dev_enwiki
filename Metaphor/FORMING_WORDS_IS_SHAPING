@@ -1,0 +1,36 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FORMING WORDS IS SHAPING
+|Metaphor.Alias.Provenance=Jisup
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CREATING LINGUISTIC EXRESSIONS IS SHAPE MANIPULATION
+|Metaphor.Alias.Provenance=Jisup
+}}
+|Family=Conduit Metaphor, 
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Crafting
+|Target frame=Forming words
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=WORDS ARE CONTAINERS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You should form your words carefully.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=English
+|Example.Text=This is a well-crafted sentence.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=English
+|Example.Text=Promises should be articulated clearly.
+|Example.Provenance=Jisup
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

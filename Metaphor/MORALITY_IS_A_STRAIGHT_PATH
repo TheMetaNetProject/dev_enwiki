@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Straight_path
+|Target frame=Morality
+|Mappings={{Mapping
+|Target=moral_person
+|Source=person_moving_along_straight_line
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=MORALITY IS STRAIGHTNESS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=being moral
+|Entailment.Source inference=walking along a straight path
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is a deviant.
+}}{{Example
+|Example.Language=English
+|Example.Text=He deviated from the straight and narrow.
+}}{{Example
+|Example.Language=English
+|Example.Text=She strayed.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

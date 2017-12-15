@@ -1,0 +1,47 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=188
+}}
+|Family=Location Event Structure Metaphor, Action is Motion metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Motion impediments
+|Target frame=Difficulties in action
+|Mappings={{Mapping
+|Target=actor
+|Source=mover
+}}{{Mapping
+|Target=difficulty
+|Source=impediment
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=IMPEDIMENTS TO ACTION ARE PHYSICAL IMPEDIMENTS TO MOTION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=difficulties can prevent completion of purposeful action
+|Entailment.Source inference=barriers on path can prevent motion along that path to goal
+}}{{Entailment
+|Entailment.Target entailment=difficulties can increase time and effort needed to accomplish objectives
+|Entailment.Source inference=barriers on path can increase time and effort needed to reach goal
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our project has hit a roadblock.
+}}{{Example
+|Example.Language=English
+|Example.Text=What's holding you back from pursuing your dreams?
+}}{{Example
+|Example.Language=English
+|Example.Text=They faced some tough problems at the beginning of their marriage but got over them quickly.
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

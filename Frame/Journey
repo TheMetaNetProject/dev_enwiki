@@ -1,0 +1,61 @@
+{{Frame
+|FrameNet frame=Travel
+|Comments=Definition of a Journey: a long sequence of motions to one or more destinations.
+|Type=Frame, Composed
+|Cultural information=A journey is a purposeful, meaningful traveling event, with associated personal and cultural meaning. It is different from simple traveling because the goal is more meaningful in terms of long- or short-term life goals.
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=journeyer
+|Role.Type=entity
+}}{{Role
+|Role.Name=journey_beginning
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=journey_end
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=journey_companion
+|Role.Type=entity
+}}{{Role
+|Role.Name=journey_means
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=course_of_journey
+|Role.Type=region, x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Traveling
+}}
+|Bindings={{Binding
+|Binding.Local role=journey_means
+|Binding.Bound role=Travel.vehicle
+}}{{Binding
+|Binding.Local role=journeyer
+|Binding.Bound role=Travel.traveler
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=journey.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trip.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=travel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=course.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voyage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=journey.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=traverse.v
+}}
+|Applicability=English
+}}

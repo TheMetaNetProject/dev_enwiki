@@ -1,0 +1,29 @@
+{{Frame
+|FrameNet frame=Mental_activity, Cogitation
+|Other aliases=Cogitation
+|Family=Cognition Frames
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=cognizer
+|Role.Type=person
+|Role.Definition=person thinking about a given topic
+|Role.FrameNet role=cognizer
+}}{{Role
+|Role.Name=content
+|Role.Definition=the target about which the cognizer's thoughts are directed
+|Role.FrameNet role=content
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Person
+}}
+|Bindings={{Binding
+|Binding.Local role=cognizer
+|Binding.Bound role=Person.person
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

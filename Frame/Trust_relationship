@@ -1,0 +1,130 @@
+{{Frame
+|Comments=Trust relationship is a condition for entrusting someone with something.
+The trusting_entity has confidence that the trusted_entity will not harm them. The basis for this confidence comes from the trusting_entity's evaluation of the trusted_entity's character and/or behavior.
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Oana, Eve, Elise
+|Last reviewed by=Elise
+|Roles={{Role
+|Role.Name=relationship
+}}{{Role
+|Role.Name=trusted_entity
+}}{{Role
+|Role.Name=trusting_entity
+}}{{Role
+|Role.Name=relationship_status
+}}{{Role
+|Role.Name=basis_of_trust
+}}{{Role
+|Role.Name=trust_standards
+}}{{Role
+|Role.Name=trust_framework
+}}{{Role
+|Role.Name=trust_emotion
+}}{{Role
+|Role.Name=relationship_intensity
+|Role.Type=scale
+}}{{Role
+|Role.Name=change_in_relationship_intensity
+}}{{Role
+|Role.Name=normative_action
+|Role.Type=action
+|Role.Definition=trusted entity is actor, action conforms to standards
+}}{{Role
+|Role.Name=non-normative_action
+|Role.Type=action
+|Role.Definition=trusted entity is actor, action deviates from standards
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Relationship
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust emotion
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Judgment
+}}
+|Bindings={{Binding
+|Binding.Local role=trusting_entity
+|Binding.Bound role=Trust emotion.trusting_entity
+}}{{Binding
+|Binding.Local role=trusted_entity
+|Binding.Bound role=Trust emotion.trusted_entity
+}}{{Binding
+|Binding.Local role=trusting_entity
+|Binding.Bound role=Relationship.related_entity_1
+}}{{Binding
+|Binding.Local role=trusted_entity
+|Binding.Bound role=Relationship.related_entity_2
+}}{{Binding
+|Binding.Local role=relationship
+|Binding.Bound role=Relationship.relation
+}}{{Binding
+|Binding.Local role=relationship_status
+|Binding.Bound role=Relationship.relationship_status
+}}{{Binding
+|Binding.Local role=trusting_entity
+|Binding.Bound role=Judgment.judging_party
+}}{{Binding
+|Binding.Local role=trusted_entity
+|Binding.Bound role=Judgment.judged_party
+}}{{Binding
+|Binding.Local role=relationship_intensity
+|Binding.Bound role=Judgment.judgment_outcome
+}}{{Binding
+|Binding.Local role=trust_standards
+|Binding.Bound role=Judgment.standards
+}}{{Binding
+|Binding.Local role=normative_action
+|Binding.Bound role=Judgment.normative_judged_action
+}}{{Binding
+|Binding.Local role=non-normative_action
+|Binding.Bound role=Judgment.non-normative_judged_action
+}}{{Binding
+|Binding.Local role=trust_emotion
+|Binding.Bound role=Trust emotion.trust_emotion
+}}
+|Inferences={{Inference
+|Inference.Description=normative actions cause an increase in relationship intensity
+|Inference.Type=causal
+}}{{Inference
+|Inference.Description=non-normative actions cause a decrease in relationship intensity
+|Inference.Type=causal
+}}{{Inference
+|Inference.Description=Truster does not protect self against Trusted.
+}}{{Inference
+|Inference.Description=Truster allows Trusted power to potentially harm Truster.
+}}{{Inference
+|Inference.Description=Truster could leave self physically vulnerable to Trusted.
+}}{{Inference
+|Inference.Description=Truster could transfer valuable stuff to Trusted (access to self, access to one's own possessions).
+}}{{Inference
+|Inference.Description=Truster benefits by a) getting active benefits and b) not having to spend resources on self-protection.
+}}{{Inference
+|Inference.Description=ABUSE is the Trusted's use of power to harm the Truster of gain benefits for the Trusted.
+}}{{Inference
+|Inference.Description=DESERVING: Trusted uses power to benefit Truster, and Truster assesses whether Trusted deserves the benefit.
+}}{{Inference
+|Inference.Description=Truster has a way to find out how Trusted has used power; Trusted has a way to find out whether Truster continues to be worthy of the benefit given to Truster.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=trust.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trust.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=count.v on
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trustworthy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trustworthiness.n
+}}
+|LinkPersian=رابطه اعتماد آمیز
+|Applicability=English
+}}

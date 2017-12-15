@@ -1,0 +1,47 @@
+{{Frame
+|Description=beginning or first phase/process of life cycle
+|Type=Frame
+|Status=proposed
+|Entered by=Karie, 
+|Roles={{Role
+|Role.Name=birth_protagonist
+}}{{Role
+|Role.Name=birth_x-schema
+}}{{Role
+|Role.Name=birth_state
+|Role.Definition=as a substate of the x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Death
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=birth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=birth.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=give.v birth
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=childbirth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=child-bearing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=birthing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=parturition.n
+}}
+|Applicability=English
+}}
+*should be cross-cutting Frames like human life cycle, animal life cycle, and plant life cycle in order to include LUs such as baby, newborn, fawn, chick, and seedling

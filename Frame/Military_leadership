@@ -1,0 +1,55 @@
+{{Frame
+|FrameNet frame=Leadership
+|Comments=Created in order to store military-specific leader types.
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Leadership
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=sergeant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=commander.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=command.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chieftain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=general.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=admiral.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liutenant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=commodore.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=officer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=major.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marshal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corporal.n
+}}
+|Applicability=English
+}}

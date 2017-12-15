@@ -1,0 +1,35 @@
+{{Frame
+|FrameNet frame=Dimension
+|Comments=See Dodge and Lakoff 2005.
+Prototypically landmark is long and thin.
+This may need to be a construction.
+|Family=Spatial relations, Motion Frames, Moving entity frames
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Axis
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=For dynamic situations, the trajector's path is perpendicular to the landmark's main axis. The trajector moves from one side of this axis to the other.
+}}{{Inference
+|Inference.Description=For static situations, the main axis of the trajector (which is typically a long thin thing) is perpendicular to the landmark's main axis.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=across.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cross.v
+}}
+|Applicability=English
+}}

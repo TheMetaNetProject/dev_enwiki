@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BODY IS A CONTAINER FOR EMOTIONS
+|Metaphor.Alias.Provenance=Jisup
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=THE BODY IS A CONTAINER FOR THE EMOTIONS
+|Metaphor.Alias.Provenance=Women Fire and Dangerous Things
+|Metaphor.Alias.Page no=383
+}}
+|Family=Ontological Metaphors, 
+|Metaphor Level=General
+|Source frame=Fluid_containment
+|Target frame=Emotion
+|Mappings={{Mapping
+|Target=emotion
+|Source=fluid
+}}{{Mapping
+|Target=emotion_level
+|Source=fluid_level
+}}{{Mapping
+|Target=body
+|Source=container
+}}{{Mapping
+|Target=emotion_limit
+|Source=container_capacity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOTIONS ARE SUBSTANCES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He was filled with anger.
+|Example.Provenance=Women Fire and Dangerous Things:383
+}}{{Example
+|Example.Language=English
+|Example.Text=She couldn't contain her joy.
+|Example.Provenance=Women Fire and Dangerous Things:383
+}}{{Example
+|Example.Language=English
+|Example.Text=She was brimming with rage.
+|Example.Provenance=Women Fire and Dangerous Things:383
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=contain.v, fill.v, brim.v
+}}
+}}

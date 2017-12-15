@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases=
+|Comments=Cultural scope for Persian checked
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Decay
+|Target frame=Corruption
+|Mappings={{Mapping
+|Target=corrupt_activities
+|Source=decaying_process
+|Comment=x-schema: progressive, slow, ongoing
+}}{{Mapping
+|Target=corruption_affectee
+|Source=decayed_entity
+}}{{Mapping
+|Target=corrupting_effect
+|Source=decaying_effect
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=CORRUPTION IS A DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Stopping the rot in public life.
+|Example.Provenance=http://www.economist.com/node/367915
+}}
+|Entered by=Elise,
+|Last reviewed by=Elise
+|Status=in development
+|LinkPersian=ابتذال فساد است
+|Investigated for=English
+}}

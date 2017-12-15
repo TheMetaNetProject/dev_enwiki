@@ -1,0 +1,33 @@
+{{Frame
+|Family=Motion-affecting frames, Concealment/Protection frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical obstacle
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=blanketed.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bury.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plow.v under
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=buried.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heap.n
+}}
+|LinkSpanish=Entierro
+}}

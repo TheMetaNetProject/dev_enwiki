@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Metaphor Type=Composed/complex
+|Source frame=Physical connection
+|Target frame=Social group
+|Mappings={{Mapping
+|Target=members
+|Source=connected_items
+}}{{Mapping
+|Target=member_relation
+|Source=connector
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=relations keep the members (and group as a whole) together
+|Entailment.Source inference=connectors keep items together
+}}{{Entailment
+|Entailment.Target entailment=without social relations, group will not 'stick together'
+|Entailment.Source inference=when connections are eliminated, items can move apart from each other
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do social networks forge strong or weak bonds?
+|Example.Provenance=http://www.intersperience.com/knowledge_more.asp?know_id=52.  Accessed 12/3/12
+}}{{Example
+|Example.Language=English
+|Example.Text=When Does the Glue of Social Ties Dissolve? 
+|Example.Provenance=part of paper title. http://www.hbs.edu/faculty/Pages/item.aspx?num=42485.  accessed 12/3/12
+}}
+|Entered by=Ellen
+|Investigated for=English
+}}

@@ -1,0 +1,37 @@
+{{Frame
+|FrameNet frame=Economy
+|Family=Economic Frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=economic_activity
+|Role.Definition=production and distribution of goods and services
+}}{{Role
+|Role.Name=activity_level
+|Role.Type=scale
+}}{{Role
+|Role.Name=economic_region
+|Role.Definition=political and/or geographic region in which economy operates
+|Role.FrameNet role=Political_region
+}}{{Role
+|Role.Name=sector
+|Role.Definition=a particular economic sector, e.g. agriculture
+|Role.FrameNet role=Domain
+}}{{Role
+|Role.Name=market_type
+|Role.Definition=e.g. free-market, socialist
+|Role.FrameNet role=Market_type
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=economy.n
+}}{{LUs
+|LUs.Language=English
+}}
+|Applicability=English
+}}

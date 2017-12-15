@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PURITY IS CLEANLINESS
+|Metaphor.Alias.Provenance=Metaphors We Live By, Philosophy in the Flesh
+|Metaphor.Alias.Page no=307
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PURE IS CLEAN
+|Metaphor.Alias.Provenance=Elise
+}}
+|Comments=Note that this metaphor itself doesn't suggest anything regarding good/bad; there can be "pure evil." See related metaphors MORALITY IS PURITY and MORALITY IS CLEANLINESS for the full cascade of good, pure, and clean.
+|Tags=purity
+|Family=Purity Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Pure substances have nothing else mixed in with them; a common impurity is dirt, which is dirty. Hence, impure substances are dirty, and pure substances are clean.
+|Source frame=Cleanliness
+|Target frame=Purity
+|Mappings={{Mapping
+|Target=pure_substance
+|Source=clean_substance
+|Comment=a pure substance is one that is free from other substances (impurities); a clean substance has no dirty or unhealthy substances in it.
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MORALITY IS PURITY
+|Related metaphor.Description=Part of the Purity cascade
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Purifying
+|Entailment.Source inference=Cleansing
+|Entailment.Entailed metaphors=PURIFYING IS CLEANSING
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's pure evil.
+|Example.Provenance=Philosophy in the Flesh (307)
+|Example.Comments=pure - target language
+}}{{Example
+|Example.Text=Her soul was scrubbed clean of impurities.
+|Example.Comments=scrubbed clean - source; impurities - target
+}}
+|Entered by=Elise,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

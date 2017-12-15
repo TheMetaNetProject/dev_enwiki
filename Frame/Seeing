@@ -1,0 +1,73 @@
+{{Frame
+|FrameNet frame=Perception_experience
+|Other aliases=Vision
+|Comments=Unlike FrameNet's frame, this frame is specific to vision.
+Parameters that affect the See-er's ability to see an object include:
+Parameters
+- light conditions around seen_object
+- degree of obstruction
+- visual acuity of See-er
+- distance between See-er and seen_object
+|Family=Perception frames,
+|Tags=in progress, tentative
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Jisup, Elise
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=see-er
+|Role.Type=entity
+|Role.Definition=The person who sees
+}}{{Role
+|Role.Name=seen_object
+|Role.Type=Entity
+|Role.Definition=The thing seen
+}}{{Role
+|Role.Name=eyes
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Perception
+}}
+|Bindings={{Binding
+|Binding.Local role=see-er
+|Binding.Bound role=Perception.perceiver
+}}{{Binding
+|Binding.Local role=eyes
+|Binding.Bound role=Perception.faculty
+}}{{Binding
+|Binding.Local role=seen_object
+|Binding.Bound role=Perception.perceived_thing
+}}
+|Inferences={{Inference
+|Inference.Description=When you see something you see it
+|Inference.Type=image schema
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=vision.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blind
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blindness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blindfold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blinders.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blinder.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=open eye.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blind.v
+}}
+|Applicability=English, Spanish
+}}
+Need to add "see.v" back  to LU list

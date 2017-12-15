@@ -1,0 +1,20 @@
+{{Construct analysis
+|text=living in poverty
+|Entered by=Oana
+|Status=in development
+|construction=VP
+|frames=Trajector landmark, State
+|constituents={{CA constituent
+|constituent.string=in poverty
+|constituent.construct=in poverty
+|constituent.cxn=Locative-PP
+|constituent.frames=Source path goal
+}}{{CA constituent
+|constituent.string=living
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|examples=
+}}

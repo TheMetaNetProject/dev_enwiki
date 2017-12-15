@@ -1,0 +1,32 @@
+{{Frame
+|Comments=The property of being linearly straight.
+|Family=Property-related frames,
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=State
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=straight.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=straightness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crooked.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crookedness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bent.a
+}}
+|Applicability=English
+}}

@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MANNER OF ACTION IS MANNER OF MOVEMENT
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Comments=action parameters are motion parameters
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Type=Primary, Entailed
+|Source frame=Motion along a path
+|Target frame=Action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACTION IS MOTION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=effortfulness of action
+|Entailment.Source inference=effortfulness of motion
+|Entailment.Type=paired scales
+}}{{Entailment
+|Entailment.Target entailment=rate of motion
+|Entailment.Source inference=speed of motion
+|Entailment.Type=paired scales
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We're skipping right along.
+|Example.Provenance=PITF, p. 188
+|Example.Comments=manner = high speed, carefree?
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm walking on egg shells.
+|Example.Provenance=PITF, p. 188
+|Example.Comments=manner = careful
+}}{{Example
+|Example.Language=English
+|Example.Text=We slogged through it.
+|Example.Provenance=PITF, p. 188
+|Example.Comments=manner = slow, methodical, effortful
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|Comments=Very specific inferences as opposed to plants in general: weeds spread, they are malicious and cause Harm and pose a threat to the surrounding fauna. (The aspect of spread is shared with Diseases).
+|Family=Entity frames, Harm to living entity,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Plants
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=weed.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vine.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,47 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=THEORIES ARE BUILDINGS
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Mind Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Theory
+|Mappings={{Mapping
+|Target=theoretical_domain
+|Source=building_whole
+}}{{Mapping
+|Target=theoretical_arguments
+|Source=building_parts
+}}{{Mapping
+|Target=theory_supporting_evidence
+|Source=building_foundation
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=THEORIES ARE COMPLEX STRUCTURES
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=IDEAS ARE OBJECTS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Arguing against assumptions of theories
+|Entailment.Source inference=Attacking foundation of a building
+|Entailment.Entailed metaphors=ARGUING WITH THEORETIC ASSUMPTIONS IS ATTACKING FOUNDATION OF A BUILDING
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Opponents tried to dismantle the theory piece by piece.
+}}{{Example
+|Example.Language=English
+|Example.Text=This theory has a solid foundation.
+}}{{Example
+|Example.Language=English
+|Example.Text=The theoretical framework needs to be filled in with empirical data.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

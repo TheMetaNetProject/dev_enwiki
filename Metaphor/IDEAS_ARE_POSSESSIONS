@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=KNOWLEDGE IS A POSSESSION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=THOUGHTS ARE POSSESSIONS
+|Metaphor.Alias.Provenance=Grady 1998
+|Metaphor.Alias.Page no=127
+}}
+|Comments=Merged with HAVE KNOWLEDGE IS HAVE AN OBJECT, as well as with THOUGHTS ARE POSSESSIONS.
+|Family=Possession metaphors, Mind Metaphors, 
+|Source frame=Possession
+|Target frame=Idea
+|Mappings={{Mapping
+|Target=idea_cognizer
+|Source=possessor
+}}{{Mapping
+|Target=idea_self
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=IDEAS ARE OBJECTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I have an idea.
+}}{{Example
+|Example.Language=English
+|Example.Text=She gave me a good idea.
+}}{{Example
+|Example.Language=English
+|Example.Text=Keep your opinion to yourself!
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

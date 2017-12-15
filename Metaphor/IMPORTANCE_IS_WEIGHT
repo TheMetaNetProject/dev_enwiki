@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPORTANCE IS MASS
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Importance
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=IMPORTANCE IS SIZE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=That's a lightweight issue.
+|Example.Provenance=Grady (1998)
+}}{{Example
+|Example.Language=English
+|Example.Text=This is a substantive / substantial problem for us.
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

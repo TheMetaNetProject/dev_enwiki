@@ -1,0 +1,107 @@
+{{Frame
+|Description=Monsters of all types
+|Program alias=Monster
+|Other aliases=Monster
+|Family=Morality frames, Harmful encounters frames, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animate entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Immorality
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Harm to living entity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=beast.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=villain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=monster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=specter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Frankenstein.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=godzilla.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=frankenstein's monster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dragon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mammon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=kraken.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=monstrosity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demonization.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fiend.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ogre.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=devil.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=menace.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bedevil.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=haunt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=goblin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hobgoblin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=troll.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ghoul.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ghost.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=behemoth
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=zombie.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=werewolf.n
+}}
+|LinkSpanish=Criatura monstruosa
+}}

@@ -1,0 +1,55 @@
+{{Frame
+|FrameNet frame=Part_whole
+|Family=Image Schemas
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana, Ellen,
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=whole
+|Role.FrameNet role=Whole
+}}{{Role
+|Role.Name=parts
+|Role.FrameNet role=Part
+}}{{Role
+|Role.Name=part_1
+}}{{Role
+|Role.Name=part_2
+}}{{Role
+|Role.Name=whole-part_relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Part piece
+|Related frame.Description=in FrameNet, Part_whole is of Part_piece subcase(Piece of a Substance)
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relation
+}}
+|Bindings={{Binding
+|Binding.Local role=whole
+|Binding.Bound role=possessor
+}}{{Binding
+|Binding.Local role=parts
+|Binding.Bound role=possessed_objects
+}}{{Binding
+|Binding.Local role=whole-part_relation
+|Binding.Bound role=Relation.relation
+}}{{Binding
+|Binding.Local role=whole
+|Binding.Bound role=Relation.entity_1
+}}{{Binding
+|Binding.Local role=parts
+|Binding.Bound role=Relation.entity_2
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Todo-parte
+|Applicability=English
+}}

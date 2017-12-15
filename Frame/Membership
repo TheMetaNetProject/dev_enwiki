@@ -1,0 +1,22 @@
+{{Frame
+|Comments=Not specifically social group membership (see Related frame).
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=?
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part_whole
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=member.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=membership.n
+}}
+}}

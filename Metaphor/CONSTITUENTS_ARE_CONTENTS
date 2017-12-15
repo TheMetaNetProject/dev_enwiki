@@ -1,0 +1,36 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONSTITUENTS ARE CONTENTS
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=121
+}}
+|Family=Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Contents
+|Target frame=Constituents
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=There is both cotton and polyester in that shirt.
+|Example.Provenance=Grady 1998:121
+}}{{Example
+|Example.Language=English
+|Example.Text=This drink is loaded with vitamins.
+|Example.Provenance=Grady 1998:121
+}}{{Example
+|Example.Language=English
+|Example.Text=Our agenda is packed with events.
+|Example.Provenance=Grady 1998:121
+}}{{Example
+|Example.Language=English
+|Example.Text=There are seven days in a week.
+|Example.Provenance=Grady 1998:121
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,116 @@
+{{Frame
+|Family=Zealotry Insanity Worship frame family,
+|Type=Frame
+|Cultural information=An insane person exhibits agitation.
+|Status=in development
+|Entered by=Jisup,
+|Roles={{Role
+|Role.Name=insane_person
+}}{{Role
+|Role.Name=insane_behavior
+}}{{Role
+|Role.Name=agitation_level
+}}{{Role
+|Role.Name=cause_of_insanity
+}}{{Role
+|Role.Name=agitation_limit
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Mental state
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The cause_of_insanity causes the insane_person's agitation_level to increase.  If the agitation_level increases beyond the insane_person's agitation_limit, they will exhibit insane_behavior.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=crazy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mad.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=insane.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=madness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hysteria.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hysteric.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=insanity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nuts.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutjob.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wingnut.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deranged.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whack-job.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whackjob.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whack job.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=kook.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mania.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hysterics.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hysteric.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hysterical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rabid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lunatic.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=madman.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wacko.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wacko.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whacko.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whacko.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nut.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutcase.n
+}}
+|LinkSpanish=Locura
+|Applicability=English
+}}

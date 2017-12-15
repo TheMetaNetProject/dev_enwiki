@@ -1,0 +1,31 @@
+{{Frame
+|Comments=This is a general frame that encapsulates both: active impediments of any kind (a subframe called Motion_impediments), and FAILURE TO enable (a subframe called Lack_of_enablement).
+
+It refers to impediments in the domain of Motion, as opposed to impediments in the domain of Action. See Impediment_to_action for the latter.
+
+This is a high level frame. Do NOT add LUs here, but either to Motion_impediments or Lack_of_enablement.
+|Family=Impediment and enablement frames, Motion Frames,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=impediment_source
+}}{{Role
+|Role.Name=impeded_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Enablement
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Motion impediments
+|Related frame.Description=Why do we have two?
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Impedimentos al movimiento
+|Applicability=English
+}}

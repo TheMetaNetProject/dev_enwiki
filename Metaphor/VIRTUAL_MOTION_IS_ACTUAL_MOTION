@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=VIRTUAL MOTION IS ACTUAL MOTION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=The Fictive Motion metaphor
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=The Virtual Motion metaphor
+}}
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Motion along a path
+|Target frame=Virtual motion
+|Mappings={{Mapping
+|Target=cognizer
+|Source=person_who_sets_trajector_in_motion
+}}{{Mapping
+|Target=locus_of_cognizer’s_attention
+|Source=trajector
+}}{{Mapping
+|Target=pathway_scanned
+|Source=course_of_motion
+}}{{Mapping
+|Target=starting_locus_of_attention
+|Source=source_of_motion
+}}{{Mapping
+|Target=intermediate_loci_of_attention
+|Source=path_of_motion
+}}{{Mapping
+|Target=ending_locus_of_attention
+|Source=goal_of_motion
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=THINKING IS MOVING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SEEING IS TOUCHING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=California has been moving toward the left even though much of the country has been moving toward the right.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

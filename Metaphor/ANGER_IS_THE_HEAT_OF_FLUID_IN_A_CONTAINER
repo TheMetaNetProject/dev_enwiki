@@ -1,0 +1,72 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS THE HEAT OF FLUID IN A CONTAINER
+|Metaphor.Alias.Provenance=Women Fire and Dangerous Things
+|Metaphor.Alias.Page no=383
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS A HOT FLUID IN A CONTAINER
+|Metaphor.Alias.Provenance=Kovecses 2010
+|Metaphor.Alias.Page no=123
+}}
+|Family=Anger Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Heating_fluid
+|Target frame=Anger
+|Mappings={{Mapping
+|Target=body
+|Source=container
+}}{{Mapping
+|Target=anger
+|Source=fluid
+}}{{Mapping
+|Target=mind
+|Source=container_top
+}}{{Mapping
+|Target=anger_level
+|Source=fluid_heat_level
+}}{{Mapping
+|Target=body_pressure
+|Source=container_internal_pressure
+}}{{Mapping
+|Target=anger_limit
+|Source=container_pressure_limit
+}}{{Mapping
+|Target=body_agitation
+|Source=fluid_agitation
+}}{{Mapping
+|Target=body_heat
+|Source=container_heat
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ANGER IS HEAT
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=BODY IS A CONTAINER FOR EMOTIONS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOTIONS ARE SUBSTANCES
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ANGER IS PRESSURE IN A CONTAINER
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=The effect of increased anger_level is increased body_heat, body_pressure, and body_agitation
+|Entailment.Source inference=The effect of increased fluid_heat_level is increased container_heat, container_internal_pressure, and fluid_agitation
+|Entailment.Type=inductive inference
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You make my blood boil.
+|Example.Provenance=Women Fire and Dangerous Things:383
+}}{{Example
+|Example.Language=English
+|Example.Text=I had reached the boiling point.
+|Example.Provenance=Women Fire and Dangerous Things:383
+}}
+|Relevant LUs=
+|Entered by=Jisup,
+|Status=in development
+}}

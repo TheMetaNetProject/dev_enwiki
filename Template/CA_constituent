@@ -1,0 +1,32 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA constituent
+|constituent.string=
+|constituent.gloss=
+|constituent.construct=
+|constituent.cxn=
+|constituent.frames=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! String:
+| {{#ifeq:{{Lang|en}}|Persian|lang="fa" dir="rtl" align="right"}} | 
+{{Printgloss|{{{constituent.string|}}}|{{{constituent.gloss|}}}|{{Lang|}}}}
+|-
+!  Cx Analysis link:
+| {{#ifeq:{{{constituent.construct|}}}|||[[Construct analysis:{{{constituent.construct|}}}|{{{constituent.construct|}}}]]}}
+|-
+! Cxn:
+| [[{{{constituent.cxn|}}}]]
+|- 
+! Frames:
+| {{#arraymap:{{{constituent.frames|}}}|,|x|[[Frame:x|x]]}}
+|}{{#subobject:Is constituent in
+|Has string={{{constituent.string|}}}
+|Has string gloss={{{constituent.gloss|}}}
+|Has cx analysis={{{constituent.construct|}}}
+|Instantiates construction={{{constituent.cxn|}}}
+|Evokes frame={{{constituent.frames|}}}}}
+</includeonly>

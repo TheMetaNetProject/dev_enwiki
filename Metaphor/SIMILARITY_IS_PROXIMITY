@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SIMILARITY IS PROXIMITY
+}}
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Often similar objects are experienced as bundles
+|Source frame=Proximal distal
+|Target frame=Similarity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=RELATEDNESS IS PROXIMITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Her hair is very near to his in color.
+|Example.Provenance=Grady 1998:130
+}}{{Example
+|Example.Language=English
+|Example.Text=That's far from a perfect circle.
+|Example.Provenance=Grady 1998:130
+|Example.Comments=Similarity is compared across mental spaces: imaginary perfect circle and actual circle.
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Relevant LUs=
+}}

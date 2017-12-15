@@ -1,0 +1,70 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A DRIVER
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNING IS CONTROLLING VEHICLUAR MOTION
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Controlled vehicular motion
+|Target frame=Governing action
+|Mappings={{Mapping
+|Target=governor
+|Source=motion_controller
+}}{{Mapping
+|Target=affected_jurisdiction
+|Source=vehicle
+}}{{Mapping
+|Target=governed
+|Source=passenger(s)
+}}{{Mapping
+|Target=governing_action_x-schema
+|Source=vehicle_control_x-schema
+}}{{Mapping
+|Target=governing_objectives
+|Source=direction
+}}{{Mapping
+|Target=jurisdiction_state_x-schema
+|Source=motion_x-schema
+}}{{Mapping
+|Target=affect_rate_of_change
+|Source=speed
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=POLITICAL REGION IS A VEHICLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=STATE OF NATION IS LOCATION ALONG PATH
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=The government acts so as to bring about desired states of the governed (e.g. populace, nation)
+|Entailment.Source inference=The driver controls the speed and direction of the vehicle's motion in order to get the vehicle to the intended destination
+}}{{Entailment
+|Entailment.Target entailment=a jurisdiction and its populace all share a common fate
+|Entailment.Source inference=a vehicle and its contents (driver and passengers) all move to the same locations
+}}{{Entailment
+|Entailment.Target entailment=populace has desired (future) states
+|Entailment.Source inference=passengers have desired goal location(s)
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Syrian government is driving Syria into a dangerous zone.
+}}{{Example
+|Example.Language=English
+|Example.Text=The current Japanese government is steering the country toward Socialism.
+}}{{Example
+|Example.Language=English
+|Example.Text=Signal left, turn right: central rhetoric and local reform in China.
+|Example.Provenance=http://prq.sagepub.com/content/early/2012/05/02/1065912912443874.abstract
+}}
+|Entered by=Oana, 
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ПРАВИТЕЛЬСТВО - ЭТО ВОДИТЕЛЬ
+|Investigated for=English
+}}

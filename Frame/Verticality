@@ -1,0 +1,52 @@
+{{Frame
+|Description=Highest level
+|Other aliases=Up, Down, Vertical orientation
+|Comments=location on a vertical scale.
+See Discussion.
+
+Closest FrameNet frames have many LUs not relevant to this frame. They are Position_on_a_scale, Change_position_on_a_scale. They were temporarily removed from the above field for computing reasons.
+|Family=Scale Frames,
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=vertical_axis
+|Role.Definition=axis aligned in relation to gravity
+}}{{Role
+|Role.Name=verticality_scale
+|Role.Type=scalar
+|Role.Definition=a scale that is defined with respect to a vertical axis
+}}{{Role
+|Role.Name=scalar_position
+|Role.Definition=position on verticality scale
+}}{{Role
+|Role.Name=vertical_entity
+|Role.Definition=entity whose location and/or orientation are defined with respect to a vertical scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings={{Binding
+|Binding.Local role=scalar_position
+|Binding.Bound role=Trajector landmark.profiled_region
+}}
+|Inferences={{Inference
+|Inference.Description=One end of the scale is "up" and the other end is "down". These are mutually exclusive positions.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=verticality.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vertical.a
+}}
+|Applicability=English
+}}

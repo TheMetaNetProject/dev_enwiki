@@ -1,0 +1,34 @@
+This page lists metaphors by tags.  The tags included in this page are manually specified.
+
+{{TOC|limit=2}}
+
+= in progress =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::in progress]]
+| format=Category
+| limit=500
+}}
+
+= mapping =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::mapping]]
+| format=Category
+| limit=500
+}}
+
+= orientational =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::orientational]]
+| format=Category
+| limit=500
+}}
+
+= tentative =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::tentative]]
+| format=Category
+| limit=500
+}}
+
+
+= tentative AND mapping =
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]] [[Tag::mapping]] [[Tag::tentative]]
+| format=Category
+| limit=500
+}}

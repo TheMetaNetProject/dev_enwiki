@@ -1,0 +1,72 @@
+{{Frame
+|FrameNet frame=Size
+|Comments=This frame represents a scalar conceptualization of the size of an entity, with particular sizes being positions on a 'size scale'.
+|Family=Scale Frames, Physical properties frame family, Entity properties frames
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=entity
+|Role.Type=Object
+|Role.Definition=the entity whose size is being specified
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=entity_size
+|Role.Type=property that is being assessed
+|Role.Definition=3 dimensional spatial extent of the entity
+}}{{Role
+|Role.Name=size_scale
+}}{{Role
+|Role.Name=scalar_position
+|Role.Definition=position on size_scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Object
+}}
+|Bindings={{Binding
+|Binding.Local role=scalar_position
+|Binding.Bound role=Trajector landmark.profiled_region
+}}{{Binding
+|Binding.Local role=entity_size
+|Binding.Bound role=Trajector landmark.trajector
+}}{{Binding
+|Binding.Local role=size_scale
+|Binding.Bound role=Trajector landmark.landmark
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=big.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=small.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=huge.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=little.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=size.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=large.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tiny.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enormous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gigantic.a
+}}
+}}

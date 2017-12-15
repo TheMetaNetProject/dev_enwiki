@@ -1,0 +1,34 @@
+{{Frame
+|Family=Position frames,
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Verticality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=layer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stratum.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strata.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=level.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rung.n
+}}
+}}

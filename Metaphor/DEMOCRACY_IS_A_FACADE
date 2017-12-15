@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DEMOCRACY IS AN EXTERIOR SURFACE
+}}
+|Description="Interior-exterior" taken out of Source frame
+|Comments=There are two dimensions to consider:
+1. Whether there is a different interior vs. exterior (facade, farce); whether there is an exterior while having an empty interior (husks, shells); Interior is understood as the 'expected interior' in the relevant frame.
+
+2. Whether the 'fooling' is intentional or not (there is an Evaluation frame).
+
+Source frame is a placeholder.
+|Family=Democracy metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Visual obstruction
+|Target frame=Democracy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=DEMOCRACY IS A PHYSICAL ENTITY
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana
+|Last reviewed by=Karie
+|Status=in development
+|LinkSpanish=DEMOCRACIA ES UNA FACHADA
+|Investigated for=English
+}}

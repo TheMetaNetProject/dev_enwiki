@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Description=DEMO.
+|Family=Gun debate metaphors, DEMO metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American conservative
+|Source frame=Motion-affecting objects
+|Target frame=Gun control legislation
+|Mappings={{Mapping
+|Target=affected_people
+|Source=mover
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=saddle the American people with gun control
+}}{{Example
+|Example.Language=English
+|Example.Text=gun control trap
+}}
+|Entered by=Ellen,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

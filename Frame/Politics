@@ -1,0 +1,24 @@
+{{Frame
+|Family=Politics frames, Politicians frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=politics.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=politic.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=political.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=politician.n
+}}
+|Applicability=English
+}}

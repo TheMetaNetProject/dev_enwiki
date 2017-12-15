@@ -1,0 +1,16 @@
+{{Frame
+|Type=Cog
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=path
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Path
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

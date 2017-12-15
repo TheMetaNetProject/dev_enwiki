@@ -1,0 +1,52 @@
+{{Frame
+|Comments=Created to house LUs needed for extraction (June 2014).
+|Family=Motion Frames, Moving entity frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Guided motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=chase.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chase.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seek.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=follow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pursue.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pursuit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=go.v after
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hunt.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=run.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=track.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=track.v down
+}}
+|LinkSpanish=Perseguir
+|Applicability=English
+}}

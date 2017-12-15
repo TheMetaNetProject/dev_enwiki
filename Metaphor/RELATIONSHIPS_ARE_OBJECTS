@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RELATIONSHIPS ARE OBJECTS
+|Metaphor.Alias.Provenance=Metaphor+
+}}
+|Comments=This is a supraordinate-level metaphor for all conceptualizations of relationships as objects, which mostly manifest linguistically as very specific source-domain scenarios: rocks, brittle objects, vehicles, etc. A supraordinate-level metaphor is set up here in order to account for those linguistic metaphors which cannot be readily categorized as any one particular specific case, e.g., "He's been treating their relationship very carelessly." Most inferences about the generic Object frame will not carry over into the target frame, including all change-of-state and object manipulation and transfer related inferences.
+|Family=LOVE IS A JOURNEY Cascade, Ontological Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Relationship
+|Mappings={{Mapping
+|Target=relation
+|Source=object_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=LIFE IS A JOURNEY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our relationship is rock solid.
+}}{{Example
+|Example.Language=English
+|Example.Text=She has a fragile relationship with her mother as it is.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

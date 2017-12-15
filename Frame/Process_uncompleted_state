@@ -1,0 +1,15 @@
+{{Frame
+|FrameNet frame=Process_uncompleted_state
+|Comments=[Test frame. I'm trying something out (Oana).]
+|Family=X-schema family, Excluded frames,
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Process
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

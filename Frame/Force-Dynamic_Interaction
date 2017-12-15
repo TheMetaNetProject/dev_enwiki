@@ -1,0 +1,58 @@
+{{Frame
+|Comments=One entity (the force_originator) transfers force to another entity (force_reciever), which results in some outcome with respect to one or both enitities.  This is a general frame with more specific subcases that differ as to the intentions of the entities (when sentient), the details of the force-interaction, the relative strengths of the two entities, and the outcomes that result from the interaction.
+|Family=Force dynamic frames
+|Type=Cog
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=force_originator
+}}{{Role
+|Role.Name=forceful_process
+|Role.Definition=a process (x-schema) in which force associated with one entity is transferred to another entity
+}}{{Role
+|Role.Name=force_receiver
+}}{{Role
+|Role.Name=second_process
+}}{{Role
+|Role.Name=f-d_interaction_x-schema
+|Role.Type=complex x-schema
+|Role.Definition=two x-schemas with force transfered between them
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Force transfer
+}}
+|Bindings={{Binding
+|Binding.Local role=force_originator
+|Binding.Bound role=Complex process.protagonist1
+}}{{Binding
+|Binding.Local role=forceful_process
+|Binding.Bound role=Complex process.process1
+}}{{Binding
+|Binding.Local role=force_receiver
+|Binding.Bound role=Complex process.protagonist2
+}}{{Binding
+|Binding.Local role=second_process
+|Binding.Bound role=Complex process.process2
+}}{{Binding
+|Binding.Local role=f-d_interaction_x-schema
+|Binding.Bound role=Complex process.complex_x-schema
+}}{{Binding
+|Binding.Local role=force_originator
+|Binding.Bound role=Force transfer.force_originator
+}}{{Binding
+|Binding.Local role=force_receiver
+|Binding.Bound role=Force transfer.force_receiver
+}}
+|Inferences={{Inference
+|Inference.Description=The amount of force transferred is correlated with 'force-dynamic properties' of the force_originator, e.g. a person's strength and the amount of effort he exerts.
+|Inference.Type=force-dynamic
+}}{{Inference
+|Inference.Description=The outcome of the interaction will depend on several factors, including the amount of force transferred, the direction of that force, and the (resistant) 'strength' of the force_receiver.
+|Inference.Type=force-dynamic
+}}
+|Relevant LUs=
+}}

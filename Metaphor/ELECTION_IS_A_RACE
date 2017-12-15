@@ -1,0 +1,64 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Election metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Race
+|Target frame=Election
+|Mappings={{Mapping
+|Target=candidate1
+|Source=racer1
+}}{{Mapping
+|Target=candidate2
+|Source=racer2
+}}{{Mapping
+|Target=outcome
+|Source=outcome
+}}{{Mapping
+|Target=voting_event
+|Source=race_event
+}}{{Mapping
+|Target=election_office
+|Source=prize
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ELECTIONS ARE COMPETITIVE SPORTS EVENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The GOP presidential race has a new front-runner: Gov. Rick Perry.
+|Example.Provenance=trailblazersblog.dallasnews.com › Trail Blazers Blog
+}}{{Example
+|Example.Language=English
+|Example.Text=This year's US presidential election is shaping up to be a very close race, with the incumbent currently in front, but his challenger close on his heels.
+|Example.Provenance=http://www.abc.net.au/news/2012-05-28/obama-the-favourite---by-a-nose/4036964
+}}{{Example
+|Example.Language=English
+|Example.Text=At the turn, it's Obama by a nose.
+|Example.Provenance=www.abc.net.au/unleashed/4185908.html
+}}{{Example
+|Example.Language=English
+|Example.Text=Noem sprints to election finish line with stop in Elk Point, SD.
+}}{{Example
+|Example.Language=English
+|Example.Text=The race continues as Perry and Romney jockey for position, with Gingrich trailing behind.
+}}{{Example
+|Example.Language=English
+|Example.Text=With the official start of primary season, candidates were off and running as they sought to quickly raise millions of dollars for ad buys.
+}}{{Example
+|Example.Language=English
+|Example.Text=The Iowa caucuses in January 2012 serve as the starting line of the marathon primary-election campaigns necessary ...
+|Example.Provenance=http://articles.philly.com/2010-03-10/news/24957042_1_santorum-iowa-republican-party-ralph-reed
+}}{{Example
+|Example.Language=English
+|Example.Text=Hutchinson the front-runner in 2014 governor's race
+|Example.Provenance=www.thecitywire.com/node/26617
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

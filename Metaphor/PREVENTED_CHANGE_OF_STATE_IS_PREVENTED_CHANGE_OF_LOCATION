@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Family=Location Event Structure Metaphor, States are Locations metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Source path goal
+|Target frame=Change of state
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EXPERIENCING A STATE IS BEING AT A LOCATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's holding you back, you need to leave him.
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm going to the top and nothing will stand in my way.
+}}
+|Entered by=Oana,
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

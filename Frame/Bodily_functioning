@@ -1,0 +1,28 @@
+{{Frame
+|Program alias=Body part manipulation
+|Family=Entity frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=body
+}}{{Role
+|Role.Name=bodypart
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part_whole
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Bodily sensation
+}}
+|Bindings={{Binding
+|Binding.Local role=bodypart
+|Binding.Bound role=Part_whole.part
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Part_whole.body
+}}
+|Inferences=
+|Relevant LUs=
+}}

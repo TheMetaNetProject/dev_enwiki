@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "education is the best medicine for poverty"
+|Tags=Program sources
+|Family=Poverty metaphors, Physical afflictions metaphors, Poverty as a social problem metaphors, Social problems metaphors
+|Metaphor Level=Specific
+|Source frame=Treating a physical affliction
+|Target frame=Addressing social problems
+|Mappings={{Mapping
+|Target=problem_solvers
+|Source=treatment_provider
+}}{{Mapping
+|Target=social_problem
+|Source=treated_affliction
+}}{{Mapping
+|Target=society
+|Source=treatment_recipient
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Ellen, Elise, Oana
+|Status=in development, auto imported, release candidate
+}}

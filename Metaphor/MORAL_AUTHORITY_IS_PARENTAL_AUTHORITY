@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Parental_authority
+|Target frame=Moral_authority
+|Mappings={{Mapping
+|Target=moral_authority_holder
+|Source=parent
+}}{{Mapping
+|Target=obeyer
+|Source=child
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

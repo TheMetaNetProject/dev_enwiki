@@ -1,0 +1,65 @@
+{{Frame
+|FrameNet frame=Process
+|Other aliases=X-schema
+|Family=X-schema family, Excluded frames, 
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=protagonist
+|Role.Type=entity
+|Role.Definition=this is a local role
+}}{{Role
+|Role.Name=process
+|Role.Type=x-schema
+|Role.FrameNet role=Process
+}}{{Role
+|Role.Name=process_completed_state
+}}{{Role
+|Role.Name=process_continue
+}}{{Role
+|Role.Name=process_end
+}}{{Role
+|Role.Name=process_initial_state
+}}{{Role
+|Role.Name=process_pause
+}}{{Role
+|Role.Name=process_resume
+}}{{Role
+|Role.Name=process_start
+}}{{Role
+|Role.Name=process_stop
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process start
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process stop
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process completed state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process continue
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process resume
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process stopped state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process uncompleted state
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process pause
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Process initial state
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

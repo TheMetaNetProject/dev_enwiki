@@ -1,0 +1,16 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Gun control legislation; Gun rights legislation.
+|ConceptFrames={{Linked frame
+|Frame name=Legislation drafting
+}}{{Linked frame
+|Frame name=Legislation enactment
+}}{{Linked frame
+|Frame name=Legislative action
+}}{{Linked frame
+|Frame name=Legislative branch
+}}
+}}

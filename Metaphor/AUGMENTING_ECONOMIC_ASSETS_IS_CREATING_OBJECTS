@@ -1,0 +1,19 @@
+{{Metaphor
+|Aliases=
+|Comments=Changed Source frame from Creating objects (auto import) to Create object.  Need to evaluate metaphor relations
+|Tags=Program sources
+|Family=Wealth metaphors, Economics Metaphors,
+|Metaphor Level=Specific
+|Source frame=Create object
+|Target frame=Economic resource
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ECONOMIC RESOURCES ARE PHYSICAL ENTITIES
+}}
+|Entailments=
+|Examples=
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development, auto imported
+}}

@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GAINING A ROLE IS ACQUIRING A POSSESSION
+}}
+|Family=Governance metaphors,
+|Source frame=Gain possession
+|Target frame=Position
+|Mappings={{Mapping
+|Target=job_holder
+|Source=recipient
+}}{{Mapping
+|Target=position
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=GAINING POWER IS GAINING A POSSESSION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This job just fell into my lap.
+}}{{Example
+|Example.Language=English
+}}
+|Investigated for=English
+}}

@@ -1,0 +1,46 @@
+{{Frame
+|FrameNet frame=Leadership
+|Comments=Entered to match Heather's target families.
+|Family=Leaders frames, Guided motion frame family, Leadership frames
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Accompany
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=usher.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=usher.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lead.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lead.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leader.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leadership.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=escort.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chaperone.n
+}}
+|Applicability=English
+}}

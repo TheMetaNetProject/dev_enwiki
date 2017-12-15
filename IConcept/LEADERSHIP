@@ -1,0 +1,13 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptComment=Removing from GOVERNANCE due to large number of bad LMs.
+|ConceptFrames={{Linked frame
+|Frame name=Leadership
+}}{{Linked frame
+|Frame name=Organizational leadership
+}}{{Linked frame
+|Frame name=State leadership
+}}
+}}

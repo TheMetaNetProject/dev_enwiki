@@ -1,0 +1,20 @@
+{{Frame
+|FrameNet frame=Process_continue
+|Other aliases=Process ongoing
+|Family=X-schema family, Excluded frames,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Process
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=X-schema continue
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

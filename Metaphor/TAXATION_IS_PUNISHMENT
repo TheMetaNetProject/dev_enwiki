@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Comments=Need to create Punishment frame (and Rewards frame as well)
+|Tags=tentative,
+|Family=Taxation metaphors,
+|Source frame=Punishment
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=taxer
+|Source=punisher
+}}{{Mapping
+|Target=tax_payer
+|Source=punished_person
+}}{{Mapping
+|Target=tax
+|Source=punishment
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TAXATION IS CAUSING HARM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The state cannot pay its bills and poorly educates its young, and its taxation punishes whatever success that its suffocating regulatory regime does not prevent.
+|Example.Provenance=http://www.jewishworldreview.com/cols/will070509.php3?printer_friendly
+}}
+|Entered by=Ellen
+|Last reviewed by=Jisup
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,45 @@
+{{Frame
+|FrameNet frame=Emotion_directed
+|Family=Emotion Frames,
+|Status=in development
+|Entered by=Ellen, Eve
+|Roles={{Role
+|Role.Name=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=target
+|Role.Definition=person or thing emotion is directed at
+|Role.FrameNet role=Stimulus
+}}{{Role
+|Role.Name=emotion
+}}{{Role
+|Role.Name=reason
+|Role.Definition=why the stimulus evoked the response
+}}{{Role
+|Role.Name=circumstance
+|Role.Definition=conditions in which stimulus evokes emotional response
+|Role.FrameNet role=Circumstance
+}}{{Role
+|Role.Name=degree
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emotion
+}}
+|Bindings={{Binding
+|Binding.Local role=degree
+|Binding.Bound role=Emotion.emotion_level
+}}{{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Emotion.experiencer
+}}{{Binding
+|Binding.Local role=emotion
+|Binding.Bound role=Emotion.emotion
+}}{{Binding
+|Binding.Local role=reason
+|Binding.Bound role=Emotion.cause_of_emotion
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

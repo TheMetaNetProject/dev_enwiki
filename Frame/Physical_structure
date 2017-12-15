@@ -1,0 +1,113 @@
+{{Frame
+|FrameNet frame=Buildings
+|Comments=A complex physical structure whose parts have some sort of "structural" relation to one another (e.g. parts are physically attached to one another) and which has been purposely constructed with some functionality in mind.
+|Family=Entity frames, Object frames
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Elise
+|Last reviewed by=Ellen, Oana
+|Roles={{Role
+|Role.Name=structure_whole
+}}{{Role
+|Role.Name=structural_framework
+}}{{Role
+|Role.Name=structure_parts
+}}{{Role
+|Role.Name=parts_relations
+}}{{Role
+|Role.Name=structural_stability
+}}{{Role
+|Role.Name=foundation_of_structure
+}}{{Role
+|Role.Name=structural_integrity
+|Role.Type=scale
+}}{{Role
+|Role.Name=change_in_integrity
+}}{{Role
+|Role.Name=functional_status
+}}{{Role
+|Role.Name=structure_creator
+}}{{Role
+|Role.Name=structure_location
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex physical object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Functionality
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Support
+}}
+|Bindings={{Binding
+|Binding.Local role=structure_whole
+|Binding.Bound role=Functionality.functional_entity
+}}{{Binding
+|Binding.Local role=functional_status
+|Binding.Bound role=Functionality.functional_status
+}}{{Binding
+|Binding.Local role=structure_creator
+|Binding.Bound role=Functional.functionality_beneficiary
+}}{{Binding
+|Binding.Local role=structure_location
+|Binding.Bound role=Complex physical object.object_location
+}}
+|Inferences={{Inference
+|Inference.Description=Destructive actions and/or processes cause a decrease in structural_integrity
+|Inference.Type=cause scalar change
+}}{{Inference
+|Inference.Description=Constructive actions cause an increase in  structural_integrity
+|Inference.Type=cause scalar change
+}}{{Inference
+|Inference.Description=The integrity of the physical structure as a whole is dependent on the stability of the physical relations between the structural parts (e.g.attachement, support relations).
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=structure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=structure.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=construct.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stability.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=construct.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=construct.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=build.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=built.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=set.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brace.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reinforce.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=underpin.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stabilize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destabilize.v
+}}
+|LinkSpanish=Estructura física
+|Applicability=English
+}}

@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases=
+|Tags=in progress,
+|Family=Election metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=War
+|Target frame=Election
+|Mappings={{Mapping
+|Target=candidate1
+|Source=War.side1
+}}{{Mapping
+|Target=candidate2
+|Source=War.side2
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Only one candidate can win the office
+|Entailment.Source inference=Only one side can win the war
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=...the fight for the White House is being waged on intensely local terrain...
+|Example.Provenance=http://www.nytimes.com/2012/10/28/us/politics/in-final-days-of-presidential-election-fighting-county-by-county.html?pagewanted=all
+}}{{Example
+|Example.Language=English
+|Example.Text=the war for the presidency is nearly over
+}}{{Example
+|Example.Language=English
+|Example.Text=Mr. Romney will likely fight hard in the state, given his family ties, but he has an uphill battle.
+|Example.Provenance=elections.nytimes.com/2012/ratings/electoral-map
+}}{{Example
+|Example.Language=English
+|Example.Text=Both sides girded for battle, as they knew the general election would be a hard-won fight.
+}}{{Example
+|Example.Language=English
+|Example.Text=The underdog and his advisers plotted how best to overpower the incumbent.
+}}{{Example
+|Example.Language=English
+|Example.Text=Campaign Craft: The Strategies, Tactics, and Art of Political Campaign Management
+|Example.Provenance=2001, Daniel M. Shea (book)
+}}
+|Entered by=Jisup
+|Last reviewed by=Eve
+|Status=in development
+|LinkPersian=انتخابات جنگ است
+|Investigated for=English
+}}
+The War frame needs to be fixed to add roles that match these.
+
+Aria F and Oana checked off cultural scope, so this is sure for at least these two languages. 9/26/14

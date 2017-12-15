@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GROUPS ARE CONTAINERS
+}}
+|Family=Ontological Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Containing
+|Target frame=Group
+|Mappings={{Mapping
+|Target=group
+|Source=container
+}}{{Mapping
+|Target=members
+|Source=contents
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 1
+|Related metaphor.Name=GROUPS ARE PART-WHOLE STRUCTURES
+}}{{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 2
+|Related metaphor.Name=WHOLES ARE CONTAINERS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This group contains twenty members.
+|Example.Annotation="this group" = Group.group [Target]; "members" = Group.members [Target]; "contains" = Containing [Source]
+}}{{Example
+|Example.Language=English
+|Example.Text=There are twenty members in this group.
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

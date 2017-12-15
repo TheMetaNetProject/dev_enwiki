@@ -1,0 +1,52 @@
+{{Frame
+|Description=second phase/process of life cycle
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=living_protagonist
+}}{{Role
+|Role.Name=developmental_stages
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Life
+}}{{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Biological entity
+}}
+|Bindings={{Binding
+|Binding.Local role=living_protagonist
+|Binding.Bound role=Life.life_liver
+}}{{Binding
+|Binding.Local role=living_protagonist
+|Binding.Bound role=Life cycle.life_liver
+}}{{Binding
+|Binding.Local role=developmental_stages
+|Binding.Bound role=Life.life_stages
+}}{{Binding
+|Binding.Local role=developmental_stages
+|Binding.Bound role=Life cycle.developmental_stages
+}}{{Binding
+|Binding.Local role=living_protagonist
+|Binding.Bound role=Biological entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=live.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flourish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thrive.v
+}}
+|Applicability=English
+}}

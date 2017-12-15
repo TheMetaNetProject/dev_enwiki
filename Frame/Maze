@@ -1,0 +1,45 @@
+{{Frame
+|Description=pathways that are confusing or difficult to navigate
+|Family=Motion-affecting frames, Motion impediments frames, 
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical path
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=labyrinth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maze.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=labyrinthian.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=labyrinthine.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dead end.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cul de sac.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blind corner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=convoluted.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obstacle course.n
+}}
+|LinkSpanish=Labertino
+|Applicability=English
+}}

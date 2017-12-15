@@ -1,0 +1,23 @@
+{{Frame
+|Family=Social frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=MetaNet
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Social group
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=society.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=societal.a
+}}
+|LinkSpanish=Sociedad
+|Applicability=English
+}}

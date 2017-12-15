@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CERTAIN IS FIRM
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Grady Primary Metaphors, Mind Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Firmness
+|Target frame=Certainty
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The plans for the trip have finally been firmed up.
+|Example.Provenance=Grady 1998
+}}{{Example
+|Example.Language=English
+|Example.Text=Next year's budget is fairly solid at this point.
+|Example.Provenance=Grady 1998
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

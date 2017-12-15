@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Health treatment
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Once the stage has been set, radical surgery will be required to actually remove the malignant tumor that Cancerous Government has become.
+|Example.Provenance=www.downsizedc.org/blog/treating-the-spending-tumor
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

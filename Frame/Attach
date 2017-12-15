@@ -1,0 +1,67 @@
+{{Frame
+|FrameNet frame=Attaching
+|Family=Act on Object frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Detach
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=attach.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=attachment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=append.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stick.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glue.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glue.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=secure.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adhere.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=affix.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cement.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cleave.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cling.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fasten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adjoin.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=epoxy.n
+}}
+|LinkSpanish=Fijar
+|Applicability=English
+}}

@@ -1,0 +1,37 @@
+{{Frame
+|Comments=There's a sister frame to this: Gun possession. For now let's keep both, we'll consolidate them soon. oana
+|Family=Gun rights family,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ownership
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Gun rights
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n ownership.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n owner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-owner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-ownership.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=own.v guns
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=own.v gun.n
+}}
+|Applicability=English
+}}

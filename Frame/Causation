@@ -1,0 +1,65 @@
+{{Frame
+|Other aliases=Cause-effect
+|Comments=FrameNet frames temporarily removed: Causation, Intentionally_affect
+|Family=Causation frames, Excluded frames
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, release candidate
+|Roles={{Role
+|Role.Name=causer
+|Role.Definition=entity
+|Role.FrameNet role=Actor
+}}{{Role
+|Role.Name=causal_process
+|Role.Type=X-schema
+}}{{Role
+|Role.Name=affected
+|Role.Definition=entity
+}}{{Role
+|Role.Name=affected_process
+|Role.Type=X-schema
+}}{{Role
+|Role.Name=cause
+|Role.FrameNet role=Cause
+}}{{Role
+|Role.Name=effect
+|Role.FrameNet role=Effect
+}}{{Role
+|Role.Name=FD_relation_type
+|Role.Definition=type of force-dynamic relation that holds between the causal_process and the affected_process. E.g. cause, prevent, enable, help, prevent
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex_process
+}}
+|Bindings={{Binding
+|Binding.Local role=agent
+|Binding.Bound role=Complex_process.protagonist1
+}}{{Binding
+|Binding.Local role=affected
+|Binding.Bound role=Complex_process.protagonist2
+}}{{Binding
+|Binding.Local role=cause
+|Binding.Bound role=Complex_process.process1
+}}{{Binding
+|Binding.Local role=effect
+|Binding.Bound role=Complex_process.process2
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cause.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cause.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=causation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=effect.n
+}}
+|LinkSpanish=Causación
+|Applicability=English
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=LOVE IS A JOURNEY Cascade,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Investigated for=English
+|Source frame=Journey
+|Target frame=Romantic relationship
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ROMANTIC RELATIONSHIPS ARE VEHICLES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Text=Our relationship is losing steam.
+|Example.Language=English
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

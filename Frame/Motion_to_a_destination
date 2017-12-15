@@ -1,0 +1,22 @@
+{{Frame
+|Comments=No LUs here please!
+|Family=Motion Frames, Movement frames, Directional movement frames,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=mover
+|Role.Type=entity
+}}{{Role
+|Role.Name=destination
+|Role.Type=location
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

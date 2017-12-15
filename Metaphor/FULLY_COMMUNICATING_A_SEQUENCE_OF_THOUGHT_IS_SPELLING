@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases=
+|Tags=Generic is specific., 
+|Family=Thought as Language Metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Spelling
+|Target frame=Communication
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=THINKING IS LINGUISTIC ACTIVITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do I need to spell it out for you?
+|Example.Provenance=PITF: p. 245
+}}{{Example
+|Example.Language=English
+|Example.Text=The theory is spelled out in chapter 4.
+|Example.Provenance=PITF: p. 245
+}}{{Example
+|Example.Language=English
+|Example.Text=Follow the letter of the law.
+|Example.Provenance=PITF: p. 245
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

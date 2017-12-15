@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=STATES ARE LOCATIONS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=179
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STATE VALUES ARE LOCATIONS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STATES ARE LANDMARKS
+}}
+|Comments="The derivation for STATES ARE LOCATIONS would imply that permanent 'states' - i.e., essential properties - should be harder to conceptualize as locations, since our understanding of these properties does not involve change. E.g. ?These cliffs are in/at a state of verticality. ?My dog is in a state of mammalhood." (Grady 1998:p. 107)
+
+See Discussion for comments on 9/4/13 revision
+|Family=Location Event Structure Metaphor, States are Locations metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=The correlation between our location and how we feel. And/or the correlation between perceiving motion and being aware of a change in the world-state around us.
+|Source frame=Trajector landmark
+|Target frame=State
+|Mappings={{Mapping
+|Target=profiled_state_value
+|Source=profiled_region
+}}{{Mapping
+|Target=standard
+|Source=landmark
+}}{{Mapping
+|Target=domain
+|Source=background
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Oana, Ellen,
+|Last reviewed by=Ellen, Elise, Oana
+|Status=in development
+|Relevant LUs=
+}}

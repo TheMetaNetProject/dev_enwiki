@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases=
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, States are Locations metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Self propelled motion to a destination
+|Target frame=Self-initiated state change
+|Mappings={{Mapping
+|Target=experiencer
+|Source=self-mover
+}}{{Mapping
+|Target=self-initiated_change_x-schema
+|Source=self-motion_x-schema
+}}{{Mapping
+|Target=initial_state
+|Source=source
+}}{{Mapping
+|Target=transition
+|Source=path
+}}{{Mapping
+|Target=final_state
+|Source=goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She climbed out of poverty.
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

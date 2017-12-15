@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=WELL-BEING IS WEALTH
+|Metaphor.Alias.Provenance=Lakoff (Moral Politics)
+|Metaphor.Alias.Page no=44
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=The Moral Accounting Metaphor
+}}
+|Family=Well-being Metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Wealth
+|Target frame=Well-being
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Increasing well-being
+|Entailment.Source inference=Increasing wealth (gain)
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=INCREASED WELL-BEING IS INCREASED WEALTH
+}}{{Entailment
+|Entailment.Target entailment=Decreasing well-being
+|Entailment.Source inference=Decreasing wealth (loss, cost)
+|Entailment.Entailed metaphors=DECREASING WELL-BEING IS DECREASING WEALTH
+}}{{Entailment}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Was it worth it?
+}}{{Example
+|Example.Language=English
+|Example.Text=The human cost of that disaster is enormous.
+}}
+|Relevant LUs=
+|Entered by=Oana
+|Status=in development
+}}

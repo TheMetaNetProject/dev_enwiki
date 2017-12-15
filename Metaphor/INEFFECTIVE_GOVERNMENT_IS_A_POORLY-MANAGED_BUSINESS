@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors
+|Source frame=Business
+|Target frame=Government
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GOVERNMENT IS A BUSINESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The point, however, is that saying that government is inefficient because it does not turn a profit is the equivalent of saying that Peyton Manning is a poor quarterback because he doesn’t hit enough home runs. He’s not supposed to.
+|Example.Provenance=http://www.forbes.com/sites/johntharvey/2012/10/05/government-vs-business/
+}}{{Example
+|Example.Language=English
+|Example.Text=The business of municipal government is, in general, the most poorly managed business in the world.
+|Example.Provenance=http://books.google.com/books?id=K48SAAAAIAAJ&pg=PA4&lpg=PA4&dq=government+is+poorly+managed+business&source=bl&ots=xUiNTTfjUG&sig=5TEqpzjnWpzpOIed5KkORn3J9vU&hl=en&sa=X&ei=6C81UZH6EKKQyAGF24CgAg&ved=0CD8Q6AEwAw#v=onepage&q=government%20is%20poorly%20managed%20business&f=false
+|Example.Annotation=from The Business of Government, Municipal (by Frank Melville Sparks)
+}}
+|Entered by=Jisup, Eve, 
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

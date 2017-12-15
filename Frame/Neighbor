@@ -1,0 +1,21 @@
+{{Frame
+|Comments=People who live near each other are Neighbors. 
+In some canonical frame, they also help each other or are supportive of each other in a community. 
+|Type=Frame
+|Status=in development
+|Entered by=Eve
+|Roles={{Role
+|Role.Name=Neighbor1
+|Role.Type=person
+}}{{Role
+|Role.Name=Neighbor2
+|Role.Type=person
+}}{{Role
+|Role.Name=Neighbor_relation
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

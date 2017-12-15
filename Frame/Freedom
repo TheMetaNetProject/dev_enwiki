@@ -1,0 +1,49 @@
+{{Frame
+|Description=The ideology of freedom rather than the physical impediment to motion
+|Comments=Entered per the request after the April 2014 site visit.
+
+This refers to the ideology of freedom, rather than to the physical lack of impediment to motion. This is a target domain frame, whereas the latter is a source domain frame.
+
+It is based on the 7 concepts submitted by us to IARPA in January 2014.
+
+The other 6 are Freedom, Equality, Democratic_institutions, Representation_and_decision-making, Organization_of_power, Citizen_participation.
+
+Lack of impediment to action (“the absence of opposition” as Thomas Hobbs says) as it applies to groups of people in a society or nation. This refers to things such as free speech, free elections, free association.
+
+The scope of freedom of action (i.e. who may have freedom, who typically tends to be excluded from free activities, etc.).
+
+Freedom is often understood as empowerment to seek resources, opportunities, and venues to express opinions.
+|Family=Democracy frames, Gun debate,
+|Tags=Program sources
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=freedom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liberty.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=free.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=civil liberty.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=personal liberty.n
+}}
+|LinkSpanish=Libertad
+|LinkPersian=آزادی
+}}

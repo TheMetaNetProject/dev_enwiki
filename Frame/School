@@ -1,0 +1,47 @@
+{{Frame
+|Family=Education frames, Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=student(s)
+}}{{Role
+|Role.Name=teacher(s)
+}}{{Role
+|Role.Name=curriculum
+}}{{Role
+|Role.Name=school_house
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Educational institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=school
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=student
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=students
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=teacher
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=teachers
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=homework
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exam
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=graduation requirement
+}}
+|Applicability=English
+}}

@@ -1,0 +1,33 @@
+{{Frame
+|Comments=Refers to representation and decision-making in the domain of governance and government, specifically.
+
+Entered per the request after the April 2014 site visit.
+
+The institutionalized process that enables the governed to make decisions about their representation, whether through a representative body or directly.
+
+This includes voting and the campaigns and elections surrounding voting.
+
+In a democracy, things are decided by vote, not by force.
+|Family=Democracy frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Decision making
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=representation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=representative.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=represent.v
+}}
+|Applicability=English
+}}

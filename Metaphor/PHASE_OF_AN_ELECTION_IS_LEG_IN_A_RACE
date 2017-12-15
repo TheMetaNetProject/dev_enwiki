@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors, 
+|Source frame=Race
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS A RACE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=As Election Day drew near, the candidates pulled into the final lap of the race.
+}}{{Example
+|Example.Language=English
+|Example.Text=Last Legs of Campaign Can Decide Race
+|Example.Provenance=http://www.thehoya.com/opinion/dulik-last-legs-of-campaign-can-decide-race-1.2903676#.UTe9P6KsiSo
+}}{{Example
+|Example.Language=English
+|Example.Text=How both candidates fair in the final leg of campaigning will likely determine the winner in each state.
+|Example.Provenance=http://themaroontiger.com/presidential-election-takes-last-leg/
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

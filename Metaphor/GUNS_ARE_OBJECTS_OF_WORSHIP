@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Description=This metaphor reflects the 'government oversight' perspective's metaphorical conceptualization of gun owners (esp. people who are avidly pro-gun rights/anti-gun control).
+|Family=Gun debate metaphors,
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, American progressive
+|Source frame=Worship
+|Target frame=Gun possession
+|Mappings={{Mapping
+|Target=gun_owner
+|Source=worshipper
+}}{{Mapping
+|Target=gun
+|Source=worshipped thing
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GUNS ARE TARGETS OF PSYCHOLOGICAL FIXATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=altar of gun ownership
+}}{{Example
+|Example.Language=English
+|Example.Text=worship guns
+}}{{Example
+|Example.Language=English
+|Example.Text=glorify firearms
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

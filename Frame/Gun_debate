@@ -1,0 +1,38 @@
+{{Frame
+|Comments=supposed to capture only the debate aspect of the case study, and is intended to be neutral with respect to viewpoint
+|Family=Gun debate,
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=affirmative_team
+}}{{Role
+|Role.Name=bill
+|Role.Definition=proposed legislation
+}}{{Role
+|Role.Name=negative_team
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Debating
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun debate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control debate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control debate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights debate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-rights debate
+}}
+|Applicability=English
+}}

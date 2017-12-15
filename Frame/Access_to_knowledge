@@ -1,0 +1,19 @@
+{{Frame
+|Family=Access to Education frames, Cognition Frames,
+|Tags=Program sources
+|Type=Frame
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Access to education
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Knowledge
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

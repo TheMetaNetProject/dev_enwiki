@@ -1,0 +1,132 @@
+{{Frame
+|Description=Figthing between two or more people
+|FrameNet frame=Hostile_encounter
+|Family=Physical conflict frames, Physical combat frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=fighter1
+}}{{Role
+|Role.Name=fighter2
+}}{{Role
+|Role.Name=physical interaction x-schema
+}}{{Role
+|Role.Name=outcome
+|Role.Definition=may not have a winner or loser
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=fight.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=duke.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=joust.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=melee.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tussle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brawl.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brawl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tussle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=battle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combatant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fighter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wrangle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fist fight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strife.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=row.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hassle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hassle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skirmish.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skirmish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scuffle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spar.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grapple.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wrestle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=box.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boxing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boxing match.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=struggle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=struggle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clinch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=duel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=duel.v
+}}
+|LinkSpanish=Lucha física
+|Applicability=English
+}}

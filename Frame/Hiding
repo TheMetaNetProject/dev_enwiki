@@ -1,0 +1,59 @@
+{{Frame
+|FrameNet frame=Hiding_objects
+|Family=Concealment/Protection frames, Protecting frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shroud.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bury.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cache.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cover.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cover.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cover up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloak
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=camouflage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adumbrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keep from
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obscure.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stow.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=camouflage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mask.v
+}}
+|LinkSpanish=Esconder
+|Applicability=English
+}}

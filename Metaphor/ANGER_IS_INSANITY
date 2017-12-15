@@ -1,0 +1,94 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS INSANITY
+|Metaphor.Alias.Provenance=Women Fire and Dangerous Things
+|Metaphor.Alias.Page no=391
+}}
+|Family=Anger Metaphors
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Insanity
+|Target frame=Anger
+|Mappings={{Mapping
+|Target=experiencer
+|Source=insane_person
+}}{{Mapping
+|Target=anger
+|Source=insanity
+}}{{Mapping
+|Target=anger_level
+|Source=agitation_level
+}}{{Mapping
+|Target=anger_limit
+|Source=agitation_limit
+}}{{Mapping
+|Target=angry_action
+|Source=insane_behavior
+}}{{Mapping
+|Target=cause_of_anger
+|Source=cause_of_insanity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=ANGER IS HEAT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=An anger experiencer whose anger_level is beyond their anger_limit will exhibit angry_action
+|Entailment.Source inference=A insane_person who's agitation_level is beyond their agitation_limit will exhibit insane_behavior
+}}{{Entailment
+|Entailment.Target entailment=an anger experiencer's angry_action can cause harm to other_people
+|Entailment.Source inference=an insane_person's insane_behavior can cause harm to other_people
+}}
+|Examples={{Example
+|Example.Text=I just touched him, and he went crazy.
+
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=You're driving me nuts!
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=I'm mad!
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=When the up threw him out of the game, Billy started foaming at the mouth.
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=If anything else goes wrong, I'll get hysterical.
+
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=He got so angry, he went out of his mind.
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=When my mother finds out, she'll have a fit.
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=He's tearing his hair out!
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}{{Example
+|Example.Text=The loud music next door has got him climbing the walls!
+|Example.Language=English
+|Example.Provenance=Women Fire and Dangerous Things:390
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=crazy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mad.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nuts.n
+}}
+|Entered by=Jisup
+|Status=in development
+}}

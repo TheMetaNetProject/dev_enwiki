@@ -1,0 +1,37 @@
+{{Frame
+|FrameNet frame=Cause_to_be_wet, Being_wet
+|Comments=Needed for some economic inequality etc. metaphors
+
+E.g.
+"How Increasing Inequality is Dampening U.S. Economic Growth, and Possible Ways to Change the Tide.”
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wet.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=damp.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dampen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moisten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wet.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rinse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rinse.n
+}}
+|Applicability=English
+}}

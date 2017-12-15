@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Comments=Kovecses 2005
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Complex physical object
+|Target frame=Company
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We have to restructure this firm.
+}}
+|Relevant LUs=
+|Entered by=Oana, 
+|Status=in development
+}}

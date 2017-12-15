@@ -1,0 +1,26 @@
+{{Frame
+|Family=Scale Frames,
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=temperature_scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=chill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=coldness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=temperature.n
+}}
+|Applicability=English
+}}

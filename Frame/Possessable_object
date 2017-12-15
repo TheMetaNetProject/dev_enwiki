@@ -1,0 +1,20 @@
+{{Frame
+|Comments=This frame is created to be a role in the Possession frame.
+|Family=Entity frames, Possession Frames,
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=possessable_object
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,81 @@
+{{Frame
+|Description=An animate entity experiences bodily injury or pain
+|Comments=Experience bodily harm is the FrameNet frame.
+|Family=Harm, Harmful encounters frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen,
+|Last reviewed by=Elise, Oana
+|Roles={{Role
+|Role.Name=experiencer
+|Role.Type=sentient entity
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=body_part
+}}{{Role
+|Role.Name=injury
+|Role.Type=x-schema
+|Role.Definition=bodily injury or other harm that is experienced
+}}{{Role
+|Role.Name=pain
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing a state
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Harm to living entity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hurt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=painful.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=painfully.adv
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ache.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=achy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ache.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aching.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suffer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suffering.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pang.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twinge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=excruciating.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=agonizing.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=agony.n
+}}
+|LinkSpanish=Experimentar daño
+|Applicability=English
+}}

@@ -1,0 +1,61 @@
+{{Frame
+|Family=Fluid frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=MetaNet group,
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=absorbent_entity
+}}{{Role
+|Role.Name=fluid
+|Role.Type=liquid
+|Role.Definition=the thing that is absorbed by absorbent_entity
+}}{{Role
+|Role.Name=absorption_process
+|Role.Type=x-schema
+|Role.Definition=movement of fluid into absorbent_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Liquid
+}}
+|Bindings={{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Liquid.liquid
+}}
+|Inferences={{Inference
+|Inference.Description=Before absorption process, fluid is outside of absorbent thing.  During process, water moves into absorbent thing.  At finish, there is less fluid outside absorbent thing than there was at the beginning of the process.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=absorb.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sponge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sponge.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sponge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=absorption.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soak.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soaking.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sop.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=saturate.v
+}}
+|Applicability=English
+}}

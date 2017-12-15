@@ -1,0 +1,41 @@
+{{Frame
+|Family=Wealth and Social Class frames,
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Resource transfer
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=earmark
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allocate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reallocate
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mete
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allot
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=apportion
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allotment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=budget.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=budget.n
+}}
+}}

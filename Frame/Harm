@@ -1,0 +1,66 @@
+{{Frame
+|Description=Scenario: negative impact to some entity, and the process that causes that harm
+|Comments=This is a high level domain, do not include LMs here.
+
+This frame is used by: Experience_harm, Cause_harm, etc. Include LUs there.
+|Family=Harm, Causation frames, Harmful encounters frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=harmed_entity
+|Role.Type=Entity
+}}{{Role
+|Role.Name=harmful_process
+|Role.Type=Process
+}}{{Role
+|Role.Name=effect_of_harm
+|Role.Definition=damage caused by process
+}}{{Role
+|Role.Name=consequence_of_harm
+|Role.Definition=results of damage, e.g. loss of function
+}}{{Role
+|Role.Name=cause
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causation
+}}
+|Bindings={{Binding
+|Binding.Local role=harmful_process
+|Binding.Bound role=Causation.cause
+}}{{Binding
+|Binding.Local role=harmed_entity
+|Binding.Bound role=Causation.affected
+}}{{Binding
+|Binding.Local role=effect_of_harm
+|Binding.Bound role=Causation.effect
+}}{{Binding
+|Binding.Local role=cause
+|Binding.Bound role=Causation.agent
+}}
+|Inferences={{Inference
+|Inference.Description=Outcome of harmful process is negative for the harmed_entity.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=harm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harm.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=damage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=damage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harmful.a
+}}
+|LinkSpanish=Daño
+|Applicability=English
+}}

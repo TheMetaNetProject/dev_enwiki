@@ -1,0 +1,70 @@
+{{Frame
+|Family=Motion Frames, Movement frames, Affected movement frames, Forced movement frame family, Moving entity frames,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported, release candidate
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Forced movement
+}}{{Related frame
+|Related frame.Relation type=is in causal relation with
+|Related frame.Name=Upward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=help.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boost.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yank.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoist.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bolster.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lift.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hike.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=raise.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yank.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boost.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lift.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=elevate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boost.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jack.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boost.v out
+}}
+}}

@@ -1,0 +1,44 @@
+{{Frame
+|Family=Communication Frames, Cognition Frames, 
+|Roles={{Role
+|Role.Name=cognizer
+}}{{Role
+|Role.Name=linguistic_expression
+}}{{Role
+|Role.Name=cognition_process
+}}{{Role
+|Role.Name=thoughts
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Speaking
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Word
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}
+|Bindings={{Binding
+|Binding.Local role=cognizer
+|Binding.Bound role=Speaking.speaker
+}}{{Binding
+|Binding.Local role=linguistic_expression
+|Binding.Bound role=Speaking.message
+}}{{Binding
+|Binding.Local role=linguistic_expression
+|Binding.Bound role=Word.word_form
+}}{{Binding
+|Binding.Local role=thoughts
+|Binding.Bound role=Word.word_meaning
+}}{{Binding
+|Binding.Local role=cognizer
+|Binding.Bound role=Cognition.cognizer
+}}{{Binding
+|Binding.Local role=linguistic_expression
+|Binding.Bound role=Cognizing.topic
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

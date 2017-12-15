@@ -1,0 +1,78 @@
+{{Frame
+|Description=This is the competitive version of game, where there are at least two players and there is an outcome with a winner and loser.
+|Family=Competition frames,
+|Type=Frame, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Elise,
+|Roles={{Role
+|Role.Name=game_event
+}}{{Role
+|Role.Name=game player1
+}}{{Role
+|Role.Name=game player2
+}}{{Role
+|Role.Name=prize
+}}{{Role
+|Role.Name=outcome
+}}{{Role
+|Role.Name=playing x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recreational competition
+}}
+|Bindings={{Binding
+|Binding.Local role=game_event
+|Binding.Bound role=Recreational competition.event
+}}{{Binding
+|Binding.Local role=game player1
+|Binding.Bound role=Recreational competition.competitor_1
+}}{{Binding
+|Binding.Local role=game player2
+|Binding.Bound role=Recreational competition.competitor_2
+}}{{Binding
+|Binding.Local role=prize
+|Binding.Bound role=Recreational competition.prize
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Recreational competition.outcome
+}}{{Binding
+|Binding.Local role=playing x-schema
+|Binding.Bound role=Recreational competition.activity_x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=game.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chess.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chess game.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pawn.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=UNO
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=player.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=score.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=checkers.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=checkmate
+}}
+|LinkSpanish=Juego
+|Applicability=English
+}}

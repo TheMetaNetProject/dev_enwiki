@@ -1,0 +1,76 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSES ARE DESTINATIONS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSES ARE PHYSICAL GOALS
+|Metaphor.Alias.Provenance=Johnson
+}}
+|Description=DEMO.
+|Comments=see discussion
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Grady Primary Metaphors, DEMO metaphors, 
+|Metaphor Type=Primary, Entailed
+|Source frame=Self propelled motion to a destination
+|Target frame=Purposeful action
+|Mappings={{Mapping
+|Target=actor
+|Source=self-mover
+}}{{Mapping
+|Target=action_x-schema
+|Source=self-motion_x-schema
+|Comment=action_x-schema.final = achieving purpose; self-motion.x-schema.final = reaching destination
+}}{{Mapping
+|Target=purpose
+|Source=destination
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=MEANS ARE PATHS
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Different means of achieving a purpose
+|Entailment.Source inference=Different paths to reaching a destination
+|Entailment.Entailed metaphors=DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION
+}}{{Entailment
+|Entailment.Target entailment=Lack of purpose
+|Entailment.Source inference=Lack of direction
+}}{{Entailment
+|Entailment.Target entailment=Aids to achieving a purpose
+|Entailment.Source inference=Aids to reaching a destination
+|Entailment.Entailed metaphors=AIDS TO ACHIEVING A PURPOSE ARE AIDS TO REACHING A DESTINATION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We've reached the end.
+|Example.Provenance=Philosophy in the Flesh (190)
+}}{{Example
+|Example.Language=English
+|Example.Text=We are seeing the light at the end of the tunnel.
+|Example.Provenance=Philosophy in the Flesh (190)
+}}{{Example
+|Example.Language=English
+|Example.Text=We only have  short way to go.
+|Example.Provenance=Philosophy in the Flesh (190)
+}}{{Example
+|Example.Language=English
+|Example.Text=We're where we wanted to go.
+|Example.Provenance=Philosophy in the Flesh (190)
+}}{{Example
+|Example.Language=English
+|Example.Text=The goal is a long way off.
+|Example.Provenance=Philosophy in the Flesh (190)
+}}{{Example
+|Example.Language=English
+|Example.Text=He is just floating around.
+|Example.Provenance=Philosophy in the Flesh (190)
+|Example.Comments=Lack of purpose is lack of direction
+}}
+|Entered by=Oana, Elise,
+|Last reviewed by=Ellen, Oana
+|Status=in development
+|LinkPersian=بدست آوردن هدف، رسیدن به مقصد است
+|Investigated for=English
+|Relevant LUs=
+}}

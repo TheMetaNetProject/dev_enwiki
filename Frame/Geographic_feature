@@ -1,0 +1,47 @@
+{{Frame
+|FrameNet frame=Natural_features
+|Family=Entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=island.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=valley.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peninsula.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cliff.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vale.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=oasis.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=beach.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plateau.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=archipelago.n
+}}
+|LinkSpanish=Características geográficas
+|Applicability=English
+}}

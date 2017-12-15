@@ -1,0 +1,49 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGE OF STATE IS CHANGE OF POSSESSION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CHANGES ARE MOVEMENTS OF POSSESSIONS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=p. 196
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Object Event Structure Metaphor,
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Possession change
+|Target frame=Change of state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=possessor
+}}{{Mapping
+|Target=state
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=EXPERIENCING A STATE IS POSSESSING AN OBJECT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=change into state
+|Entailment.Source inference=acquiring a possession
+|Entailment.Entailed metaphors=CHANGE IS ACQUISITION
+}}{{Entailment
+|Entailment.Target entailment=change out of state
+|Entailment.Source inference=losing a possession
+|Entailment.Entailed metaphors=CHANGE IS LOSS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I got a headache.
+|Example.Provenance=PITF, p. 196
+}}{{Example
+|Example.Language=English
+|Example.Text=My headache went away.
+|Example.Provenance=PITF, p. 196
+}}
+|Entered by=Ellen,
+|Status=in development
+|LinkPersian=تغییر حالت، تغییر مالکیت است
+|Investigated for=English
+|Relevant LUs=
+}}

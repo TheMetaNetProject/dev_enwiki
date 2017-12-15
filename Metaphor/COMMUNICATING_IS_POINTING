@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Family=Conduit Metaphor, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Pointing to something draws the person's attention to that thing, and thereby attunes that person to the same object that the pointing person is attuned to.
+|Source frame=Cause_to_perceive
+|Target frame=Communication
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=COMMUNICATING IS SHOWING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He pointed out that global warming is real.
+|Example.Provenance=The Political Mind, p. 7
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

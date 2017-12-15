@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=END OF AN ACTION IS THE END OF A PATH
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Type=Primary, Entailed
+|Cultural scope=American English, Persian
+|Source frame=Motion along a path
+|Target frame=Action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We are reaching the end of the house-buying process.
+}}{{Example
+|Example.Language=English
+|Example.Text=Finally, all my educational goals are in reach.
+}}{{Example
+|Example.Language=English
+|Example.Text=We are entering the last stages of filing for bankruptcy.
+}}
+|Entered by=Oana, Aria
+|Status=in development
+|LinkPersian=پایان عمل، انتهای مسیر است
+|Relevant LUs=
+}}

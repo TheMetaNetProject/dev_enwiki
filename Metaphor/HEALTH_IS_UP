@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HEALTHY IS UP
+}}
+|Family=Well-being Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Health
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=HEALTH IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's at the peak of health.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's in top shape.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

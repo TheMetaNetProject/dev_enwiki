@@ -1,0 +1,23 @@
+{{Frame
+|FrameNet frame=Desiring
+|Other aliases=Desire
+|Comments=Should this exist?
+|Family=Cognition Frames, 
+|Type=Cog
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=Desired_content
+|Role.FrameNet role=Event
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

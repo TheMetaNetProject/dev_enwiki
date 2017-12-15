@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "chained by poverty"
+|Comments=Needs full mappings. 
+Is the overarching case for Poverty is a Burden, Poverty is a Chain, Poverty is Confinement...
+|Family=Poverty metaphors, Poverty as an individual problem metaphors, 
+|Metaphor Level=General
+|Source frame=Motion impediments
+|Target frame=Poverty
+|Mappings={{Mapping
+|Target=impoverished_entity
+|Source=mover
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Though politically the country is free, its people remain chained by poverty.
+|Example.Provenance=http://www.bloomberg.com/apps/news?pid=newsarchive&sid=akCQGEyJIXEM&refer=australia
+}}
+|Entered by=Eve
+|Status=in development
+|Investigated for=English
+}}

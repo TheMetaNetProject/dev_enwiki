@@ -1,0 +1,80 @@
+{{Frame
+|Comments=We may want to have separate frames for 'right to bear arms' (gun rights) and the 'right to self-defense'.
+
+We may also want to keep Gun rights separate from Gun possession; the latter metonymically triggers the former. The roles in this frame should be all about the rights, not the guns. (Oana)
+|Family=Gun debate, Gun rights family
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana, Oana
+|Roles={{Role
+|Role.Name=gun_rights_"owner"
+}}{{Role
+|Role.Name=right_to_own_guns
+}}{{Role
+|Role.Name=gun_rights_domain
+}}{{Role
+|Role.Name=constitution
+|Role.Type=Frame
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Personal weapon
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun possession
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Second Amendment
+}}
+|Bindings={{Binding
+|Binding.Local role=gun_owner
+|Binding.Bound role=rights_holder
+}}{{Binding
+|Binding.Local role=right_to_own_guns
+|Binding.Bound role=right_itself
+}}{{Binding
+|Binding.Local role=gun_ownership_domain
+|Binding.Bound role=rights_domain
+}}{{Binding
+|Binding.Local role=constitution
+|Binding.Bound role=source_of_right
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to bear arms
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to bear firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right to keep and bear arms
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to own gun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to own firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n freedom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n freedom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=private property right.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ECONOMY IS A BODY
+}}
+|Family=Economics Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Body
+|Target frame=Economy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=SOCIETY IS A PERSON
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=force-feed the economy back to health
+|Example.Provenance=Karen Sullivan (2013), p. 28
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=اقتصاد غول است
+|Investigated for=English
+}}

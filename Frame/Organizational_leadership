@@ -1,0 +1,42 @@
+{{Frame
+|Family=Leaders frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Leadership
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Organization
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=chairman.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=director.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=CEO.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=C.E.O.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chief executive officer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=supervisor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=executive.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=president.n
+}}
+|Applicability=English
+}}

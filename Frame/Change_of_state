@@ -1,0 +1,55 @@
+{{Frame
+|FrameNet frame=Change_of_state_endstate, Change_of_state_initial_state
+|Other aliases=Experiencing a change of state
+|Comments=current frame includes both an initial and a final state
+|Family=State-related frames, Property-related frames, Change-related frames
+|Type=Cog
+|Status=in development, release candidate
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=experiencer
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=initial_state
+|Role.Definition=initial experienced state value
+|Role.FrameNet role=State
+}}{{Role
+|Role.Name=transition
+|Role.Definition=intermediate experienced state value(s)
+}}{{Role
+|Role.Name=final_state
+|Role.Definition=final experienced state value
+|Role.FrameNet role=State
+}}{{Role
+|Role.Name=state_change_process
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=standard
+|Role.Definition=state value to which experienced_state_values are compared
+}}{{Role
+|Role.Name=state
+|Role.Definition=paramater/domain of experience
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing_a_state
+|Related frame.Description=not sure this is a strict subcase relation (Oana)
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Experiencing_a_state.experiencer
+}}{{Binding
+|Binding.Local role=standard
+|Binding.Bound role=Experiencing_a_state.standard
+}}
+|Inferences={{Inference
+|Inference.Description=The initial_state precedes the final state.  The transition occurs after the initial_state and before the final state.
+|Inference.Type=x-schema stages
+}}
+|Relevant LUs=
+|LinkPersian=تغییر وضعیت
+|Applicability=English
+}}

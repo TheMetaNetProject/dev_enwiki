@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSING ECONOMIC DIFFICULTY IS INFLICTING HARM
+}}
+|Description=e.g. "Poverty will cripple the economy"
+CLASSIFY?
+|Comments=merged with analysis from CAUSING ECONOMIC DIFFICULTY IS INFLICTING HARM
+|Tags=Program sources
+|Family=Poverty metaphors,Taxation metaphors, Economics Metaphors,  Harm metaphors, Poverty as a social problem metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Harm to living entity
+|Target frame=Economic difficulty
+|Mappings={{Mapping
+|Target=cause_of_difficulty
+|Source=agent
+}}{{Mapping
+|Target=actor
+|Source=victim
+}}{{Mapping
+|Target=difficulty
+|Source=physical harm
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ECONOMIC HARDSHIP IS PHYSICAL HARM
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NEGATIVELY EVALUATED CONDITIONS ARE HARMFUL AGENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Another round of cuts will cripple the economy.
+}}
+|Entered by=Jisup, Metabot,
+|Last reviewed by=Elise, Oana
+|Status=in development, auto imported, release candidate
+}}

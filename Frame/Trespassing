@@ -1,0 +1,80 @@
+{{Frame
+|FrameNet frame=Invading
+|Family=Directional movement frames, Motion impediments frames, 
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=territory
+|Role.Definition=bounded land area possessed and/or controlled  by territory_owner
+}}{{Role
+|Role.Name=territory_owner
+|Role.Definition=person who owns and/or can legitimately occupy territory
+}}{{Role
+|Role.Name=trespasser
+|Role.Definition=person who is not authorized to be in terriory
+}}{{Role
+|Role.Name=trespassing_x-schema
+|Role.Definition=trespasser's incursion into and/or occupation of territory
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Moving into a bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Territory
+}}
+|Bindings={{Binding
+|Binding.Local role=territory
+|Binding.Bound role=Territory.territory_whole
+}}{{Binding
+|Binding.Local role=territory
+|Binding.Bound role=Moving into a bounded region.bounded_region
+}}{{Binding
+|Binding.Local role=trespasser
+|Binding.Bound role=Moving into a bounded region.mover
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=trespass.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trespass.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=encroach.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=encroachment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infringe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infringement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=intrude.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=intrusion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=intrusive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unlawful.a entry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=incursion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=invade.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=invasion.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "cure us of poverty"
+|Family=Poverty metaphors, Physical afflictions metaphors, Poverty as a social problem metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Treating a physical affliction
+|Target frame=Addressing poverty
+|Mappings={{Mapping
+|Target=poverty
+|Source=disease
+}}{{Mapping
+|Target=policy_makers
+|Source=medical_professionals
+}}{{Mapping
+|Target=impoverished_entity
+|Source=body
+}}{{Mapping
+|Target=policies
+|Source=treatment_strategies
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=POVERTY IS A DISEASE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Improving access to education is the only sure way to cure us of poverty.
+|Example.Provenance=Jisup
+}}
+|Entered by=Jisup
+|Last reviewed by=oana
+|Status=in development, release candidate
+|Investigated for=English
+}}

@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Race
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS A RACE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.
+}}{{Example
+|Example.Language=English
+|Example.Text=In the presidential race of 2008, John McCain came up short.
+}}{{Example
+|Example.Language=English
+|Example.Text=During the Republican primary, several candidates jockeyed for the frontrunner position, but Huntsman quickly fell behind and bowed out.
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

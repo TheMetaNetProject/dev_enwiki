@@ -1,0 +1,61 @@
+{{Frame
+|Description=Physical objects with internal structure, e.g. part-whole structure
+|FrameNet frame=Entity
+|Other aliases=Complex physical object
+|Comments=This frame captures physical objects characterized by part-whole structure, including biological entities.
+
+It is NOT necessarily functional. See its special case, Physical_structure, for the first place where Functionality plays a role.
+|Family=Entity frames,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Jisup
+|Roles={{Role
+|Role.Name=object_whole
+}}{{Role
+|Role.Name=object_parts
+}}{{Role
+|Role.Name=object_part_relations
+}}{{Role
+|Role.Name=object_size
+}}{{Role
+|Role.Name=object_shape
+}}{{Role
+|Role.Name=object_location
+}}{{Role
+|Role.Name=object_weight
+|Role.Definition=scalar amount
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}
+|Bindings={{Binding
+|Binding.Local role=object_whole
+|Binding.Bound role=Part whole.whole
+}}{{Binding
+|Binding.Local role=object_parts
+|Binding.Bound role=Part whole.parts
+}}{{Binding
+|Binding.Local role=object_whole
+|Binding.Bound role=Object.object_entity
+}}{{Binding
+|Binding.Local role=size
+|Binding.Bound role=Object.size
+}}{{Binding
+|Binding.Local role=shape
+|Binding.Bound role=Object.shape
+}}
+|Inferences={{Inference
+|Inference.Description=Structural integrity of the complex object relies on the integrity of its parts as well as the integrity of the connections between the parts.
+}}
+|Relevant LUs=
+|LinkSpanish=Objeto físico complejo
+|Applicability=English
+}}

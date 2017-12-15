@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Legislation metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Motion impediments
+|Target frame=Legislation enactment
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ENACTING LEGISLATION IS CAUSING MOTION ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.
+}}{{Example
+|Example.Language=English
+|Example.Text=The Senator's filibuster halted the passage of the bill.
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

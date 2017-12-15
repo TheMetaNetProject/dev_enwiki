@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Investigated for=English
+|Source frame=Food
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=IDEAS ARE FOOD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The very thought of it makes me sick.
+}}{{Example
+|Example.Language=English
+|Example.Text=That's bullshit!
+|Example.Provenance=PITF: p. 242
+}}
+|Relevant LUs=
+|Entered by=Oana, 
+|Status=in development
+}}

@@ -1,0 +1,45 @@
+{{Frame
+|Comments=needs work
+For right now, top of cascade, not in any "is a subcase of" relation above it.
+|Family=Governance frames, Democracy frames, Rights family
+|Tags=tentative
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=rights_holder
+}}{{Role
+|Role.Name=right
+}}{{Role
+|Role.Name=domain
+|Role.Definition=e..g property rights, human rights
+}}{{Role
+|Role.Name=source_of_right
+}}{{Role
+|Role.Name=other_actors
+|Role.Definition=other people whose actions are constrained by right_holder's rights
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Freedom
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=inalienable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right to
+}}
+|LinkSpanish=Derechos
+|LinkPersian=حقوق
+|Applicability=English
+}}

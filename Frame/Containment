@@ -1,0 +1,59 @@
+{{Frame
+|Description=A bounded region or object whose boundaries' physical properties prevent or impede motion
+|FrameNet frame=Containment
+|Other aliases=Container
+|Comments=needs to be clarified when to use "containing" vs "containment"  - might want to re-name Containment to Container.
+|Family=Bounding, Spatial relations, Motion-affecting frames, Motion impediments frames, 
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Roles={{Role
+|Role.Name=Interior
+}}{{Role
+|Role.Name=Exterior
+}}{{Role
+|Role.Name=Boundary
+}}{{Role
+|Role.Name=Portal
+|Role.Definition=a 'gap' in the boundary
+}}{{Role
+|Role.Name=container
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bounded_region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Barrier
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part_whole
+}}
+|Bindings={{Binding
+|Binding.Local role=boundary
+|Binding.Bound role=Barrier.barrier_object
+}}{{Binding
+|Binding.Local role=container
+|Binding.Bound role=Part_whole.whole
+}}{{Binding
+|Binding.Local role=boundary
+|Binding.Bound role=Part_whole.part
+}}{{Binding
+|Binding.Local role=interior
+|Binding.Bound role=Part_whole.part
+}}
+|Inferences={{Inference
+|Inference.Description=To move from exterior to interior, or interior to exterior, a mover must cross the boundary.  Boundary's physical properties may impede or prevent such motion.  The presence of an (open) portal may facilitate boundary crossing.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=contain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=container.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=containment.n
+}}
+|LinkSpanish=Contención
+}}

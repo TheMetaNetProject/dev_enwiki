@@ -1,0 +1,75 @@
+{{Frame
+|Description=Translational motion of some entity, with motion starting inside some (bounded) area, and ending outside that area
+|Comments="leave" is temporarily removed because it's producing bad LMs.
+|Family=Motion Frames, Movement frames, Directional movement frames, Location frames, Translational motion frames, Moving entity frames,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, release candidate
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=motion_x-schema
+}}{{Role
+|Role.Name=source
+}}{{Role
+|Role.Name=path
+}}{{Role
+|Role.Name=goal
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}{{Role
+|Role.Name=bounded region
+|Role.Definition=location that mover is moving out of
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Moving into a bounded region
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Paths out of a location
+|Related frame.Description=Paths out of a location frame contain physical paths, and don't profile the mover's change in location.
+}}
+|Bindings={{Binding
+|Binding.Local role=source
+|Binding.Bound role=Bounded_region.interior
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Bounded_region.exterior
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=way out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exit.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climb.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=egress.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=go.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=move.v out
+}}
+}}
+Constructions:  
+-- mover's motion:  [ v (exit)], e.g. he exited / she left (the room).  
+-- mover's motion along a path [v(motion) + pp(spg)].  Additional constraints: pp.prep = "out"
+-- [N(pathway) + prep('out'+ 'of') + N (LM)], e.g. road out of town

@@ -1,0 +1,28 @@
+{{Frame
+|Description=group of individuals whose intention is to cause violence, trouble, and disorder
+|Family=Social frames, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social group
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=posse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gang.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mob.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rabble.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors, Strict father morality metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Upright posture
+|Target frame=Moral goodness
+|Mappings={{Mapping
+|Target=good_person
+|Source=upright_person
+}}{{Mapping
+|Target=goodness
+|Source=upright_position
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is an upstanding citizen.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

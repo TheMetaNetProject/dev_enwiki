@@ -1,0 +1,140 @@
+{{Frame
+|Family=Impediment and enablement frames, Fluid frame family, Internal motion frames, 
+|Type=Frame
+|Cultural information=The name of this is misleading, as it implies causation. The name Release_liquid is not meant to imply agentivity. It refers to any scenario where liquid is making it's way out of or away from its container or bounded region or out of an object containing liquid, whether causation is involved or not. Name may need changing.
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Liquid
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fluid motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=drain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=draining.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leaking
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outlet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pipe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=empty.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=siphon.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=filter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ooze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flow.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trickle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leach.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squeeze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squeeze.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wring.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wring.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suck.v the lifeblood
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vacuum.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liquidate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liquidation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trickling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=filter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=siphon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=funnel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=funnel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=evaporate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=evaporation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=extract.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=extract.n
+}}
+|LinkSpanish=Liberar líquido
+|Applicability=English
+}}

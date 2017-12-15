@@ -1,0 +1,54 @@
+{{Frame
+|Description=Person moves with the objective of reaching some destination.
+|Other aliases=Self-propelled purposeful motion, Purposeful self-propelled motion, Goal-directed motion
+|Comments=The mover's objective may either be to get to some (desired) location, or to get away from a (undesired)location.
+|Family=Motion Frames, Movement frames, Affected movement frames, Directional movement frames, Action frames, Moving entity frames, 
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=self-mover
+|Role.Definition=from Self propelled motion
+}}{{Role
+|Role.Name=self-motion_x-schema
+|Role.Definition=from Self propelled motion
+}}{{Role
+|Role.Name=source
+|Role.Definition=from Self propelled motion
+}}{{Role
+|Role.Name=path
+|Role.Definition=from Self propelled motion
+}}{{Role
+|Role.Name=goal
+|Role.Definition=from Self propelled motion; aka destination
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Self propelled motion
+|Related frame.Description=more specific subcase
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion to a destination
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Purposeful action
+|Related frame.Description=makes use of
+}}
+|Bindings={{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Purposeful action.objective
+}}
+|Inferences={{Inference
+|Inference.Description=The actor acts in order to move.  Action continues until actor reaches goal.
+}}{{Inference
+|Inference.Description=To reach goal, the actor needs to move towards it,(generally) in a forward direction
+}}{{Inference
+|Inference.Description=The speed of motion, elapsed time, and distance travelled are inter-related (D = RT). e.g. higher speed enables mover to cover a given distance in less time or a greater distance in a given time.
+}}{{Inference
+|Inference.Description=Mover's choice of direction will affect which locations (including Goal) the mover can reach.
+}}
+|Relevant LUs=
+|LinkSpanish=Movimiento autopropulsado hacia un destino
+}}

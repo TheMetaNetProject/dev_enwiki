@@ -1,0 +1,92 @@
+{{Frame
+|Description=non-circular motion about a fixed location
+|Family=Motion Frames, Internal motion frames, Moving entity frames, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=mover
+|Role.Type=entity
+}}{{Role
+|Role.Name=motion_x-schema
+|Role.Definition=iterative motion about a fixed point
+}}{{Role
+|Role.Name=motion_path
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=vascillate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=oscillate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sway.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=teeter-totter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=undulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swing.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pendulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seesaw.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quiver.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shake.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shiver.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=convulse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rock.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jiggle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=waggle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bobble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quaver.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jounce.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=joggle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seesaw.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wobble.v
+}}
+|LinkSpanish=Movimiento de ida y vuelta
+|Applicability=English
+}}

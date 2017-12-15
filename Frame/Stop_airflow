@@ -1,0 +1,80 @@
+{{Frame
+|Description=Impede breathing, e.g. "suffocate" or "asphyxiate"
+|Family=Impediment and enablement frames, Harm, Harm to living entity, Endangerment frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Harm to living entity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=asphyxiate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=choke.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suffocate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=noose.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stifle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strangle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strangulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strangulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stopper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smother.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squelch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chokehold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stranglehold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=throttle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gag.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gag.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muzzle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muzzle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muffle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=choke hold.n
+}}
+|LinkSpanish=Detener flujo de aire
+|Applicability=English
+}}

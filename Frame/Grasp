@@ -1,0 +1,72 @@
+{{Frame
+|Family=Act on Object frames, Object frames,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie January 2015
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Possession
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object manipulation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=grasp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grasp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clench.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clenching
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cinch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cinching
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clasp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clasping
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cling.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clinging
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grip.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grip.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clutch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clutch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grab.v
+}}
+|LinkSpanish=Agarrar
+|Applicability=English
+}}

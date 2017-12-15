@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONSCIOUS IS UP
+}}
+|Tags=orientational,
+|Family=Mind Metaphors, Well-being Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Experiential basis=Being physically upright usually indicates being conscious and alert; being physically supine usually indicates being unconscious or asleep.
+|Source frame=Verticality
+|Target frame=Consciousness
+|Mappings={{Mapping
+|Target=Conscious_entity
+|Source=Upright_entity
+|Comment=Where 'conscious' labels a scale ranging from conscious to unconscious
+}}{{Mapping
+|Target=State_of_consciousness
+|Source=State_of_uprightness
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONSCIOUSNESS IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Wake up!
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=awake.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conscious.adj
+}}
+}}

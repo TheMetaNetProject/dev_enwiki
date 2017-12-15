@@ -1,0 +1,50 @@
+{{Frame
+|Description=Objects created or altered for some purpose
+|FrameNet frame=Artifact
+|Comments=A basic frame for ojbects that are created or modified in order to be put to some use.
+|Family=Entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=artifact_entity
+|Role.FrameNet role=Artifact
+}}{{Role
+|Role.Name=purpose
+|Role.Definition=the purpose artifact is used for
+|Role.FrameNet role=Use
+}}{{Role
+|Role.Name=artifact_creator
+|Role.FrameNet role=Creator
+}}{{Role
+|Role.Name=material
+|Role.FrameNet role=Material
+}}{{Role
+|Role.Name=functional_status
+|Role.Definition=can artifact be used for intended purpose?
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}
+|Bindings={{Binding
+|Binding.Local role=artifact_entity
+|Binding.Bound role=Object.object_entity
+}}{{Binding
+|Binding.Local role=purpose
+|Binding.Bound role=Purposeful action.objective
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Artefacto
+|Applicability=English
+}}

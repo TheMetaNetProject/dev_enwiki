@@ -1,0 +1,72 @@
+{{Frame
+|Family=Entity frames,
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Plants
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=garden.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trim.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prune.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fertilize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=graft.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rake.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cross-pollinate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cultivate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=watering.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=water.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cull.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=winnow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=winnow.n
+}}
+|LinkSpanish=cuidado de una planta
+|Applicability=English
+}}

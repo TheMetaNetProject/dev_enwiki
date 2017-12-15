@@ -1,0 +1,51 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMOTIONAL INTENSITY IS HEAT
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Emotion Metaphors, Scalar Metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Heat
+|Target frame=Emotional intensity
+|Mappings={{Mapping
+|Target=emotional_intensity_scale
+|Source=heat_level
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ANGER IS HEAT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Having intense emotion
+|Entailment.Source inference=Experiencing intense body heat
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=EMOTIONALLY INTENSE IS HOT
+}}{{Entailment
+|Entailment.Target entailment=Having mild or average emotions
+|Entailment.Source inference=Experiencing average body temperature
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=EMOTIONALLY MILD IS EXPERIENCING MILD TEMPERATURE
+}}{{Entailment
+|Entailment.Target entailment=Having no emotions
+|Entailment.Source inference=Experiencing below average body temperature
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=EMOTIONALLY INDIFFERENT IS COLD
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=As the argument continued, things really heated up.
+}}{{Example
+|Example.Language=English
+|Example.Text=Their relationship cooled off and they soon parted ways.
+}}{{Example
+|Example.Language=English
+|Example.Text=His mother was always cold and unloving when he was a child.
+}}
+|Entered by=Oana,
+|Last reviewed by=Eve
+|Status=in development
+|LinkPersian=احساسات درجه حرارت است
+|Relevant LUs=
+}}
+We need better mappings but that would mean that heat would have to have an x-schema to map to the emotional intensity one...Eve

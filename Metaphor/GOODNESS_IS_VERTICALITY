@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOODNESS IS VERTICALITY
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=The Moral Strength Metaphor
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=300
+}}
+|Tags=morality
+|Family=Orientational Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Verticality
+|Target frame=Goodness
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Remaining good in the face of evil
+|Entailment.Source inference=Resisting destabilizing force
+}}
+|Examples=
+|Entered by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}
+switched T frame from Virtue to Goodness - Karie 2 October 2014

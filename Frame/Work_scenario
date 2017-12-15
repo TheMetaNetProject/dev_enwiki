@@ -1,0 +1,99 @@
+{{Frame
+|Comments=This is a very general frame meant to encompass a variety of different work scenarios, some of which may invovlve additional workers (with various possible relations between these workers).  A worker may have a seperate employer, or may be self-employed
+|Family=Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=worker
+}}{{Role
+|Role.Name=work_activity
+|Role.Type=x-schema
+|Role.Definition=action(s) that worker performs
+}}{{Role
+|Role.Name=workplace
+|Role.Definition=place work activity typically occurs
+}}{{Role
+|Role.Name=objective
+|Role.Definition=goal of worker's actions
+}}{{Role
+|Role.Name=affected_entity
+|Role.Definition=person(s), animals, or objects that worker acts upon, with some objective
+}}{{Role
+|Role.Name=employer
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Employment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Income
+}}
+|Bindings={{Binding
+|Binding.Local role=worker
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=activity
+|Binding.Bound role=Purposeful action.action_x-schema
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Purposeful action.objective
+}}{{Binding
+|Binding.Local role=worker
+|Binding.Bound role=Employment.employee
+}}{{Binding
+|Binding.Local role=employer
+|Binding.Bound role=Employment.employer
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=employer_objective
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=income.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=salary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-paying job
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compensation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compensate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=work.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=work.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earnings.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=occupation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=toiler.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=toil.v
+}}
+|Applicability=English
+}}

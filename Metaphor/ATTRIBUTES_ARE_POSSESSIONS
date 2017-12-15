@@ -1,0 +1,55 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ATTRIBUTES ARE POSSESSIONS
+|Metaphor.Alias.Provenance=Grady (1998)
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STATES ARE POSSESSIONS
+}}
+|Family=Object Event Structure Metaphor, Grady Primary Metaphors
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Possession
+|Target frame=Attribute
+|Mappings={{Mapping
+|Target=entity
+|Source=posessor
+}}{{Mapping
+|Target=attribute
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=STATES ARE PHYSICAL OBJECTS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=state/attribute value is associated with entity
+|Entailment.Source inference=possessor has possession
+|Entailment.Type=ongoing relation/state
+}}{{Entailment
+|Entailment.Target entailment=change in value of state/attribute
+|Entailment.Source inference=change in possession status
+|Entailment.Type=change
+}}{{Entailment
+|Entailment.Target entailment=state/attribute standard is not associated with entity
+|Entailment.Source inference=possess does not have possession
+|Entailment.Type=negation
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She has a sunny disposition.
+|Example.Provenance=Grady 1998:109
+}}{{Example
+|Example.Language=English
+|Example.Text=This place has lost a lot of its charm.
+|Example.Provenance=Grady 1998:109
+}}{{Example
+|Example.Language=English
+|Example.Text=The new mustache gave him an older appearance.
+|Example.Provenance=Grady 1998:109
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen, Oana
+|Status=in development, proposed
+|Investigated for=English
+|Relevant LUs=
+}}

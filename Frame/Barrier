@@ -1,0 +1,118 @@
+{{Frame
+|Description=A physical object or landscape feature that prevents or makes it difficult for a mover to move in some (desired) direction
+|FrameNet frame=Having_or_lacking_access
+|Other aliases=Boundary
+|Comments=The 'path' role in this frame is intended to be the mover's 'projected' or 'potential' path(s) -- the path the mover is expected to or wants to take.  This is not necessarily a physical path object, such as a road, nor the mover's actual trajectory of motion (i.e. where the mover actually goes).
+
+See "Barrier on a path" and "Gap in a path" for specific variations.
+|Family=Motion-affecting frames, Impediment and enablement frames, Motion impediments frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=barrier_object
+|Role.Type=physical entity
+|Role.FrameNet role=Barrier
+}}{{Role
+|Role.Name=mover
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=affected_motion
+}}{{Role
+|Role.Name=path
+|Role.Definition=mover's potential path(s) of motion
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion-affecting properties of the landscape
+}}
+|Bindings={{Binding
+|Binding.Local role=barrier_object
+|Binding.Bound role=Motion impediment.impediment
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion impediment.mover
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Motion impediment.affected_motion
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=path
+|Binding.Bound role=Motion along a path.path
+}}
+|Inferences={{Inference
+|Inference.Description=The barrier_object's 'force-related' properties (e.g. its strength, porosity and/or fixedness)are such that a given type of mover cannot go through it.
+|Inference.Type=f-d relation
+}}{{Inference
+|Inference.Description=If the barrier is on the mover's intendend path, it will prevent further motion along that path. This may result in mover ceasing to move, or in mover choosing an alternative path.
+|Inference.Type=causal
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=barrier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obstacle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blockage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=block.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obstruct.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boundary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=border.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=line.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wall.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=threshold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blockade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roadblock.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=road-block.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=road block.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blocked.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=barred.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bottleneck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blockade.v
+}}
+|LinkSpanish=Barreras
+|Applicability=English
+}}

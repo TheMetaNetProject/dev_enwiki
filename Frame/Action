@@ -1,0 +1,49 @@
+{{Frame
+|Description=An action performed by an animate entity, prototypically involving motor-control.
+|FrameNet frame=Intentionally_act
+|Family=Action frames, Excluded frames
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Entered by=Oana
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=actor
+|Role.Type=animate entity
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=action_x-schema
+|Role.Type=x-schema
+|Role.FrameNet role=Act
+}}{{Role
+|Role.Name=effector
+|Role.Definition=the body part or instrument actor uses to perform action
+}}{{Role
+|Role.Name=effort
+|Role.Definition=the amount of effort the actor expends to perform the action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Process.protagonist
+}}{{Binding
+|Binding.Local role=action_x-schema
+|Binding.Bound role=Process.x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=action
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=act
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=actor
+}}
+|LinkSpanish=Acción
+}}

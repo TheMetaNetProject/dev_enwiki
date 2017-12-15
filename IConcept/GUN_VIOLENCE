@@ -1,0 +1,15 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptFrames={{Linked frame
+|Frame name=Criminal gun violence
+}}{{Linked frame
+|Frame name=Injurious gun use
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

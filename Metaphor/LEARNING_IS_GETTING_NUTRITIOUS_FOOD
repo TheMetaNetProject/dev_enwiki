@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Tags=Program sources
+|Family=Education metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Nutritious food
+|Target frame=Learning
+|Mappings={{Mapping
+|Target=learned_knoweledge
+|Source=nurtitious_food
+}}{{Mapping
+|Target=benefits_of_learning
+|Source=benefits_of_getting_nutrients
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACQUIRING IDEAS IS EATING
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Status=in development, auto imported
+}}

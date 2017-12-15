@@ -1,0 +1,23 @@
+{{Frame
+|FrameNet frame=Cause_to_perceive
+|Family=Perception frames, Excluded frames, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=perception_causer
+}}{{Role
+|Role.Name=perception_event
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Seeing scenario
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=show.v
+}}
+|Applicability=English
+}}

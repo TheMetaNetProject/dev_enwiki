@@ -1,0 +1,20 @@
+{{Frame
+|Family=Natural process frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Elise
+|Roles={{Role
+|Role.Name=natural_process
+|Role.Type=process
+}}{{Role
+|Role.Name=protagonist
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

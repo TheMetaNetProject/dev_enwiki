@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ESSENTIAL IS INTERNAL
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Comments=Called "atemporal relations" (Grady 1998)
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Containment
+|Target frame=Essence
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It's what's on the inside that counts.
+|Example.Provenance=Grady 1998
+}}{{Example
+|Example.Language=English
+|Example.Text=She only has surface charm.
+|Example.Provenance=Grady 1998
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

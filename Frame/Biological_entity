@@ -1,0 +1,62 @@
+{{Frame
+|FrameNet frame=Biological_entity
+|Comments=Biological entities can be distinguished from other (non-biological) entities by a cluster of typically-present "properties" relating to their life cycle (birth, growth, development, death), metabolism, and reproduction.  They also tend to have specialized parts and internal mechanisms that fill various functions.  Different kinds of entities (e.g. species) tend to fill particular environmental niches, and can evolve over generations.  Additionally, as with other physical entities, biological entities have size, shape, and other physical properties.
+|Family=Entity frames,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=organism
+|Role.Definition=organism as functional whole
+|Role.FrameNet role=Organism
+}}{{Role
+|Role.Name=body
+|Role.Definition=physical body
+}}{{Role
+|Role.Name=specialized_parts
+|Role.Definition=distinctive parts of the body
+}}{{Role
+|Role.Name=part_function
+|Role.Definition=functions of parts
+}}{{Role
+|Role.Name=health_status
+|Role.Definition=status of organism as a whole
+}}{{Role
+|Role.Name=body_weight
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex physical object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Ingestion
+}}
+|Bindings={{Binding
+|Binding.Local role=organism
+|Binding.Bound role=Life cycle.life_liver
+}}{{Binding
+|Binding.Local role=organism
+|Binding.Bound role=Ingestion.ingestor
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Complex physical object.object_whole
+}}{{Binding
+|Binding.Local role=specialized_parts
+|Binding.Bound role=Complex physical object.object_parts
+}}{{Binding
+|Binding.Local role=body_weight
+|Binding.Bound role=Complex physical object.object_weight
+}}
+|Inferences={{Inference
+|Inference.Description=The health status of the organism is affected by various external factors; some have a negative effect and some have a positive effect.
+}}{{Inference
+|Inference.Description=Health status is often linked to longevity.  Negative effects to health may shorten life span.
+}}
+|Relevant LUs=
+|LinkSpanish=Entidad biológica
+}}

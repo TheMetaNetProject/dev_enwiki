@@ -1,0 +1,53 @@
+{{Frame
+|Family=Gun rights family, Gun debate,
+|Type=Frame
+|Cultural scope=American English, American conservative
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Advocacy
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Gun-control advocacy
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Gun rights
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=the gun lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-rights lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun proponent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights advocacy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-rights advocacy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun advocacy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=S.C.O.P.E .
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun movement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun right.n movement.n
+}}
+|Applicability=English
+}}

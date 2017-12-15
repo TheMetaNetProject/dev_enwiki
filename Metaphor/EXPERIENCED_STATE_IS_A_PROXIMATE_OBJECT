@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Description=State is a (self-) moving object, and experience of that state is most intense when object is proximate to experiencer
+|Family=Object Event Structure Metaphor, Orientational Metaphors, 
+|Source frame=Trajector landmark
+|Target frame=Experiencing a state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=landmark
+}}{{Mapping
+|Target=state
+|Source=trajector
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EXPERIENCE OF A STATE IS SPATIAL RELATION WITH AN ENTITY
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=STATES ARE PHYSICAL OBJECTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I can feel a headache approaching
+}}{{Example
+|Example.Language=English
+|Example.Text=My symptoms went away.
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

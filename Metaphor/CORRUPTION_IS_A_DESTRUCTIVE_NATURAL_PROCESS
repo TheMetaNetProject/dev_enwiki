@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS
+|Metaphor.Alias.Provenance=Elise and Oana
+}}
+|Family=Governance metaphors, Morality metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Destructive_natural_process
+|Target frame=Corruption
+|Mappings={{Mapping
+|Target=corrupting_activities
+|Source=destructive_process
+|Comment=x-schema: progressive, slow, ongoing
+}}{{Mapping
+|Target=corruption_affectee
+|Source=destroyed_entity
+}}{{Mapping
+|Target=corruption_effect
+|Source=destructive_effect
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=MORAL CORRUPTION IS A DESTRUCTIVE FORCE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=California Cities Struggling Under Wave of Corruption
+|Example.Provenance=http://www.aolnews.com/2010/08/16/calif-cities-struggling-under-wave-of-corruption/
+}}{{Example
+|Example.Language=English
+|Example.Text=FIFA facing corruption 'tsunami'
+|Example.Provenance=http://www.abc.net.au/news/2011-05-28/fifa-facing-corruption-tsunami/2735470
+}}
+|Entered by=Elise
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

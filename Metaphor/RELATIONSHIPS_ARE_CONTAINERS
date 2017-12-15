@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RELATIONSHIPS ARE CONTAINERS
+|Metaphor.Alias.Provenance=Jisup
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=A RELATIONSHIP IS A CONTAINER
+|Metaphor.Alias.Provenance=Jisup
+}}
+|Family=LOVE IS A JOURNEY Cascade, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Containing
+|Target frame=Relationship
+|Mappings={{Mapping
+|Target=relationship
+|Source=container
+}}{{Mapping
+|Target=relationship_participants
+|Source=contents
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=RELATIONSHIPS ARE OBJECTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She's trapped in a relationship with a scumbag.
+|Example.Provenance=Metaphor+
+}}{{Example
+|Example.Language=English
+|Example.Text=They had a falling out.
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Relevant LUs=
+}}

@@ -1,0 +1,14 @@
+{{Frame
+|Family=Scale Frames, 
+|Type=Cog
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

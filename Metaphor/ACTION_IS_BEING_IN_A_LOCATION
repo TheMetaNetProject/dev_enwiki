@@ -1,0 +1,56 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AN ACTION IS BEING IN A LOCATION
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=204-205
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PERFORMING AN ACTION IS BEING AT A LOCATION
+}}
+|Comments=The Target domain for the current metaphor is one of active processes and actions.
+|Family=Event Structure Metaphor, Orientational Metaphors, Primary Metaphors, Location Event Structure Metaphor, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=some actions can only be performed when the actor is in a particular location
+|Source frame=Trajector landmark
+|Target frame=Action
+|Mappings={{Mapping
+|Target=actor
+|Source=trajector
+}}{{Mapping
+|Target=action_x-schema
+|Source=landmark
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=action is ongoing
+|Entailment.Source inference=the trajector's location (profiled_region) is at/in the landmark
+}}{{Entailment
+|Entailment.Target entailment=the actor does not perform an action
+|Entailment.Source inference=the trajector is not at the landmark
+}}{{Entailment
+|Entailment.Target entailment='closeness' to performing an action
+|Entailment.Source inference='closeness' to landmark
+}}{{Entailment
+|Entailment.Target entailment=expecting to perform an action in the future
+|Entailment.Source inference=moving towards a landmark
+}}
+|Examples={{Example
+|Example.Text=The car is in motion.
+|Example.Provenance=Ellen
+|Example.Annotation="The car" = actor [Target]; "in" = trajector is in landmark [Source]; "motion" = action [Target]
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm going to leave.
+|Example.Provenance=PITF
+|Example.Annotation="I" = actor [Target];"going to" = motion towards landmark [Source]; "leave" = action [Target]
+}}{{Example
+|Example.Language=English
+|Example.Text=She's close to resigning.
+|Example.Provenance=PITF
+|Example.Annotation="she" = actor [Target]; "close to" = distance to landmark [Source]; "resigning" = action [Target]
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

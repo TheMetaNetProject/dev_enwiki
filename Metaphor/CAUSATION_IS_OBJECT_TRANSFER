@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Family=Object Event Structure Metaphor, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Transfer scenario
+|Target frame=Causation
+|Mappings={{Mapping
+|Target=agent
+|Source=transferor
+}}{{Mapping
+|Target=affected
+|Source=transfer_recipient
+}}{{Mapping
+|Target=effect
+|Source=transferred_object
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=FORCE TRANSFER IS OBJECT TRANSFER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The noise is giving me a headache.
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

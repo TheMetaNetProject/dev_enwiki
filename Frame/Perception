@@ -1,0 +1,38 @@
+{{Frame
+|FrameNet frame=Perception, Perception_experience
+|Other aliases=Perceiving
+|Family=Perception frames
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Oana, Elise
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=perceiver
+|Role.Type=animate entity
+|Role.FrameNet role=Perceiver
+}}{{Role
+|Role.Name=perceived_thing
+|Role.Definition=entity, (entity's) property, and/or (entity's) processes
+|Role.FrameNet role=Phenomenon
+}}{{Role
+|Role.Name=faculty
+|Role.Definition=body part used to perceive the perceived_thing
+}}{{Role
+|Role.Name=pereception_x-schema
+|Role.Definition=the process of perception
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Animate entity
+}}
+|Bindings={{Binding
+|Binding.Local role=perceiver
+|Binding.Bound role=Animate_Entity.animate_entity
+}}{{Binding
+|Binding.Local role=faculty
+|Binding.Bound role=Animate_entity.specialized_parts
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

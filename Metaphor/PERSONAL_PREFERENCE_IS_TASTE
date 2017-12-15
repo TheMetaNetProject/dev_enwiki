@@ -1,0 +1,17 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PERSONAL PREFERENCE IS TASTE
+|Metaphor.Alias.Provenance=Oana
+}}
+|Source frame=Taste
+|Target frame=Personal_preferance
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=KNOWING IS PERCEIVING
+}}
+|Entailments=
+|Examples=
+|Relevant LUs=
+|Entered by=Oana
+|Status=in development
+}}

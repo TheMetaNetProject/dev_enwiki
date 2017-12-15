@@ -1,0 +1,56 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+
+Gun debate.
+|ConceptFrames={{Linked frame
+|Frame name=Gun control
+}}{{Linked frame
+|Frame name=Gun control legislation
+}}{{Linked frame
+|Frame name=Gun-control advocacy
+}}{{Linked frame
+|Frame name=Gun-control advocate
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Thinking about
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Driving a vehicle
+}}
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=promote.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=advocate.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lobby.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lobbyist.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=measure.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=bureaucracy.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=official.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=relationship.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=run.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=run.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=task force.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=crowd.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=crowd.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=criminal.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=criminal
+}}
+}}

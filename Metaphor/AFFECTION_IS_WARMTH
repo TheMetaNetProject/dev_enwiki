@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AFFECTION IS WARMTH
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Emotion Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Cultural scope=American English, Persian
+|Source frame=Heat
+|Target frame=Affection
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=EMOTIONAL INTIMACY IS PHYSICAL PROXIMITY
+|Related metaphor.Description=New relation type: frequently interacts with
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She's warming up to her new brother-in-law.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=محبت گرما است
+|Relevant LUs=
+}}

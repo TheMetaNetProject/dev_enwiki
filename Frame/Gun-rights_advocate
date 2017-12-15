@@ -1,0 +1,90 @@
+{{Frame
+|Family=Gun debate, Gun rights family,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun-rights advocacy
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Person
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gundamentalist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun clinger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-rights advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm activist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weekend rambo.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=armchair commando.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ammosexual.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ammosexual.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun supporter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-supporter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun enthusiast.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro gun
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-clinging
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights activist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro gun advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=advocate.n of gun right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=advocate.n for gun right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun freedom advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=second amendment advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun right.n proponent
+}}
+|Applicability=English
+}}

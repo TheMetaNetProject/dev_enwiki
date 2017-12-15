@@ -1,0 +1,27 @@
+{{Frame
+|Family=Communication Frames, Excluded frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=critic
+}}{{Role
+|Role.Name=target_of_criticism
+}}{{Role
+|Role.Name=reason_for_criticism
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=criticize
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=critique
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=criticism
+}}
+|Applicability=English
+}}

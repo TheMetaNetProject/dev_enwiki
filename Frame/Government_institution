@@ -1,0 +1,101 @@
+{{Frame
+|FrameNet frame=Government_institution
+|Comments=Somewhere (in this or related frame) need to add a role for the 'type' of government system, e.g. democracy, autocracy
+
+There really should not be any LUs at this level.
+|Family=Governance frames, Government frames
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=goverment_whole
+}}{{Role
+|Role.Name=responsibilities
+|Role.Definition=government's responsibilities
+}}{{Role
+|Role.Name=functions
+|Role.Definition=means by which responsibilities are filled
+}}{{Role
+|Role.Name=positions
+|Role.Definition=internal roles within government
+}}{{Role
+|Role.Name=position_duties
+|Role.Definition=responsibilities of each position
+}}{{Role
+|Role.Name=position_holders
+|Role.Definition=people whole fill positions
+}}{{Role
+|Role.Name=authority_structure
+}}{{Role
+|Role.Name=sub-groups
+|Role.Definition=e.g. different departments
+}}{{Role
+|Role.Name=position_relations
+|Role.Definition=e.g. authority relations between positions
+}}{{Role
+|Role.Name=functional_status
+|Role.Definition=institution's ability to perform functions
+}}{{Role
+|Role.Name=rules
+}}{{Role
+|Role.Name=authority_base
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institution
+|Related frame.Description=specific case
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}
+|Bindings={{Binding
+|Binding.Local role=government_whole
+|Binding.Bound role=Institution.institution_whole
+}}{{Binding
+|Binding.Local role=repsonsibilities
+|Binding.Bound role=Institution.mission
+}}{{Binding
+|Binding.Local role=position_holders
+|Binding.Bound role=Institution.position_holders
+}}{{Binding
+|Binding.Local role=functions
+|Binding.Bound role=Institution.functions
+}}{{Binding
+|Binding.Local role=positions
+|Binding.Bound role=Institution.positions
+}}{{Binding
+|Binding.Local role=position_duties
+|Binding.Bound role=Institution.position_duties
+}}{{Binding
+|Binding.Local role=government_whole
+|Binding.Bound role=Government.governor
+}}{{Binding
+|Binding.Local role=responsibilities
+|Binding.Bound role=Government.governed_activity
+}}{{Binding
+|Binding.Local role=functions
+|Binding.Bound role=Government.governing_actions
+}}{{Binding
+|Binding.Local role=rules
+|Binding.Bound role=Government.constraints_on_governing_actions
+}}{{Binding
+|Binding.Local role=rules
+|Binding.Bound role=Institution.rules
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=governmental.a board.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=governmental.a agency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=government department.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=governmental bureau.n
+}}
+|LinkSpanish=Institución gubernamental
+|LinkPersian=نهاد های دولتی
+}}

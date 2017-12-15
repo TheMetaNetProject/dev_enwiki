@@ -1,0 +1,52 @@
+{{Frame
+|FrameNet frame=People_by_vocation
+|Comments=This frame could be augmented via relations to other frames (e.g. protecting from harm, leading, care-taking)
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=shepherd
+|Role.FrameNet role=Person
+}}{{Role
+|Role.Name=shepherding_activities
+|Role.Definition=e.g. leading sheep to food and water; protecting from predators
+}}{{Role
+|Role.Name=objective(s)
+}}{{Role
+|Role.Name=sheep
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Work scenario
+}}
+|Bindings={{Binding
+|Binding.Local role=shepherd
+|Binding.Bound role=Work scenario.worker
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Work scenario.objective
+}}{{Binding
+|Binding.Local role=sheep
+|Binding.Bound role=Work scenario.affected_entity
+}}{{Binding
+|Binding.Local role=shepherding
+|Binding.Bound role=Work scenario.work_activity
+}}
+|Inferences={{Inference
+|Inference.Description=If shepherd successfully performs actions, sheep will flourish; if not, sheep will not flourish (and may become unhealthy or die).
+}}{{Inference
+|Inference.Description=Shepherd is responsible for leading sheep, making decisions that affects sheep's well-being; sheep do what shepherd wants them to.
+}}{{Inference
+|Inference.Description=Sheep are not capable of flourishing on their own (without shepherd).
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=shepherd.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shepherd.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sheep.n
+}}
+|Applicability=English
+}}

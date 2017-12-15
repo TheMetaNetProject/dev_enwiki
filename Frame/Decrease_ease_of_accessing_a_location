@@ -1,0 +1,24 @@
+{{Frame
+|Comments=unclear if this is necessary; LUs fit more with other frames.
+|Family=Impediment and enablement frames, Motion-affecting frames, Location frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Access to a location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impede.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.v
+}}
+}}

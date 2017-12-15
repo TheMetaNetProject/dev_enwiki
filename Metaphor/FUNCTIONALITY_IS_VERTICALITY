@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FUNCTIONALITY IS ERECTNESS
+|Metaphor.Alias.Provenance=Grady (1998)
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=VIABILITY IS ERECTNESS
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Comments=We need to decide if we want to distinguish FUNCTIONALITY IS VERTICALITY from FUNCTIONALITY IS ERECTNESS. This distinction is made in morality metaphors. (Oana)
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Functionality
+|Mappings={{Mapping
+|Target=functionality_scale
+|Source=verticality_scale
+|Comment=paired scales
+}}{{Mapping
+|Target=functional_status
+|Source=scalar_position
+}}{{Mapping
+|Target=functional_entity
+|Source=vertical_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=GOODNESS IS VERTICALITY
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=WELL-BEING IS VERTICALITY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=change in functionality
+|Entailment.Source inference=chnage in vertical position
+}}{{Entailment
+|Entailment.Target entailment="functional" end of functionality_scale
+|Entailment.Source inference="up" end of vertical scale
+}}{{Entailment
+|Entailment.Target entailment="non-functional" end of functionality_scale
+|Entailment.Source inference="down" end of vertical scale
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The servers are back up after having been down for days.
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

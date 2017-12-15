@@ -1,0 +1,123 @@
+{{Frame
+|Program alias=TAXATION
+|Comments=need to add links to money and transfer of money
+|Family=Taxation frames
+|Tags=tentative
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=taxer
+}}{{Role
+|Role.Name=tax_payer
+}}{{Role
+|Role.Name=tax
+}}{{Role
+|Role.Name=tax_rate
+}}{{Role
+|Role.Name=tax_payment
+|Role.Definition=tax_payer pays money to taxer
+}}{{Role
+|Role.Name=tax_collection
+|Role.Definition=taxer recieves money from tax_payer
+}}{{Role
+|Role.Name=regulation
+|Role.Definition=tax laws
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Governing action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legislation enactment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Negatively evaluated condition
+|Related frame.Description=Added to capture (typically) negative evaluation of tax_payer; need to deal with perspectives (Jisup)
+}}
+|Bindings={{Binding
+|Binding.Local role=taxer
+|Binding.Bound role=Governing action.governing_actor
+}}{{Binding
+|Binding.Local role=tax_payer
+|Binding.Bound role=Governing action.governed
+}}{{Binding
+|Binding.Local role=regulation
+|Binding.Bound role=Legislation enactment.bill
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taxation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax rate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax code.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax system.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax policy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taxing
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax payer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taxpayer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax-payer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax man.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taxman.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax dollar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax revenue.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=IRS.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Internal Revenue Service
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taxes.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=income tax rate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=income tax.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax payment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tax credit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=propety tax.n
+}}
+|LinkSpanish=Tributación
+|LinkPersian=مالیات
+|Applicability=English
+}}

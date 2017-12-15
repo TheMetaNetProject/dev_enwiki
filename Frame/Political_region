@@ -1,0 +1,78 @@
+{{Frame
+|FrameNet frame=Political_locales
+|Comments=a tentative frame for countries and other geopolitical regions.
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Last reviewed by=Oana, 
+|Roles={{Role
+|Role.Name=locale
+|Role.Definition=a stable bounded area
+|Role.FrameNet role=Locale
+}}{{Role
+|Role.Name=borders
+|Role.Definition=the edges of the physical area
+}}{{Role
+|Role.Name=population
+|Role.Definition=the people living within the locale
+|Role.FrameNet role=Population
+}}{{Role
+|Role.Name=governing_institution
+}}{{Role
+|Role.Name=economy
+}}{{Role
+|Role.Name=natural_resources
+}}{{Role
+|Role.Name=sub_locale
+|Role.Definition=political regions within locale
+}}{{Role
+|Role.Name=state_of_region
+|Role.Definition=well-being or economic state of region
+}}{{Role
+|Role.Name=infrastructure
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government institution
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}
+|Bindings={{Binding
+|Binding.Local role=locale
+|Binding.Bound role=Bounded region.interior
+}}{{Binding
+|Binding.Local role=borders
+|Binding.Bound role=Bounded region.boundary
+}}{{Binding
+|Binding.Local role=governing_institution
+|Binding.Bound role=Government institution.government_whole
+}}{{Binding
+|Binding.Local role=governing_institution
+|Binding.Bound role=Government.governor
+}}{{Binding
+|Binding.Local role=population
+|Binding.Bound role=Government.governed
+}}{{Binding
+|Binding.Local role=locale
+|Binding.Bound role=Government.jurisdiction
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=district.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jurisdiction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=state.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=province.n
+}}
+}}

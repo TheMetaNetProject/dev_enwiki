@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IDEAS ARE PEOPLE
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=IDEAS ARE LIVING ENTITIES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The theory of relativity gave birth to an enormous number of ideas in physics.
+}}{{Example
+|Example.Language=English
+|Example.Text=He is the father of modern biology.
+}}{{Example
+|Example.Language=English
+|Example.Text=Whose brainchild was that?
+}}{{Example
+|Example.Language=English
+|Example.Text=Look at what his ideas have spawned.
+}}{{Example
+|Example.Language=English
+|Example.Text=Those ideas died off in the Middle Ages.
+}}{{Example
+|Example.Language=English
+|Example.Text=His ideas will live on forever.
+}}{{Example
+|Example.Language=English
+|Example.Text=Cognitive psychology is still in its infancy.
+}}{{Example
+|Example.Language=English
+|Example.Text=That's an idea that ought to be resurrected.
+}}{{Example
+|Example.Language=English
+|Example.Text=He breathed new life into that idea.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

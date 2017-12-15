@@ -1,0 +1,6 @@
+{{CxnMP
+|CxnMPType=regexp
+|CxnMPGroup=T-noun_cop_S-noun
+|CxnMPDescription=backup for N is a N
+|CxnMPQueryCode=\b&#91;^=&#93;+=(?P<tlemma>&#91;^=&#93;+)=NN&#91;^=&#93;*=(?P<tidx>\d+) is=be=VBZ=\d+ a=a=DT=\d\+ &#91;^=&#93;+=(?P<slemma>&#91;^=&#93;+)=NN&#91;^=&#93;*=(?P<sidx>\d+)\b
+}}

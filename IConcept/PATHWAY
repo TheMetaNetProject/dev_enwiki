@@ -1,0 +1,9 @@
+{{IARPASourceConcept
+|SourceID=37
+|Definition=a path, course, route, or way; a route to or way of access to; way of reaching or achieving something
+|Comments=7/22/14: moved some barrier words to new Barrier concept
+|Status=white
+|Owner=GOV
+|LUs=road, clear, make way, pave, pave the way, unhindered, unobstructed, widen, avenue, bridge, fast track, fasttrack, highway, pathway, road, route, trail, way, straight, staircase, ladder, offramp, exit ramp, path out, narrow,
+|Type=source
+}}

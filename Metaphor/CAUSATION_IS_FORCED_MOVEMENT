@@ -1,0 +1,65 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSATION IS FORCED MOVEMENT
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=184
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION
+}}
+|Comments=see discussion
+|Family=Location Event Structure Metaphor, States are Locations metaphors, 
+|Metaphor Type=Composed/complex
+|Source frame=Forced movement
+|Target frame=Caused change of state
+|Mappings={{Mapping
+|Target=agent
+|Source=agent
+}}{{Mapping
+|Target=affected
+|Source=mover
+}}{{Mapping
+|Target=state_change
+|Source=motion
+}}{{Mapping
+|Target=cause
+|Source=forceful_action
+}}{{Mapping
+|Target=initial_state
+|Source=source
+}}{{Mapping
+|Target=transition
+|Source=path
+}}{{Mapping
+|Target=final_state
+|Source=goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+|Related metaphor.Description=causal entailment
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=state change would not have occurred wihtout a cause
+|Entailment.Source inference=motion would not have occurred without the application of a force
+}}{{Entailment
+|Entailment.Target entailment=The occurrence of the cause precedes or accompanies the change of state
+|Entailment.Source inference=the application of force precedes or accompanies the movement
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=A sudden drop in prices hurled the farm belt into chaos.
+|Example.Provenance=PITF, p. 186
+}}{{Example
+|Example.Language=English
+|Example.Text=The United States dragged its allies into a commitment to the Gulf War.
+|Example.Provenance=PITF, p. 186
+}}{{Example
+|Example.Language=English
+|Example.Text=The invasion of Pearl Harbor flung the United States into World War II.
+|Example.Provenance=PITF, p. 186
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Governance metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Relationship
+|Target frame=International Relations
+|Mappings={{Mapping
+|Target=International_relation.nation1
+|Source=Relationship.related_entity_1
+}}{{Mapping
+|Target=International_relations.nation2
+|Source=Relationship.related_entity2
+}}{{Mapping
+|Target=International_relations.international_relationship
+|Source=Relationship.relationship_whole
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NATION IS A PERSON
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Which country is your country's best friend? 
+
+But as much as the U.S. wants to be close-knit friends with Canada, Canada ... Same can't be said about many other countries in the world that ...
+
+|Example.Provenance=www.city-data.com › City-Data Forum › World Forums › World
+}}
+|Entered by=Eve
+|Last reviewed by=Eve
+|Investigated for=English
+}}

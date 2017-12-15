@@ -1,0 +1,45 @@
+{{Frame
+|Comments=This refers to a prototypical physical factory and its prototypical functioning, and the roles reflect this.
+|Type=Frame
+|Cultural information=The factory model here is that which was developed during the Industrial Revolution in Western European and American history, and its modern version.
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=factory_building
+}}{{Role
+|Role.Name=factory_sectors
+}}{{Role
+|Role.Name=manufacturing_line
+}}{{Role
+|Role.Name=factory_workers
+}}{{Role
+|Role.Name=factory_bosses
+}}{{Role
+|Role.Name=conveyor_belt_production
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Institution
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=A factory is a functional whole composed of interdependent homogenous parts, each of which is dedicated to completing one piece of the final product produced by the factory as a whole.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=factory.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assembly line.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=manufacture.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=factory.n worker.n
+}}
+|Applicability=English
+}}

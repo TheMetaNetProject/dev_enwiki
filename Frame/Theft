@@ -1,0 +1,181 @@
+{{Frame
+|FrameNet frame=Theft, Robbery
+|Family=Crime frames, 
+|Tags=tentative
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=thief
+|Role.FrameNet role=Perpetrator
+}}{{Role
+|Role.Name=victim
+}}{{Role
+|Role.Name=stolen_item
+|Role.FrameNet role=Goods
+}}{{Role
+|Role.Name=theft_action
+|Role.Definition=thief's action
+|Role.FrameNet role=Means
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Crime
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession change
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Object
+}}
+|Bindings={{Binding
+|Binding.Local role=thief
+|Binding.Bound role=Crime.criminal
+}}{{Binding
+|Binding.Local role=victim
+|Binding.Bound role=Crime.victim
+}}{{Binding
+|Binding.Local role=theft_action
+|Binding.Bound role=Crime.criminal_activity
+}}{{Binding
+|Binding.Local role=stolen_item
+|Binding.Bound role=Object.object_entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=steal.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stealer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rob.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=robber.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=robbery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=theft.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thief.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thieve.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thievery
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=extort.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=extortion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mug.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mugger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mugging.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=daylight robbery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shakedown.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swindle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swindler.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compulsory seizure of property.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=piracy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pirate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilfer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilferer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=larceny.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=larcenist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burgle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burglar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burglary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bandit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stolen.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stolen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seizure of property.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hijacker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hijack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pickpocket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pickpocket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoplifter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoplift.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=embezzle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=embezzlement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=embezzler.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=kleptomaniac.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pillage.v
+}}
+|LinkSpanish=Hurto
+|Applicability=English
+}}

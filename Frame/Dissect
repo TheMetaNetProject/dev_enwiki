@@ -1,0 +1,92 @@
+{{Frame
+|FrameNet frame=Cause_to_fragment
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=dissector
+}}{{Role
+|Role.Name=dissected_entity
+}}{{Role
+|Role.Name=dissection_tool
+}}{{Role
+|Role.Name=entity_in_totality
+}}{{Role
+|Role.Name=entity_dissection_status_change
+}}{{Role
+|Role.Name=entity_in_pieces
+}}{{Role
+|Role.Name=entity_under_dissection
+}}{{Role
+|Role.Name=dissected_entity_body
+}}{{Role
+|Role.Name=dissected_entity_parts
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Caused change of state
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cut
+}}
+|Bindings={{Binding
+|Binding.Local role=dissector
+|Binding.Bound role=Caused change of state.agent
+}}{{Binding
+|Binding.Local role=dissected_entity
+|Binding.Bound role=Caused change of state.affected
+}}{{Binding
+|Binding.Local role=dissection_tool
+|Binding.Bound role=Caused change of state.cause
+}}{{Binding
+|Binding.Local role=entity_in_totality
+|Binding.Bound role=Caused change of state.initial_state
+}}{{Binding
+|Binding.Local role=entity_dissection_status_change
+|Binding.Bound role=Caused change of state.state_change
+}}{{Binding
+|Binding.Local role=entity_in_pieces
+|Binding.Bound role=Caused change of state.final_state
+}}{{Binding
+|Binding.Local role=entity_under_dissection
+|Binding.Bound role=Caused change of state.transition
+}}{{Binding
+|Binding.Local role=dissected_entity
+|Binding.Bound role=Biological entity.organism
+}}{{Binding
+|Binding.Local role=dissected_entity_body
+|Binding.Bound role=Biological entity.body
+}}{{Binding
+|Binding.Local role=dissected_entity_parts
+|Binding.Bound role=Biological entity.parts
+}}{{Binding
+|Binding.Local role=dissector
+|Binding.Bound role=Cut.cutter
+}}{{Binding
+|Binding.Local role=dissected_entity
+|Binding.Bound role=Cut.object_of_cutting
+}}{{Binding
+|Binding.Local role=dissecting_tool
+|Binding.Bound role=Cut.cutting_tool
+}}{{Binding
+|Binding.Local role=entity_in_totality
+|Binding.Bound role=Cut.initial_size_of_object
+}}{{Binding
+|Binding.Local role=entity_in_pieces
+|Binding.Bound role=Cut.final_state_of_object
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=dissect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scalpel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dismember.v
+}}
+|Applicability=English
+}}

@@ -1,0 +1,136 @@
+{{Frame
+|Description=animal known to be dangerous, possibly threat to humans
+|Comments=possibly should be "dangerous animal"?
+|Family=Entity frames, Harmful encounters frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=dangerous_animal
+|Role.Type=physical entity
+}}{{Role
+|Role.Name=dangerous_body_part
+|Role.Type=physical entity
+|Role.Definition=part of animal's body that may cause harm to others
+}}{{Role
+|Role.Name=endangering_action
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animal
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Danger
+}}
+|Bindings={{Binding
+|Binding.Local role=dangerous_animal
+|Binding.Bound role=Animal.animal
+}}{{Binding
+|Binding.Local role=dangerous_animal
+|Binding.Bound role=Danger.dangerous_entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=crocodile.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wolf.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shark.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gorilla.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cobra.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=octopus.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leviathan.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spider.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scorpion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=serpent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=python.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=viper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=claw.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fang.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tentacle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maw.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jaw.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maul.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ravage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=claw.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=claw.v at
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roar.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=growl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rabid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feral.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=viciousness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=savagery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=predator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=predatory.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maneater.n
+}}
+|LinkSpanish=Animal feroz
+|Applicability=English
+}}

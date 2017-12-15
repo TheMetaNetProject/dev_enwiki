@@ -1,0 +1,48 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_of_T-noun
+|CxnMPDescription=N of N constructions
+|Comments=trap of poverty
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?target doc:hasPOS ?tpos .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?source (doc:hasPOS&#124;doc:hasRPOS) ?spos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N") .
+    ?ofword rdf:type doc:Word .
+    ?ofword doc:inSentence ?sent .
+    ?ofword doc:hasLemma ?ofLemma .
+    ?ofword doc:iobj ?source .
+    FILTER (regex(?ofLemma, "^of$", "i")) .
+    {
+        ?target doc:dobj ?ofword .
+    } UNION {
+        ?andword rdf:type doc:Word .
+        ?andword doc:inSentence ?sent .
+        ?andword doc:hasLemma ?andLemma .
+        FILTER (regex(?andLemma, "^(and&#124;or)$", "i")) .
+        ?andword doc:dobj ?ofword .
+        ?target doc:conj ?andword .
+    }
+    FILTER (!regex(?slemma, "^(percent&#124;fraction&#124;amount&#124;quantity&#124;out)$", "i")) .
+    OPTIONAL {
+        ?outpart rdf:type doc:Word .
+        ?outpart doc:inSentence ?sent .
+        ?outpart doc:hasLemma ?outLemma .
+        ?outpart doc:ncmod ?ofword .
+        FILTER (regex(?outLemma, "^out$", "i")) .
+    }
+    FILTER (!BOUND(?outpart)) .
+}
+}}

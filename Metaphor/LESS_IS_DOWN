@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=QUANTITY IS VERTICALITY
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Scalar Metaphors, Orientational Metaphors, Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Cultural scope=American English, Persian
+|Source frame=Verticality
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=QUANTITY IS VERTICALITY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=decreases in quantity
+|Entailment.Source inference=motion towards lower end of verticality scale
+|Entailment.Type=scalar change
+|Entailment.Entailed metaphors=DECREASE IN QUANTITY IS DOWNWARD MOTION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Her temperature is going down.
+|Example.Comments=Also an image metaphor: the level of mercury on the thermometer changes position.
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|LinkPersian=کمتر پایین است
+|Relevant LUs=
+}}

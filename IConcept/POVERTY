@@ -1,0 +1,24 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+
+Addressing social problems (); Economic status (economic status)
+|ConceptFrames={{Linked frame
+|Frame name=Addressing poverty
+}}{{Linked frame
+|Frame name=Economic difficulty
+}}{{Linked frame
+|Frame name=Poverty
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Family
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Impoverished
+}}
+|BlacklistSourceLUs=
+}}

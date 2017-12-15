@@ -1,0 +1,115 @@
+{{Frame
+|Family=Governance frames, Election frames,
+|Type=Frame
+|Status=in development, proposed
+|Entered by=Eve, Elise
+|Roles={{Role
+|Role.Name=voter
+|Role.Definition=those entities who determine whether the proposed_decision is approved
+}}{{Role
+|Role.Name=voting_event
+|Role.Type=x-schema
+|Role.Definition=the actual voting itself
+}}{{Role
+|Role.Name=proposed_decision
+|Role.Definition=the person(s) or laws under consideration
+}}{{Role
+|Role.Name=outcome
+|Role.Definition=whether the vote passes or fails
+}}{{Role
+|Role.Name=voter_actions
+|Role.Definition=the debating and voting the voters perform in the voting_process, resulting the in the status_change
+}}{{Role
+|Role.Name=voting_process
+|Role.Definition=process by which consideration and debate of the issue occurs
+}}{{Role
+|Role.Name=proposed_decision_initial_status
+|Role.Definition=under consideration for approval
+}}{{Role
+|Role.Name=proposed_decision_transition
+|Role.Definition=the process by which the proposed decision changes from initial to final status
+}}{{Role
+|Role.Name=proposed_decision_final_status
+|Role.Definition=approved/passed/voted in, or not
+}}{{Role
+|Role.Name=debate
+|Role.Definition=discussion of adherence of proposition to standards
+}}{{Role
+|Role.Name=proposed_decision_status_change
+|Role.Definition=change from under approval to approved or failed
+}}{{Role
+|Role.Name=proposal
+|Role.Definition=act of proposing the decision
+}}{{Role
+|Role.Name=approval_standards
+|Role.Definition=standards by which the voters approve the proposition
+}}{{Role
+|Role.Name=proposer
+|Role.Definition=entity that introduces the proposed_decision
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Government decision making
+}}
+|Bindings={{Binding
+|Binding.Local role=voter
+|Binding.Bound role=Government decision making.decision_maker
+}}{{Binding
+|Binding.Local role=voting_event
+|Binding.Bound role=Government decision making.act_of_deciding
+}}{{Binding
+|Binding.Local role=proposed_decision
+|Binding.Bound role=Government decision making.entity_under_consideration
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Government decision making.decison_making_outcome
+}}{{Binding
+|Binding.Local role=voter_actions
+|Binding.Bound role=Government decision making.decision_maker_actions
+}}{{Binding
+|Binding.Local role=voting_process
+|Binding.Bound role=Government decision making.decision_making_process
+}}{{Binding
+|Binding.Local role=proposed_decision_initial_status
+|Binding.Bound role=Government decision making.entity_under_consideration_initial_state
+}}{{Binding
+|Binding.Local role=proposed_decision_transition
+|Binding.Bound role=Government decision making.entity_under_consideration_ongoing_state
+}}{{Binding
+|Binding.Local role=proposed_decision_final_status
+|Binding.Bound role=Government decision making.entity_under_consideration_final_state
+}}{{Binding
+|Binding.Local role=debate
+|Binding.Bound role=Government decision making.consideration
+}}{{Binding
+|Binding.Local role=proposed_decision_status_change
+|Binding.Bound role=Government decision making.entity_under_consideration_status_change
+}}{{Binding
+|Binding.Local role=proposal
+|Binding.Bound role=Government decision making.introduction_of_entity_under_consideration
+}}{{Binding
+|Binding.Local role=proposed_decision_characteristics
+|Binding.Bound role=Government decision making.entity_under_consideration_characteristics
+}}{{Binding
+|Binding.Local role=approval_standards
+|Binding.Bound role=Government decision making.decision_making_standard
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=vote.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=balloting.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ballot.n
+}}
+|LinkSpanish=Votar
+|LinkPersian=رأی دادن
+|Applicability=English
+}}
+We need X-schemas for voting and elections

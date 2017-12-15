@@ -1,0 +1,36 @@
+{{Metaphor
+|Aliases=
+|Comments=Cultural scope checked for Persian--Aria
+|Tags=orientational,
+|Family=Scalar Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Cultural scope=American English, Persian
+|Source frame=Verticality
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=QUANTITY IS VERTICALITY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=increases in quantity
+|Entailment.Source inference=motion towards higher end of verticality scale
+|Entailment.Entailed metaphors=INCREASE IN QUANTITY IS UPWARD MOTION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The price of stocks rose.
+|Example.Provenance=Elise
+}}{{Example
+|Example.Language=English
+|Example.Text=My to-do list is piling up!
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise
+|Last reviewed by=Ellen
+|Status=in development
+|LinkPersian=بیشتر بالا است
+|Investigated for=English
+|Relevant LUs=
+}}

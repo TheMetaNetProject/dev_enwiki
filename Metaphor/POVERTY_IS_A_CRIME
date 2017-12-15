@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "poverty is a crime"
+|Family=Poverty metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Crime
+|Target frame=Poverty
+|Mappings={{Mapping
+|Target=impoverished_entity
+|Source=victim
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He appealed to logos (logic) by trying to analyze why poverty is a crime and tries to differentiate it from being poor.
+|Example.Provenance=http://joannnadi.blogspot.com/2012/11/an-analysis-of-crime-of-poverty-henry.html
+|Example.Annotation="poverty is a crime"
+}}
+|Entered by=Eve
+|Status=in development
+|Investigated for=English
+}}

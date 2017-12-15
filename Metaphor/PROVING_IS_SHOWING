@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Cause to see
+|Target frame=Reasoning
+|Mappings={{Mapping
+|Target=reasoner
+|Source=perception_causer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=KNOWING IS SEEING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The marks on the carpet show that the perpetrator wore boots.
+|Example.Provenance=Jisup
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

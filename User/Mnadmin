@@ -1,0 +1,4 @@
+
+graph:
+
+{{#relationsgraph:tgschemgrph||{{GetFrameRelationsForMetaphorFamily|Metaphor_family:LOVE IS A JOURNEY Cascade|Source}}||gv|}}

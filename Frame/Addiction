@@ -1,0 +1,39 @@
+{{Frame
+|Description=person is addicted to a substance or activity
+|Family=Harm, Harm to living entity,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=addicted_person
+}}{{Role
+|Role.Name=addicting_thing
+|Role.Definition=substance or activity the addicted_person is addicted to
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical affliction
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Drugs
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=addict.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=addict.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=addiction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hooked.a
+}}
+|LinkSpanish=Adicción
+|Applicability=English
+}}

@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Disease metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Disease
+|Target frame=Corruption
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=CRIME IS A DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our government is afflicted with the cancer of corruption.
+}}{{Example
+|Example.Language=English
+|Example.Text=Corrupt officials are infecting our government at every level.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

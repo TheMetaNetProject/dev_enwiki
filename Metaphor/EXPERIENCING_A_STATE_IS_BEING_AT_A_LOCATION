@@ -1,0 +1,87 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EXPERIENCING A STATE IS BEING IN A LOCATION
+|Metaphor.Alias.Provenance=Ellen
+}}
+|Comments=proposed variation of States Are Locations.
+
+See discussion in "Experiencing a state" frame about changes we may want to make so as to include states that are not directly "experienced" by the entity associated with a particular state/property.
+|Family=Location Event Structure Metaphor, States are Locations metaphors, Primary Metaphors, Poverty metaphors, Poverty as an individual problem metaphors,
+|Metaphor Type=Primary
+|Experiential basis=experiencing different states at different locations
+|Source frame=Being at a location
+|Target frame=Experiencing a state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=experiencer
+}}{{Mapping
+|Target=standard
+|Source=landmark
+}}{{Mapping
+|Target=experienced_state_value
+|Source=current_location
+}}{{Mapping
+|Target=state
+|Source=locale
+}}{{Mapping
+|Target=stative_x-schema
+|Source=x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EXPERIENCE OF A STATE IS SPATIAL RELATION WITH AN ENTITY
+|Related metaphor.Description=more specific case of source domain
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=CIRCUMSTANCES ARE SURROUNDINGS
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=STATES ARE LOCATIONS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=currently experiencing a state value
+|Entailment.Source inference=being in a bounded region (at interior)
+|Entailment.Type=image schematic
+}}{{Entailment
+|Entailment.Target entailment=not currently experiencing a state value
+|Entailment.Source inference=being outside a bounded region (at exterior)
+|Entailment.Type=image schematic
+}}{{Entailment
+|Entailment.Target entailment=imminence of experience of a particular state value
+|Entailment.Source inference=distance to boundary (from exterior)
+}}{{Entailment
+|Entailment.Target entailment=current experience is defined with respect to a particular state value
+|Entailment.Source inference=current trajector location is profiled_region defined with respect to landmark
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I'm in love.
+|Example.Provenance=PITF, p. 180
+|Example.Comments=in a region/state
+}}{{Example
+|Example.Language=English
+|Example.Text=She's out of her depression.
+|Example.Provenance=PITF, p. 180
+|Example.Comments=out of region/state
+}}{{Example
+|Example.Language=English
+|Example.Text=She's close to insanity.
+|Example.Provenance=PITF, p. 180
+|Example.Comments=near a region/state
+}}{{Example
+|Example.Language=English
+|Example.Text=When at rest, the computer goes into hibernation.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's at an advanced stage in his studies.
+|Example.Provenance=1991 Metaphor list
+}}{{Example
+|Example.Language=English
+|Example.Text=What state is the project in?
+|Example.Provenance=1991 Metaphor list
+}}
+|Entered by=Ellen, Oana
+|Last reviewed by=Ellen, Elise
+|Status=in development, proposed, release candidate
+|Relevant LUs=
+}}

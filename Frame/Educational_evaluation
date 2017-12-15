@@ -1,0 +1,18 @@
+{{Frame
+|Family=Education frames
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Elise, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Education
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

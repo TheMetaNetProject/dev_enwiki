@@ -1,0 +1,20 @@
+{{Metaphor
+|Aliases=
+|Family=Rights metaphors, Possession metaphors, 
+|Metaphor Level=General
+|Source frame=Possession
+|Target frame=Rights
+|Mappings={{Mapping
+|Target=rights_holder
+|Source=possessor
+}}{{Mapping
+|Target=right
+|Source=possession
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

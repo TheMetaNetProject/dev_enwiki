@@ -1,0 +1,26 @@
+{{Frame
+|Type=Frame
+|Status=proposed
+|Entered by=Oana, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=diplomacy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diplomatic
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diplomat
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liaison
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=negotiation
+}}
+|Applicability=English
+}}

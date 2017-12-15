@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases=
+|Family=Scalar Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Source path goal
+|Target frame=Scale
+|Mappings={{Mapping
+|Target=minimal value
+|Source=source
+}}{{Mapping
+|Target=intermediate values
+|Source=path
+}}{{Mapping
+|Target=maximal value
+|Source=goal
+}}{{Mapping
+|Target=norm
+|Source=landmark
+}}{{Mapping
+|Target=position_on_scale
+|Source=trajector
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=scalar change inovovles incremental changes in scalar values
+|Entailment.Source inference=motion along a path involves incremental changes in locations along a path
+|Entailment.Entailed metaphors=SCALAR CHANGE IS MOTION ALONG A PATH
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The temperature shot up.
+}}{{Example
+|Example.Language=English
+|Example.Text=Fuel consumption rose to the highest it has been in 20 years.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

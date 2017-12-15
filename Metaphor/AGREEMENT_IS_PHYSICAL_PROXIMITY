@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AGREEMENT IS PHYSICAL PROXIMITY
+|Metaphor.Alias.Provenance=Metaphor+
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Proximity
+|Target frame=Agreement
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We're finally on the same page.
+}}{{Example
+|Example.Language=English
+|Example.Text=Who's with me?
+}}
+|Relevant LUs=
+|Entered by=Oana, 
+|Status=in development
+}}

@@ -1,0 +1,38 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Destroying
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Fire
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Caused change of state
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=extinguish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snuff out.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=put out.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blow out.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=douse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quench.v
+}}
+|Applicability=English
+}}

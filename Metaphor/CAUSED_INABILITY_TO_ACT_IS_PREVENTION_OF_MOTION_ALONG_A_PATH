@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH
+}}
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, 
+|Metaphor Type=Entailed
+|Source frame=Motion along a path
+|Target frame=Action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CAUSES ARE FORCES
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Regulations keep me from moving ahead with this housing project.
+}}{{Example
+|Example.Language=English
+|Example.Text=Sudden illness stopped his progress.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's really gotten hung up at that step in the process.
+}}{{Example
+|Example.Language=English
+|Example.Text=He is so caught up in his work he can't do anything else.
+}}{{Example
+|Example.Language=English
+|Example.Text=He was held up in the meeting.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

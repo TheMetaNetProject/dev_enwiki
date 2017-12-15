@@ -1,0 +1,33 @@
+{{Frame
+|Comments=unnecessary?
+|Family=Impediment and enablement frames, Motion-affecting frames, Location frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Inability to access a location
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Access to a location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=open.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wide open.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=widen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=broaden.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=open.adj
+}}
+}}

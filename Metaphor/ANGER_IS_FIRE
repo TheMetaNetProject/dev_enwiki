@@ -1,0 +1,80 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS FIRE
+|Metaphor.Alias.Provenance=Women Fire and Dangerous Things
+|Metaphor.Alias.Page no=389
+}}
+|Family=Anger Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Fire
+|Target frame=Anger
+|Mappings={{Mapping
+|Target=anger
+|Source=fire
+}}{{Mapping
+|Target=experiencer
+|Source=burning_object
+}}{{Mapping
+|Target=cause_of_anger
+|Source=cause_of_fire
+}}{{Mapping
+|Target=anger_level
+|Source=fire_intensity
+}}{{Mapping
+|Target=mind_condition
+|Source=burning_object_condition
+}}{{Mapping
+|Target=other_people
+|Source=nearby_objects
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ANGER IS HEAT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=An anger experiencer can have low anger_level for a long time and then suddenly become very angry (high anger_level)
+|Entailment.Source inference=burning_object can be on fire at low fire_intensity for a long time and then burst into flame (high fire_intensity)
+}}{{Entailment
+|Entailment.Target entailment=An anger experiencer is dangerous to other_people
+|Entailment.Source inference=A fire is dangerous to nearb_objects
+}}{{Entailment
+|Entailment.Target entailment=high anger_level can render mind_condition nonfunctional
+|Entailment.Source inference=high fire_intensity can render burning_object_condition nonfunctional
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Those are inflammatory remarks.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=She was doing a slow burn.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=She was breathing fire.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=Your insincere apology just added fuel to the fire.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=After the argument, Dave was smoldering for days.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=He was consumed by his anger.
+|Example.Provenance=Women Fire and Dangerous Things:388
+}}{{Example
+|Example.Language=English
+|Example.Text=He's seeing red.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=consumed.a
+}}
+|Entered by=Jisup
+|Status=in development
+}}

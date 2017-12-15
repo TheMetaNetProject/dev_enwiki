@@ -1,0 +1,20 @@
+{{Frame
+|FrameNet frame=Awareness, Cogitation
+|Family=Cognition Frames,
+|Type=Frame
+|Roles={{Role
+|Role.Name=thinker
+}}{{Role
+|Role.Name=thinking_x_frame
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Cognizing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=think.v
+}}
+}}

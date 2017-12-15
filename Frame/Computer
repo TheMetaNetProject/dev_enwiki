@@ -1,0 +1,40 @@
+{{Frame
+|Family=Entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=computer_whole
+}}{{Role
+|Role.Name=computer_parts
+}}{{Role
+|Role.Name=computer_function
+}}{{Role
+|Role.Name=computer_purpose
+}}{{Role
+|Role.Name=computational_process
+}}{{Role
+|Role.Name=hardware
+}}{{Role
+|Role.Name=software
+}}{{Role
+|Role.Name=computer_user
+}}{{Role
+|Role.Name=power_source
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Machine
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=computer.n
+}}
+|LinkSpanish=Computadora
+|Applicability=English
+}}

@@ -1,0 +1,92 @@
+{{Frame
+|Description=a rural location, inhospitable to human habitation
+|Family=Harm, Harm to living entity,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Geographic feature
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Danger
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wastelands.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wasteland.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swamp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=forest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backwater.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backwoods.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=woods.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=desert.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wilderness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jungle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=desolation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=back country
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outback.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hinterland.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boondocks.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wild.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moors.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boonies.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=badlands.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=woodlands.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bush.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sticks.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moonscape.n
+}}
+|LinkSpanish=Tierra salvaje
+|Applicability=English
+}}

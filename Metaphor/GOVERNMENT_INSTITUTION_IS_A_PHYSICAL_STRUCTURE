@@ -1,0 +1,43 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+}}
+|Family=Governance metaphors, Government institution metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Physical structure
+|Target frame=Government institution
+|Mappings={{Mapping
+|Target=government_whole
+|Source=structure_whole
+}}{{Mapping
+|Target=authority_structure
+|Source=structural_framework
+}}{{Mapping
+|Target=functional_status
+|Source=structural_stability
+}}{{Mapping
+|Target=authority_base
+|Source=foundation_of_structure
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUTION IS A COMPLEX PHYSICAL OBJECT
+|Related metaphor.Description=Physical Structures are complex structures with parts
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Rising food prices can topple governments
+|Example.Provenance=http://www.npr.org/2011/01/30/133331809/rising-food-prices-can-topple-governments-too; Oct 9, 2012
+|Example.Comments=Only vertical structures with support can topple.
+}}{{Example
+|Example.Language=English
+|Example.Text=Afghanistan's government could collapse after 2014.
+|Example.Provenance=www.bbc.co.uk/news/world-asia-19868043
+}}
+|Entered by=Elise, Srini (modified relations), Eve (added examples)
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

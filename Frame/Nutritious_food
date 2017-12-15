@@ -1,0 +1,27 @@
+{{Frame
+|Family=Eating Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Food
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutritious food
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=healthy food
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutrition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutritional.adj
+}}
+|Applicability=English
+}}

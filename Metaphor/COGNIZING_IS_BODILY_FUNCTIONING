@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MIND IS A BODY
+}}
+|Family=Mind Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Cognizing
+|Target frame=Bodily_functioning
+|Mappings={{Mapping
+|Target=mind
+|Source=body
+}}{{Mapping
+|Target=cognizing_x-schema
+|Source=bodily_functioning_x-schema
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=the mind
+|Entailment.Source inference=a body
+|Entailment.Entailed metaphors=MIND IS A BODY
+}}{{Entailment
+|Entailment.Target entailment=a well-functioning/non-functioning mind
+|Entailment.Source inference=a healthy/unhealthy body
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=My mind was racing.
+}}{{Example
+|Example.Language=English
+|Example.Text=My mind is tired.
+|Example.Provenance=Aria
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+|Metaphor_Family=Mind Metaphors
+}}

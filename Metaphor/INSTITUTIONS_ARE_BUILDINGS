@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Family=Democracy metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Mexican Spanish
+|Source frame=Building
+|Target frame=Institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=INSTITUTION IS A COMPLEX PHYSICAL OBJECT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Crumbling Walls of the Roman Catholic Church
+|Example.Provenance=fspp.net/Articles/crumbling_walls.htm
+|Example.Annotation=This is NOT about physical churches crumbling, though the internet is full of such references also.
+}}{{Example
+|Example.Language=English
+|Example.Text=Institutional reform
+}}
+|Entered by=Oana,
+|Last reviewed by=Eve, Oana
+|Status=in development
+|LinkSpanish=INSTITUCIONES SON EDIFICIOS
+|Investigated for=English
+}}

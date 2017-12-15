@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Metaphor Type=Primary
+|Source frame=Resource
+|Target frame=Education
+|Mappings={{Mapping
+|Target=education_content
+|Source=resource
+}}{{Mapping
+|Target=education_learner
+|Source=resource_user
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EDUCATION IS AN OBJECT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=A good education is a powerful resource.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,122 @@
+{{Frame
+|Description=Damaging or destroying a physical entity
+|FrameNet frame=Destroying
+|Comments=see Killing for a similar frame for animate entities
+|Family=Harm, Damage, Harmful encounters frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=destroyer
+|Role.Definition=destructive agent or force
+}}{{Role
+|Role.Name=damaged_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical harm
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=destroy.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clobber.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decimate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dismantle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demolish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destruction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destroyer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demolition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destruct.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obliterate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collapse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collapse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=raze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bulldoze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tear.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pulverize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=level.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ruin.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=havoc.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=erase.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=expunge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wipe.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obliterate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wreck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=devastate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=devastation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stomp.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stomp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trash.v
+}}
+|LinkSpanish=Destruir
+|Applicability=English
+}}

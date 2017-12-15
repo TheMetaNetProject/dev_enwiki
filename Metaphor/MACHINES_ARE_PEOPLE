@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Machine
+|Mappings={{Mapping
+|Target=machine
+|Source=person
+}}{{Mapping
+|Target=machine_hardware
+|Source=human_body
+}}{{Mapping
+|Target=machine_software
+|Source=human_mind
+}}{{Mapping
+|Target=good_functioning_of_machine
+|Source=health_of_person
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Text=The engine is dying; we need to repair it.
+}}
+|Entered by=Oana,
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

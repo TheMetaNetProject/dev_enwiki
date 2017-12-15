@@ -1,0 +1,13 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA frame
+|frame.frame=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+!  Frame:
+|  [[Evokes frame::Frame:{{{frame.frame|}}}|{{{frame.frame|}}}]]
+|}
+</includeonly>

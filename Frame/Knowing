@@ -1,0 +1,25 @@
+{{Frame
+|FrameNet frame=Awareness
+|Family=Cognition Frames,
+|Roles={{Role
+|Role.Name=knower
+}}{{Role
+|Role.Name=knowledge
+}}{{Role
+|Role.Name=knowing_x_frame
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}
+|Bindings={{Binding
+|Binding.Local role=knower
+|Binding.Bound role=Cognizing.cognizer
+}}{{Binding
+|Binding.Local role=knowledge
+|Binding.Bound role=Cognizing.content
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

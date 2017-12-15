@@ -1,0 +1,13 @@
+{{Frame
+|Type=Cog
+|Applicability=English, Spanish, Russian, Persian
+|Roles={{Role
+|Role.Name=subject
+}}{{Role
+|Role.Name=predicate
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

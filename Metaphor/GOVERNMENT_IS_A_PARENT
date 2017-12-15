@@ -1,0 +1,45 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Function of Government metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Nuclear family
+|Target frame=Government
+|Mappings={{Mapping
+|Target=governor
+|Source=parent(s)
+}}{{Mapping
+|Target=governed
+|Source=children
+}}{{Mapping
+|Target=jurisdiction_region
+|Source=family_whole
+|Comment=e.g. nation is a family
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=government has some degree of control over the actions of the governed
+|Entailment.Source inference=parents have some degree of control over children's actions
+}}{{Entailment
+|Entailment.Target entailment=the government is responsible for taking care of the governed
+|Entailment.Source inference=parents are responsible for taking care of their children
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Big Father: The Government as Parent
+|Example.Provenance=http://shiplerreport.blogspot.com/2011/12/big-father-government-as-parent.html
+}}{{Example
+|Example.Language=English
+|Example.Text=Doctrine of Parens Patriae." Parens Patriae means literally, "parent of the country." It refers traditionally to the role of STATE as sovereign and guardian of persons under legal disability.
+|Example.Provenance=http://www.barefootsworld.net/parensp.html
+}}
+|Entered by=Oana, Eve (examples)
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ПРАВИТЕЛЬСТВО - ЭТО РОДИТЕЛЬ
+|Investigated for=English
+|Relevant LUs=
+}}

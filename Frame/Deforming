@@ -1,0 +1,98 @@
+{{Frame
+|Description=causing object to change shape (and be damaged) via force application
+|FrameNet frame=Reshaping
+|Family=Harm, Damage, Endangerment frames,
+|Type=Frame
+|Status=in development, release candidate
+|Entered by=Elise, Ellen,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical harm
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=squeeze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squeeze.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crush.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flatten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumple.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deform.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=warp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrunch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crunch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compress.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mangle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pinch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pinch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twist.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tweak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tweak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grind.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grind.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crunch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flatten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trample.v
+}}
+|Applicability=English
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|Family=Unclassified, 
+|Type=Frame
+|Status=in development
+|Entered by=Mark,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Tending to plants
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=farm.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=farm.n
+}}
+|Applicability=English
+}}

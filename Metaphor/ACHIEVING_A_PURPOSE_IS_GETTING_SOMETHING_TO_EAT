@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACHIEVING A PURPOSE IS GETTING SOMETHING TO EAT
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=197
+}}
+|Comments=This metaphor is related to ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT, with the desired object here specifically being food.
+|Family=Object Event Structure Metaphor,
+|Metaphor Level=Specific
+|Source frame=Gain possession
+|Target frame=Purposeful action
+|Mappings={{Mapping
+|Target=actor
+|Source=recipient
+}}{{Mapping
+|Target=objective
+|Source=possession
+}}{{Mapping
+|Target=action_x-schema
+|Source=getting_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT
+|Related metaphor.Description=desired object is food
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He savored the victory.
+|Example.Provenance=PITF, p. 197
+}}{{Example
+|Example.Language=English
+|Example.Text=This is a mouth-watering opportunity.
+|Example.Provenance=PITF, p. 197
+}}
+|Last reviewed by=Eve
+|Investigated for=English
+|Relevant LUs=
+}}
+I feel a bit dubious about this one - Eve

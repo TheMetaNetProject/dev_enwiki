@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Family=Scalar Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Vertical_structure
+|Target frame=Hierarchy
+|Mappings={{Mapping
+|Target=hierarchical_structure
+|Source=vertical_physical_structure
+}}{{Mapping
+|Target=item_in_hierarchy
+|Source=position_in_structure
+}}{{Mapping
+|Target=superior_points_in_hierarchy
+|Source=higher_positions_in_structure
+}}{{Mapping
+|Target=inferior_points_in_hierarchy
+|Source=lower_points_in_structure
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CONTROL IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's gone over my head to the top supervisor.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

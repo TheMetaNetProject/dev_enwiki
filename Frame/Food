@@ -1,0 +1,70 @@
+{{Frame
+|FrameNet frame=Food
+|Comments=Is 'portion' metaphoric, evoking Food source frame?
+|Family=Eating Frames, Food frame family
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Last reviewed by=Oana, Ellen
+|Roles={{Role
+|Role.Name=food
+}}{{Role
+|Role.Name=food_consumer
+}}{{Role
+|Role.Name=type
+}}{{Role
+|Role.Name=amount
+}}{{Role
+|Role.Name=properties
+|Role.Definition=e.g. smell, taste, nutritive value
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Eating
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Resource
+}}
+|Bindings={{Binding
+|Binding.Local role=food
+|Binding.Bound role=Physical entity.physical_entity_whole
+}}{{Binding
+|Binding.Local role=food
+|Binding.Bound role=Eating.eaten_object
+}}{{Binding
+|Binding.Local role=food
+|Binding.Bound role=Resource.resource
+}}{{Binding
+|Binding.Local role=amount
+|Binding.Bound role=Resource.amount
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutrition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=food.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nutritional.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nourishment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nourish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=portion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bread.n
+}}
+|LinkSpanish=Comida
+|Applicability=English
+}}

@@ -1,0 +1,65 @@
+{{Frame
+|Description=An agent acts so as to stop or prevent a speaker from speaking.
+|FrameNet frame=Silencing
+|Comments=In some cases, cause can be physical, e.g. by gagging speaker or otherwise stopping speaker's airflow (see Stop airflow frame).
+|Family=Communication Frames,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=agent
+|Role.Definition=the person causing the silence
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=speaker
+|Role.Definition=the person being silenced
+|Role.FrameNet role=Speaker
+}}{{Role
+|Role.Name=agent_action
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Speaking
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causation
+}}
+|Bindings={{Binding
+|Binding.Local role=agent
+|Binding.Bound role=Causation.agent
+}}{{Binding
+|Binding.Local role=speaker
+|Binding.Bound role=Speaking.speaker
+}}{{Binding
+|Binding.Local role=speaker
+|Binding.Bound role=Causation.affected
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hush.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quiet.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shut.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=silence.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mute.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gag.v
+}}
+|Applicability=English
+}}

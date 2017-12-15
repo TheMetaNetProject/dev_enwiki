@@ -1,0 +1,30 @@
+{{Construct analysis
+|text=burden of taxation
+|informalanalysis=This N(S)of N(T) construct expresses an entity-to-entity role mapping within the TAXATION IS A BURDEN metaphor, namely that between the 'burden' role in the Burden frame, and 'tax' role in the Taxation frame.
+
+To 'automatically' identify the relevant source and target roles involved here, it seems like we would have to associate the LUs to their relevant frame roles (e.g. burden.n, load.n would be linked to the  'burden' role of Burden frame, and taxation.n and tax.n would be linked to the 'tax' role of the Taxation frame).
+
+Note that both of the 'N' constituents can include modifiers, e.g 'heavy burden of unfair taxation'
+|comment=This mapping can also be expressed using the NP(T)copula NP(S) cxn (e.g. Taxes are a burden).
+
+We need to define which subcase of N_of_N this is.  It may be that it is exclusively metaphorical (unlike, e.g. Part_of_whole, or Container_of_Contents N_of_N cxns). Or, it may be related to examples such as 'the burden of heavy backpacks', which might also be expressed as 'heavy backpacks are a burden'.  Similarly, we have patterns like 'the elected office of president', and president is an elected office'.  It is unclear how exactly to characterize the semantic relations expressed in these examples.
+|Entered by=Ellen
+|Status=in development
+|construction=N of N
+|constituents={{CA constituent
+|constituent.string=burden
+|constituent.frames=Burden
+}}{{CA constituent
+|constituent.string=of
+}}{{CA constituent
+|constituent.string=taxation
+|constituent.frames=Taxation
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=taxation.n
+}}
+|examples=
+}}

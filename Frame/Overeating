@@ -1,0 +1,114 @@
+{{Frame
+|Family=Eating Frames, Aversion frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=overeater
+}}{{Role
+|Role.Name=food
+}}{{Role
+|Role.Name=resulting_state_of_overeating
+}}{{Role
+|Role.Name=degree_of_overeating
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Eating
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Excess body weight
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gorge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=binge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glutton.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gluttony.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gluttonize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eat.v like a horse
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overindulge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pig.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scarf.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surfeit.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pack.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fat.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stuffed.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hefty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plump.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stout.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obese.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pig.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hog.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feeding trough.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feast.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feast.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fatter.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guzzle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overeat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overeater.n
+}}
+|LinkSpanish=Consumir alimento excesivo
+|Applicability=English
+}}

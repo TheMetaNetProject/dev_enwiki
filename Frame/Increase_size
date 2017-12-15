@@ -1,0 +1,100 @@
+{{Frame
+|Other aliases=Growth
+|Comments=some LUs may belong in more specific frames (e.g. 'explosion').
+
+There was an additional Growth frame. I deleted it. OAD
+|Family=Scale Frames, Physical properties frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Size
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Decrease size
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloating
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fatten.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get fat
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enlarge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fatten up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=balloon.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bulge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=billow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=expand.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inflate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swell.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=puff.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=puff.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enlarged.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enlargement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enlargening
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fattened
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swell.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=expansion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mushroom.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=explode.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=explosion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=amplify.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=amplification.n
+}}
+|Applicability=English
+}}

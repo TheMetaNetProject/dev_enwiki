@@ -1,0 +1,81 @@
+{{Frame
+|FrameNet frame=Cutting
+|Family=Harm, Damage, Endangerment frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Roles={{Role
+|Role.Name=cutter
+|Role.Type=Animate entity
+}}{{Role
+|Role.Name=object_of_cutting
+|Role.Type=Object
+}}{{Role
+|Role.Name=act_of_cutting
+|Role.Type=Process
+}}{{Role
+|Role.Name=cutting_tool
+|Role.Type=Object
+}}{{Role
+|Role.Name=initial_size_of_object
+|Role.Type=Size
+}}{{Role
+|Role.Name=final_state_of_object
+|Role.Type=State
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Force-application
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical harm
+}}
+|Bindings={{Binding
+|Binding.Local role=cutter
+|Binding.Bound role=Force-application.actor
+}}{{Binding
+|Binding.Local role=object_of_cutting
+|Binding.Bound role=Force-application.acted_upon
+}}{{Binding
+|Binding.Local role=act_of_cutting
+|Binding.Bound role=Force-application.x-schema
+}}{{Binding
+|Binding.Local role=cutting_tool
+|Binding.Bound role=Force-application.effector
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cut.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slice.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trim.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prune.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=carve.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gouge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cut back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clip.v
+}}
+|LinkSpanish=Cortar un objeto
+|Applicability=English
+}}

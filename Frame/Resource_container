@@ -1,0 +1,103 @@
+{{Frame
+|FrameNet frame=Containers
+|Comments=This frame was created to include LUs for items used to contain money and other valuable resources.
+|Family=Resource Frames, Entity frames,
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Containing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Resource
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=purse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wallet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=billfold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pocketbook.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handbag.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=treasure.n chest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=coin.n purse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=coffer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moneybag.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=piggy bank.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=piggybank.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pocket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=knapsack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backpack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=barrel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=basket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bucket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=casket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=truckload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trainload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boatload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=carload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shipload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ark.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vault.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lockbox.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cup.n
+}}
+|Applicability=English
+}}

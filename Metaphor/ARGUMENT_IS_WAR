@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ARGUMENT IS WAR
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=War
+|Target frame=Argument
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ARGUMENT IS PHYSICAL COMBAT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He bombarded them with clever arguments.
+}}{{Example
+|Example.Language=English
+|Example.Text=His criticisms were right on target.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=بحث کردن جنگیدن است
+|Relevant LUs=
+}}

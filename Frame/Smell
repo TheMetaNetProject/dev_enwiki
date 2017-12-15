@@ -1,0 +1,52 @@
+{{Frame
+|FrameNet frame=Sensation
+|Family=Perception frames, 
+|Type=Cog
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Perception
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=smell.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smell.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=odor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fragrance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fragrant.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aroma.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bouquet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perfume.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cologne.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=incense.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whiff.n
+}}
+|Applicability=English
+}}

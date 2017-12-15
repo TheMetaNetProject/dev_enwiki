@@ -1,0 +1,72 @@
+{{Frame
+|Family=Act on Object frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object manipulation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=drill.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poke.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stab.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=insert.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=force in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tuck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inject.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=implant.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stick.v in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shove.v in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squeeze.v in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=embed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lug.v in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=implant.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sink in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ingrain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inlay.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=install.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ingress.v
+}}
+|Applicability=English
+}}

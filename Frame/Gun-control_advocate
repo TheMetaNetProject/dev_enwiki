@@ -1,0 +1,75 @@
+{{Frame
+|Family=Gun debate, Control of guns family,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun-control advocacy
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Person
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gunner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control advocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Second Amendment denier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=2nd Amendment denier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disarmer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoplophobe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoplophobia.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-rights
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-grabber.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun grabber.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control lobbyist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control lobbyist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun lobbyist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun lobbyist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control proponent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control proponent.n
+}}
+|Applicability=English
+}}

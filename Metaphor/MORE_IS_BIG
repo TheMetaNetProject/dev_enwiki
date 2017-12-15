@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Family=Scalar Metaphors,
+|Metaphor Type=Entailed
+|Source frame=Size
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=QUANTITY IS SIZE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=increases in quantity
+|Entailment.Source inference=increase in size
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is trying to pay off his huge debt.
+|Example.Provenance=Ellen
+}}{{Example
+|Example.Language=English
+|Example.Text=The city is expanding the number of recycling containers in parks.
+|Example.Provenance=Ellen
+}}
+|Entered by=Ellen,
+|Status=in development
+}}

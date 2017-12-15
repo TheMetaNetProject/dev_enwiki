@@ -1,0 +1,45 @@
+{{Frame
+|Description=objects that facilitate downward motion
+|Family=Impediment and enablement frames, Motion-affecting frames, Motion Frames,
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aids to motion
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Downward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=trapdoor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chute.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=greased.a pole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trap door.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slippery.a slope.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slope.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slope.v
+}}
+|LinkSpanish=Ayudas al movimiento hacia abajo
+}}

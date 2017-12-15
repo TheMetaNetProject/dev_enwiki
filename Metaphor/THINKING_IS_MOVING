@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=THOUGHT IS MOTION
+}}
+|Family=Mind Metaphors
+|Metaphor Type=Primary
+|Source frame=Motion
+|Target frame=Thinking about
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IDEAS ARE LOCATIONS
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SIMILARITY IS CLOSENESS
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Changing topics of conversation
+|Entailment.Source inference=Moving from one bounded region in space to another.
+|Entailment.Type=image schematic
+}}{{Entailment
+|Entailment.Target entailment=Thinking about a topic
+|Entailment.Source inference=being in a bounded region of space
+}}{{Entailment
+|Entailment.Target entailment=Being able to think about different things
+|Entailment.Source inference=being able to move to different locations
+}}{{Entailment
+|Entailment.Target entailment=Being unable to think about different things
+|Entailment.Source inference=being unable to move from one place to another
+}}{{Entailment
+|Entailment.Target entailment=Purposeful thinking
+|Entailment.Source inference=Goal-directed motion
+|Entailment.Entailed metaphors=PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We're making progress on defining what kind of house we are looking for.
+}}
+|Entered by=Oana, Jisup, Ellen,
+|Status=in development
+|Relevant LUs=
+}}

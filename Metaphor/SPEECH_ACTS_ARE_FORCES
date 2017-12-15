@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SPEECH ACTS ARE FORCES
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=SPEECH ACT FORCE IS A PHYSICAL FORCE
+}}
+|Source frame=Forced movement
+|Target frame=Speech act
+|Mappings={{Mapping
+|Target=speaker
+|Source=agent
+}}{{Mapping
+|Target=addressee
+|Source=mover
+}}{{Mapping
+|Target=utterance
+|Source=forceful_action
+}}{{Mapping
+|Target=outcome
+|Source=goal
+}}{{Mapping
+|Target=addressee_action
+|Source=motion
+}}{{Mapping
+|Target=intent_of_utterance
+|Source=goal
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=All your fine speeches cannot sway me from my purpose.
+}}{{Example
+|Example.Language=English
+|Example.Text=Her account of her troubles overwhelmed the audience, moving many to tears.
+}}
+|Status=in development
+|Investigated for=English
+}}

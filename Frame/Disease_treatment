@@ -1,0 +1,67 @@
+{{Frame
+|FrameNet frame=Medical_interaction_scenario
+|Comments=All Disease treatment LUs were moved to Treating_a_physical_affliction. Cure, treat, assuage, etc. are all pertinent to general treatment of physical ailments, and are not specific to diseases.
+|Family=Disease frame family,
+|Type=Frame, Composed
+|Cultural information=This frame captures a modern healthcare approach to treating a person with disease.
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=disease
+|Role.FrameNet role=Affliction
+}}{{Role
+|Role.Name=doctors
+|Role.FrameNet role=Medic
+}}{{Role
+|Role.Name=medical_professionals
+|Role.FrameNet role=Medic
+}}{{Role
+|Role.Name=diseased_cells
+}}{{Role
+|Role.Name=healthy_cells
+}}{{Role
+|Role.Name=body
+|Role.FrameNet role=Patient
+}}{{Role
+|Role.Name=treatment_strategies
+}}{{Role
+|Role.Name=cure
+}}{{Role
+|Role.Name=spread_of_disease
+}}{{Role
+|Role.Name=medical_tools_and_medicine
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Disease
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Treating a physical affliction
+}}
+|Bindings={{Binding
+|Binding.Local role=disease
+|Binding.Bound role=Disease.disease
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Disease.patient
+}}
+|Inferences={{Inference
+|Inference.Description=A body becomes sick when diseased_cells reach a sufficient ratio in comparison to healthy_cells.
+}}{{Inference
+|Inference.Description=In response to an outbreak of a disease, doctors determine a treatment_strategy which is applied to patients by medical_professionals using medical_tools_and_medicines.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=medicine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=doctor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surgeon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=patient.n
+}}
+}}

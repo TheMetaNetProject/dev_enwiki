@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MEANS ARE PATHS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=191
+}}
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Experiential basis=The correlation between goal-oriented decision-making and confronting alternative paths.
+|Source frame=Self propelled motion to a destination
+|Target frame=Purposeful action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=ACHIEVING A PURPOSE IS REACHING A DESTINATION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=there are different means one can use to achieve a purpose
+|Entailment.Source inference=there are different paths one can take to reach a different destination
+|Entailment.Entailed metaphors=DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do it this way.
+|Example.Provenance=Philosophy in the Flesh (191)
+}}{{Example
+|Example.Language=English
+|Example.Text=However you want to go about it is fine with me
+|Example.Provenance=Philosophy in the Flesh (191)
+}}
+|Entered by=Elise,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

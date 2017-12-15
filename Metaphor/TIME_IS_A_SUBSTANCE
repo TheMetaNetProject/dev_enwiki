@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases=
+|Family=Time Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Substance
+|Target frame=Time
+|Mappings={{Mapping
+|Target=time
+|Source=substance
+}}{{Mapping
+|Target=duration_of_time
+|Source=amount_of_substance
+}}{{Mapping
+|Target=extent_of_duration_of_time
+|Source=size_of_amount_of_substance
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIME IS AN ENTITY
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=TIME IS A MOVING OBJECT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The flow of time
+}}{{Example
+|Example.Language=English
+|Example.Text=Like sands through the hourglass, so are the days of our lives.
+|Example.Provenance=Days of Our Lives (TV show)
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,68 @@
+{{Frame
+|FrameNet frame=Apply_heat
+|Other aliases=Heat_of_fluid_in_a_container
+|Type=Frame, Composed
+|Cultural information=The frame captures the inferential structure of liquid heated in an enclosed container such as a pot.
+|Applicability=English
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=container
+|Role.Type=Entity
+|Role.Definition=the container in which the fluid is heated
+}}{{Role
+|Role.Name=fluid
+|Role.Type=Entity
+}}{{Role
+|Role.Name=fluid_heat_level
+|Role.Definition=the temperature of the heated fluid
+}}{{Role
+|Role.Name=fluid_boiling_point
+}}{{Role
+|Role.Name=container_top
+|Role.Definition=the portal at the top of the container which is typically lidded
+}}{{Role
+|Role.Name=container_pressure_limit
+|Role.Definition=pressure limit at which point container loses integrity
+}}{{Role
+|Role.Name=container_heat
+|Role.Definition=heat level of the container
+}}{{Role
+|Role.Name=container_pressure
+|Role.Definition=level of pressure in the container
+}}{{Role
+|Role.Name=fluid_agitation
+|Role.Definition=level of agitation of the hot fluid
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Heat
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containment
+}}
+|Bindings={{Binding
+|Binding.Local role=container
+|Binding.Bound role=Containment.boundary
+}}{{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Containment.interior
+}}{{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Heat.entity
+}}{{Binding
+|Binding.Local role=fluid_heat_level
+|Binding.Bound role=Heat.level
+}}
+|Inferences={{Inference
+|Inference.Description=If fluid_heat_level exceeds the fluid_boiling_point, the fluid will turn into a form (steam) that rapidly increases the container_pressure.
+|Inference.Type=typical experience
+}}{{Inference
+|Inference.Description=If container_pressure exceeds the container_pressure_limit of the container, the container will could blow its container_top and vent fluid.  This could be dangerous to people around the container.
+|Inference.Type=typical experience
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=boil.v, simmer.v, stew.v, steam.n, blow off.v
+}}
+}}

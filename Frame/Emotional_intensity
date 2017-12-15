@@ -1,0 +1,21 @@
+{{Frame
+|Family=Emotion Frames, Scale Frames,
+|Type=Cog, Primary
+|Status=in development
+|Roles={{Role
+|Role.Name=emotional_intensity_x-schema
+}}{{Role
+|Role.Name=emotional_intensity_scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emotion
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

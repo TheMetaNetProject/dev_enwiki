@@ -1,0 +1,53 @@
+{{Frame
+|Comments=Evaluation with scalar sense of good/bad
+|Family=Evaluation Frames, Excluded frames, 
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=judging_party
+}}{{Role
+|Role.Name=judged_party
+}}{{Role
+|Role.Name=judged_issue
+}}{{Role
+|Role.Name=standards
+}}{{Role
+|Role.Name=judgment_outcome
+}}{{Role
+|Role.Name=judged_action
+|Role.Type=action
+|Role.Definition=action(s) that the  judged_party performs and which are evaluated by the judging_party
+}}{{Role
+|Role.Name=normative_judged_action
+|Role.Definition=judged_action conforms to standards
+}}{{Role
+|Role.Name=non-normative_judged_action
+|Role.Definition=judged_action does not conform to standards
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}
+|Bindings={{Binding
+|Binding.Local role=judging_party
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=judged_party
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=judged_issue
+|Binding.Bound role=Evaluation.behavior
+}}{{Binding
+|Binding.Local role=standards
+|Binding.Bound role=Evaluation.standard
+}}{{Binding
+|Binding.Local role=judgement_outcome
+|Binding.Bound role=Evaluation.evaluation
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=judge.v
+}}
+|Applicability=English
+}}

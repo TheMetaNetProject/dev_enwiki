@@ -1,0 +1,64 @@
+{{Metaphor
+|Aliases=
+|Comments=Cultural scope checked for Persian--Aria
+|Tags=tentative,
+|Family=Taxation metaphors,
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Burden
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=tax_payer
+|Source=burdened_entity
+}}{{Mapping
+|Target=tax
+|Source=burden
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TAXATION IS CAUSING HARM
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=RESPONSIBILITIES ARE BURDENS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=DIFFICULTIES IN ACTION ARE PHYSICAL BURDENS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=(obligation of) paying taxes negatively affects the taxpayer
+|Entailment.Source inference=presence of burden negatively affects burdened_entity's ability to move or act
+}}{{Entailment
+|Entailment.Target entailment=amount of taxes is related to degree to which taxpayer is affected
+|Entailment.Source inference=weight of burden is related to degree of (negative) effect; heavy burdens have more effect than lighter ones
+|Entailment.Type=scalar
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=According to the Tax Foundation, Texas residents on average shoulder the fifth lowest tax burden compared to other residents in the 50 states.
+|Example.Provenance=http://www.ci.garland.tx.us/business/profile/afford/tax.asp
+}}{{Example
+|Example.Language=English
+|Example.Text=The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a "heavy load" for the middle class. 
+|Example.Provenance=http://thehill.com/video/campaign/247159-obama-campaign-hits-romney-tax-plan-for-the-middle-class (Heavy load middle class) 
+}}{{Example
+|Example.Language=English
+|Example.Text=President Obama decided to target certain and specific products or services he deems unhealthy and levied heavy taxes on them. 
+|Example.Provenance= 	http://usconservatives.about.com/od/economytaxes/a/A-List-Of-Barack-Obamas-First-Term-Tax-Increases.htm (Heavy taxes) 
+}}{{Example
+|Example.Language=English
+|Example.Text=Remember when President Obama literally laughed out loud at the idea his health-care plan would impose taxes on the middle class? 
+|Example.Provenance= 	http://www.redstate.com/2013/04/02/beware-the-gun-tax/ (Impose taxes) 
+}}{{Example
+|Example.Language=English
+|Example.Text=The new president delivered on his tax cut promises, which, combined with a recession in 2001, caused the tax burden to fall considerably.
+|Example.Provenance=http://taxfoundation.org/article/tax-freedom-day-2013-april-18-five-days-later-last-year (Tax burden) 
+}}{{Example
+|Example.Language=English
+|Example.Text=New Taxes Burdensome for Farm and Ranch Families
+|Example.Provenance= 	http://www.fb.org/index.php?action=newsroom.news&year=2013&file=nr0305b.html (Taxes burdensome)
+}}
+|Entered by=Ellen,
+|Status=in development
+|LinkPersian=سختی پرداخت مالیات، بار فیزیکی است
+|Investigated for=English
+}}

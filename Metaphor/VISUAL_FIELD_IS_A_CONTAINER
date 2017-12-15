@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=VISUAL FIELD IS A BOUNDED REGION
+}}
+|Family=Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Containment
+|Target frame=Visual_field
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It's out of my field of vision.
+}}{{Example
+|Example.Language=English
+|Example.Text=The island is now in full view.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

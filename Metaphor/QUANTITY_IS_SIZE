@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=QUANTITY IS SIZE
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=AMOUNT IS SIZE
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=QUANTITY IS VOLUME
+}}
+|Family=Scalar Metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=As the amount of an entity or group of entiies increases, the 3-dimensional spatial extent of that entity tends to increase
+|Source frame=Size
+|Target frame=Quantity
+|Mappings={{Mapping
+|Target=entity
+|Source=entity
+}}{{Mapping
+|Target=quantity_scale
+|Source=size_scale
+}}{{Mapping
+|Target=measure_of_quantity
+|Source=scalar_position
+}}{{Mapping
+|Target=entity_amount
+|Source=entity_size
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=greater quantities
+|Entailment.Source inference=larger sizes
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=MORE IS BIG
+}}{{Entailment
+|Entailment.Target entailment=lesser quantities
+|Entailment.Source inference=smaller sizes
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=LESS IS SMALL
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=What is the size of your bank account?
+|Example.Provenance=Ellen
+}}{{Example
+|Example.Language=English
+|Example.Text=He doesn't know how big our national debt is.
+|Example.Provenance=Ellen
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+}}

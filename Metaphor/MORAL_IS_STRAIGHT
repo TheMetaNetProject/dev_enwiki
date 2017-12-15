@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Straightness
+|Target frame=Morality
+|Mappings={{Mapping
+|Target=moral_person
+|Source=straight_person
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=MORALITY IS STRAIGHTNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Be straight with me.
+}}{{Example
+|Example.Language=English
+|Example.Text=God-fearing men must keep strictly to the straight and narrow.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,17 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=intimacy_feeler
+}}{{Role
+|Role.Name=target_of_intimacy
+}}{{Role
+|Role.Name=degree_of_intimacy
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

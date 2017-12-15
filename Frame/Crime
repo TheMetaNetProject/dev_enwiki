@@ -1,0 +1,121 @@
+{{Frame
+|FrameNet frame=Committing_crime
+|Comments=A criminal commits a crime (something that is not permitted by the laws of society).  This crime may involve a victim who is in some way harmed by this crime.
+|Family=Harm, Harm to living entity, Social problem frames, Crime frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana, Ellen,
+|Roles={{Role
+|Role.Name=criminal
+|Role.Type=person
+|Role.FrameNet role=Perpetrator
+}}{{Role
+|Role.Name=criminal_activity
+|Role.FrameNet role=Crime
+}}{{Role
+|Role.Name=victim
+|Role.Type=person
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Harm to living entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Social problems
+|Related frame.Description=special case of social problem
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legality
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Immoral action
+}}
+|Bindings={{Binding
+|Binding.Local role=criminal
+|Binding.Bound role=Cause harm.agent
+}}{{Binding
+|Binding.Local role=victim
+|Binding.Bound role=Cause harm.victim
+}}{{Binding
+|Binding.Local role=criminal_activity
+|Binding.Bound role=Cause harm.cause
+}}{{Binding
+|Binding.Local role=criminal_activity
+|Binding.Bound role=Social problems.problem
+}}{{Binding
+|Binding.Local role=victim
+|Binding.Bound role=Social problems.honest_citizens
+}}{{Binding
+|Binding.Local role=criminal
+|Binding.Bound role=Social problems.immoral_citizens
+}}{{Binding
+|Binding.Local role=criminal
+|Binding.Bound role=Legality.actor
+}}{{Binding
+|Binding.Local role=criminal_activity
+|Binding.Bound role=Legality.action
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=crime.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perpetrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=victim.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=criminal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perpetrator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=felony.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=criminality.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=malfeasance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wrongdoing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wrongdoer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=felon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=goon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thug.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mobster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mob boss.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mafioso.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hood.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gangster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thuggery.n
+}}
+|LinkSpanish=Crimen
+|Applicability=English
+}}

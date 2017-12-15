@@ -1,0 +1,54 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOTION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOVEMENT
+}}
+|Comments=What used to be ACTION IS MOTION or ACTION IS MOVEMENT is now broken up into a finer-grained distinction based on the structure of the source domain frame.
+|Family=Location Event Structure Metaphor, Action is Motion metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Motion_along_a_path
+|Target frame=Action
+|Mappings={{Mapping
+|Target=actor
+|Source=mover
+}}{{Mapping
+|Target=action_self
+|Source=course_of_motion
+}}{{Mapping
+|Target=action_purpose
+|Source=goal_of_motion
+}}{{Mapping
+|Target=action_means
+|Source=path_of_motion
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ACTION IS MOTION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=things that increase difficulty of action
+|Entailment.Source inference=impediments to motion along a path
+|Entailment.Entailed metaphors=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+}}{{Entailment
+|Entailment.Target entailment=Caused inability to act
+|Entailment.Source inference=Prevention of motion along a path
+|Entailment.Type=causation
+|Entailment.Entailed metaphors=CAUSED INABILITY TO ACT IS PREVENTION OF MOTION ALONG A PATH
+}}{{Entailment
+|Entailment.Target entailment=Ability to act
+|Entailment.Source inference=ability to move along a path
+|Entailment.Entailed metaphors=ABILITY TO ACT IS ABILITY TO MOVE
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Devastation from the hurricane thrust the nation into recession.
+}}{{Example
+|Example.Language=English
+|Example.Text=Congress' refusal to compromise is moving the country toward economic ruin.
+}}
+|Entered by=Oana
+|Status=in development
+|Relevant LUs=
+}}

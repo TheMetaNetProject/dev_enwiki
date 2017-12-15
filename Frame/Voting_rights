@@ -1,0 +1,55 @@
+{{Frame
+|Family=Election frames, Rights family, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=enfranchised_voter
+|Role.Definition=person with right to vote
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Voting
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Rights
+}}
+|Bindings={{Binding
+|Binding.Local role=enfranchised_voter
+|Binding.Bound role=Voting.voter
+}}{{Binding
+|Binding.Local role=enfranchised_voter
+|Binding.Bound role=Rights.rights_holder
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=voting rights
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to vote
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enfranchise.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enfranchisement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disenfranchise.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disenfranchisement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suffrage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=franchise.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voter.n eligibility
+}}
+|LinkPersian=حق رأی
+|Applicability=English
+}}

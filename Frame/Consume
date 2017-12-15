@@ -1,0 +1,40 @@
+{{Frame
+|Family=Eating Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=consumer
+}}{{Role
+|Role.Name=consumed_thing
+}}{{Role
+|Role.Name=consume_x-schema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=consume.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deplete.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=devour.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=consumption.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=depletion.n
+}}
+|LinkSpanish=Consumir
+|Applicability=English
+}}

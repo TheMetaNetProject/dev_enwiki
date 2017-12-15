@@ -1,0 +1,51 @@
+{{Frame
+|Family=Gun debate,
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=defender
+|Role.Type=animate entity
+}}{{Role
+|Role.Name=defended_thing
+|Role.Definition=typically is defender or defender's property
+}}{{Role
+|Role.Name=threatening_thing
+}}{{Role
+|Role.Name=means of protection
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Protecting
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Attacking
+}}
+|Bindings={{Binding
+|Binding.Local role=self-defender
+|Binding.Bound role=Protecting.protected_thing
+}}{{Binding
+|Binding.Local role=self-defender
+|Binding.Bound role=Attacking.attacked
+}}{{Binding
+|Binding.Local role=threatening_thing
+|Binding.Bound role=Protecting.threatening_thing
+}}{{Binding
+|Binding.Local role=threatening_thing
+|Binding.Bound role=Attacking.attacker
+}}{{Binding
+|Binding.Local role=means of protection
+|Binding.Bound role=Protecting.means_of_protection
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=self-defense.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=self-defence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=self-protection.n
+}}
+|Applicability=English
+}}

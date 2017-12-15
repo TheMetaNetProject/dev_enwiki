@@ -1,0 +1,50 @@
+{{Frame
+|Family=Social frames,
+|Type=Frame, Composed
+|Cultural information=Idealized strict father family model
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=parent(s)
+}}{{Role
+|Role.Name=children
+}}{{Role
+|Role.Name=father
+}}{{Role
+|Role.Name=mother
+}}{{Role
+|Role.Name=family_whole
+}}{{Role
+|Role.Name=parenting_style
+|Role.Definition=A style emphasizing punishment, strict rules; lenience is ineffective thus immoral
+}}{{Role
+|Role.Name=traits_in_children
+|Role.Definition=Focus on self-discipline, focus away from self-indulgence...
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Nuclear family
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Nurturant parent family
+}}
+|Bindings={{Binding
+|Binding.Local role=parent(s)
+|Binding.Bound role=Nuclear family.parent(s)
+}}{{Binding
+|Binding.Local role=children
+|Binding.Bound role=Nuclear family.children
+}}{{Binding
+|Binding.Local role=father
+|Binding.Bound role=Nuclear family.father
+}}{{Binding
+|Binding.Local role=mother
+|Binding.Bound role=Nuclear family.mother
+}}{{Binding
+|Binding.Local role=family_whole
+|Binding.Bound role=Nuclear family.family_whole
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

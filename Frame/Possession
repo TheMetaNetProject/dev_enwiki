@@ -1,0 +1,81 @@
+{{Frame
+|Description=Relation between a Possessor and a Possession
+|FrameNet frame=Possession
+|Comments=LUs have.v and hold.v temporarily removed. Please add back later.
+
+Have we definitively established that Possession is the same as owning?
+|Family=Possession Frames, Excluded frames,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=possessor
+|Role.FrameNet role=Owner
+}}{{Role
+|Role.Name=possession
+|Role.Type=object
+|Role.Definition=possessable object
+|Role.FrameNet role=Possession
+}}{{Role
+|Role.Name=possess_relation
+|Role.Definition=relation between Possessor and Possessed
+}}{{Role
+|Role.Name=possess_relation_status
+|Role.Definition=status of the possession relation at a given point/span of time (e.g. possess/not possess)
+}}{{Role
+|Role.Name=possess_relation_x-schema
+|Role.Type=x-schema
+|Role.Definition=how possession relation status changes (or not) over some span of time
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Access to an object
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Possessable object
+}}
+|Bindings={{Binding
+|Binding.Local role=possessor
+|Binding.Bound role=Relation.entity_1
+}}{{Binding
+|Binding.Local role=possession
+|Binding.Bound role=Relation.entity_2
+}}{{Binding
+|Binding.Local role=possess_relation_status
+|Binding.Bound role=relation.relation_value
+}}{{Binding
+|Binding.Local role=possess_relation
+|Binding.Bound role=Relation.relation
+}}{{Binding
+|Binding.Local role=possess_relation_x-schema
+|Binding.Bound role=Relation.relation_value_x-schema
+}}
+|Inferences={{Inference
+|Inference.Description="Possessing" typically involves the Possessor controlling and/or having access to the Possession. In primary physical experience, the possessor holds/grasps the possessed object.
+}}{{Inference
+|Inference.Description=If the Possessor does not have control and/or access to an object, the possessor does not possess that object.
+|Inference.Type=negation
+}}{{Inference
+|Inference.Description=In primary physical experience, the physical relation between Possessor and object indicates the status of the possession relation.  Holding and/or grasping (and, more generally, co-location with) the object indicate possession; not holding/grasping indicate lack of possession.  More generally, possession correlates with co-location of possessor and possessed object, and lack of possession with lack of co-location (i.e. some distance between the two)
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=possess.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=own.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=possession.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=owner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ownership.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,41 @@
+{{Frame
+|Family=Morality frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=evil_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Moral goodness
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Immorality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=evil
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=depraved
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=atrocious
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hideous
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loathsome
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vile
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vicious
+}}
+|Applicability=English
+}}

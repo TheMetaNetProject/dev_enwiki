@@ -1,0 +1,35 @@
+{{Frame
+|Family=Image Schemas, Spatial relations,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=center.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=central.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=center.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=periphery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peripheral.a
+}}
+|LinkSpanish=Centro-periferia
+|Applicability=English
+}}

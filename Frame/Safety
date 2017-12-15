@@ -1,0 +1,23 @@
+{{Frame
+|Comments=Needed for gun debate.
+Unsure which of the three subfamilies it belongs to in Gun Debate family.
+|Family=Gun debate, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Danger
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=safe.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=safety.n
+}}
+|Applicability=English
+}}

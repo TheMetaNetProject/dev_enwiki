@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SENSING IS SMELLING
+|Metaphor.Alias.Provenance=Oana
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Smelling
+|Target frame=Perception
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=KNOWING IS PERCEIVING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Text=I smell a rat.
+|Example.Language=English
+|Example.Provenance=Elise
+|Example.Comments=meaning that I sense a liar/scummy person
+}}
+|Relevant LUs=
+|Entered by=Oana, Elise
+|Status=in development
+}}

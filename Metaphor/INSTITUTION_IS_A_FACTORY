@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Factory
+|Target frame=Institution
+|Mappings={{Mapping
+|Target=Institution
+|Source=Factory
+}}{{Mapping
+|Target=Institution_heads
+|Source=Factory_managers
+}}{{Mapping
+|Target=Institution_holders
+|Source=Factory_workers
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Society’s great institutions are factories of ideas, regularly churning out new frameworks, insights, and understanding.
+|Example.Provenance=http://socialcontract2.wordpress.com/2009/06/
+}}{{Example
+|Example.Language=English
+|Example.Text=In this view, educational instititions are factories that take less productive workers as their raw materials, apply doses of training, and create more productive workers as outputs. 
+|Example.Provenance=google books
+|Example.Annotation=Microeconomics: Principles and Policy (Baumol and Blinder) 10th ed.
+}}
+|Entered by=Oana, 
+|Last reviewed by=Eve
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

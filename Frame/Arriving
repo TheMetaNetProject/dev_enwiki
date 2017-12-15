@@ -1,0 +1,24 @@
+{{Frame
+|Description=Getting proximal to and/or arriving at a destination.
+|FrameNet frame=Arriving
+|Family=Motion Frames, Movement frames, Directional movement frames
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=goal
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Motion to a destination
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

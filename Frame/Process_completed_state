@@ -1,0 +1,15 @@
+{{Frame
+|FrameNet frame=Process_completed_state
+|Family=X-schema family, Excluded frames,
+|Roles={{Role
+|Role.Name=process_completed_state
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Process
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

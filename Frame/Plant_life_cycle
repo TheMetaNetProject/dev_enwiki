@@ -1,0 +1,70 @@
+{{Frame
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Roles={{Role
+|Role.Name=plant_entity
+}}{{Role
+|Role.Name=plant_sprouting_stage
+}}{{Role
+|Role.Name=plant_sprouting_state
+}}{{Role
+|Role.Name=plant_growth
+}}{{Role
+|Role.Name=plant_death
+|Role.Definition=withering, wilting as LUs
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Life_cycle
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Plants
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloom.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blossom.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sprout.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sprout.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wither.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bud.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bud.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=germinate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vegetate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=germ.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=take.v root.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seedling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sapling.n
+}}
+|LinkSpanish=Ciclo de vida de las plantas
+|Applicability=English
+}}

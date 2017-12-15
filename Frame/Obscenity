@@ -1,0 +1,50 @@
+{{Frame
+|Comments=Renamed from Indecent situation
+|Family=Aversion frames,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Immorality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=obscene.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vulgar.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perverse.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indecent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pornographic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pornography.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pornographically
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indecency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perversity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vulgarity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=porn.n
+}}
+|LinkSpanish=Obscenidad
+}}

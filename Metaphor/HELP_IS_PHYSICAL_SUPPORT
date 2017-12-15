@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HELP IS SUPPORT
+|Metaphor.Alias.Provenance=Oana
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ASSISTANCE IS SUPPORT
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Comments=Target frame used to be Help. We deleted it.
+
+There was an ASSISTANCE IS SUPPORT metaphor, but we deleted it.
+|Family=Grady Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Support
+|Target frame=Aids to action
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our work in the African continent [. . .] is supported by Tear Fund
+|Example.Provenance=BNC
+}}{{Example
+|Example.Language=English
+|Example.Text=Our conservation program needs your support.
+|Example.Provenance=Grady (1998)
+}}{{Example
+|Example.Language=English
+|Example.Text=I've really been leaning on my friends the past few months.
+|Example.Provenance=Grady (1998)
+}}
+|Entered by=Oana, Elise,
+|Last reviewed by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

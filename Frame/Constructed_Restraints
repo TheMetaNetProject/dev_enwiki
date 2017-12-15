@@ -1,0 +1,134 @@
+{{Frame
+|Family=Motion-affecting frames, Motion impediments frames,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=unknown
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Restraints
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Attach
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Detach
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bear trap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ball and chain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hobble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shackle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shackle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handcuff.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handcuff.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handcuffs.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=manacle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=manacle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tie.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tie.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tie.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pitfall.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fetter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fetter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fetters.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ball-and-chain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vise.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entrap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snare.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snare.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ensnare.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yoke.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yoke.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hogtie.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hobble.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leash.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unleash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tether.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tether.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=untether.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vice grip.n
+}}
+|LinkSpanish=Encierros construidos
+}}

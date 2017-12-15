@@ -1,0 +1,18 @@
+{{Frame
+|Family=Impediment and enablement frames, 
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impediment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Enablement
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

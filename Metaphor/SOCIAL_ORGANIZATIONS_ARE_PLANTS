@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SOCIAL ORGANIZATIONS ARE PLANTS
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Metaphor Type=Composed/complex
+|Source frame=Plants
+|Target frame=Organization
+|Mappings={{Mapping
+|Target=organization_whole
+|Source=plant_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=PEOPLE ARE PLANTS
+|Related metaphor.Description=Could be a transitive chain: social organizations are people are plants
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=My business is growing like a weed.
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

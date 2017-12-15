@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MIND IS A CONTAINER FOR THOUGHTS
+}}
+|Family=Mind Metaphors, Primary Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Containment
+|Target frame=Mind
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MIND IS A BODY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It's all in your mind.
+}}{{Example
+|Example.Language=English
+|Example.Text=Keep it in the back of your mind.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

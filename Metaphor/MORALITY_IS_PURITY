@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Purity
+|Target frame=Morality
+|Mappings={{Mapping
+|Target=moral_condition
+|Source=pure_condition
+}}{{Mapping
+|Target=moral_entity
+|Source=pure_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IMMORALITY IS IMPURITY
+|Related metaphor.Description=needs to be in scalar opposition to
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's pure of heart, and therefore would never hurt someone.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

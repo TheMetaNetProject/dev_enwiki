@@ -1,0 +1,51 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TREATING DISEASE IS WAGING WAR
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=War
+|Target frame=Disease treatment
+|Mappings={{Mapping
+|Target=diseased_cells
+|Source=enemy_combatants
+}}{{Mapping
+|Target=medical_professionals
+|Source=army
+}}{{Mapping
+|Target=doctors
+|Source=generals
+}}{{Mapping
+|Target=body
+|Source=battlefield
+}}{{Mapping
+|Target=medical_tools_and_medicines
+|Source=weapons
+}}{{Mapping
+|Target=treatment_strategy
+|Source=war_strategy
+}}{{Mapping
+|Target=applying_treatment
+|Source=fighting
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The doctors at the CDC led the way to victory against the flu epidemic.
+}}{{Example
+|Example.Language=English
+|Example.Text=The cancer patient fought a long, hard, battle, but she eventually succumbed to her disease.
+}}{{Example
+|Example.Language=English
+|Example.Text=A Triumph in the War Against Cancer
+|Example.Provenance=http://www.smithsonianmag.com/science-nature/A-Victory-in-the-War-Against-Cancer.html
+}}{{Example
+|Example.Language=English
+|Example.Text=With nothing left in their leukemia-fighting arsenal, the doctors were down to Dilaudid, a derivative of morphine...
+|Example.Provenance=http://www.smithsonianmag.com/science-nature/A-Victory-in-the-War-Against-Cancer.html
+}}
+|Entered by=Jisup, Elise
+|Status=in development
+|Relevant LUs=
+}}

@@ -1,0 +1,30 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=SUSPENDED
+|ConceptDefinition=It is unclear what the definition of the SOCIAL CLASS target concept is, and what facets socioeconomic life it does and does not subsume. Here, we include income and economic status as dimensions that are relevant to social class. It is assumed that the main LMs sought out with this concept are those including mention of "middle class", "upper class", "lower class", etc. (definition tentatively provided by Analysis Team).
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+None, these all seem to be in keeping with the above definition.
+9/23/14 (Jisup): Removing from ECONOMIC INEQUALITY, since it's not well-defined.
+|ConceptFrames={{Linked frame
+|Frame name=Economic status
+}}{{Linked frame
+|Frame name=Employment
+}}{{Linked frame
+|Frame name=Unemployment
+}}{{Linked frame
+|Frame name=Experiencing an economic status
+}}{{Linked frame
+|Frame name=Financial resource
+}}{{Linked frame
+|Frame name=Income
+}}{{Linked frame
+|Frame name=Wealth distribution
+}}{{Linked frame
+|Frame name=Improving economic status
+}}{{Linked frame
+|Frame name=Social class
+}}{{Linked frame
+|Frame name=Social status
+}}
+}}

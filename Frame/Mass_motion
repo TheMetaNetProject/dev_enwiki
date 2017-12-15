@@ -1,0 +1,41 @@
+{{Frame
+|FrameNet frame=Mass_motion
+|Comments='swarm' was weirdly in Motion to a destination!
+|Family=Internal motion frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Self propelled motion to a destination
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=swarm.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flock.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crowd.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=teem.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=throng.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=throng.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mob.v
+}}
+|Applicability=English
+}}

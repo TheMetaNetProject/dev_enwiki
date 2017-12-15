@@ -1,0 +1,43 @@
+{{Frame
+|FrameNet frame=Manipulation
+|Comments=Actor acts on an object, typically with hand(s). E.g. grasp, squeeze, hold.  Actor's action may enable him to control location and/or orientation of object.
+|Family=Action frames, Act on Object frames, Force dynamic frames, 
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Roles={{Role
+|Role.Name=object
+|Role.Definition=the manipulated object
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=actor
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=effector
+|Role.FrameNet role=BodyPart
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Force-application
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Object
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Force-application.actor
+}}{{Binding
+|Binding.Local role=object
+|Binding.Bound role=Force-application.acted_upon
+}}{{Binding
+|Binding.Local role=effector
+|Binding.Bound role=Force-application.effector
+}}{{Binding
+|Binding.Local role=object
+|Binding.Bound role=Object.object_entity
+}}
+|Inferences={{Inference
+|Inference.Description=Grasping is a precondition for possession.
+}}
+|Relevant LUs=
+|LinkSpanish=Manipulación de un objeto
+}}

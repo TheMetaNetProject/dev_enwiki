@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Description=e.g., "rescuing many more families and children from falling into poverty"
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors, 
+|Metaphor Level=Specific
+|Source frame=Impeding downward motion
+|Target frame=Impoverished
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=BECOMING IMPOVERISHED IS MOVING DOWNWARDS
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Elise
+|Status=in development, auto imported
+}}

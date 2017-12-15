@@ -1,0 +1,35 @@
+{{Frame
+|FrameNet frame=Becoming_aware, Education_teaching, Memorization
+|Family=Education frames, Cognition Frames, Excluded frames,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=learner
+}}{{Role
+|Role.Name=learned_material
+}}{{Role
+|Role.Name=source_of_learning
+}}{{Role
+|Role.Name=purpose_of_learning
+}}{{Role
+|Role.Name=learning_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Knowing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=learn
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=learning
+}}
+|Applicability=English
+}}

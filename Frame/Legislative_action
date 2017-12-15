@@ -1,0 +1,93 @@
+{{Frame
+|Comments=this frame is modeled on US government
+|Family=Governance frames, Legislation frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=legislative_actor
+}}{{Role
+|Role.Name=legislative_action
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=legislative_objective
+}}{{Role
+|Role.Name=legislative_action_outcome
+}}{{Role
+|Role.Name=legislative_affected_jurisdiction
+}}{{Role
+|Role.Name=legislative_governed
+|Role.Definition=citizens
+}}{{Role
+|Role.Name=legislative_constraints_on_legislative
+}}{{Role
+|Role.Name=legislative_normative_actions
+}}{{Role
+|Role.Name=legislative_non-normative_actions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Governing action
+}}
+|Bindings={{Binding
+|Binding.Local role=legislative_actor
+|Binding.Bound role=Governing action.governing_actor
+}}{{Binding
+|Binding.Local role=legislative_action
+|Binding.Bound role=Governing action.governing_action_x-schema
+}}{{Binding
+|Binding.Local role=legislative_objective
+|Binding.Bound role=Governing action.governing_objectives
+}}{{Binding
+|Binding.Local role=legislative_action_outcome
+|Binding.Bound role=Governing action.governing_action_outcome
+}}{{Binding
+|Binding.Local role=legislative_affected_jurisdiction
+|Binding.Bound role=Governing action.affected_jurisdiction
+}}{{Binding
+|Binding.Local role=legislative_governed
+|Binding.Bound role=Governing action.governed
+}}{{Binding
+|Binding.Local role=legislative_constraints_on_legislative
+|Binding.Bound role=Governing action.constraints_on_governing_actions
+}}{{Binding
+|Binding.Local role=legislative_normative_actions
+|Binding.Bound role=Governing action.normative_governing_actions
+}}{{Binding
+|Binding.Local role=legislative_non-normative_actions
+|Binding.Bound role=Governing action.non-normative_governing_actions
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislative.a agenda.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislature.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=law.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=charter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=constitution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lawmaking.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ruling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legislative.a
+}}
+|Applicability=English
+}}

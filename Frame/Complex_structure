@@ -1,0 +1,29 @@
+{{Frame
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=structure_whole
+}}{{Role
+|Role.Name=structure_parts
+}}{{Role
+|Role.Name=part_relations
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Cause contact
+}}
+|Bindings={{Binding
+|Binding.Local role=structure_whole
+|Binding.Bound role=Part whole.whole
+}}{{Binding
+|Binding.Local role=structure_parts
+|Binding.Bound role=Part whole.parts
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

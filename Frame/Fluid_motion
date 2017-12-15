@@ -1,0 +1,166 @@
+{{Frame
+|Description=Motion of a fluid, along a path or within/across some area
+|FrameNet frame=Fluidic_motion
+|Other aliases=Motion of water
+|Family=Motion Frames, Mover-specific movement frames, Movement frames, Fluid frame family, Internal motion frames, Moving entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, release candidate
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=fluid
+|Role.Type=Liquid
+|Role.FrameNet role=Fluid
+}}{{Role
+|Role.Name=source
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=path
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=goal
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=area
+|Role.FrameNet role=Area
+}}{{Role
+|Role.Name=fluid_motion_x-schema
+|Role.Type=X-schema
+|Role.Definition=the motion of the fluid
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Liquid
+}}
+|Bindings={{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=source
+|Binding.Bound role=Motion along a path.source
+}}{{Binding
+|Binding.Local role=path
+|Binding.Bound role=Motion along a path.path
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Motion along a path.goal
+}}{{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Liquid.liquid
+}}
+|Inferences={{Inference
+|Inference.Description=If not contained/confined, fluids tend to move.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=seep.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spurt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trickle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dribble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drench.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overflow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flood.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=river.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stream.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pour.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drip.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=waterfall.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cascade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spout.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spew.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trickle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flow.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wave.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ebb.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ebb.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fountain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drainage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=runoff.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=runoff.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squirt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=geyser.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=channel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inundate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=awash.a
+}}
+|LinkSpanish=Movimiento de fluidos
+|Applicability=English
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|Family=Impediment and enablement frames, Motion-affecting frames, Motion Frames,
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical impediments to motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=safety net
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=net.n
+}}
+|LinkSpanish=Impedimentos al movimiento hacia abajo
+}}

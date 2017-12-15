@@ -1,0 +1,62 @@
+{{Metaphor
+|Aliases=
+|Comments=GL: Cascade for Bureaucracy Is A Maze
+
+FRAME: Bureaucracy; 
+ROLES: Proposer; Proposal; Bureaucrats; Bureaucratic Process. 
+An X-schema characterizes the stages of the process. 
+At each stage, a Bureaucrat Evaluates the Proposal, and either Approves, Rejects, or Delays. 
+Proposer’s Goal is Approval at all stages.
+
+ISA: A Bureaucracy is an institution. 
+
+FRAME: An Institution has functions.
+
+M4: Carrying out a function Is An action process.
+
+M4: Actions are Motions
+
+M4: Processes Are Motion Sequences
+
+M4: Achieving a purpose is Reaching a destination.
+
+M4: An institution is a building.
+
+M4: A position in an institution is a location in a building.
+
+ISA: A bureaucrat is someone who occupies a position in a bureaucracy.
+
+ISA: A building is a structure with pathways. 
+
+M4: Efficiency is Minimizing resources and Maximizing speed.
+
+ISA: A Maze is a network; Locations are Network nodes; Paths Are Network lines.
+
+FRAME: A maze Has Confusingly intersecting paths that one tends to get lost on and where there is a low probability of reaching a destination. A maze uses more energy and is slower than a direct path.
+ 
+MR4 INFERENCE: Trying to achieve a purpose in a bureaucracy is trying to reach a destination in a maze.
+
+M4 INFERENCE: A person trying to achieve a purpose in a bureaucracy has to enter a maze.
+
+M4 INFERENCE: Bureaucracies Are Inefficient.
+
+M4 INFERENCE: A person trying to achieve a purpose in a bureaucracy has a low probability of achieving that purpose efficiently.
+|Tags=tentative
+|Family=Governance metaphors, Bureaucracy metaphors
+|Source frame=Maze
+|Target frame=Bureaucracy
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Lost in the bureaucratic maze of city's criminal justice system
+|Example.Provenance=http://www.stltoday.com/news/opinion/columns/the-platform/editorial-lost-in-the-bureaucratic-maze-of-city-s-criminal/article_a7d5da89-645c-5b7b-9b43-0a2332f2bc4f.html
+}}
+|Entered by=Ellen
+|Last reviewed by=George
+|Status=in development
+|LinkPersian=بروکراسی دالان تو در تو است
+|Investigated for=English
+|Relevant LUs=
+}}

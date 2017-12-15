@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AN EVENT IS THE MOTION OF AN OBJECT
+|Metaphor.Alias.Provenance=Grady (1998)
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=EVENTS ARE MOVING OBJECTS
+}}
+|Comments=This is specifically about moving objects. We may want to distinguish. (oana)
+|Family=Object Event Structure Metaphor, Grady Primary Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Event
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=ALTERNATIVE UNDERSTANDINGS OF AN EVENT ARE SIDES OF AN OBJECT
+}}
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|LinkPersian=اتفاقات جسم است
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,65 @@
+{{Frame
+|Description=Experiencer of state acts so as to change that state.
+|Family=Action frames, State-related frames, Change-related frames, 
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=experiencer
+|Role.Definition=entity that is experiencing state
+}}{{Role
+|Role.Name=self-initiated_change_x-schema
+}}{{Role
+|Role.Name=initial_state
+}}{{Role
+|Role.Name=transition
+}}{{Role
+|Role.Name=final_state
+}}{{Role
+|Role.Name=value_standard
+}}{{Role
+|Role.Name=objective
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Change of state
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Purposeful action
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Change of state.experiencer
+}}{{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=self-initiated_change_x-schema
+|Binding.Bound role=Purposeful action.action_x-schema
+}}{{Binding
+|Binding.Local role=initial_state
+|Binding.Bound role=Change of state.initial_state
+}}{{Binding
+|Binding.Local role=transition
+|Binding.Bound role=Change of state.transition
+}}{{Binding
+|Binding.Local role=final_state
+|Binding.Bound role=Change of state.final_state
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Purposeful action.objective
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Change of state.final_state
+}}{{Binding
+|Binding.Local role=value_standard
+|Binding.Bound role=Change of state.standard
+}}
+|Inferences={{Inference
+|Inference.Description=actor acts with objective of changing from initial_state to final_state
+}}
+|Relevant LUs=
+|LinkSpanish=Autoiniciado cambio de estado
+|Applicability=English
+}}

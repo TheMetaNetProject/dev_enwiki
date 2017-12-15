@@ -1,0 +1,18 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

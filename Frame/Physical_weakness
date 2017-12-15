@@ -1,0 +1,34 @@
+{{Frame
+|Family=Entity frames, Physical properties frame family,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Physical strength
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Physical strength scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=weak.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weakness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weakling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feeble.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sluggish.a
+}}
+|LinkSpanish=Debilidad física
+|Applicability=English
+}}

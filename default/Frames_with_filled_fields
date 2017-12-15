@@ -1,0 +1,5 @@
+= Closest FrameNet Frame =
+{{#ask: [[Category:Frame]] [[:Frame:+]] [[ Frame.FrameNet frame::+]]
+|?Frame.FrameNet frame=Closest FN Frame
+|format=table
+|limit=1000}}

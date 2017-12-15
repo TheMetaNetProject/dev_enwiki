@@ -1,0 +1,195 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Weapons handling (because it cannot be a target concept, it has words like 'shoot' and 'explode').
+|ConceptFrames={{Linked frame
+|Frame name=Personal weapon
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs={{Blacklist target LUs
+|BlacklistTargetLU=bullet.n
+}}
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Amassing
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Being at a High Location
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Being at a Low Location
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Business
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Death
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Dispersal
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Factory
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Family
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Harm to living entity
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Hiding
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Killing
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Lose possession
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Machine
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Market
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Media
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Membership
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Misfortune
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Money
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Motion
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Moving into a bounded region
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Parent
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Regulation
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Resource container
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Self propelled motion
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Taxation
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Taxes
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Visual obstruction
+}}
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=long.a
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lobby.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lobby.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=assault.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=attack.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=attack.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=strike.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=place.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=place.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=hand.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=hand.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=arm.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=house.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=house.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=home.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=bear.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=clean.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=control.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=crime.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=criminal.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=fire.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=fire.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=power.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=hit.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=course.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=transfer.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=transfer.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=drive.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=drive.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=transport.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=transport.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=leave.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=run.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=drop.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=pull.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=fall.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=contain.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=ship.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=ship.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=grow.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=patient.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=pull.v out
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lower.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=raise.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=suck.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=slide.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=slide.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=build.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lock.v up
+}}{{Blacklist source LUs
+|BlacklistSourceLU=empty.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=empty.a
+}}{{Blacklist source LUs
+|BlacklistSourceLU=protect.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=transportation.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=clip.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=clip.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=operation.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lock.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=lock.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=unlock.v
+}}{{Blacklist source LUs
+|BlacklistSourceLU=arsenal.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=task force.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=recover.v
+}}
+}}

@@ -1,0 +1,62 @@
+{{Frame
+|Comments=LUs reduce.v and reduction.n temporarily removed. Please add back later.
+|Family=Scale Frames, Physical properties frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Size
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Increase size
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=shrink.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dwindle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compress.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=condense.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contract.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diminish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deflate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=erode.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hollow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=erosion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hollow.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shrinking.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smaller.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shrunken.a
+}}
+|LinkSpanish=Disminución en el tamaño
+|Applicability=English
+}}

@@ -1,0 +1,82 @@
+{{Frame
+|Family=Impediment and enablement frames, Translational motion frames, Moving entity frames, 
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Moving object
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=dodge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=evasion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avoid.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=evade.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=elude.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=elusive.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avoidance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sidestep.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=side-step.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keep.v at bay
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=duck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aversion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avoidance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bypass.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=evader.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dodger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dodge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sidestep.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bypass.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=detour.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=detour.v
+}}
+|LinkSpanish=Evitar un obstáculo
+}}

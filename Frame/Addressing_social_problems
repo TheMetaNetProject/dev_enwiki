@@ -1,0 +1,69 @@
+{{Frame
+|Description=A social group or institution [Problem_solvers] acts so as to try to reduce extent or severity of a social problem [social_problem].
+|Family=Social problem frames, Poverty-related frame network, 
+|Type=Frame, Composed
+|Cultural information=The frame that captures an organized society's efforts to enact policies and programs to reduce societal problems caused by immoral citizens.
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=social_problem
+}}{{Role
+|Role.Name=society
+|Role.Definition=(segment of) society affected by problem
+}}{{Role
+|Role.Name=problem_solvers
+|Role.Definition=(segment of) society that addresses problem
+}}{{Role
+|Role.Name=solving_actions
+|Role.Type=x-schema
+|Role.Definition=actions society takes to solve problem
+}}{{Role
+|Role.Name=authorities
+}}{{Role
+|Role.Name=public_officials
+}}{{Role
+|Role.Name=immoral_citizens
+}}{{Role
+|Role.Name=honest_citizens
+}}{{Role
+|Role.Name=social_programs
+|Role.Definition=means for addressing problems
+}}{{Role
+|Role.Name=extent_of_problem
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Social problems
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Governing action
+}}
+|Bindings={{Binding
+|Binding.Local role=social_problem
+|Binding.Bound role=Social problems.social_problem
+}}{{Binding
+|Binding.Local role=society
+|Binding.Bound role=Social problems.society
+}}{{Binding
+|Binding.Local role=social_problem
+|Binding.Bound role=Causation.affected
+}}{{Binding
+|Binding.Local role=problem_solvers
+|Binding.Bound role=Causation.agent
+}}{{Binding
+|Binding.Local role=affected_society
+|Binding.Bound role=Governing action.governed
+}}{{Binding
+|Binding.Local role=authorities
+|Binding.Bound role=Governing action.governing_actor
+}}
+|Inferences={{Inference
+|Inference.Description=A society consists of immoral_citizens as well as honest_citizens.
+}}{{Inference
+|Inference.Description=When immoral_citizens cause social_problems, honest_citizens expect authorities to direct public_officials in the enactment of social_programs to prevent spread_of_problem and result in solving_problem.
+}}
+|Relevant LUs=
+}}

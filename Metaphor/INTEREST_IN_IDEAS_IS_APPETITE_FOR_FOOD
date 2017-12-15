@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Investigated for=English
+|Source frame=Food
+|Target frame=Idea
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=IDEAS ARE FOOD
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS EATING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=An interesting idea
+|Entailment.Source inference=An appetizing food
+|Entailment.Entailed metaphors=INTERESTING IDEAS ARE APPETIZING FOODS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He has an appetite for learning.
+|Example.Provenance=PITF: p. 242
+}}{{Example
+|Example.Language=English
+|Example.Text=He has an insatiable curiosity.
+|Example.Provenance=PITF: p. 242
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CORRUPTION IS EROSION
+|Metaphor.Alias.Provenance=Elise and Oana
+}}
+|Family=Governance metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Erosion
+|Target frame=Corruption
+|Mappings={{Mapping
+|Target=corrupt_activities
+|Source=eroding_process
+|Comment=x-schema: progressive, slow, ongoing
+}}{{Mapping
+|Target=corruption_affectee
+|Source=eroded_entity
+}}{{Mapping
+|Target=corrupting_effect
+|Source=eroding_effect
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CORRUPTION IS A DESTRUCTIVE NATURAL PROCESS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Corrupt activities while they may not have immediately perceptible effect can yield large scale harmful effects over long period of time
+|Entailment.Source inference=The process of erosion while imperceptible on a small time scale can cause large scale destructive effects on an entity over a long period of time.
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Corruption is eroding the public trust in government.
+}}
+|Entered by=Elise,
+|Last reviewed by=Elise, Eve
+|Status=in development
+|Investigated for=English
+}}

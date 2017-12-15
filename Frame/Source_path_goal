@@ -1,0 +1,49 @@
+{{Frame
+|Description=A sequence of locations (source, path, and goal) occupied by an entity (trajector) over time.  Locations are defined with respect to another entity (landmark). 
+|FrameNet frame=Source_path_goal
+|Other aliases=SPG
+|Comments=Neurally, SPG is a topographic map.
+|Family=Spatial relations, Location frames,
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, release candidate
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=source
+|Role.Definition=initial profiled_region
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=path
+|Role.Definition=ongoing profiled_region(s)
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=goal
+|Role.Definition=final profiled_region
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=trajector
+|Role.Definition=from Trajector landmark
+|Role.FrameNet role=Trajector
+}}{{Role
+|Role.Name=landmark
+|Role.Definition=from Trajector landmark
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Trajector landmark
+|Related frame.Description=SPG is dynamic version, in which profiled_region changes
+}}
+|Bindings={{Binding
+|Binding.Local role=trajector
+|Binding.Bound role=Trajector_landmark.trajector
+}}{{Binding
+|Binding.Local role=landmark
+|Binding.Bound role=Trajector_landmark.landmark
+}}
+|Inferences={{Inference
+|Inference.Description=Sequential ordered location inferences, e.g. if trajector is on path, then trajector has been (but is no longer)at source; if trajector is at goal, then trajector has been at source and been on path.
+}}
+|Relevant LUs=
+|LinkSpanish=Partida-ruta-meta
+}}

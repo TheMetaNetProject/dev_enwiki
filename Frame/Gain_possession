@@ -1,0 +1,90 @@
+{{Frame
+|FrameNet frame=Getting_scenario
+|Comments=Recipient acquires Possession from some Source (location or person)
+|Family=Possession Frames, Excluded frames,
+|Type=Cog
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=recipient
+|Role.FrameNet role=Recipient
+}}{{Role
+|Role.Name=source
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=possessable_object
+|Role.Type=entity
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=getting_x-schema
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Possession
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Possessable object
+}}
+|Bindings={{Binding
+|Binding.Local role=recipient
+|Binding.Bound role=Possession.possessor
+}}{{Binding
+|Binding.Local role=getting_x-schema.final
+|Binding.Bound role=Possession.possessing.ongoing
+}}{{Binding
+|Binding.Local role=possession
+|Binding.Bound role=Possession.possession
+}}{{Binding
+|Binding.Local role=getting_x-schema.ongoing
+|Binding.Bound role=Possession.possessing.start
+}}
+|Inferences={{Inference
+|Inference.Description=At initial stage, recipient does not possess object. 
+During ongoing stage, recipient acts so as to gain possession, e.g. intiates a hold on object. 
+At final stage, recipient possesses object
+}}{{Inference
+|Inference.Description=One precondition is that the object must be accessible to the recipient, e.g. within reach, and without intervening barrier.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=get.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=acquire.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=take.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snatch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=receive.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obtain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=acquisition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accumulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accumulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gain.n
+}}
+|LinkSpanish=Ganar posesión
+}}

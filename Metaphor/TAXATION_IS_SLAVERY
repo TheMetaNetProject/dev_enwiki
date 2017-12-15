@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Taxation metaphors,
+|Source frame=Servitude
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=taxer
+|Source=subjugator
+}}{{Mapping
+|Target=tax_payer
+|Source=subjugated
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TAXATION IS CAUSING HARM
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=taxation is involuntary payment to government
+|Entailment.Source inference=slavery is involuntary obligation to work for master
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=America Tax Slaves Work 6.5 Months Every Year to Pay for Government
+|Example.Provenance=http://judymorrisreport.blogspot.com/2012/07/america-tax-slaves-work-65-months-to.html
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

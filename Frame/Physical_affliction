@@ -1,0 +1,153 @@
+{{Frame
+|Family=Harm, Harm to living entity, Disease frame family,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported, release candidate
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=affliction
+}}{{Role
+|Role.Name=patient
+|Role.Type=Animate Entity
+}}{{Role
+|Role.Name=symptoms
+}}{{Role
+|Role.Name=affected_area
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Harm to living entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Experience pain
+}}
+|Bindings={{Binding
+|Binding.Local role=affliction
+|Binding.Bound role=Harm to living entity.cause
+}}{{Binding
+|Binding.Local role=patient
+|Binding.Bound role=Harm to living entity.victim
+}}{{Binding
+|Binding.Local role=patient
+|Binding.Bound role=Experience pain.experiencer
+}}{{Binding
+|Binding.Local role=symptoms
+|Binding.Bound role=Harm to living entity.harmful_effect
+}}{{Binding
+|Binding.Local role=symptoms
+|Binding.Bound role=Experience pain.pain
+}}{{Binding
+|Binding.Local role=affected_area
+|Binding.Bound role=Experience pain.body_part
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=affliction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=symptom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=illness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sick.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sickness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disability.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hurt.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wound.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scar.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ailment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ailing.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crippled.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=afflict.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chronic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=relief.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ulcer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unhealthy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=canker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bruise.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lesion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumorous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cyst.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blister.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=paralyzing.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=paralyze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disable.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=paralysis.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=incapacitate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=torpefy.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stun.v
+}}
+|Applicability=English
+}}

@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=UNDERSTANDING IS GRASPING
+|Metaphor.Alias.Provenance=Metaphors We Live By, Grady
+}}
+|Family=Mind Metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object manipulation
+|Target frame=Understanding
+|Mappings={{Mapping
+|Target=understanding_person
+|Source=grasping_person
+}}{{Mapping
+|Target=understood_idea
+|Source=grasped_object
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=THINKING IS OBJECT MANIPULATION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Inability to understand
+|Entailment.Source inference=Inability to grasp
+|Entailment.Entailed metaphors=INABILITY TO UNDERSTAND IS INABILITY TO GRASP
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He just can't seem to grasp the concept.
+}}{{Example
+|Example.Language=English
+|Example.Text=He got a good handle on the subject matter.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=grasp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.v
+}}
+}}

@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=War
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS WAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It was a hard-fought battle, but in the end Romney didn't have the numbers to overpower Obama.
+}}{{Example
+|Example.Language=English
+|Example.Text=While at first the numbers were on his side, eventually Gore had to admit defeat to Bush in 2000.
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

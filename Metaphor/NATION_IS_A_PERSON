@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=Nation.nation_whole
+|Source=Person.person
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We must rouse our nation from its slumber.
+}}
+|Entered by=Eve
+|Last reviewed by=Mark
+|Status=in development
+|LinkSpanish=NACIÓN ES UNA PERSONA
+|LinkRussian=НАЦИЯ - ЭТО ОСОБА
+|Investigated for=English
+|Relevant LUs=
+}}

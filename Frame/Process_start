@@ -1,0 +1,17 @@
+{{Frame
+|FrameNet frame=Process_start
+|Comments=[Test frame. I'm trying something out (Oana).]
+|Family=x-schema family, Excluded frames,
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=process_start
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Process
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

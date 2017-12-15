@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TRANSMISSION OF ENERGY IS TRANSFER OF OBJECTS
+}}
+|Family=Object Event Structure Metaphor, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Transfer scenario
+|Target frame=Force transfer
+|Mappings={{Mapping
+|Target=force_originator
+|Source=transferor
+}}{{Mapping
+|Target=force_receiver
+|Source=transfer_recipient
+}}{{Mapping
+|Target=force
+|Source=transferred_object
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=FORCES ARE OBJECTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She gave him a push.
+}}{{Example
+|Example.Language=English
+|Example.Text=He gave me a vicious kick.
+|Example.Provenance=Grady 1998:126
+}}
+|Entered by=Ellen,
+|Status=in development
+}}

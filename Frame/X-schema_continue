@@ -1,0 +1,16 @@
+{{Frame
+|Comments=x-schema and its substages is different from Process.
+|Family=X-schema family, Excluded frames, 
+|Type=Cog, Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=X-schema
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

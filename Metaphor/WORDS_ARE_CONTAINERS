@@ -1,0 +1,51 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=WORDS ARE CONTAINERS FOR MEANING
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=LINGUISTIC EXPRESSIONS ARE CONTAINERS (FOR MEANING)
+}}
+|Family=Conduit Metaphor, Ontological Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Containing
+|Target frame=Word
+|Mappings={{Mapping
+|Target=word_form
+|Source=container
+}}{{Mapping
+|Target=word_meaning
+|Source=contents
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=COMMUNICATING IS OBJECT TRANSFER
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IDEAS ARE OBJECTS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=ability to understand word meaning
+|Entailment.Source inference=ability to access contents
+}}{{Entailment
+|Entailment.Target entailment=amount of meaning
+|Entailment.Source inference=amount of contents
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=That remark is completely impenetrable.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=Whatever Emily meant, it's likely to be locked up in that cryptic little verse forever.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=He writes sentences in such a way as to seal up the meaning in them.
+|Example.Provenance=Reddy (1979)
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

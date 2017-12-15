@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases=
+|Family=Possession metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Gain possession
+|Target frame=Control
+|Mappings={{Mapping
+|Target=controlling_entity
+|Source=recipient
+}}{{Mapping
+|Target=ability_to_control
+|Source=possession
+}}{{Mapping
+|Target=control_relation_status.start
+|Source=getting_x-schema.finish
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL IS A POSSESSION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=initially, controlling_entity is not in control
+|Entailment.Source inference=initially, possessor does not possess object
+|Entailment.Type=aspectual stage
+}}{{Entailment
+|Entailment.Target entailment=at end, controlling_entity is in control
+|Entailment.Source inference=at end, possessor possesses object
+|Entailment.Type=aspectual stage
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You could talk about the dealerships, auto dealerships that were closed down when the government got control of a couple of the auto companies, an awful lot of people lost jobs, businesses were closed, and so on.
+|Example.Provenance=Brit Hume, Fox News, America's Newsroom, 5/14/12.  Accessed 12/8/12: http://mediamatters.org/print/research/2012/05/14/foxs-flawed-attempt-to-deflect-attention-from-r/185689
+}}{{Example
+|Example.Language=English
+|Example.Text=The Shadow Party: How George Soros, Hillary Clinton, and Sixties Radicals Seized Control of the Democratic Party
+|Example.Provenance=Book title.  David Horowitz and Richard Poe, 2006.
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

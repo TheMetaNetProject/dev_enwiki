@@ -1,0 +1,84 @@
+{{Frame
+|Family=Translational motion frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=physical_path
+|Role.Type=Physical entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Source path goal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=path.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=route.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=way.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pathway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bridge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=passage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=road.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trail.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=street.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avenue.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=highway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=track.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aisle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bridge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fasttrack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fast track.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=freeway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=toll road.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=superhighway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slow lane.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fast lane.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=byway.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,99 @@
+{{Frame
+|FrameNet frame=Cotheme
+|Comments=Central case: Two people are moving along the same path, with one person's motion (the leader) serving as the 'guide' to the other person's motion (the follower).
+|Family=Motion Frames, Movement frames, Affected movement frames, Guided motion frame family, Leadership frames, Moving entity frames, 
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=leader
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=leader_motion_x-schema
+}}{{Role
+|Role.Name=leader_path
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=follower
+|Role.FrameNet role=Cotheme
+}}{{Role
+|Role.Name=follower_motion_x-schema
+}}{{Role
+|Role.Name=follower_path
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=leader_goal
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=follower_goal
+|Role.FrameNet role=Goal
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Complex process
+}}
+|Bindings={{Binding
+|Binding.Local role=leader
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=leader
+|Binding.Bound role=Complex process.protagonist1
+}}{{Binding
+|Binding.Local role=leader_motion_x-schema
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=leader_motion_x-schema
+|Binding.Bound role=Complex process.process1
+}}{{Binding
+|Binding.Local role=leader_path
+|Binding.Bound role=Motion along a path.path
+}}{{Binding
+|Binding.Local role=follower
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=follower
+|Binding.Bound role=Complex process.protagonist2
+}}{{Binding
+|Binding.Local role=follower_motion_x-schema
+|Binding.Bound role=Complex process.process2
+}}{{Binding
+|Binding.Local role=follower_motion_x-schema
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=follower_path
+|Binding.Bound role=Motion along a path.path
+}}
+|Inferences={{Inference
+|Inference.Description=The leader and the follower move along the same path.
+}}{{Inference
+|Inference.Description=The leader's motion precedes that of the follower.
+}}{{Inference
+|Inference.Description=The follower chooses to follow the leader (i.e. the follower's motion is self-controlled, not controlled by the leader). This choice is often based on the follower's assumption that the leader and the follower both are trying to reach the same goal location.
+}}{{Inference}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=lead.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=follow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leader.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=follower.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=misguide.v
+}}
+|Applicability=English
+}}

@@ -1,0 +1,21 @@
+{{Metaphor
+|Aliases=
+|Description=pushed down into poverty CHECK!
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors
+|Metaphor Level=Specific
+|Source frame=Caused Downward Motion
+|Target frame=Poverty
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CAUSED CHANGE OF STATE IS CAUSED CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=BECOMING IMPOVERISHED IS MOVING DOWNWARDS
+}}
+|Entailments=
+|Examples=
+|Entered by=Metabot,
+|Status=in development, auto imported, release candidate
+}}

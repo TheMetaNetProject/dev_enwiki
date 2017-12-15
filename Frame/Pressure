@@ -1,0 +1,26 @@
+{{Frame
+|FrameNet frame=Explosion
+|Comments=A primitive frame defined relative to the amount of force and the rate of change in amount of force perceived when that force is applied by an entity to another entity. May or may not involve contact.
+
+Pressure is essentially sustained force application.
+|Family=Object Event Structure frames, Force dynamic frames, 
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=entity applying force of pressure
+}}{{Role
+|Role.Name=entity receiving force of pressure
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Force
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

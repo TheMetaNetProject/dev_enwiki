@@ -1,0 +1,27 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-AspectV-Verb construction
+|Comments=poverty continues to infect .
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?aspv rdf:type doc:Word .
+	?aspv doc:inSentence ?sent .
+	?target doc:ncsubj ?aspv .
+	?source doc:xcomp+ ?aspv .
+	?source (doc:hasPOS&#124;doc:hasRPOS) ?spos .
+	?aspv doc:hasLemma ?avlemma .
+	FILTER regex(?spos, "^V") .
+	FILTER regex(?avlemma, "^(be&#124;continue&#124;become&#124;use&#124;go&#124;finish&#124;fail&#124;help&#124;manage&#124;proceed&#124;try&#124;want&#124;endeavor&#124;attempt&#124;start&#124;stop&#124;begin)$", "i") .
+}
+}}

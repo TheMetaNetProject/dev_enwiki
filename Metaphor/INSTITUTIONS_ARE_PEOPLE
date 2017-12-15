@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Person
+|Target frame=Institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=INSTITUTION IS AN ORGANISM
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=CONSUMING RESOURCES IS EATING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Their practices and policies have put them right in the cross hairs and it is only a matter of time before someone pulls the trigger. When that happens, one will be left to wonder whether it is a suicide, a homicide or a mercy killing. 
+|Example.Provenance=http://fspp.net/Articles/crumbling_walls.htm
+|Example.Annotation=The Catholic Church is the entity here understood as "shooting itself" or being shot.
+}}
+|Last reviewed by=Eve
+|Status=in development
+|Investigated for=English
+}}

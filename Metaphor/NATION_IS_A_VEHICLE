@@ -1,0 +1,49 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS A CAR
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Vehicle
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=vehicle
+}}{{Mapping
+|Target=nation_citizens
+|Source=vehicle_passengers
+}}{{Mapping
+|Target=nation_leaders
+|Source=vehicle_driver
+}}{{Mapping
+|Target=state_of_nation
+|Source=vehicle_location
+|Comment=via STATES ARELOCATIONS
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=NATION IS A COMPLEX STRUCTURE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=STATE OF NATION IS LOCATION ALONG PATH
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Leading a nation
+|Entailment.Source inference=Driving a vehicle
+|Entailment.Entailed metaphors=LEADING A NATION IS DRIVING A VEHICLE
+}}{{Entailment
+|Entailment.Target entailment=Future states of the nation
+|Entailment.Source inference=Future locations of vehicle on path
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Saltykov explored the psychological problems resulting from the shifting of a nation's gears, of creating a new way of life.
+|Example.Provenance=Techniques of Satire: The Case of Saltykov-Ščedrin  By Emil Draitser
+}}
+|Entered by=Oana,
+|Last reviewed by=Mark
+|Status=in development
+|LinkSpanish=NACIÓN ES UN VEHÍCULO
+|Investigated for=English
+}}

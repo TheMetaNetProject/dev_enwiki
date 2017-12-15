@@ -1,0 +1,21 @@
+{{Frame
+|Family=Perception frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Seeing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=face.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=confront.v
+}}
+|Applicability=English
+}}

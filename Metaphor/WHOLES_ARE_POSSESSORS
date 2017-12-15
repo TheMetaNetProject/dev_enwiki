@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Family=Possession metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Possession
+|Target frame=Part whole
+|Mappings={{Mapping
+|Target=whole
+|Source=possessor
+}}{{Mapping
+|Target=parts
+|Source=possession
+}}{{Mapping
+|Target=whole-part_relation
+|Source=possess_relation
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The eye possesses several parts.
+}}{{Example
+|Example.Language=English
+|Example.Text=Which car part belongs to which car?
+}}
+|Entered by=Ellen,
+|Status=in development
+}}

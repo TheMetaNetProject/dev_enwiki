@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SAD IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Tags=orientational,
+|Family=Emotion Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Sadness
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I'm feeling down.
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm depressed.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's really low these days.
+}}{{Example
+|Example.Language=English
+|Example.Text=I fell into a depression.
+}}{{Example
+|Example.Language=English
+|Example.Text=My spirits sank.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

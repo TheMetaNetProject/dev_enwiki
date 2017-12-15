@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Government institution metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Body
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A BODY
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=ADDRESSING INSTITUTIONAL PROBLEMS IS TREATING AN ILLNESS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The judicial system in this country is infected with ineffective and corrupt court officials.
+}}
+|Entered by=Oana
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

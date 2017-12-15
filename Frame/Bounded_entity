@@ -1,0 +1,51 @@
+{{Frame
+|FrameNet frame=Bounded_entity
+|Family=Entity frames, Bounding,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=bounded_entity
+}}{{Role
+|Role.Name=entity_boundary
+}}{{Role
+|Role.Name=entity_interior
+}}{{Role
+|Role.Name=entity_exterior
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}
+|Bindings={{Binding
+|Binding.Local role=bounded_entity
+|Binding.Bound role=Entity.entity
+}}{{Binding
+|Binding.Local role=entity_boundary
+|Binding.Bound role=Bounded region.boundary
+}}{{Binding
+|Binding.Local role=entity_interior
+|Binding.Bound role=Bounded region.interior
+}}{{Binding
+|Binding.Local role=entity_boundary
+|Binding.Bound role=Part whole.part
+}}{{Binding
+|Binding.Local role=entity_interior
+|Binding.Bound role=Part whole.part2
+}}{{Binding
+|Binding.Local role=bounded_entity
+|Binding.Bound role=Part whole.whole
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Entidad limitada
+}}

@@ -1,0 +1,72 @@
+{{Frame
+|FrameNet frame=Dispersal
+|Family=Resource Frames,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Lose possession
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Resource transfer
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=disperse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dispersal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=distribute.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scatter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strew.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disseminate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hand.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handout.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=distribution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dispense.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=parcel.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=apportion.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dole.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=share.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allocate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allocation.n
+}}
+|LinkSpanish=Dispersión
+|Applicability=English
+}}

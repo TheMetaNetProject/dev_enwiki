@@ -1,0 +1,30 @@
+{{Frame
+|Description=Physically percievable object or substance
+|Comments=Physical entities have one or more perceivable properties (e.g. color, smell, texture), and 'force-dynamic' properties (e.g. mass, hardness, etc.), and exist over some span of time.
+|Family=Entity frames,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=physical_entity_whole
+}}{{Role
+|Role.Name=existence_x-schema
+}}{{Role
+|Role.Name=physical_properties
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Entity
+}}
+|Bindings={{Binding
+|Binding.Local role=physical_entity_whole
+|Binding.Bound role=Entity.entity
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Entidad física
+|Applicability=English
+}}

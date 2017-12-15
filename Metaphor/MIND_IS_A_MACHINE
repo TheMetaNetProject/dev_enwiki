@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MIND IS A MACHINE
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Mind Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Mind
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We're still trying to grind out the solution to this equation.
+}}{{Example
+|Example.Language=English
+|Example.Text=My mind isn't operating today.
+}}{{Example
+|Example.Language=English
+|Example.Text=Boy the wheels are turning now!
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm a little rusty today.
+}}{{Example
+|Example.Language=English
+|Example.Text=We've been working on this problem all day and now we're running out of steam.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

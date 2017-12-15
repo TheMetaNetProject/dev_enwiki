@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Investigated for=English
+|Source frame=Food_preparation
+|Target frame=Cognizing
+|Mappings={{Mapping
+|Target=ideas
+|Source=food
+}}{{Mapping
+|Target=thinker
+|Source=food_preparer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=IDEAS ARE FOOD
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=They're just half-baked ideas.
+|Example.Provenance=PITF: p. 242
+}}{{Example
+|Example.Language=English
+|Example.Text=Just give me the raw facts.
+|Example.Provenance=PITF: p. 242
+}}{{Example
+|Example.Language=English
+|Example.Text=I need to put this on the back burner for a while.
+|Example.Provenance=PITF: p. 242
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

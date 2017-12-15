@@ -1,0 +1,36 @@
+{{Frame
+|Family=Disease frame family, Harm to living entity, 
+|Type=Frame
+|Status=release candidate
+|Roles={{Role
+|Role.Name=surgeon
+}}{{Role
+|Role.Name=patient
+}}{{Role
+|Role.Name=precision_of_surgical_movements
+}}{{Role
+|Role.Name=sickness_treated_by_surgery
+}}{{Role
+|Role.Name=surgical_procedure
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Health treatment
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=surgeon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surgery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=operation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=operate.n
+}}
+|Applicability=English
+}}

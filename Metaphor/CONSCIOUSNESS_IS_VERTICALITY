@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONSCIOUS IS UP
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=UNCONSCIOUS IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Mind Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Consciousness
+|Mappings={{Mapping
+|Target=conscious_entity
+|Source=upright_entity
+}}{{Mapping
+|Target=state_of_consciousness
+|Source=state_of_uprightness
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Being conscious (awake)
+|Entailment.Source inference=Being physically upright
+|Entailment.Type=Scalar, image schematic
+|Entailment.Entailed metaphors=CONSCIOUS IS UP
+}}{{Entailment
+|Entailment.Target entailment=Being unconscious (asleep)
+|Entailment.Source inference=Being physically not upright or horizontal
+|Entailment.Type=Scalar, image schematic
+|Entailment.Entailed metaphors=UNCONSCIOUS IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I'm up!
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

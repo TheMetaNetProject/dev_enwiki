@@ -1,0 +1,43 @@
+{{Frame
+|Description=Created to account for subtle frame differences in Disguise frame.
+|Family=Concealment/Protection frames, Protecting frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Visual obstruction
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shroud.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shroud.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sheep's skin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sheepskin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sheep's clothing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mask.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=veil.n
+}}
+|Applicability=English
+}}

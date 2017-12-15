@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=AID TO KNOWING IS A LIGHT SOURCE
+}}
+|Metaphor Type=Entailed
+|Source frame=Seeing_scenario
+|Target frame=Knowing
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=KNOWING IS SEEING
+|Related metaphor.Description=seeing is aiding by a light source
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Ecologists Shed New Light On Effects of Light Pollution On Wildlife
+|Example.Provenance=http://www.sciencedaily.com/releases/2012/11/121128093913.htm
+}}
+|Entered by=Oana, Elise,
+|Status=proposed
+|Relevant LUs=
+}}

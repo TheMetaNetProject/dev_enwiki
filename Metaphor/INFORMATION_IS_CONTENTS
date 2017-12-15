@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=INFORMATION IS CONTENTS
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=124
+}}
+|Family=Conduit Metaphor, Grady Primary Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Contents
+|Target frame=Information
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The detective couldn't get much information out of the partial shoe print.
+|Example.Provenance=Grady 1998:124
+}}{{Example
+|Example.Language=English
+|Example.Text=Tree rings contain the story of the region.
+|Example.Provenance=Grady 1998:124
+}}{{Example
+|Example.Language=English
+|Example.Text=It was years before the fossils yielded any valuable information.
+|Example.Provenance=Grady 1998:124
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

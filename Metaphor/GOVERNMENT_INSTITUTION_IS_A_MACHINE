@@ -1,0 +1,45 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Government institution metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Government institution
+|Mappings={{Mapping
+|Target=government_whole
+|Source=machine_entity
+}}{{Mapping
+|Target=functional_status
+|Source=functional_status
+}}{{Mapping
+|Target=responsibilites
+|Source=purpose
+}}{{Mapping
+|Target=functions
+|Source=operating_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUTION IS A MACHINE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=the ability of the government to fulfill its responsibilites depends on its functional status
+|Entailment.Source inference=the ability of the machine to function depends on the state of its physical structure (physical status), e.g rusty, broken, well-oiled
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.
+|Example.Provenance=Thoreau, On the duty of civil disobedience
+}}{{Example
+|Example.Language=English
+|Example.Text=They had elected him (Jackson) to conduct the Government and to keep and remove its moneys, and he meant to do so on the principle that it was a simple machine.
+|Example.Provenance=query.nytimes.com/gst/abstract.html?res...
+}}
+|Entered by=Oana, Eve (examples)
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+}}

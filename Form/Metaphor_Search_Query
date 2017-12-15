@@ -1,0 +1,12 @@
+<noinclude>
+This is the "Metaphor Search Query" form. It should be used via the [[Special:RunQuery/Metaphor Search Query|special 'run query']] page.
+</noinclude><includeonly>
+{{{for template|Metaphor Search}}}
+
+{| class="formtable"
+! Search Metaphors:
+| {{{field|searchstring}}}
+|}
+{{{end template}}}
+
+</includeonly>

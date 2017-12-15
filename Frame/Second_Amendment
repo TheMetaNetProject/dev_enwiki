@@ -1,0 +1,44 @@
+{{Frame
+|Description=viewpoint of the Second Amendment of the Constitution, which guarantees the "right to keep and bear arms", as Constitutional protection of gun rights
+|Family=Gun rights family, Gun debate,
+|Type=Frame
+|Cultural scope=American English, American conservative
+|Status=in development
+|Entered by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legislation enactment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Freedom
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Rights
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=Second Amendment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=2nd Amendment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Second Amendment right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=2nd Amendment right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Second Amendment policy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=2nd Amendment policy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=2nd amendment
+}}
+|Applicability=English
+}}

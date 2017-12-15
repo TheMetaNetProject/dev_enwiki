@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DIFFERENT MEANS OF ACHIEVING A PURPOSE ARE DIFFERENT PATHS TO A DESTINATION
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Self propelled motion to a destination
+|Target frame=Purposeful action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=MEANS ARE PATHS
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACHIEVING A PURPOSE IS REACHING A DESTINATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=To be cool, you have to wear your overalls this way.
+}}{{Example
+|Example.Language=English
+|Example.Text=She solved the problem a different way.
+}}{{Example
+|Example.Language=English
+|Example.Text=Do it any way you can.
+}}{{Example
+|Example.Language=English
+|Example.Text=However you want to go about repairing it is fine with me.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

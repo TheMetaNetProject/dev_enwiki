@@ -1,0 +1,27 @@
+{{Frame
+|Comments=cf Burden, Remove Burden
+|Family=Impediment and enablement frames, Motion-affecting frames, Motion Frames, 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion impediments
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=lift.v burden
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lightens.v burden
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ease.v burden
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=takes the load off
+}}
+}}

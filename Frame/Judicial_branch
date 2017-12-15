@@ -1,0 +1,16 @@
+{{Frame
+|FrameNet frame=Judicial_body
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Judicial action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=قوه قضائیه
+|Applicability=English
+}}

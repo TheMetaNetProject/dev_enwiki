@@ -1,0 +1,33 @@
+{{Frame
+|Family=Entity frames, Fluid frame family, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=liquid
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Substance
+}}
+|Bindings={{Binding
+|Binding.Local role=liquid
+|Binding.Bound role=Substance.substance
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=fluid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=liquid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=water.n
+}}
+|LinkSpanish=Líquido
+|Applicability=English
+}}

@@ -1,0 +1,31 @@
+{{Frame
+|Family=Event Structure frames, Action frames, Excluded frames,
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=X-schema
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=able
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ability
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=capability
+}}
+|LinkSpanish=Capacidad de actuar
+}}

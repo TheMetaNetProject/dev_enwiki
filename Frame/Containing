@@ -1,0 +1,63 @@
+{{Frame
+|Description=A container object holds some sort of content object(s) or substance within its boundaries.
+|FrameNet frame=Containing
+|Comments=This is a frame for a container and its contents
+|Family=Bounding, Spatial relations, Motion-affecting frames, Motion impediments frames, 
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=container
+|Role.FrameNet role=Container
+}}{{Role
+|Role.Name=contents
+|Role.FrameNet role=Contents
+}}{{Role
+|Role.Name=contents_location
+}}{{Role
+|Role.Name=container_capacity
+}}{{Role
+|Role.Name=fullness_degree
+|Role.Definition=extent to which contents fill container to capacity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+|Related frame.Description=makes use of
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containment
+|Related frame.Description=makes use of
+}}
+|Bindings={{Binding
+|Binding.Local role=contents
+|Binding.Bound role=Trajector landmark.trajector
+}}{{Binding
+|Binding.Local role=container
+|Binding.Bound role=Trajector landmark.landmark
+}}{{Binding
+|Binding.Local role=container
+|Binding.Bound role=Containment.container
+}}{{Binding
+|Binding.Local role=contents_location
+|Binding.Bound role=Trajector landmark.profiled_region
+}}{{Binding
+|Binding.Local role=contents_location
+|Binding.Bound role=Containment.interior
+}}
+|Inferences={{Inference
+|Inference.Description=Motion of contents is dependent on motion of container.  If container moves, so do contents and if container is stationary so are contents.
+}}{{Inference
+|Inference.Description=container boundary (may) prevent motion of contents from interior to exterior.  Presence of (open) portal may allow motion across boundary.
+}}{{Inference
+|Inference.Description=container boundary may prevent physical and/or visual access to contents by agents who are in exterior region (outside of container).
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=contain.v
+}}
+|LinkSpanish=Contener
+|Applicability=English
+}}

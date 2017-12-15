@@ -1,0 +1,170 @@
+{{Frame
+|Program alias=Movement Downward
+|Family=Motion Frames, Movement frames, Directional movement frames, Translational motion frames, Moving entity frames,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, release candidate
+|Entered by=Elise,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=mover
+|Role.Type=entity
+}}{{Role
+|Role.Name=motion_x-schema
+|Role.Type=process
+}}{{Role
+|Role.Name=vertical_path
+}}{{Role
+|Role.Name=downward_direction
+}}{{Role
+|Role.Name=source
+}}{{Role
+|Role.Name=goal
+}}{{Role
+|Role.Name=mover_position
+}}{{Role
+|Role.Name=speed
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Verticality
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Upward motion
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=vertical_path
+|Binding.Bound role=Verticality.verticality_scale
+}}{{Binding
+|Binding.Local role=vertical_path
+|Binding.Bound role=Motion along a path.path
+}}{{Binding
+|Binding.Local role=downward_direction
+|Binding.Bound role=Motion along a path.direction
+}}{{Binding
+|Binding.Local role=source
+|Binding.Bound role=Motion along a path.source
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Motion along a path.goal
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Motion along a path.speed
+}}{{Binding
+|Binding.Local role=mover_position
+|Binding.Bound role=Verticality.scalar_position
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Verticality.vertical_entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=decline.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fall.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=descend.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=descent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backslide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plummet.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plunge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sink.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sank.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dig.v self deeper
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slip.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stumble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tumble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burrow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spiral.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sag.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slump.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dive.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=downward spiral.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dip.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=topple.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decline.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=downswing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stoop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stoop.v low
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=parachute.v
+}}
+|LinkSpanish=Movimiento hacia abajo
+|Applicability=English
+}}

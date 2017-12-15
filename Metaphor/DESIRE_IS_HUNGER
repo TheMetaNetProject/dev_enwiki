@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=DESIRE IS HUNGER
+|Metaphor.Alias.Provenance=Master Metaphor List (Lakoff, Espenson & Schwartz 1991)
+|Metaphor.Alias.Page no=194
+}}
+|Comments=The inferential mapping is not complete: the physical sensation of hunger is usually not targeted towards specific foods (but craving is), however desire is targeted specifically towards certain objects of desire.
+|Family=Primary Metaphors, Emotion Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Hunger
+|Target frame=Desire
+|Mappings={{Mapping
+|Target=desire
+|Source=hunger
+}}{{Mapping
+|Target=desirer
+|Source=hungry_person
+}}{{Mapping
+|Target=desired_object
+|Source=object_hungered_for
+}}{{Mapping
+|Target=desire_x-schema
+|Source=hunger_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GETTING IS EATING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's drooling over a new car.
+}}{{Example
+|Example.Language=English
+|Example.Text=He hungered for her attention.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

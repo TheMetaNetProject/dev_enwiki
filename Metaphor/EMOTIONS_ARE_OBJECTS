@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EMOTIONS ARE OBJECTS
+|Metaphor.Alias.Provenance=Jisup
+}}
+|Comments=This is a supraordinate source frame to cover both objects and substances for those linguistic expressions that are underspecifying for object type. For linguistic metaphors illustrating EMOTIONS as SUBSTANCES, see the related EMOTIONS ARE SUBSTANCES metaphor.
+|Family=Emotion Metaphors, Primary Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Emotion
+|Mappings={{Mapping
+|Target=directed_emotion
+|Source=object
+|Comment=It is not emotion in general but an emotion targeted at someone or something during some specific episode or duration.
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=EMOTIONS ARE SUBSTANCES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You have to set your jealousy aside.
+}}{{Example
+|Example.Language=English
+|Example.Text=He hid his love from her.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

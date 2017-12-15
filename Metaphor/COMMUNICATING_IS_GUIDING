@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Guided motion
+|Target frame=Communication
+|Mappings={{Mapping
+|Target=communicator
+|Source=leader
+}}{{Mapping
+|Target=addressee
+|Source=follower
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=PROCESSES ARE MOVEMENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This book will guide you step by step how to apply for citizenship.
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

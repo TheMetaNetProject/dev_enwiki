@@ -1,0 +1,24 @@
+{{Frame
+|Family=Morality frames, 
+|Type=Frame
+|Cultural information=The moral order central to the strict father model.
+|Status=in development
+|Entered by=Oana, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Moral authority
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=God is naturally more powerful than people.
+}}{{Inference
+|Inference.Description=People are naturally more powerful than animals and plants and natural objects.
+}}{{Inference
+|Inference.Description=Adults are naturally more powerful than children.
+}}{{Inference
+|Inference.Description=Men are naturally more powerful than women.
+}}
+|Relevant LUs=
+|Applicability=English
+}}

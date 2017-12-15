@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=UNCONSCIOUS IS DOWN
+|Metaphor.Alias.Provenance=Oana
+}}
+|Tags=orientational,
+|Family=Mind Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Consciousness
+|Mappings={{Mapping
+|Target=unconscious_entity
+|Source=supine_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONSCIOUSNESS IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He fell into a coma.
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

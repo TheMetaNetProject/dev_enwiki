@@ -1,0 +1,58 @@
+{{Frame
+|FrameNet frame=Separating, Becoming separated
+|Family=Image Schemas,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=separate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=separation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=division.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=split.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=split.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=partition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=partition.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=section.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=segment.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sever.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=segregate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=segregation.n
+}}
+|LinkSpanish=Separación
+|Applicability=English
+}}

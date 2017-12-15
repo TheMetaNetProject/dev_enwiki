@@ -1,0 +1,31 @@
+{{Frame
+|FrameNet frame=Relation_between_individuals, Personal_relationship, Social_connection
+|Type=Frame
+|Applicability=English
+|Roles={{Role
+|Role.Name=romantic_relationship_participants
+}}{{Role
+|Role.Name=course_of_romantic_relationship
+}}
+|Related frames={{Related frame
+|Related frame.Name=Life
+}}
+|Bindings={{Binding
+|Binding.Local role=romantic_relationship_participant
+|Binding.Bound role=Life.life_liver
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=relationship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=love.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marriage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=break-up.n
+}}
+}}

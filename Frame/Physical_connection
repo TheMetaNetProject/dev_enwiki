@@ -1,0 +1,75 @@
+{{Frame
+|FrameNet frame=Connectors, Attaching
+|Comments=Physical connections between two (or more) objects. Roles in the frame support two possible perspectives: (1) Two items ("connected_items" role) attached together by a connector; (2) one item (item1) attached to a fixed object by a connector
+|Family=Event Structure frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=connector
+}}{{Role
+|Role.Name=connected_items
+}}{{Role
+|Role.Name=item1
+}}{{Role
+|Role.Name=fixed_object
+}}{{Role
+|Role.Name=connector_strength
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=When items are connected, they share a "common fate" with respect to location.  If one item is a fixed object, then the attached item will not move.  If both items are moveable objects, either both move or both are stationary, and if they move, they move to the same place.
+}}{{Inference
+|Inference.Description=In order to move independently, the connection between the items must be eliminated (e.g. removed, broken or dissolved)
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=connector
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=connection
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=link.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=connect
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=link.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bind
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bond.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bond.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=binding.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tie.n
+}}
+|LinkSpanish=Conexión física
+|Applicability=English
+}}

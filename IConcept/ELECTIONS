@@ -1,0 +1,17 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+
+Rights (right, inalienable); Government decision-making
+|ConceptFrames={{Linked frame
+|Frame name=Election
+}}{{Linked frame
+|Frame name=Voting
+}}{{Linked frame
+|Frame name=Voting rights
+}}{{Linked frame
+|Frame name=Political competition
+}}
+}}

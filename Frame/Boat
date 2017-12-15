@@ -1,0 +1,80 @@
+{{Frame
+|FrameNet frame=Vehicle, Operate_vehicle
+|Family=Entity frames, Vehicle frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=boat
+}}{{Role
+|Role.Name=boat_captain
+}}{{Role
+|Role.Name=boat_passengers
+}}{{Role
+|Role.Name=boat_course_of_motion
+}}{{Role
+|Role.Name=boat_steering_x-schema
+}}{{Role
+|Role.Name=medium_of_motion
+|Role.Definition=i.e., body of water
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Seafaring_vehicle
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=A boat steered by a captain stays on course and moves forward.
+}}{{Inference
+|Inference.Description=A boat without a captain to steer it strays off course and moves aimlessly.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=boat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=canoe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=raft.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bateau.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=navigate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=admiral.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=helm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tiller.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rudder.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rudderless.a
+}}
+|LinkSpanish=Navío
+}}

@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Bounded region
+|Target frame=Category
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SIMILARITY IS PROXIMITY
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ASSOCIATION IS CONNECTION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Tomatoes technically fall within the fruit category.
+|Example.Provenance=Grady 1998:130
+}}{{Example
+|Example.Language=English
+|Example.Text=I wouldn't put him in the friend category, exactly.
+|Example.Provenance=Grady 1998:130
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Overeating
+|Target frame=Resource consumption
+|Mappings={{Mapping
+|Target=over-consumer_of_resources
+|Source=overeater
+}}{{Mapping
+|Target=resource
+|Source=food
+}}{{Mapping
+|Target=resulting_state_of_over-consumption
+|Source=resulting_state_of_overeating
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONSUMING RESOURCES IS EATING
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=RESULT OF OVER-CONSUMPTION OF RESOURCES IS RESULT OF OVEREATING
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We've gorged on resources we should have protected, and the damage is hurting.
+|Example.Provenance=Tearfund website
+}}
+|Status=in development
+|Investigated for=English
+}}

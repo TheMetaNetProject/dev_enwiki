@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors
+|Source frame=Work scenario
+|Target frame=Government
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=There can be no doubt that the federal government is the new slave master, something the Founding Fathers warned us against. 
+|Example.Provenance=http://www.americanthinker.com/2010/06/the_slave_mentality.html   Article: The Slave Mentality, by Kevin Jackson
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

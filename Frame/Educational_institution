@@ -1,0 +1,42 @@
+{{Frame
+|Family=Education frames, Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Education
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=exam
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=testing
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=test
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=examination
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=school
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=university
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=college
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=academy
+}}
+|Applicability=English
+}}

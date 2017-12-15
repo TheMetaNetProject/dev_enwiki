@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors, 
+|Source frame=War
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS WAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=President Obama won a major victory in November.
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

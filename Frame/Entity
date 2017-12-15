@@ -1,0 +1,19 @@
+{{Frame
+|FrameNet frame=Entity
+|Comments=Per frameNet, an entity is "a thing (either abstract or physical) that exsists with some degree of permanence".
+|Family=Entity frames
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=entity
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Entidad
+}}

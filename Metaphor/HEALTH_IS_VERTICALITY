@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HEALTH IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=HEALTHY IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=SICK IS DOWN
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=SICKNESS IS DOWN
+}}
+|Family=Well-being Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Health
+|Mappings={{Mapping
+|Target=healthy_entity
+|Source=upright_entity
+}}{{Mapping
+|Target=state_of_health
+|Source=state_of_uprightness
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=WELL-BEING IS VERTICALITY
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Being healthy
+|Entailment.Source inference=Being upright
+|Entailment.Entailed metaphors=HEALTH IS UP
+}}{{Entailment
+|Entailment.Target entailment=Being sick
+|Entailment.Source inference=Being not upright or being horizontal
+|Entailment.Entailed metaphors=SICKNESS IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's down with the flu.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

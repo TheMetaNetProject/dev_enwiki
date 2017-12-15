@@ -1,0 +1,91 @@
+{{Frame
+|FrameNet frame=Control
+|Comments=A type of force-dynamic situation in which one person (the controlling entity) has the ability/power to act on and affect one or more variables of a dependent_entity's situation/actions
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=controlling_entity
+|Role.FrameNet role=Controlling_entity
+}}{{Role
+|Role.Name=dependent_entity
+|Role.FrameNet role=Dependent_entity
+}}{{Role
+|Role.Name=dependent_process
+|Role.FrameNet role=Dependent_situation
+}}{{Role
+|Role.Name=dependent_variable
+|Role.Definition=a scalar value that is is controlled by the controlling_entity
+|Role.FrameNet role=Dependent_variable
+}}{{Role
+|Role.Name=controlling_process
+|Role.Definition=the process the controller uses to exercising control
+}}{{Role
+|Role.Name=degree_of_control
+|Role.Definition=the extent to which the controlling_entity has control over the dependent_variable
+}}{{Role
+|Role.Name=scope_of_ control
+|Role.Definition=the range of situations that the controlling_entity can control
+}}{{Role
+|Role.Name=ability_to_control
+|Role.Definition=controllng_entity properties that enable him to succesfully control dependent_entity, e.g. the controller's physical strength
+}}{{Role
+|Role.Name=control_relation
+}}{{Role
+|Role.Name=control_relation_status
+|Role.Type=x-schema
+|Role.Definition=start, ongoing, finish of control relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Force-Dynamic Interaction
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relation
+}}
+|Bindings={{Binding
+|Binding.Local role=controlling_entity
+|Binding.Bound role=force_originator
+}}{{Binding
+|Binding.Local role=dependent_entity
+|Binding.Bound role=force_receiver
+}}{{Binding
+|Binding.Local role=controlling_process
+|Binding.Bound role=forceful_process
+}}{{Binding
+|Binding.Local role=dependent_process
+|Binding.Bound role=second_process
+}}{{Binding
+|Binding.Local role=controlling_entity
+|Binding.Bound role=Relation.entity_1
+}}{{Binding
+|Binding.Local role=dependent_entity
+|Binding.Bound role=Relation.entity_2
+}}{{Binding
+|Binding.Local role=control_relation
+|Binding.Bound role=Relation.relation
+}}{{Binding
+|Binding.Local role=control_relation_status
+|Binding.Bound role=Relation.relation_x-schema
+}}
+|Inferences={{Inference
+|Inference.Description=If the controlling_entity is exercising control to achieve some objectives, he will adjust the parameters of the dependent_process such that these objectives are accomplished.
+}}{{Inference
+|Inference.Description=If the controlling_entity does not have a sufficient degree of control, he may not be able to bring about the situation he desires.
+}}{{Inference
+|Inference.Description=The range of situations that a controlling_entity can control, and the degree of control that he has over these situations is dependent at least in part on how much 'strength' that person has (especially in relation to the strength of the dependent_entity)
+|Inference.Type=force-dynamic
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=control.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=control.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=power.n
+}}
+}}

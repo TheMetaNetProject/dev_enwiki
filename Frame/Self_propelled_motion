@@ -1,0 +1,112 @@
+{{Frame
+|Description=Moving entity supplies its own energy for its movement (along a path)
+|FrameNet frame=Self_motion
+|Other aliases=Self_propelled_motion_along_a_path, Self-propelled movement
+|Comments=translational motion
+|Family=Motion Frames, Movement frames, Affected movement frames, Action frames, Translational motion frames, Moving entity frames, 
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=self-mover
+|Role.Type=animate entity
+}}{{Role
+|Role.Name=bodypart
+}}{{Role
+|Role.Name=self-motion_x-schema
+}}{{Role
+|Role.Name=source
+|Role.Definition=mover's intitial location
+}}{{Role
+|Role.Name=path
+|Role.Definition=mover's ongoing location(s)
+}}{{Role
+|Role.Name=goal
+|Role.Definition=mover's final location
+}}{{Role
+|Role.Name=effort
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Animate entity
+}}
+|Bindings={{Binding
+|Binding.Local role=self_mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=self-mover
+|Binding.Bound role=Animate entity.animate_entity
+}}{{Binding
+|Binding.Local role=self_mover
+|Binding.Bound role=Action.actor
+}}{{Binding
+|Binding.Local role=bodypart
+|Binding.Bound role=Action.effector
+}}{{Binding
+|Binding.Local role=source
+|Binding.Bound role=Motion along a path.source
+}}{{Binding
+|Binding.Local role=path
+|Binding.Bound role=Motion along a path.path
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Motion along a path.goal
+}}{{Binding
+|Binding.Local role=effort
+|Binding.Bound role=Action.effort
+}}{{Binding
+|Binding.Local role=speed
+|Binding.Bound role=Motion along a path.speed
+}}{{Binding
+|Binding.Local role=direction
+|Binding.Bound role=Motion along a path.direction
+}}
+|Inferences={{Inference
+|Inference.Description=The motion and action x-schemas are (generally) aligned.  e.g. motion starts when action starts, is ongoing while action is ongoing, and stops when action stops.
+|Inference.Type=x-schema stage
+}}{{Inference
+|Inference.Description=The presence/absence of certain conditions will affect how a given motion event 'unfolds'. These conditions include: necessary resources (mover's energy/inertia); restraints on mover; obstacles on path; nature of terrain; burdens that mover must carry (additional mass that mover must move)
+|Inference.Type=x-schema conditions
+}}{{Inference}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=walk.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=run.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=saunter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jog.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sprint.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crawl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lurch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stagger.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=totter.v
+}}
+|LinkSpanish=Movimiento autopropulsado
+}}

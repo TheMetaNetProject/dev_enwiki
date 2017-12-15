@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Scalar Metaphors, 
+|Metaphor Type=Entailed
+|Source frame=Size
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=QUANTITY IS SIZE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=decreases in quantity
+|Entailment.Source inference=decreases in size
+|Entailment.Type=aligned scales
+}}
+|Examples={{Example
+|Example.Text=She has very little money.
+|Example.Provenance=Ellen
+}}{{Example
+|Example.Text=The number of available parking spaces continues to shrink.
+}}
+|Entered by=Ellen
+|Status=in development
+}}

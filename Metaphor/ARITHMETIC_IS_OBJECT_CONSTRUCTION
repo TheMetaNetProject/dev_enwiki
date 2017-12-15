@@ -1,0 +1,61 @@
+{{Metaphor
+|Aliases=
+|Comments=Where Mathematics Comes from (2000)
+|Family=Mathematics Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object Construction
+|Target frame=Arithmetic
+|Mappings={{Mapping
+|Target=numbers
+|Source=objects
+}}{{Mapping
+|Target=one
+|Source=smallest_object
+|Comment=The smallest whole object is one
+}}{{Mapping
+|Target=number_size
+|Source=object_size
+}}{{Mapping
+|Target=greater
+|Source=bigger
+}}{{Mapping
+|Target=less
+|Source=smaller
+}}{{Mapping
+|Target=arithmetic_operation
+|Source=construction_act
+}}{{Mapping
+|Target=arithmetic_operation_result
+|Source=constructed_object
+}}{{Mapping
+|Target=number_whole
+|Source=object_whole
+}}{{Mapping
+|Target=addition
+|Source=putting_together
+}}{{Mapping
+|Target=subtraction
+|Source=taking_apart
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=ARITHMETIC IS OBJECT COLLECTION
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MORE IS BIG
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Five is made up of two plus three.
+|Example.Provenance=Where Mathematics Come From:65
+}}{{Example
+|Example.Language=English
+|Example.Text=If you put 2 and 2 together, you get 4.
+|Example.Provenance=Where Mathematics Come From:65
+}}
+|Entered by=Aria
+|Status=in development
+|Investigated for=English
+}}

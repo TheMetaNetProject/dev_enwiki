@@ -1,0 +1,65 @@
+{{Frame
+|Description=The person or people who are in control of servants or slaves
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=master
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Servitude
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave driver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slavedriver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=master.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave master.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slavemaster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave-driver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave-master.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave-owner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave owner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slaveowner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lord
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overseer
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overlord
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=oppressor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taskmaster.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rule.v over
+}}
+|Applicability=English
+}}

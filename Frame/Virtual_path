@@ -1,0 +1,17 @@
+{{Frame
+|Type=Cog
+|Status=in development
+|Entered by=Oana, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Path
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=virtual path.n
+}}
+|Applicability=English
+}}

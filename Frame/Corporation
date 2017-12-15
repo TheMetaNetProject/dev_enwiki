@@ -1,0 +1,42 @@
+{{Frame
+|Family=Economic Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=corporation_whole
+}}{{Role
+|Role.Name=corporation_mission
+}}{{Role
+|Role.Name=corporation_functions
+}}{{Role
+|Role.Name=corporation_positions
+}}{{Role
+|Role.Name=corporation_position_holders
+}}{{Role
+|Role.Name=corporation_position_duties
+}}{{Role
+|Role.Name=corporation_structure
+}}{{Role
+|Role.Name=corporation_rules
+}}{{Role
+|Role.Name=chief_executive_officer
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=corporation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corporate.a
+}}
+|Applicability=English
+}}

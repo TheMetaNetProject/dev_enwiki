@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=DEMO metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Object manipulation
+|Target frame=Control
+|Mappings={{Mapping
+|Target=controlling_entity
+|Source=actor
+}}{{Mapping
+|Target=dependent_entity
+|Source=object
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's putty in her hands.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkSpanish=TENER CONTROL SOBRE ALGO O ALGUIEN ES LA MANIPULACIÓN DE UN OBJETO
+|Investigated for=English
+}}

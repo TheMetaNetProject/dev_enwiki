@@ -1,0 +1,21 @@
+{{Frame
+|Family=Emotion Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=greed.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=greedy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avarice.a
+}}
+|Applicability=English
+}}

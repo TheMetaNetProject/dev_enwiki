@@ -1,0 +1,77 @@
+{{Frame
+|Description=A scene describing one trajector moving towards a landmark and making inpact with it, or two trajectors moving towards each other and meeting each other with some force.
+|FrameNet frame=Impact
+|Family=Harm, Damage, Force frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie Sept. 18 2014
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical harm
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Force-application
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=impact.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impact.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hit.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crash.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slam.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slam.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hard-hitting.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hammer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=batter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bash.v
+}}
+|LinkSpanish=Impacto
+|Applicability=English
+}}

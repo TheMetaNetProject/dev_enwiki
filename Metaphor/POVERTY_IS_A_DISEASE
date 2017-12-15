@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=POVERTY IS AN ILLNESS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=POVERTY IS A PHYSICAL AFFLICTION
+}}
+|Description=e.g. "epidemic of poverty"
+|Comments=Right now, it is not worth while to distinguish between POVERTY as a DISEASE, ILLNESS, or PHYSICAL AFFLICTION, even though we do have these distinctions in the frame network. For now, POVERTY IS A DISEASE is a cover for all metaphors using any of these source frames.
+
+Cultural scope checked for Persian--Aria
+|Family=Poverty metaphors, Physical afflictions metaphors, Disease metaphors, Poverty as a social problem metaphors,
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Disease
+|Target frame=Poverty
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=POVERTY IS PHYSICAL HARM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The epidemic of poverty is spreading in America, and it's taking its toll on American families.
+|Example.Provenance=http://www.americanprogress.org/issues/poverty/news/2007/04/24/2923/the-poverty-epidemic-in-america-by-the-numbers/
+}}{{Example
+|Example.Language=English
+|Example.Text=As President Obama has said, we can't treat the symptoms of poverty in isolation.
+|Example.Provenance=http://portal.hud.gov/hudportal/HUD?src=/press/speeches_remarks_statements/2013/Speech_091713
+}}
+|Entered by=Oana
+|Status=in development, release candidate
+|LinkPersian=فقر بیماری است
+|Investigated for=English
+}}

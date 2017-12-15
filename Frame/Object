@@ -1,0 +1,61 @@
+{{Frame
+|Description=A bounded physical entity
+|FrameNet frame=Entity
+|Other aliases=physical object, bounded physical entity
+|Family=Entity frames, Object frames, 
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles={{Role
+|Role.Name=object_entity
+}}{{Role
+|Role.Name=size
+}}{{Role
+|Role.Name=shape
+}}{{Role
+|Role.Name=substance
+}}{{Role
+|Role.Name=weight
+}}{{Role
+|Role.Name=object_interior
+}}{{Role
+|Role.Name=object_exterior_surface
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bounded entity
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical entity
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Size
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Weight
+}}
+|Bindings={{Binding
+|Binding.Local role=object_entity
+|Binding.Bound role=Bounded entity.bounded_entity
+}}{{Binding
+|Binding.Local role=object_entity
+|Binding.Bound role=Physical entity.physical_entity_whole
+}}{{Binding
+|Binding.Local role=object_entity
+|Binding.Bound role=Size.entity
+}}{{Binding
+|Binding.Local role=size
+|Binding.Bound role=Size.entity_size
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=object.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thing.n
+}}
+|LinkSpanish=Objeto
+}}

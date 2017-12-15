@@ -1,0 +1,45 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=BEING IN CONTROL IS BEING ABOVE
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=290
+}}
+|Comments=This entry is the entry for the entailed metaphor CONTROL IS UP, a scalar entailment of CONTROL IS VERTICALITY. The word 'control' in CONTROL IS UP picks out one end of the scale, while the word 'control' in CONTROL IS VERTICALITY is a term covering the entire scale ranging from 'having control over' to 'being subject to control'. For the latter generic metaphor please see its own separate entry under 'related metaphors' below.
+|Tags=orientational,
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Control
+|Mappings={{Mapping
+|Target=controlling_entity
+|Source=higher_positioned_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I am on top of the situation.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's in a superior position.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's in the high command.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's in the upper echelon.
+}}{{Example
+|Example.Language=English
+|Example.Text=His power rose.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

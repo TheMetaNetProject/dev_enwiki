@@ -1,0 +1,52 @@
+{{Frame
+|Comments=This has specific types of decision-making scenarios (Government, Judicial, etc.).
+Eve: There is too much specific stuff here - standards etc - decision-making may not prominently feature those - but it DOES necessarily involve an ACTION on the part of the decider....
+|Family=Action frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=MetaNet group,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=decision_maker
+}}{{Role
+|Role.Name=decision_maker_actions
+}}{{Role
+|Role.Name=decision_making_process
+}}{{Role
+|Role.Name=entity_under_consideration
+}}{{Role
+|Role.Name=entity_under_consideration_initial_state
+}}{{Role
+|Role.Name=entity_under_consideration_ongoing_state
+}}{{Role
+|Role.Name=entity_under_consideration_final_state
+}}{{Role
+|Role.Name=consideration
+}}{{Role
+|Role.Name=decison_making_outcome
+}}{{Role
+|Role.Name=act_of_deciding
+}}{{Role
+|Role.Name=entity_under_consideration_status_change
+}}{{Role
+|Role.Name=introduction_of_entity_under_consideration
+}}{{Role
+|Role.Name=entity_under_consideration_characteristics
+}}{{Role
+|Role.Name=decision_making_standard
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=decide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decision.n
+}}
+|LinkSpanish=Toma de decisiones
+|Applicability=English
+}}

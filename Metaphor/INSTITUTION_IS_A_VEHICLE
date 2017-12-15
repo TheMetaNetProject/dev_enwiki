@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Vehicle
+|Target frame=Institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=INSTITUTION IS A MACHINE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I would venture to conclude from this that institutions are vehicles of subcultures driven by groups of people with a common destination
+|Example.Provenance=cbcomm330.wordpress.com/.../opening-our-eyes-to-the-institution/
+}}
+|Entered by=Oana, 
+|Last reviewed by=Eve
+|Status=in development
+|Investigated for=English
+}}

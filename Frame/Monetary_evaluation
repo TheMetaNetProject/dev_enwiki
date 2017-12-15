@@ -1,0 +1,46 @@
+{{Frame
+|Comments=evaluating the worth of a resource
+|Family=Economic Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=resource
+|Role.Definition=the thing being assessed
+}}{{Role
+|Role.Name=value
+|Role.Definition=the monetary value of the thing being assessed
+}}{{Role
+|Role.Name=standard
+|Role.Definition=the standard by which the value is determined
+}}{{Role
+|Role.Name=evaluator
+|Role.Definition=the entity imposing the value
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Financial resource
+}}
+|Bindings={{Binding
+|Binding.Local role=resource
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=value
+|Binding.Bound role=Evaluation.evaluation
+}}{{Binding
+|Binding.Local role=standard
+|Binding.Bound role=Evaluation.standard
+}}{{Binding
+|Binding.Local role=evaluator
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=resource
+|Binding.Bound role=Financial resource.resource
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,25 @@
+{{Frame
+|Family=Impediment and enablement frames, Location frames,
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Access
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Access to an object
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Change of location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Acceso a un lugar
+|Applicability=English
+}}

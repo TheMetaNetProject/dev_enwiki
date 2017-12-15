@@ -1,0 +1,62 @@
+{{Frame
+|Comments=Institutional corruption frame.  Corrupt activities deviate from the norm, are performed for the benefit of the corrupt actor, and harm the entity that should have benefited from those actions..
+|Family=Governance frames
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Oana, Elise
+|Last reviewed by=Elise
+|Roles={{Role
+|Role.Name=corrupt_actor
+|Role.Definition=performs corrupt activities
+}}{{Role
+|Role.Name=corrupt_activities
+|Role.Type=iterated activity
+|Role.Definition=actions performed for corrupt entity's own benefit to the harm of those who are supposed to benefit from these actions
+}}{{Role
+|Role.Name=harmed_entity
+|Role.Definition=person or group that should have benefited from corrupt entity's actions
+}}{{Role
+|Role.Name=corruption_affectee
+|Role.Definition=entity that becomes affected by the corruption
+}}{{Role
+|Role.Name=corruption_effect
+|Role.Definition=the result of the corrupt activities
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government institution
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Crime
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Social problems
+}}
+|Bindings={{Binding
+|Binding.Local role=corrupt_actor
+|Binding.Bound role=Crime.criminal
+}}{{Binding
+|Binding.Local role=corrupt_activities
+|Binding.Bound role=Crime.criminal_activity
+}}{{Binding
+|Binding.Local role=harmed_entity
+|Binding.Bound role=Crime.victim
+}}{{Binding
+|Binding.Local role=corrupt_activities
+|Binding.Bound role=Social problems.social_problem
+}}{{Binding}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=corrupt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corrupt.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corruption.n
+}}
+|LinkSpanish=Corrupción
+|LinkPersian=فساد
+|Applicability=English
+}}

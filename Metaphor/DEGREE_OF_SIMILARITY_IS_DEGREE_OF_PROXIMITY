@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping, tentative
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Proximity
+|Target frame=Similarity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SIMILARITY IS PROXIMITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=To us, culture and spirituality are very close concepts.
+|Example.Provenance=http://www.networkcultures.net/35_36/socialactivists.html
+}}
+|Entered by=Eve
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

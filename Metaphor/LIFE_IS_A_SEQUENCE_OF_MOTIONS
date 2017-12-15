@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LIFE IS A SEQUENCE OF MOTIONS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Comments=Metaphors and entailments resulting in this metaphor: Action is motion -> a sequence of actions is a sequence of movements -> (metonymy in target domain) life is a sequence of actions -> (resulting entailment in source domain) life is a sequence of movements.
+|Family=LOVE IS A JOURNEY Cascade, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex, Entailed
+|Source frame=Motion along a path
+|Target frame=Life
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=LIFE IS A JOURNEY
+|Related metaphor.Description=Relation should be 'is a source-superordinate for...' where a journey is on type of sequence of motions
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It's time to take the next big step in my life.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

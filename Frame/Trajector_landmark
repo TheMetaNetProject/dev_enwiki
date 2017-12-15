@@ -1,0 +1,43 @@
+{{Frame
+|FrameNet frame=Trajector-Landmark
+|Family=Spatial relations, Location frames,
+|Type=Cog
+|Cultural scope=universal, American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, release candidate
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=trajector
+|Role.FrameNet role=Trajector
+}}{{Role
+|Role.Name=landmark
+|Role.Definition=location of landmark is generally known and/or relatively fixed
+|Role.FrameNet role=Landmark
+}}{{Role
+|Role.Name=profiled_region
+|Role.Definition="profiled" region within larger space. Typically defined with respect to landmark, and the region in which a trajector is located
+|Role.FrameNet role=profiled_region
+}}{{Role
+|Role.Name=background
+|Role.Definition=the larger spatial extent within which trajector and landmark are located
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Region
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Spatial relation
+}}
+|Bindings={{Binding
+|Binding.Local role=background
+|Binding.Bound role=Region.background
+}}{{Binding
+|Binding.Local role=profiled_region
+|Binding.Bound role=Region.locations
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Trayector-landmark
+}}
+CXNS:  (locative) spatial prepositions are indicate a profiling of some (sub)region -- the profiled_region.  
+Spatial prepositional phrases additionally specify an entity that serves as landmark

@@ -1,0 +1,12 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptDefinition=actually Law and Regulation
+|ConceptFrames={{Linked frame
+|Frame name=Law
+}}{{Linked frame
+|Frame name=Legality
+}}{{Linked frame
+|Frame name=Regulation
+}}
+}}

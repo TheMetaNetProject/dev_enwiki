@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Government legitimacy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=TRUST RELATIONSHIPS ARE BUILDINGS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.
+|Example.Provenance=http://www.ipa.org.au/news/2579/the-dramatic-collapse-of-trust-in-government
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

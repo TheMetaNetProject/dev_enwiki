@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Description=e.g., "fall into poverty", "slide into poverty"
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors,
+|Metaphor Level=Specific
+|Source frame=Downward motion
+|Target frame=Impoverished
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=BEING IMPOVERISHED IS BEING AT A LOW LOCATION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=preventing becoming impoverished
+|Entailment.Source inference=preventing downward motion
+|Entailment.Entailed metaphors=PREVENTION OF BECOMING IMPOVERISHED IS IMPEDING DOWNWARD MOTION
+}}
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Oana, Elise
+|Status=in development, auto imported, release candidate
+}}

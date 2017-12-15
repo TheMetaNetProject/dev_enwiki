@@ -1,0 +1,77 @@
+{{Frame
+|Comments=Some of the LUs below are specifically for Driving_a_land_vehicle. The latter needs to be created, as a separate frame, as different from Driving_a_vehicle, which needs to be kept general. (Oana)
+|Family=Vehicle frames, Mover-specific movement frames, Moving entity frames, 
+|Type=Frame
+|Status=in development
+|Entered by=MetaNet group,
+|Roles={{Role
+|Role.Name=vehicle_driver
+|Role.Type=person
+}}{{Role
+|Role.Name=vehicle_passengers
+|Role.Type=person
+}}{{Role
+|Role.Name=vehicle_path
+|Role.Type=location
+}}{{Role
+|Role.Name=vehicle
+|Role.Type=physical object
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Operating a machine
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vehicle
+}}
+|Bindings={{Binding
+|Binding.Local role=vehicle_driver
+|Binding.Bound role=Vehicle.vehicle_driver
+}}{{Binding
+|Binding.Local role=vehicle_passengers
+|Binding.Bound role=Vehicle.vehicle_passengers
+}}{{Binding
+|Binding.Local role=vehicle_path
+|Binding.Bound role=Vehicle.vehicle_path
+}}
+|Inferences={{Inference
+|Inference.Description=The driver controls the speed and direction of motion of the vehicle, and consequently, of its passengers.
+}}{{Inference
+|Inference.Description=Passengers are not necessarily aware of the driver's intentions with respect to the speed and direction of motion of the vehicle.
+}}{{Inference
+|Inference.Description=The safety and destiny of the vehicle and its passengers are under the control of the driver.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=conduct.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drive.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=put on the brakes
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brake
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brakes
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jump start
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=steer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=steering wheel
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=driver.n
+}}
+|LinkSpanish=Manejar un vehículo
+|Applicability=English
+}}

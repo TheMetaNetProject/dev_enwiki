@@ -1,0 +1,45 @@
+{{Frame
+|Family=Entity frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=leech.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mosquito.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloodsucker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blood-sucker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=barnacle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrounger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vampire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tick.n
+}}
+|LinkSpanish=Criatura chupasangre
+|Applicability=English
+}}

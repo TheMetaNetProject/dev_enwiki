@@ -1,0 +1,46 @@
+{{Frame
+|Family=Eating Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Food
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=pie.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dessert.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=steak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gravy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pastry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cheese.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slice of pie.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slice of the pie.n
+}}
+|LinkSpanish=Alimentos ricos
+|Applicability=English
+}}

@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Comments=High-level common metaphor. No examples here please.
+|Family=Rights metaphors,
+|Metaphor Level=General
+|Source frame=Possessable object
+|Target frame=Rights
+|Mappings={{Mapping
+|Target=rights_holder
+|Source=possessor
+}}{{Mapping
+|Target=right
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=RIGHTS ARE PHYSICAL ENTITIES
+}}{{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=ENJOYING A RIGHT IS POSSESSING AN OBJECT
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

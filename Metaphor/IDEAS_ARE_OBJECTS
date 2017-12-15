@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IDEAS ARE OBJECTS
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Ontological Metaphors, Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Idea
+|Mappings={{Mapping
+|Target=idea_self
+|Source=object_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=THINKING IS OBJECT MANIPULATION
+|Related metaphor.Description=The current metaphor serves as a mapping in THINKING IS OBJECT MANIPULATION.
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=UNDERSTANDING IS GRASPING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Coming up with an idea
+|Entailment.Source inference=Creating an object
+}}{{Entailment
+|Entailment.Target entailment=Coming up with complex ideas
+|Entailment.Source inference=Constructing or structuring complex objects
+}}{{Entailment
+|Entailment.Target entailment=Analyzing ideas
+|Entailment.Source inference=Taking apart complex objects
+}}{{Entailment
+|Entailment.Target entailment=Structure of an idea
+|Entailment.Source inference=Structure of an object
+|Entailment.Entailed metaphors=STRUCTURE OF AN IDEA IS STRUCTURE OF AN OBJECT
+}}{{Entailment
+|Entailment.Target entailment=Analyzing ideas
+|Entailment.Source inference=Taking apart objects
+|Entailment.Entailed metaphors=ANALYZING IDEAS IS TAKING APART OBJECTS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You'd need an electron microscope to find the point of this essay.
+|Example.Provenance=Reddy (1979)
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

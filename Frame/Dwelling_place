@@ -1,0 +1,54 @@
+{{Frame
+|FrameNet frame=Buildings, Expected_location_of_person
+|Family=Entity frames, Object frames, 
+|Status=in development
+|Entered by=Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Building
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=house.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=home.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dwelling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=abode.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=estate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cottage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hovel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hut.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mansion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=domicile.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=den.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=residence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=apartment.n
+}}
+|Applicability=English
+}}

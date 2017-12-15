@@ -1,0 +1,44 @@
+{{Frame
+|Description=Same as Arriving frame??
+|FrameNet frame=Arriving
+|Family=Motion Frames, Directional movement frames, Moving entity frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Journey
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=reach.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arrive.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wind.v up at
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arrival.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destination.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=landing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reach.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=land.v
+}}
+|LinkSpanish=Llegar a un destino
+|Applicability=English
+}}

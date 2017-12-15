@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADDRESSING CRIME IS CONTROLLING AN ANIMAL
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Animal
+|Target frame=Crime
+|Mappings={{Mapping
+|Target=criminal
+|Source=animal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=UNCONTROLLED CRIME IS A RAMPAGING ANIMAL
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CRIME IS AN ANIMAL
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Law enforcement officers have often described these arrests as a way of reining in criminals whose other, more serious activities present a danger to the public.
+|Example.Provenance=http://www.nytimes.com/2012/11/23/opinion/an-ineffective-way-to-fight-crime.html?_r=0
+}}
+|Entered by=Jisup, 
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

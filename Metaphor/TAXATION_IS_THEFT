@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Governance metaphors, Taxation metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Theft
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=taxer
+|Source=thief
+}}{{Mapping
+|Target=tax_payer
+|Source=victim
+}}{{Mapping
+|Target=tax
+|Source=stolen_item
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TAXATION IS CAUSING HARM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Government steals the people's wealth through overt and hidden taxes
+|Example.Provenance=http://02f8c87.netsolhost.com/WordPress/archives/24  The Society Project
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

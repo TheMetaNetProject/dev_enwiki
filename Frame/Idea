@@ -1,0 +1,35 @@
+{{Frame
+|FrameNet frame=Awareness
+|Family=Cognition Frames, Excluded frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles={{Role
+|Role.Name=idea_cognizer
+|Role.FrameNet role=Cognizer
+}}{{Role
+|Role.Name=idea_self
+|Role.Definition=the idea
+|Role.FrameNet role=Content
+}}{{Role
+|Role.Name=idea_source
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=thought.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=idea.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=concept.n
+}}
+|LinkSpanish=Idea
+|Applicability=English
+}}

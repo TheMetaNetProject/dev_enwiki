@@ -1,0 +1,57 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS A BUILDING
+}}
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=building_whole
+}}{{Mapping
+|Target=nation_citizens
+|Source=building_inhabitants
+}}{{Mapping
+|Target=state_of_nation
+|Source=building_integrity
+}}{{Mapping
+|Target=nation_infrastructure
+|Source=building_framework
+}}{{Mapping
+|Target=basis_of_continued_existence
+|Source=building_foundation
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=NATION IS A COMPLEX STRUCTURE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Creating a nation.
+|Entailment.Source inference=Building a building.
+}}{{Entailment
+|Entailment.Target entailment=Destroying a nation.
+|Entailment.Source inference=Demolishing a building.
+}}{{Entailment
+|Entailment.Target entailment=Fixing the problems of a nation.
+|Entailment.Source inference=Fixing the structural problems of a building.
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=“This is a time to build a nation, brick by brick, pillar by pillar, not a time to tear down our brothers and sisters or pillage their property,”
+|Example.Provenance=http://www.stluciamirroronline.org/?p=2282
+}}{{Example
+|Example.Language=English
+|Example.Text=They represent the brick and mortar of our nation's developing infrastructure.
+|Example.Provenance=http://kyrstensinema.com/press-releases/sinema-earns-endorsement-of-arizona-building-trades-council/
+}}{{Example
+|Example.Language=English
+|Example.Text="Our nation is built on the bedrock principle that governments derive their just powers from the consent of the governed."
+|Example.Provenance=http://www.brainyquote.com/quotes/quotes/a/adriancron396239.html
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,33 @@
+{{Frame
+|Family=Property-related frames, Physical properties frame family, 
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Oana
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Attribute
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=size
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shape
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=color
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=width
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=length
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mass
+}}
+}}

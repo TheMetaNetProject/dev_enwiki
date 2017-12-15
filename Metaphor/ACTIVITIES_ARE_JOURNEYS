@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTIVITIES ARE JOURNEYS
+}}
+|Family=Event Structure Metaphor, 
+|Metaphor Type=Composed/complex
+|Source frame=Journey
+|Target frame=Activity
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do it over.
+}}{{Example
+|Example.Language=English
+|Example.Text=In the course of the investigation, new evidence was found.
+}}{{Example
+|Example.Language=English
+|Example.Text=Follow along as I assemble this.
+}}{{Example
+|Example.Language=English
+|Example.Text=Follow these steps in assembly.
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

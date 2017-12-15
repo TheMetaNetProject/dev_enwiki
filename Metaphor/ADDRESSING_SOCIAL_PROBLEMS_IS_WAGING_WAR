@@ -1,0 +1,64 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ADDRESSING SOCIAL PROBLEMS IS WAGING WAR
+}}
+|Family=Social problems metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=War
+|Target frame=Addressing social problems
+|Mappings={{Mapping
+|Target=society
+|Source=battlefield
+}}{{Mapping
+|Target=social_problem
+|Source=enemy_attack
+}}{{Mapping
+|Target=authorities
+|Source=generals
+}}{{Mapping
+|Target=public_officials
+|Source=army
+}}{{Mapping
+|Target=immoral_citizens
+|Source=enemy_combatants
+}}{{Mapping
+|Target=police_weapons
+|Source=weapons
+}}{{Mapping
+|Target=social_programs
+|Source=war_strategies
+}}{{Mapping
+|Target=honest_citizens
+|Source=civilians
+}}{{Mapping
+|Target=solving_problem
+|Source=victory
+}}{{Mapping
+|Target=spread_of_problem
+|Source=enemy_conquest
+}}{{Mapping
+|Target=power_to_solve_problems
+|Source=power_of_weapons
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 1
+|Related metaphor.Name=DISEASE TREATMENT IS WAR
+}}{{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 2
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=NEGATIVELY EVALUATED CONDITIONS ARE HARMFUL AGENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The most powerful weapon in the war against obesity might be something we all understand: cold, hard cash.
+|Example.Provenance=http://www.forbes.com/sites/davidmaris/2012/05/07/cash-as-weapon-in-the-war-against-obesity/
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development, proposed
+|Relevant LUs=
+}}

@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SELECTION IS ADOPTION
+|Metaphor.Alias.Provenance=Jisup
+}}
+|Metaphor Level=General
+|Source frame=Adoption
+|Target frame=Selection
+|Mappings={{Mapping
+|Target=selector
+|Source=family_representative
+}}{{Mapping
+|Target=options
+|Source=candidates
+}}{{Mapping
+|Target=selection_option
+|Source=adoptee
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=They adopted the customs of their neighbors.
+|Example.Provenance=Jisup
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

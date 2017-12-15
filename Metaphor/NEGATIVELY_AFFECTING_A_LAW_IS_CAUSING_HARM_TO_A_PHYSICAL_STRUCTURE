@@ -1,0 +1,20 @@
+{{Metaphor
+|Aliases=
+|Family=Legislation metaphors,
+|Metaphor Level=General
+|Source frame=Physical harm
+|Target frame=Law
+|Mappings={{Mapping
+|Target=law
+|Source=physically_harmed_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LAWS ARE PHYSICAL STRUCTURES
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

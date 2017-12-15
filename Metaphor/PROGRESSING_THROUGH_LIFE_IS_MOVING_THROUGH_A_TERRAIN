@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN
+|Metaphor.Alias.Provenance=Metaphor+
+}}
+|Family=LOVE IS A JOURNEY Cascade, Life Metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Moving forward
+|Target frame=Life
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=LIFE IS A SEQUENCE OF MOTIONS
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=LIFE IS A JOURNEY
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=PROGRESS IS FORWARD MOTION ALONG A PATH
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=PROGRESSING THROUGH LIFE IS MOVING ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's over the hill.
+}}{{Example
+|Example.Language=English
+|Example.Text=She's past her peak.
+}}{{Example
+|Example.Language=English
+|Example.Text=Life is full of peaks and valleys.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

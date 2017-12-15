@@ -1,0 +1,46 @@
+{{Frame
+|Comments=NOT the educational institution sense. This frame refers to the acquisition of knowledge, experience, and a any degrees or credentials that represent that acquisition of knowledge and experience.
+|Family=Education frames, Excluded frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Jisup
+|Roles={{Role
+|Role.Name=education_content
+}}{{Role
+|Role.Name=education_learner
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Knowledge
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=education
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=erudition
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=training
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pedagogy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=study
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=educational
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=an education
+}}
+|LinkSpanish=Educación
+|Applicability=English
+}}

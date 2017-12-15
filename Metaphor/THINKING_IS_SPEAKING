@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors, Thought as Language Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Speaking
+|Target frame=Cognizing
+|Mappings={{Mapping
+|Target=cognizer
+|Source=speaker
+}}{{Mapping
+|Target=topic
+|Source=topic
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=THINKING IS LINGUISTIC ACTIVITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I can barely hear myself think.
+|Example.Provenance=PITF: p. 245
+}}{{Example
+|Example.Language=English
+|Example.Text=He's an articulate thinker.
+|Example.Provenance=PITF: p. 245
+}}{{Example
+|Example.Language=English
+|Example.Text=She doesn't listen to her conscience.
+|Example.Provenance=PITF: p. 245
+}}{{Example
+|Example.Language=English
+|Example.Text=That sounds like a good idea.
+|Example.Provenance=PITF: p. 245
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

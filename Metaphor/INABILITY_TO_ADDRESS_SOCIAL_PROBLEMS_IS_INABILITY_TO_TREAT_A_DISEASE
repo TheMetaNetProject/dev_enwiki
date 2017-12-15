@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Physical afflictions metaphors, Social problems metaphors, Questionable entailments of metaphors
+|Source frame=Disease treatment
+|Target frame=Addressing social problems
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}{{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Incurable sexual offenders, lousy judges and the media
+|Example.Provenance=http://link.springer.com/article/10.1007%2Fs12103-012-9154-6#page-2
+}}{{Example
+|Example.Language=English
+|Example.Text=Video games are a serious plague on society.
+|Example.Provenance=http://corticalscrub.wordpress.com/2012/12/22/video-games-are-a-serious-plague-on-society/
+}}
+|Entered by=Jisup, Eve,
+|Last reviewed by=Ellen, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

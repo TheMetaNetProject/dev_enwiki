@@ -1,0 +1,31 @@
+{{Frame
+|Comments=Created to house LUs.
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=weather.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=climate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=humid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=temperature.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=forecast.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=forecast.n
+}}
+|Applicability=English
+}}

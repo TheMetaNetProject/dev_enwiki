@@ -1,0 +1,71 @@
+{{Frame
+|Comments=natural causes of restrains on motion
+|Family=Motion-affecting frames, Impediment and enablement frames, Motion impediments frames, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Oana, Ellen
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Restraints
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=web.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maelstrom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stuck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=quicksand.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entanglement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tar pit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tarpit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=catch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jungle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snag.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snag.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tangle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tangle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snarl.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muddle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muddle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thicket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bog.v down
+}}
+}}

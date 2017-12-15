@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Government institution metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Government institution
+|Mappings={{Mapping
+|Target=government_whole
+|Source=building_whole
+}}{{Mapping
+|Target=authority_structure
+|Source=building_framework
+}}{{Mapping
+|Target=functional_status
+|Source=building_stability
+}}{{Mapping
+|Target=authority_base
+|Source=foundation_of_structure
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUTIONS ARE BUILDINGS
+}}
+|Entailments=
+|Examples=
+|Entered by=Elise, Oana
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

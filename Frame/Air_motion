@@ -1,0 +1,42 @@
+{{Frame
+|Family=Motion Frames, Movement frames, Mover-specific movement frames, Internal motion frames, Moving entity frames
+|Roles={{Role
+|Role.Name=mover
+|Role.Type=air / gas
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wind.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gale.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gust.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=draft.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squall.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blast.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breeze.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gust.v
+}}
+|Applicability=English
+}}

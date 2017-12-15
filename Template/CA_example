@@ -1,0 +1,39 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA example
+|example.language=
+|example.text=
+|example.gloss=
+|example.English translation=
+|example.provenance=
+|example.annotation=
+|example.comment=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Example Text:
+| {{#ifeq:{{{example.language|}}}|Persian|lang="fa" dir="rtl" align="right"}} | 
+{{Printgloss|{{{example.text|}}}|{{{example.gloss|}}}|{{{example.language|}}}}}
+|- {{#if:{{{example.English translation|}}}| |style="display:none;"}}
+!  English Translation:
+|  {{#ifeq:{{{example.language|}}}|English||lang="en" dir="ltr"}} | {{{example.English translation|}}}
+|- {{#if:{{{example.provenance|}}}| |style="display:none;"}}
+!  Provenance:
+|  {{{example.provenance|}}}
+|- {{#if:{{{example.annotation|}}}| |style="display:none;"}}
+!  Annotation:
+|  {{{example.annotation|}}}
+|- {{#if:{{{example.comment|}}}| |style="display:none;"}}
+!  Comments:
+|  {{{example.comment|}}}
+|}{{#subobject:Is example of
+|Is from language={{{example.language|}}}
+|Has text={{{example.text|}}}
+|Has text gloss={{{example.gloss|}}}
+|Has English translation={{{example.English translation|}}}
+|Has provenance={{{example.provenance|}}}
+|Has annotation={{{example.annotation|}}}
+|Has comment={{{example.comment|}}}}}
+</includeonly>

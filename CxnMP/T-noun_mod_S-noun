@@ -1,0 +1,24 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_mod_S-noun
+|CxnMPDescription=Noun noun modification compounds
+|Comments=poverty trap
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N") .
+    ?target doc:ncmod ?source .    
+}
+}}

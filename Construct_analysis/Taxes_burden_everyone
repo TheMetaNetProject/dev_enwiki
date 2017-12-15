@@ -1,0 +1,23 @@
+{{Construct analysis
+|informalanalysis=This is an instance of a T-subj_S-verb metaphor cxn.  In this case, the profiledParticipant role associated with the verb 'burden' is the Burden role in the Burden frame.
+|Entered by=Ellen
+|Status=in development
+|construction=Declarative
+|informalconstituentanalysis=Subj (NP)
+|constituents={{CA constituent
+|constituent.string=Taxes
+|constituent.cxn=NP
+|constituent.frames=Taxation
+}}{{CA constituent
+|constituent.string=burden everyone
+|constituent.cxn=Transitive V(S)-DO(T)
+|constituent.frames=Burden
+}}
+|bindings=
+|metaphors={{CA metaphor
+|metaphor.metaphor=TAXATION IS A BURDEN
+|metaphor.evokingsourceelements=burden.v
+|metaphor.evokingtargetelements=tax.n
+}}
+|examples=
+}}

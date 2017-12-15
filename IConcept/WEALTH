@@ -1,0 +1,12 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Economic status (); Experiencing an economic status (); Wealth distribution ().
+|ConceptFrames={{Linked frame
+|Frame name=Wealth
+}}{{Linked frame
+|Frame name=Wealthy people
+}}
+}}

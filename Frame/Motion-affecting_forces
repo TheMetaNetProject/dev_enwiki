@@ -1,0 +1,15 @@
+{{Frame
+|Family=Motion Frames, Motion-affecting frames, 
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Ellen, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion-affecting external factors
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

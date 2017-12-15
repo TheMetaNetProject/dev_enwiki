@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ARGUMENT IS PHYSICAL COMBAT
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ARGUMENT IS WAR
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ARGUMENTS ARE WAR
+}}
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Physical combat
+|Target frame=Argument
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=PSYCHOLOGICAL CONFLICT IS PHYSICAL CONFLICT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Your claims are indefensible.
+}}{{Example
+|Example.Language=English
+|Example.Text=He attacked every weak point in my argument.
+}}{{Example
+|Example.Language=English
+|Example.Text=His criticisms were right on target.
+}}{{Example
+|Example.Language=English
+|Example.Text=I blew his argument out of the water.
+}}{{Example
+|Example.Language=English
+|Example.Text=I've never won an argument with him.
+}}{{Example
+|Example.Language=English
+|Example.Text=You disagree? OK, shoot!
+}}{{Example
+|Example.Language=English
+|Example.Text=If you use that strategy, he'll wipe you out.
+}}{{Example
+|Example.Language=English
+|Example.Text=He shot down all of my arguments.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

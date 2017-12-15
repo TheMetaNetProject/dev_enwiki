@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANALYZING IS DISSECTING
+}}
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Dissect
+|Target frame=Analysis
+|Mappings={{Mapping
+|Target=analyzer
+|Source=dissector
+}}{{Mapping
+|Target=object_of_analysis
+|Source=dissected_entity
+}}{{Mapping
+|Target=analytic_conclusion
+|Source=entity_in_pieces
+}}{{Mapping
+|Target=analytic_method
+|Source=dissection_tool
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The hallways are filled with the sounds of middle school students, primarily eighth graders, dissecting the second presidential debate from the evening before.
+|Example.Provenance=http://vvrotny.org/2012/10/17/dissecting-the-debate-google-apps-style/
+}}
+|Status=in development
+|Investigated for=English
+}}

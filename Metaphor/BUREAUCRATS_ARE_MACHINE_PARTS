@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors, Bureaucracy metaphors, Ontological Metaphors, 
+|Source frame=Machine
+|Target frame=Bureaucracy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=BUREAUCRACY IS A MACHINE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You could call me just a work-for-hire hack, and a willing, contented cog in a bureaucratic machine.
+|Example.Provenance=http://orange.eserver.org/issues/3-1/macqueen.html
+}}
+|Entered by=Eve
+|Last reviewed by=Karie
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

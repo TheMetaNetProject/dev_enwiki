@@ -1,0 +1,20 @@
+{{Metaphor
+|Aliases=
+|Metaphor Type=Composed/complex
+|Source frame=War
+|Target frame=Diplomacy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ARGUMENT IS WAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Weapons of Diplomacy, and the Human Factor
+|Example.Provenance=http://www.nytimes.com/2011/04/20/opinion/20iht-edmarton20.html?pagewanted=all
+}}
+|Entered by=Aria
+|Status=in development, proposed
+|Investigated for=English
+}}

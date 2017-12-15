@@ -1,0 +1,54 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. "curing poverty"
+
+*what is the difference between this metaphor and the higher level metaphor ADDRESSING SOCIAL PROBLEMS IS TREATING A PHYSICAL AFFLICTION?? 
+-> also, do we need to move verb LUs related to Disease treatment back into this source frame from Treating a physical affliction?
+|Comments=switched Source Frame from Treating a physical affliction to Disease treatment - Karie Feb 2015
+|Tags=tentative,
+|Family=Governance metaphors, Physical afflictions metaphors, Poverty as a social problem metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Treating a physical affliction
+|Target frame=Addressing social problems
+|Mappings={{Mapping
+|Target=social_problem
+|Source=disease
+}}{{Mapping
+|Target=spread_of_problem
+|Source=spread_of_disease
+}}{{Mapping
+|Target=solving_problem
+|Source=cure
+}}{{Mapping
+|Target=authorities
+|Source=doctors
+}}{{Mapping
+|Target=public_officials
+|Source=medical_professionals
+}}{{Mapping
+|Target=society
+|Source=body
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}{{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=INABILITY TO ADDRESS SOCIAL PROBLEMS IS INABILITY TO TREAT A DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING A PHYSICAL AFFLICTION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Debt Ceiling Deal: Wrong Diagnosis Leads to Wrong Treatment for What Ails the Economy
+|Example.Provenance=http://www.cepr.net/index.php/op-eds-&-columns/op-eds-&-columns/wrong-diagnosis-leads-to-wrong-treatment-for-economy
+}}
+|Entered by=Elise, Oana,
+|Last reviewed by=Ellen, Elise
+|Status=in development
+|LinkPersian=برطرف کردن مشکلات اجتماعی درمان بیماری جسمی است
+|Investigated for=English
+}}

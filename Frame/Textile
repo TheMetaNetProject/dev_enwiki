@@ -1,0 +1,73 @@
+{{Frame
+|Other aliases=Cloth, Fabric
+|Family=Entity frames, Machine frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=textile_whole
+}}{{Role
+|Role.Name=fibers
+}}{{Role
+|Role.Name=textile_creation_action
+|Role.Definition=e.g. weaving, knitting
+}}{{Role
+|Role.Name=textile_creator
+|Role.Definition=e.g. weaver
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical structure
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Create_object
+}}
+|Bindings={{Binding
+|Binding.Local role=textile_whole
+|Binding.Bound role=Complex physical object.object_whole
+}}{{Binding
+|Binding.Local role=textile_whole
+|Binding.Bound role=Create_object.created_object
+}}{{Binding
+|Binding.Local role=fibers
+|Binding.Bound role=Complex physical object.object_parts
+}}{{Binding
+|Binding.Local role=textile_creation_action
+|Binding.Bound role=Create_object.creation_action
+}}{{Binding
+|Binding.Local role=textile_creator
+|Binding.Bound role=Create_object.creator
+}}{{Binding
+|Binding.Local role=fibers
+|Binding.Bound role=Create_object.components
+}}
+|Inferences={{Inference
+|Inference.Description=The strength/integrity of the textile as a whole is dependent on the strength/integrity of the individual fibers.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=textile.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fabric.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cloth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tapestry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weave.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unravel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fray.v
+}}
+|LinkSpanish=Textil
+|Applicability=English
+}}

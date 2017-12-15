@@ -1,0 +1,31 @@
+{{Frame
+|Family=Force dynamic frames,
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=force_originator
+|Role.Type=Entity
+}}{{Role
+|Role.Name=force_reciever
+|Role.Type=Entity
+}}{{Role
+|Role.Name=force
+|Role.Type=Force
+|Role.Definition=energy/power
+}}{{Role
+|Role.Name=force_amount
+|Role.Type=Quantity
+|Role.Definition=amount of force that is transferred from source to receiver
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Force
+}}
+|Bindings={{Binding
+|Binding.Local role=force
+|Binding.Bound role=Force.force
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Transferencia forzada
+}}

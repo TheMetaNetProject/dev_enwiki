@@ -1,0 +1,81 @@
+{{Frame
+|FrameNet frame=Ingestion
+|Other aliases=Consuming food
+|Family=Eating Frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Ellen,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=eater
+}}{{Role
+|Role.Name=eaten_object
+}}{{Role
+|Role.Name=eating_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Ingestion
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Chewing
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Consume
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Food
+}}
+|Bindings={{Binding
+|Binding.Local role=eater
+|Binding.Bound role=Ingestion.ingestor
+}}{{Binding
+|Binding.Local role=eaten_object
+|Binding.Bound role=Food.food
+}}{{Binding
+|Binding.Local role=eater
+|Binding.Bound role=Food.food_consumer
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=eat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eating
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=engorge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=devour.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gorge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nibble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=meal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gobble up
+}}
+|Applicability=English
+}}

@@ -1,0 +1,17 @@
+{{Frame
+|Comments=Why this and Entrusting?
+|Entered by=?
+|Last reviewed by=Oana
+|Roles={{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Trust
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Governed trusts Government => Government trusts officials.
+|Inference.Type=Transitive
+}}
+|Relevant LUs=
+|Applicability=English
+}}

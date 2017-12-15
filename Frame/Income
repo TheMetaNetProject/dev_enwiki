@@ -1,0 +1,55 @@
+{{Frame
+|Description=earned income, as in from a salary/wages; cf Investment
+|Family=Wealth and Social Class frames, Resource Frames, Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Financial resource
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Financial transaction
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Employment
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=salary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=income.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pay.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=payment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compensation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compensate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earnings.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=minimum wage
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wages.n
+}}
+|Applicability=English
+}}

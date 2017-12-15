@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors
+|Metaphor Type=Composed/complex
+|Source frame=Servant
+|Target frame=Government
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The government should cater to the needs of its citizens.
+}}
+|Entered by=Ellen, Mark, 
+|Last reviewed by=Elise
+|Status=in development
+|LinkRussian=ПРАВИТЕЛЬСТВО - ЭТО СЛУГА
+|Investigated for=English
+|Relevant LUs=
+}}

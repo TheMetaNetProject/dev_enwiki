@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors
+|Source frame=Stop airflow
+|Target frame=Regulation
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The entrepreneur was suffocated by the all the onerous regulations he had to follow.
+}}{{Example
+|Example.Language=English
+|Example.Text=Small business in the United States is literally being suffocated by red tape.
+|Example.Provenance=http://theeconomiccollapseblog.com/archives/suffocated-by-red-tape-12-ridiculous-regulations-that-are-almost-too-bizarre-to-believe
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

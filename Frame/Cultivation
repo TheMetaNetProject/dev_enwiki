@@ -1,0 +1,76 @@
+{{Frame
+|Family=Natural process frames, 
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, proposed
+|Entered by=Aria
+|Roles={{Role
+|Role.Name=Cultivatee
+|Role.Definition=crop or domesticated animal
+}}{{Role
+|Role.Name=Cultivator
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Agriculture
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Plants
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cultivation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cultivate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plant.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harvest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harvest.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pluck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cull.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yield.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yield.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crop.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bumper crop
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=yield crop
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plow.n
+}}
+|LinkSpanish=Cultivo
+|Applicability=English
+}}

@@ -1,0 +1,80 @@
+{{Frame
+|FrameNet frame=Intentionally_create
+|Comments=An actor intentionally creates some sort of object, using some sort of materials/components.
+
+LU 'make' temporarily remove. Please add back later.
+|Family=Act on Object frames, Object frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=creator
+|Role.Type=person
+|Role.FrameNet role=Creator
+}}{{Role
+|Role.Name=created_object
+|Role.FrameNet role=Created_entity
+}}{{Role
+|Role.Name=creation_action
+|Role.Definition=action creator performs to create object
+}}{{Role
+|Role.Name=components
+|Role.Definition=material or parts object is created from
+|Role.FrameNet role=Components
+}}{{Role
+|Role.Name=created_object_process
+|Role.Definition=process of created object coming into existence
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex process
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Object
+}}
+|Bindings={{Binding
+|Binding.Local role=creator
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=creation_action
+|Binding.Bound role=Purposeful action
+}}{{Binding
+|Binding.Local role=creation_action
+|Binding.Bound role=Complex process.process1
+}}{{Binding
+|Binding.Local role=created_object_process
+|Binding.Bound role=Complex process2
+}}
+|Inferences={{Inference
+|Inference.Description=Creator's objective is to bring the created_object into existence.  When action starts, object does not exist, when action is successfully completed, object exists.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=create.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=produce.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=generate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=form.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=creator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=producer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=creation.n
+}}
+|Applicability=English
+}}

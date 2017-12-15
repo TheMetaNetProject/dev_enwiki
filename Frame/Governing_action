@@ -1,0 +1,98 @@
+{{Frame
+|FrameNet frame=Leadership
+|Family=Governance frames, Social problem frames, 
+|Type=Frame
+|Cultural information=The process of governing done by governments.
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=governing_actor
+|Role.Definition=individual, group, or institution in authority
+|Role.FrameNet role=Leader
+}}{{Role
+|Role.Name=governing_action_x-schema
+}}{{Role
+|Role.Name=governed
+}}{{Role
+|Role.Name=governing_objectives
+}}{{Role
+|Role.Name=governing_action_outcome
+}}{{Role
+|Role.Name=affected_jurisdiction
+}}{{Role
+|Role.Name=jurisdiction_state_x-schema
+|Role.Definition=the process of change of the well-being or state of the jurisdiction
+}}{{Role
+|Role.Name=affect_rate_of_change
+}}{{Role
+|Role.Name=constraints_on_governing_actions
+|Role.Definition=eg Constitution, laws, Bill of Rights
+}}{{Role
+|Role.Name=normative_governing_actions
+}}{{Role
+|Role.Name=non-normative_governing_actions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Purposeful action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Judgment
+}}
+|Bindings={{Binding
+|Binding.Local role=governing_actor
+|Binding.Bound role=Government.governor
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Government.governed
+}}{{Binding
+|Binding.Local role=governing_action_x-schema
+|Binding.Bound role=Government.governing_actions
+}}{{Binding
+|Binding.Local role=governing_objectives
+|Binding.Bound role=Government.governing_objectives
+}}{{Binding
+|Binding.Local role=affected_jurisdiction
+|Binding.Bound role=Government.jurisdiction_region
+}}{{Binding
+|Binding.Local role=governor
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=governing_action_x-schema
+|Binding.Bound role=Purposeful action.action_x-schema
+}}{{Binding
+|Binding.Local role=governing_objectives
+|Binding.Bound role=Purposeful action.objective
+}}{{Binding
+|Binding.Local role=affected_jurisdiction
+|Binding.Bound role=Process.protagonist
+}}{{Binding
+|Binding.Local role=jurisdiction_affect_x-schema
+|Binding.Bound role=Process.process
+}}{{Binding
+|Binding.Local role=normative_governing_action
+|Binding.Bound role=Judgment.normative_judged_action
+}}{{Binding
+|Binding.Local role=non-normative_governing_action
+|Binding.Bound role=Judgment.non-normative_judged_action
+}}{{Binding
+|Binding.Local role=governing_actor
+|Binding.Bound role=Judgment.judged_party
+}}
+|Inferences={{Inference
+|Inference.Description=The governor carries out governing actions intended to affect the process of change of the affected jurisdiction according to its objectives.
+}}{{Inference
+|Inference.Description=The governing actions may or may not lead to outcomes that affect the process of change of the jurisdiction according to the objective.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=govern.v
+}}
+|Applicability=English
+}}

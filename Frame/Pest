@@ -1,0 +1,72 @@
+{{Frame
+|Description=insect, small animal, or fungus that is annoying or harmful and destructive
+|Family=Entity frames, Disease frame family, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=marked for cultural scope for Spanish - Karie August 13, 2014
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Physical harm
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=pest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pestilence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infest.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=infestation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=termite.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blight.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swarm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vermin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dry rot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mildew.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mold.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fungus.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fungi.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cockroach.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roach.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pest-hole.n
+}}
+|Applicability=English
+}}

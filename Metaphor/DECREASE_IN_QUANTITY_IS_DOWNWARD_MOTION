@@ -1,0 +1,21 @@
+{{Metaphor
+|Aliases=
+|Family=Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Downward motion
+|Target frame=Quantity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LESS IS DOWN
+}}{{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=INCREASE IN QUANTITY IS UPWARD MOTION
+}}
+|Entailments=
+|Examples=
+|Entered by=Elise,
+|Status=in development
+|Investigated for=English
+}}

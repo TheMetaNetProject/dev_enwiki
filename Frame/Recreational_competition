@@ -1,0 +1,46 @@
+{{Frame
+|Description=Situations in which two or more (groups of) people compete for the entertainment of themselves and/or an audience
+|Family=Competition frames
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=event
+}}{{Role
+|Role.Name=competitor_1
+}}{{Role
+|Role.Name=competitor_2
+}}{{Role
+|Role.Name=prize
+}}{{Role
+|Role.Name=outcome
+}}{{Role
+|Role.Name=activity_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Competition
+}}
+|Bindings={{Binding
+|Binding.Local role=event
+|Binding.Bound role=Competition.competition_event
+}}{{Binding
+|Binding.Local role=competitor_1
+|Binding.Bound role=Competition.competition_competitor1
+}}{{Binding
+|Binding.Local role=competitor_2
+|Binding.Bound role=Competition.competition_competitor2
+}}{{Binding
+|Binding.Local role=prize
+|Binding.Bound role=Competition.competition_prize
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Competition.competiition_outcome
+}}{{Binding
+|Binding.Local role=activity_x-schema
+|Binding.Bound role=Competition.competition_x-schema
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Comments='homelessness' was an LU here. Removed. This is a high-level frame. No LUs here please. (Oana)
+|Family=Social problem frames, Poverty-related frame network, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=social_problem
+}}{{Role
+|Role.Name=society
+|Role.Definition=group of people negatively affected by problem
+}}{{Role
+|Role.Name=result_of_problem
+|Role.Definition=the (negative) effects of the problem
+}}{{Role
+|Role.Name=problem_cause
+|Role.Definition=origin of problem
+}}{{Role
+|Role.Name=severity_of_problem
+|Role.Type=scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Negatively evaluated condition
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Problemas sociales
+|Applicability=English
+}}

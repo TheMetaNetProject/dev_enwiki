@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases=
+|Family=Election metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Game
+|Target frame=Election
+|Mappings={{Mapping
+|Target=candidate1
+|Source=game player1
+}}{{Mapping
+|Target=candidate2
+|Source=game player2
+}}{{Mapping
+|Target=outcome
+|Source=outcome
+}}{{Mapping
+|Target=voting_event
+|Source=game_event
+}}{{Mapping
+|Target=office
+|Source=prize
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Too often it is post mortem head scratching, as if democratic strategists do not realize every candidate is a pawn on the national. chessboard
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

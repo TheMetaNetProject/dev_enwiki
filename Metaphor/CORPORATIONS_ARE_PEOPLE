@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Comments=Particularly relevant in legislature pertaining to the rights of corporations under law.
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Person
+|Target frame=Corporation
+|Mappings={{Mapping
+|Target=corporation
+|Source=person
+}}{{Mapping
+|Target=rights_of_corporation
+|Source=rights_of_person
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

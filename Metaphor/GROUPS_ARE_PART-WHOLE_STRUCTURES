@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GROUPS ARE PART-WHOLE STRUCTURES
+|Metaphor.Alias.Provenance=Metaphor+
+}}
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Part_whole
+|Target frame=Group
+|Mappings={{Mapping
+|Target=group
+|Source=whole
+}}{{Mapping
+|Target=members
+|Source=part
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Earth is part of the group of "terrestrial" planets.
+|Example.Annotation="part" = Part_Whole.part [Source]; "group" = Group.group [Target]
+}}
+|Entered by=Oana, Ellen
+|Status=in development
+|Relevant LUs=
+}}

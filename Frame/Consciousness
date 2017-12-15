@@ -1,0 +1,17 @@
+{{Frame
+|FrameNet frame=Being_awake
+|Comments=This may need to be two frames: awake vs. asleep and a more general understanding of consciousness.
+|Type=Frame
+|Applicability=English
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=conscious_entity
+}}{{Role
+|Role.Name=state_of_consciousness
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

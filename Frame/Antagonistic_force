@@ -1,0 +1,54 @@
+{{Frame
+|Family=Force dynamic frames, Force frames
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Force-application
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bring.v to knees
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keep.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=catch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=turn.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=push.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impede.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overwhelm.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pin.v down by
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bring.v to one's knees
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pin.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=forcible.a
+}}
+|LinkSpanish=Fuerza antagónica
+}}

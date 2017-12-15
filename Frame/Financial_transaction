@@ -1,0 +1,18 @@
+{{Frame
+|Comments=LUs temporarily removed, add back later: pay, buy.
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Name=Reciprocation
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=When A and B enter into a financial transaction, and B does not pay for the received goods or services, B is in debt to / owes A.
+}}{{Inference
+|Inference.Description=Keeping track of what is owed is keeping the books.
+}}
+|Relevant LUs=
+|Applicability=English
+}}

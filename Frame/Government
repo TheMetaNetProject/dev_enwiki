@@ -1,0 +1,112 @@
+{{Frame
+|FrameNet frame=Leadership
+|Comments=A Governing entity (an official government institution) has exclusive legitimate authority to govern the people (governed) who are physically present in a particular geographic region (jurisdiction). The domain of authority includes a broad range of functional domains(governed-activities). For a given region/level of government, it is generally the case that a single 'government' governs that region (e.g. there are not competing state governments within a state).
+|Family=Governance frames, Government frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles={{Role
+|Role.Name=governor
+|Role.Definition=individual, group, or insitution in authority
+|Role.FrameNet role=Leader
+}}{{Role
+|Role.Name=jurisdiction_region
+|Role.Definition=Area of people governed
+}}{{Role
+|Role.Name=governed
+|Role.Definition=people within geographic domain
+|Role.FrameNet role=Governed
+}}{{Role
+|Role.Name=governed_activity
+|Role.Definition=activites within jurisdiction that governor has power over
+}}{{Role
+|Role.Name=governing_powers
+|Role.Definition=amount and/or type of power
+}}{{Role
+|Role.Name=source_of_powers
+}}{{Role
+|Role.Name=governing_actions
+|Role.Definition=actions governor performs
+}}{{Role
+|Role.Name=constraints_on_governing_actions
+|Role.Definition=e.g. Constitution, laws
+}}{{Role
+|Role.Name=legitimacy
+}}{{Role
+|Role.Name=governor_objectives
+|Role.Definition=objectives that governing actions are intended to achieve
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Political region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government institution
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust relationship
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Organization
+}}
+|Bindings={{Binding
+|Binding.Local role=government
+|Binding.Bound role=Authority.authority_entity
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Authority.governed
+}}{{Binding
+|Binding.Local role=jurisdiction
+|Binding.Bound role=Authority.domain_of_authority
+}}{{Binding
+|Binding.Local role=jurisdiction
+|Binding.Bound role=Political region.locale
+}}{{Binding
+|Binding.Local role=government
+|Binding.Bound role=Political region.governing_institution
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Political region.population
+}}{{Binding
+|Binding.Local role=governed_activity
+|Binding.Bound role=Authority.governed_activity
+}}{{Binding
+|Binding.Local role=governing_power
+|Binding.Bound role=Authority.authority_power
+}}{{Binding
+|Binding.Local role=govening_actions
+|Binding.Bound role=Authority.authorized_actions
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Trust relationship.trusting_entity
+}}{{Binding
+|Binding.Local role=government
+|Binding.Bound role=Trust relationship.trusted_entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=government.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=govern.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=congress.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=governmental.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the state.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=governance.n
+}}
+|LinkSpanish=Gobierno
+|LinkPersian=دولت
+|Applicability=English
+}}

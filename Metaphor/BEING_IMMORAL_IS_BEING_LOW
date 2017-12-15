@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Strict father morality metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Verticality
+|Target frame=Morality
+|Mappings={{Mapping
+|Target=immoral_person
+|Source=person_in_low_position
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=MORALITY IS UPRIGHTNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I refuse to stoop to that kind of behavior.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,50 @@
+{{Metaphor
+|Aliases=
+|Comments=Where mathematics comes from (2000)
+|Family=Mathematics Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Subitizing, adding/subtracting objects from collections
+|Source frame=Object Collection
+|Target frame=Arithmetic
+|Mappings={{Mapping
+|Target=numbers
+|Source=object_collections
+}}{{Mapping
+|Target=number_size
+|Source=collection_size
+}}{{Mapping
+|Target=greater
+|Source=bigger
+}}{{Mapping
+|Target=smaller
+|Source=less
+}}{{Mapping
+|Target=one
+|Source=smallest_collection
+}}{{Mapping
+|Target=addition
+|Source=combining_collections
+}}{{Mapping
+|Target=subtraction
+|Source=removing_collection
+|Comment=Taking a smaller collection from a larger collection is subtraction
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MORE IS BIG
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Add sugar to my coffee
+|Example.Provenance=Where Mathematics Comes From, 56
+}}{{Example
+|Example.Language=English
+|Example.Text=Take some books out of the box
+|Example.Provenance=Where Mathematics Comes From, 56
+}}
+|Entered by=Aria
+|Status=in development
+|Investigated for=English
+}}

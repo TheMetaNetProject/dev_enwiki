@@ -1,0 +1,57 @@
+{{Frame
+|Comments=Locative_relation is the closest, but it is too broad to put as a closest frame.
+|Family=Spatial relations,
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=entity1
+|Role.Type=Entity
+}}{{Role
+|Role.Name=entity2
+|Role.Type=Entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximal
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Touching
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=entity1 and entity2 are located such that they touch each other.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=contact.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contact.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swipe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swipe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=touch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=touch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=graze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tap.v
+}}
+|LinkSpanish=Contacto
+|Applicability=English
+}}

@@ -1,0 +1,117 @@
+{{Frame
+|Program alias=Impurity
+|Family=Aversion frames,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impurity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gross.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vile.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stinking.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stink.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stink.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disgusting.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foul.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revolting.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sleaze.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sleazy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slimy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slime.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repulsive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scummy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nasty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=odious.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=filthy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=repugnant.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unclean.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=odious.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disgust.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disgust.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revulsive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scum.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stench.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stinky.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reek.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reek.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smelly.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=malodorous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=putrid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=putrescence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rottenness.n
+}}
+|LinkSpanish=Asquear
+}}

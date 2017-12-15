@@ -1,0 +1,53 @@
+{{Frame
+|FrameNet frame=Organization
+|Other aliases=Social Organization, Organized Social Group
+|Comments=An organization is an intentionally formed human social group of members, with internal structure and various possible relations between memebers.
+|Family=Governance frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Last reviewed by=Ellen, Oana,
+|Roles={{Role
+|Role.Name=organization_whole
+|Role.FrameNet role=Organization
+}}{{Role
+|Role.Name=organization_members
+|Role.Type=Person
+|Role.Definition=set of members
+|Role.FrameNet role=Members
+}}{{Role
+|Role.Name=organizational_structure
+}}{{Role
+|Role.Name=organization_functions
+}}{{Role
+|Role.Name=organization_mission
+}}{{Role
+|Role.Name=organization_roles
+}}{{Role
+|Role.Name=organization_procedures
+}}{{Role
+|Role.Name=organization_physical_assets
+}}{{Role
+|Role.Name=organization_internal_structure
+}}{{Role
+|Role.Name=organization_external_relations
+}}{{Role
+|Role.Name=organization_sub-groups
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social group
+}}
+|Bindings={{Binding
+|Binding.Local role=organization
+|Binding.Bound role=Social group.group_whole
+}}{{Binding
+|Binding.Local role=members
+|Binding.Bound role=Social group.members
+}}
+|Inferences={{Inference
+|Inference.Description=The structure of an organization persists even though actual members change over the course of time.
+}}
+|Relevant LUs=
+|Applicability=English
+}}

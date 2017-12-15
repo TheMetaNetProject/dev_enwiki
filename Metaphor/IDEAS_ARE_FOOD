@@ -1,0 +1,75 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IDEAS ARE FOOD
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=KNOWLEDGE IS FOOD
+}}
+|Comments=Merged with KNOWLEDGE IS FOOD
+|Family=Mind Metaphors, Bodily Functioning Metaphors, Primary Metaphors,
+|Metaphor Type=Primary
+|Source frame=Food
+|Target frame=Idea
+|Mappings={{Mapping
+|Target=idea_self
+|Source=food
+}}{{Mapping
+|Target=idea_cognizer
+|Source=food_consumer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=COGNIZING IS EATING
+|Related metaphor.Description=Covers both ingesting and digesting in the source domain.
+}}{{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=ACQUIRING IDEAS IS EATING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Interest in ideas
+|Entailment.Source inference=Appetite for food
+|Entailment.Entailed metaphors=INTEREST IN IDEAS IS APETITE FOR FOOD
+}}{{Entailment
+|Entailment.Target entailment=Good ideas
+|Entailment.Source inference=Healthful food
+|Entailment.Entailed metaphors=GOOD IDEAS ARE HEALTHFUL FOODS
+}}{{Entailment
+|Entailment.Target entailment=Helpful ideas
+|Entailment.Source inference=Nutritious foods
+|Entailment.Entailed metaphors=HELPFUL IDEAS ARE NUTRITIOUS FOODS
+}}{{Entailment
+|Entailment.Target entailment=Disturbing ideas
+|Entailment.Source inference=Disgusting foods
+|Entailment.Entailed metaphors=DISTURBING IDEAS ARE DISGUSTING FOODS
+}}{{Entailment
+|Entailment.Target entailment=Interesting ideas
+|Entailment.Source inference=Appetizing foods
+|Entailment.Entailed metaphors=INTERESTING IDEAS ARE APPETIZING FOODS
+}}{{Entailment
+|Entailment.Target entailment=Preparing ideas to be understood
+|Entailment.Source inference=Food preparation
+|Entailment.Entailed metaphors=PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION
+}}{{Entailment
+|Entailment.Target entailment=Substantial ideas
+|Entailment.Source inference=Meat
+|Entailment.Entailed metaphors=SUBSTANTIAL IDEAS ARE MEAT
+}}{{Entailment
+|Entailment.Target entailment=Uninteresting ideas
+|Entailment.Source inference=Flavorless food
+|Entailment.Entailed metaphors=UNINTERESTING IDEAS ARE FLAVORLESS FOOD
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This is what happens when science serves up facts more indigestible than evolution. We end up with a society where the masses live in outright ignorance and denial, while the dominant institutions, thanks to market and political expediency, continually reorganize themselves around actionable intelligence as it comes in.
+|Example.Provenance=http://www.tor.com/blogs/2009/11/a-fact-more-indigestible-than-evolution-part-ii
+|Example.Annotation=cognitively unassimilable or ideas are indigestible food
+}}{{Example
+|Example.Language=English
+|Example.Text=Food for thought nust be appetizing. Chemistry students usually can write acceptable exposition if they know good writing is expected
+|Example.Provenance=pubs.acs.org/doi/abs/10.1021/ed055p727
+}}
+|Entered by=Oana
+|Last reviewed by=Eve
+|Status=in development
+|Relevant LUs=
+}}

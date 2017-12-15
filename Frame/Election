@@ -1,0 +1,106 @@
+{{Frame
+|Program alias=ELECTIONS
+|Comments=An election is a decision-making process using VOTING to decide on the identity of an official office-holder in some Institution (often a Government Institution). The Voters are members (adult members...) of the governed population of the relevant Government Institution. Normally there are multiple (at least two) Candidates for an Office. The Outcome of the Voting is a decision about the identity of the office-holder who will fill that institutional function. 
+So links to Institution, Government Institution, and Voting, for sure.
+|Family=Governance frames, Competition frames, Election frames
+|Type=Frame, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=proposed
+|Entered by=Eve
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=voter
+|Role.Type=person
+|Role.Definition=a person who votes in an election
+}}{{Role
+|Role.Name=candidate1
+|Role.Type=person
+|Role.Definition=a person who seeks to gain office via the election
+}}{{Role
+|Role.Name=candidate2
+|Role.Type=person
+|Role.Definition=someone competing with candidate1 for the office
+}}{{Role
+|Role.Name=office
+|Role.Definition=the official function which candidates seek to fill
+}}{{Role
+|Role.Name=outcome
+|Role.Definition=choice of one candidate to fill a given office
+}}{{Role
+|Role.Name=voting_event
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=institution
+|Role.Definition=the official institution which has the function roles
+}}{{Role
+|Role.Name=ballot
+|Role.Definition=means of voter indicating choice
+}}{{Role
+|Role.Name=ballot_counting
+|Role.Type=x-schema
+|Role.Definition=subcase of counting
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Government
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Voting
+|Related frame.Description=voting is the means of choosing the office-holders in an election
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Political competition
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Debating
+}}
+|Bindings={{Binding
+|Binding.Local role=voter
+|Binding.Bound role=Voting.voter
+}}{{Binding
+|Binding.Local role=voting_event
+|Binding.Bound role=Voting.voting_event
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Voting.outcome
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Political competition.outcome
+}}{{Binding
+|Binding.Local role=candidate1
+|Binding.Bound role=Political competition.competitor1
+}}{{Binding
+|Binding.Local role=candidate2
+|Binding.Bound role=Political competition.competitor2
+}}{{Binding
+|Binding.Local role=office
+|Binding.Bound role=Political competition.prize
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=elect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=election.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=electoral.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=electorate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gerrymander.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=electoral.a system.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=election.a
+}}
+|LinkSpanish=Elección
+|LinkPersian=انتخابات
+|Applicability=English
+}}

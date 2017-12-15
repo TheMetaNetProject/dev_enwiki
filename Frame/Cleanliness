@@ -1,0 +1,34 @@
+{{Frame
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Mark,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Purity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=clean.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clean.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=launder.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cleanliness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clean.v up
+}}
+|Applicability=English
+}}

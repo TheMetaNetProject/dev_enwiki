@@ -1,0 +1,19 @@
+{{Frame
+|FrameNet frame=Duration_relation, Process continue
+|Family=Excluded frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=continue.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=persist.v
+}}
+|Applicability=English
+}}

@@ -1,0 +1,62 @@
+{{Frame
+|Family=Physical properties frame family, 
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=firm_entity
+}}{{Role
+|Role.Name=firm_status
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Firmness
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Lax
+}}
+|Bindings={{Binding
+|Binding.Local role=firm_entity
+|Binding.Bound role=Firmness.firmness_entity
+}}{{Binding
+|Binding.Local role=firm_status
+|Binding.Bound role=Firmness.firmness_status
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=firm.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=solid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rigid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unyielding.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hard.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dense.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stiff.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inflexible.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hardened.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compact.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=staunch.a
+}}
+|LinkSpanish=Firme
+|Applicability=English
+}}

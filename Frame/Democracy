@@ -1,0 +1,25 @@
+{{Frame
+|Description=This refers to the very notion of democracy. It is based on the 7 concepts submitted by us to IARPA in January 2014.
+
+This is a macro-concept for the frames it subsumes.
+
+The other 6 are Freedom, Equality, Democratic_institutions, Representation_and_decision-making, Organization_of_power, Citizen_participation
+|Family=Democracy frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=democracy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=democratic.a
+}}
+|LinkSpanish=Democracia
+|LinkPersian=دموکراسی‌
+|Applicability=English
+}}

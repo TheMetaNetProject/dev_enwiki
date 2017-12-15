@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping, tentative
+|Family=Governance metaphors, Function of Government metaphors,
+|Source frame=Game
+|Target frame=Government
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Government should be a referee, not an active player
+|Example.Provenance=Quote frrom Milton Friedman
+}}
+|Entered by=Eve
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|FrameNet frame=Morality_evaluation
+|Family=Morality frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Immorality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=moral
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=morality
+}}
+|Applicability=English
+}}

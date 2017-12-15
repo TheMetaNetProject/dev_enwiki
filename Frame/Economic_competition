@@ -1,0 +1,27 @@
+{{Frame
+|Description=Competition between two entities (which may be people, corporations, countries, etc) over economic resources.
+|Family=Competition frames, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=economic_prize
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Competition
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Limited resource
+}}
+|Bindings={{Binding
+|Binding.Local role=economic_prize
+|Binding.Bound role=Limited resource.resource
+}}{{Binding
+|Binding.Local role=economic_prize
+|Binding.Bound role=Competition.competition_prize
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

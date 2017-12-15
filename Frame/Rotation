@@ -1,0 +1,84 @@
+{{Frame
+|FrameNet frame=Moving_in_place
+|Family=Motion Frames, Movement frames, Internal motion frames, Moving entity frames, 
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=rotate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rotation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spin.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twirl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cycle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cycle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swivel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swivel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whirl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whirl.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pivot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=circle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wheel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roll.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pirouette.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whirligig.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gyre.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gyre.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revolve.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whirl.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whirl.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gyrate.v
+}}
+|Applicability=English
+}}

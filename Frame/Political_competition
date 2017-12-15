@@ -1,0 +1,48 @@
+{{Frame
+|Description=Competition between two or more (groups of) people within a political context.
+|Family=Competition frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=competitor1
+}}{{Role
+|Role.Name=competitor2
+}}{{Role
+|Role.Name=event
+|Role.Definition=e.g. debate or election
+}}{{Role
+|Role.Name=outcome
+|Role.Definition=who wins and who loses
+}}{{Role
+|Role.Name=political_activity_x-schema
+|Role.Definition=actions performed by competitors
+}}{{Role
+|Role.Name=prize
+|Role.Definition=nature of positive outcome for winner
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Competition
+}}
+|Bindings={{Binding
+|Binding.Local role=competitor1
+|Binding.Bound role=Competition.competition_competitor1
+}}{{Binding
+|Binding.Local role=competitor2
+|Binding.Bound role=Competition.competition_competitor2
+}}{{Binding
+|Binding.Local role=event
+|Binding.Bound role=Competition.competition_event
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Competition.competition_outcome
+}}{{Binding
+|Binding.Local role=political_activity_x-schema
+|Binding.Bound role=Competition.competition_x-schema
+}}
+|Inferences=
+|Relevant LUs=
+|LinkPersian=رقابت سیاسی 
+|Applicability=English
+}}

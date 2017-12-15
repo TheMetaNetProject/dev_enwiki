@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Social_group
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=SOCIAL GROUPS ARE COMPLEX STRUCTURES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's about to rock the foundations of the literary establishment with his novel.
+|Example.Provenance=Kovecses 2005 p. 73
+}}{{Example
+|Example.Language=English
+|Example.Text=By early afternoon, queues were already building up.
+|Example.Provenance=Kovecses 2005 p. 73
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

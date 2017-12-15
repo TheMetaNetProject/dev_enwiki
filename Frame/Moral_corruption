@@ -1,0 +1,17 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Corruption
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Immoral action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

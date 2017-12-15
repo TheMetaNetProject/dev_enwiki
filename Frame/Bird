@@ -1,0 +1,51 @@
+{{Frame
+|Comments=Do not delete!
+We need some of these LUs. We may re-assign them later.
+Also, each of these LUs will be relevant for various source domain inferences (life cycle, speed, etc).
+|Family=Entity frames, Natural process frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animate entity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=fledgling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chick.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bird.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=beak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=talon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=feather.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=egg.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wings.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hatch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=full-fledged.a
+}}
+|LinkSpanish=Pájaro
+|Applicability=English
+}}

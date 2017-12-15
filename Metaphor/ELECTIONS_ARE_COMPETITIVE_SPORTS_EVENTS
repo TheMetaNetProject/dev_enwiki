@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors, Election metaphors,
+|Source frame=Competitive sport
+|Target frame=Election
+|Mappings={{Mapping
+|Target=candidate1
+|Source=competitor1
+}}{{Mapping
+|Target=candidate2
+|Source=competitor2
+}}{{Mapping
+|Target=office
+|Source=prize
+}}{{Mapping
+|Target=outcome
+|Source=outcome
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ELECTION IS A GAME
+}}
+|Entailments=
+|Examples=
+|Entered by=Eve
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

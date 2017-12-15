@@ -1,0 +1,67 @@
+{{Frame
+|Family=Concealment/Protection frames, Protecting frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contact
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Protecting
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=buffer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=buffer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cushion.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cushion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bulwark.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bumper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=safeguard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=screen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=screen.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shield.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shield.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shock absorber.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fender.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fend.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=armor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=armor.v
+}}
+|LinkSpanish=Proteger
+|Applicability=English
+}}

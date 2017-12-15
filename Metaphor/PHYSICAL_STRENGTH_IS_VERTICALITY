@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PHYSICAL STRENGTH IS VERTICALITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STRENGTH IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=STRONG IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=PHYSICAL STRENGTH IS UP
+}}
+|Tags=orientational, 
+|Family=Orientational Metaphors
+|Source frame=Verticality
+|Target frame=Physical_strength
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=His strength declined as he aged.
+|Example.Provenance=Elise
+|Example.Comments=example of LESS PHYSICAL STRENGTH IS DOWN
+}}
+|Entered by=Oana, Elise,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

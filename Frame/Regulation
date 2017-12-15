@@ -1,0 +1,50 @@
+{{Frame
+|Comments=Based on the associated metaphors, "Regulation" seems to be referring specifically to governmental regulation (i.e., regulation by the government). The associated Spanish frame name captures this more specific meaning.
+|Family=Regulations frames
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Last reviewed by=Oana, 
+|Roles={{Role
+|Role.Name=regulator
+|Role.Type=entity
+}}{{Role
+|Role.Name=regulatee
+|Role.Type=entity
+|Role.Definition=(those affected by the regulation, and those observing it)
+}}{{Role
+|Role.Name=regulating_procedure
+}}{{Role
+|Role.Name=regulation_rules
+}}{{Role
+|Role.Name=regulation_target
+|Role.Definition=(what is being regulated)
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulatory.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=regulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=directive.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rule.n
+}}
+|LinkSpanish=Reglamentos gubernamentales
+|Applicability=English
+}}

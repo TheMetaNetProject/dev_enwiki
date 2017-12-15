@@ -1,0 +1,30 @@
+{{Frame
+|Family=Vehicle frames, Mover-specific movement frames, Moving entity frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Driving a vehicle
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Boat
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=steer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=helm.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pilot.v
+}}
+|Applicability=English
+}}

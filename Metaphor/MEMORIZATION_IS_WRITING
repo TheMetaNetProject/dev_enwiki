@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Mind Metaphors, Thought as Language Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Writing
+|Target frame=Memorization
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=THINKING IS LINGUISTIC ACTIVITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Let me make a mental note of that.
+}}{{Example
+|Example.Language=English
+|Example.Text=It's imprinted in my mind forever.
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

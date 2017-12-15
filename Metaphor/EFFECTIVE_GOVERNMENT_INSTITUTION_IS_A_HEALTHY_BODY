@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Government institution metaphors
+|Metaphor Type=Entailed
+|Source frame=Body
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A BODY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Like some it is supposed to serve, Massachusetts government has become flabby.
+|Example.Provenance=http://www.csmonitor.com/1988/0520/amerc20.html
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

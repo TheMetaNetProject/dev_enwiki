@@ -1,0 +1,64 @@
+{{Frame
+|Family=Morality frames, Zealotry Insanity Worship frame family, 
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=deity
+}}{{Role
+|Role.Name=believer
+}}{{Role
+|Role.Name=deity_power
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Moral authority
+}}
+|Bindings={{Binding
+|Binding.Local role=deity
+|Binding.Bound role=Moral authority.moral_authority_entity
+}}{{Binding
+|Binding.Local role=believer
+|Binding.Bound role=Moral authority.moral_authority_obeyer
+}}{{Binding
+|Binding.Local role=deity_power
+|Binding.Bound role=Moral authority.moral_authority_power
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=deity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=god.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=idol.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=goddess.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divine being
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divinity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=demi-god.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=almighty
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pantheon
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divine.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sacred.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=holy.a
+}}
+|Applicability=English
+}}

@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS VERTICALITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=CONTROL IS UP
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=DEGREE OF CONTROL IS VERTICALITY
+}}
+|Tags=orientational,
+|Family=Orientational Metaphors, Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Control
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Having control over someone
+|Entailment.Source inference=High point on a vertical scale
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=CONTROL IS UP
+}}{{Entailment
+|Entailment.Target entailment=Being controlled by someone
+|Entailment.Source inference=Low point on a vertical scale
+|Entailment.Entailed metaphors=SUBJUGATION IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Report to your superiors for duty.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's the low man on the totem pole.
+}}{{Example
+|Example.Language=English
+|Example.Text=Napoleon's skill at the siege of Toulon while only an artillery captain under General Jacques Dugommier was to start Napoleon on the path of greatness; a rise to power that was to be incredibly rapid.
+|Example.Provenance=http://www.historyofwar.org/articles/people_napoleon.html
+}}{{Example
+|Example.Language=English
+|Example.Text=Relax. We've got everything under control.
+|Example.Provenance=Back to the Future: The Game (http://www.imdb.com/character/ch0001831/quotes)
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Relevant LUs=
+}}

@@ -1,0 +1,42 @@
+{{Frame
+|Description=Fluid is in container
+|Family=Impediment and enablement frames,
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=fluid
+|Role.Type=Liquid
+}}{{Role
+|Role.Name=fluid_level
+}}{{Role
+|Role.Name=container
+}}{{Role
+|Role.Name=container_capacity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Liquid
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Release liquid
+}}
+|Bindings={{Binding
+|Binding.Local role=fluid
+|Binding.Bound role=Containing.contents
+}}{{Binding
+|Binding.Local role=container
+|Binding.Bound role=Containing.container
+}}{{Binding
+|Binding.Local role=container_capacity
+|Binding.Bound role=Containing.container_capacity
+}}{{Binding
+|Binding.Local role=fluid_level
+|Binding.Bound role=Containing.fullness_degree
+}}
+|Inferences=
+|Relevant LUs=
+}}

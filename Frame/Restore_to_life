@@ -1,0 +1,132 @@
+{{Frame
+|Description=intermediate phase/process that inhibits Death process, or final phase/process that may occur after Death process
+|Family=Natural process frames
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=life_restorer
+|Role.Definition=entity that restores life of life_liver
+}}{{Role
+|Role.Name=life_liver
+|Role.Definition=entity whose life is restored
+}}{{Role
+|Role.Name=restorative_cause
+}}{{Role
+|Role.Name=restorative_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Life cycle
+}}{{Related frame
+|Related frame.Name=Death
+}}{{Related frame
+|Related frame.Name=Life
+}}{{Related frame
+|Related frame.Name=Living
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Caused change of state
+}}
+|Bindings={{Binding
+|Binding.Local role=life_liver
+|Binding.Bound role=Biological entity
+}}{{Binding
+|Binding.Local role=life_liver
+|Binding.Bound role=Life cycle.life_liver
+}}{{Binding
+|Binding.Local role=life_liver
+|Binding.Bound role=Life.life_liver
+}}{{Binding
+|Binding.Local role=life_liver
+|Binding.Bound role=Living.living_protagonist
+}}{{Binding
+|Binding.Local role=life_liver
+|Binding.Bound role=Caused change of state.affected
+}}{{Binding
+|Binding.Local role=life_restorer
+|Binding.Bound role=Caused change of state.agent
+}}{{Binding
+|Binding.Local role=restorative_cause
+|Binding.Bound role=Caused change of state.cause
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=revive.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revitalize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resuscitate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revivify.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resurrect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=re-energize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breathe.v new life into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rejuvenate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reinvigorate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restoration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rejuvenation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revival.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resuscitation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revitalization.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revivification.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restore.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enliven.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resurrection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breathe.v life into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resuscitate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=resuscitation.n
+}}
+|LinkSpanish=Restaurar a la vida
+|Applicability=English
+}}
+renew.v
+stimulate.v
+regenerate.v --> self-restoration 
+stimulation.n
+renewal.n
+rehabilitate.v
+revamp.v
+rekindle.v
+relaunch.v

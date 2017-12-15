@@ -1,0 +1,53 @@
+{{Frame
+|Family=Social Class frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=social_class_scale
+}}{{Role
+|Role.Name=person_in_social_class
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=social class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upper class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lower class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=underclass
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=middle class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=working class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=working-class
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the haves
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the have-nots
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the haves and the have-nots
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=have-nots
+}}
+|LinkSpanish=Clase social
+|Applicability=English
+}}

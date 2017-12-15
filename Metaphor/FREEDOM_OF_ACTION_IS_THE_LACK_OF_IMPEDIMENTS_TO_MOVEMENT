@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Family=Event Structure Metaphor, Location Event Structure Metaphor, Action is Motion metaphors,
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Physical impediments to motion
+|Target frame=Freedom of action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ACTION IS MOTION ALONG A PATH
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=freedom to act
+|Entailment.Source inference=lack of containment enables mover to move in many directions
+|Entailment.Type=x-schema condition
+}}{{Entailment
+|Entailment.Target entailment=freedom to act
+|Entailment.Source inference=lack of restraints makes it easier for mover to move
+|Entailment.Type=x-schema condition
+}}{{Entailment
+|Entailment.Target entailment=freedom to act and achieve objectives
+|Entailment.Source inference=lack of barriers on path makes it possible for mover to move along path to goal
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Break out of your daily routine.
+|Example.Provenance=PITF p.188
+|Example.Comments=condition = containment
+}}{{Example
+|Example.Text=Workers of the world throw off your chains!
+|Example.Provenance=PITF p.188
+|Example.Comments=condition = restraint
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

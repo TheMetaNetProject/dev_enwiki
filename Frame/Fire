@@ -1,0 +1,110 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=fire
+}}{{Role
+|Role.Name=fire_intensity
+}}{{Role
+|Role.Name=burning_object
+|Role.Definition=thing on fire
+}}{{Role
+|Role.Name=cause_of_fire
+}}{{Role
+|Role.Name=nearby_objects
+}}{{Role
+|Role.Name=fire_duration
+}}{{Role
+|Role.Name=burning_object_condition
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The cause_of_fire causes fire to the burning_object which will eventually alter the burning_object_condition from its canonical to consumed state.
+}}{{Inference
+|Inference.Description=If fire_intensity is high, it will take less fire_duration for the burning_object to be consumed (burning_object_condition).
+}}{{Inference
+|Inference.Description=Putting out a fire is carried out with a non-flammable liquid. This inference leads to fruitful linguistic metaphors in Zulu but not so much in English (Kovecses 2005:127).
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=fire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blaze.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inferno.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wildfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flame.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conflagration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=campfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bonfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pyre.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ember.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spark.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smolder.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blaze.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combust.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combustion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=char.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scorch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=incinerate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burn.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burn.v to the ground.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spark.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ignite.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fan.v the flame.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=light.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=set.v on fire
+}}
+|Applicability=English
+}}

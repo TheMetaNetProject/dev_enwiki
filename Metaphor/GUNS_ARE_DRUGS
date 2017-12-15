@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=A GUN IS A DRUG
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GUNS ARE DRUGS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GUNS ARE AN ADDICTIVE SUBSTANCE
+}}
+|Family=Gun debate metaphors,
+|Cultural scope=American progressive
+|Source frame=Addiction
+|Target frame=Personal weapon
+|Mappings={{Mapping
+|Target=weapon
+|Source=addicting_thing
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GUNS ARE TARGETS OF PSYCHOLOGICAL FIXATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The primary reason Americans are addicted to guns is due to the National Rifle Association's very effective — and immoral — campaign to instill fear into the heart of our citizens, which has paralyzed the soul of America.
+|Example.Provenance=http://www.commercialappeal.com/lifestyle/faith-in-memphis-panel-in-god-or-guns-we-trust
+|Example.Annotation="Americans are addicted to guns"
+}}
+|Entered by=Karie,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+}}

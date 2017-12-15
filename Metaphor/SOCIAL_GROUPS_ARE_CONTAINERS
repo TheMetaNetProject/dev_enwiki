@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SOCIAL GROUPS ARE CONTAINERS
+|Metaphor.Alias.Provenance=Metaphor+
+}}
+|Family=Social Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Containment
+|Target frame=Social_group
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=SOCIAL GROUP IS A BOUNDED REGION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our circle of friends is quite diverse.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's hasn't penetrated that group.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

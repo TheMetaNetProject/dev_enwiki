@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Rights metaphors,
+|Metaphor Level=General
+|Cultural scope=American English
+|Source frame=Territory
+|Target frame=Rights
+|Mappings={{Mapping
+|Target=right
+|Source=territory_whole
+}}{{Mapping
+|Target=rights_holder
+|Source=owner
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+}}

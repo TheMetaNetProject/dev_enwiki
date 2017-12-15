@@ -1,0 +1,61 @@
+{{Frame
+|Family=Bounding,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=edge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=margin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=outline.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boundary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contour.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brink.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=circumference.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perimeter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rim.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=verge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=limit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shore.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fringe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=borderline.n
+}}
+|LinkSpanish=Borde
+|Applicability=English
+}}

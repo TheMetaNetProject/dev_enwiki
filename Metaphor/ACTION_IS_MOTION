@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOTION
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS MOVEMENT
+}}
+|Comments=What is the appropriate Source frame here?  We are currently using a very general Motion frame (mover could be any type of entity, motion is not necessarily controlled by the mover).  But, is the motion here actually 'animate motion' (i.e. mover is also an actor), with the experiential correlation that most (volitional) actions also involve (volitional) self-initiated/controlled motion?
+
+Cultural scope checked for Persian--Aria
+|Family=Event Structure Metaphor, Action is Motion metaphors, Location Event Structure Metaphor, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Cultural scope=American English, Persian
+|Source frame=Motion
+|Target frame=Action
+|Mappings={{Mapping
+|Target=actor
+|Source=mover
+}}{{Mapping
+|Target=action_x-schema
+|Source=motion_x-schema
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This computer program turns the power on and off.
+}}
+|Entered by=Oana,
+|Status=in development
+|LinkPersian=گام برداشتن، انجام کار است
+|Investigated for=English
+}}

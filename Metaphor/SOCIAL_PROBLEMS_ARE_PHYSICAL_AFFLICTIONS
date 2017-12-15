@@ -1,0 +1,63 @@
+{{Metaphor
+|Aliases=
+|Description=e.g., "Poverty is a cancer"
+This  may need to have the examples taken out and put in the POVERTY-specific metaphor.
+|Tags=Program sources
+|Family=Poverty metaphors, Physical afflictions metaphors, Social problems metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Physical affliction
+|Target frame=Social problems
+|Mappings={{Mapping
+|Target=society
+|Source=patient
+}}{{Mapping
+|Target=social_problem
+|Source=affliction
+}}{{Mapping
+|Target=result_of_problem
+|Source=symptoms
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SOCIETY IS A PERSON
+|Related metaphor.Description=societies have social problems and people have physical problems
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=SOCIAL FUNCTIONING IS PHYSICAL HEALTH
+|Related metaphor.Description=a properly functioning society is a properly functioning person
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NEGATIVELY EVALUATED CONDITIONS ARE HARMFUL AGENTS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=analyzing the cause, scope, etc of the social problem
+|Entailment.Source inference=diagnosing the physical affliction
+|Entailment.Entailed metaphors=ANALYSIS OF SOCIAL PROBLEMS IS DIAGNOSIS OF AFFLICTION
+}}{{Entailment
+|Entailment.Target entailment=addressing a social problem should improve society's function
+|Entailment.Source inference=treating an illness should improve physical health
+|Entailment.Entailed metaphors=ADDRESSING SOCIAL PROBLEMS IS TREATING A PHYSICAL AFFLICTION
+}}{{Entailment
+|Entailment.Target entailment=eliminating social problem restores social functioning
+|Entailment.Source inference=curing affliction restores person to health
+|Entailment.Entailed metaphors=ELIMINATING SOCIAL PROBLEMS IS SUCCESSFULLY TREATING A PHYSICAL AFFLICTION
+}}{{Entailment
+|Entailment.Target entailment=extent of social problem
+|Entailment.Source inference=extent of affliction
+|Entailment.Entailed metaphors=EXTENT OF SOCIAL PROBLEMS IS EXTENT OF AFFLICTION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=A cure for social ills? Prevention
+|Example.Provenance=http://seattletimes.com/html/localnews/2020149201_jerrycolumn17xml.html
+}}{{Example
+|Example.Language=English
+|Example.Text=UW researcher is a leader in showing how prevention techniques can pay off in curing social problems.
+|Example.Provenance=http://seattletimes.com/html/localnews/2020149201_jerrycolumn17xml.html
+}}
+|Entered by=metabot, Oana,
+|Last reviewed by=Ellen, Elise
+|Status=in development, auto imported, release candidate
+|LinkSpanish=PROBLEMAS SOCIALES SON AFLICCIONES FÍSICAS
+}}

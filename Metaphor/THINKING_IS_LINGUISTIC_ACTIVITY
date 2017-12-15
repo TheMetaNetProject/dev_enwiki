@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=THINKING IS LINGUISTIC ACTIVITY
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=244
+}}
+|Family=Mind Metaphors, Thought as Language Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Linguistic_activity
+|Target frame=Cognizing
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MEMORIZATION IS WRITING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=THINKING IS SPEAKING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I can't read her mind.
+|Example.Provenance=PITF: p. 244
+}}{{Example
+|Example.Language=English
+|Example.Text=I misread his intentions.
+|Example.Provenance=PITF: p. 244
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

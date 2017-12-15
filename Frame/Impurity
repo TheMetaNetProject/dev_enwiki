@@ -1,0 +1,55 @@
+{{Frame
+|Family=Aversion frames
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Purity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=dirty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impure.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impurity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contaminate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=contaminated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=filth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taint.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taint.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sully.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tarnish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unclean.a
+}}
+|LinkSpanish=Impureza
+}}

@@ -1,0 +1,74 @@
+{{Frame
+|FrameNet frame=Transfer_scenario, Transfer
+|Other aliases=Object transfer
+|Comments=There used to also be an Object_transfer frame (in addition to Gain_possession and Lose_possession). It was unclear how that differed from Transfer_scenario. Object_transfer was deleted, and its LUs are here now. If needed, it can be brought back. It was causing too much confusion. (Oana)
+|Family=Possession Frames
+|Type=Cog
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=transferor
+|Role.FrameNet role=Donor
+}}{{Role
+|Role.Name=transfer_recipient
+|Role.FrameNet role=Recipient
+}}{{Role
+|Role.Name=transferred_object
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=transferor_process
+|Role.Type=Lose_possession
+|Role.Definition=giving
+}}{{Role
+|Role.Name=transfer_recipient_process
+|Role.Type=Gain_possession
+|Role.Definition=getting
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gain possession
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Lose possession
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex process
+}}
+|Bindings={{Binding
+|Binding.Local role=transferor
+|Binding.Bound role=Lose_possession.donor
+}}{{Binding
+|Binding.Local role=transfer_recipient
+|Binding.Bound role=Gain_possession.recipient
+}}{{Binding
+|Binding.Local role=transferred_object
+|Binding.Bound role=Lose_possession.possession
+}}{{Binding
+|Binding.Local role=transferred_object
+|Binding.Bound role=Gain_possession.possession
+}}{{Binding
+|Binding.Local role=transferor_process
+|Binding.Bound role=Lose_possession
+}}{{Binding
+|Binding.Local role=transferor_process
+|Binding.Bound role=Complex_process.process1
+}}{{Binding
+|Binding.Local role=transfer_recipient_process
+|Binding.Bound role=Gain_possession
+}}{{Binding
+|Binding.Local role=transfer_recipient_process
+|Binding.Bound role=Complex_process.process2
+}}
+|Inferences={{Inference
+|Inference.Description=At initial stage, transferor has object and recipient does not.
+}}{{Inference
+|Inference.Description=At final stage, recipient has object and transferor does not
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=transfer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=transfer.n
+}}
+}}

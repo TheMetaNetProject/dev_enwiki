@@ -1,0 +1,53 @@
+{{Frame
+|Comments=Instead of having an individual Parent frame, it may be better to define this as a role within one or more Family frames (e.g. Family, nuclear).  If we do want to keep this frame, we could have a 'parental duties/responsibilities' role, but shouldn't list LUs for each of these duties within this frame (e.g. provide, protect).
+|Family=Morality frames,
+|Type=Frame
+|Status=in development
+|Last reviewed by=Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Responsibility
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Family
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=parent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mother.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=father.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mom.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dad.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mommy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=daddy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=take.v care
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=baby.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nurture.v
+}}
+|Applicability=English
+}}
+Removed LU's that were too general for this frame, e.g. protect, provide, feed, and care. -- Ellen

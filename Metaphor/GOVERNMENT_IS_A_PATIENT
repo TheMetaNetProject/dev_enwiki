@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Health treatment
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The government is infected with corruption.
+}}{{Example
+|Example.Language=English
+|Example.Text=We must cure our ailing democracy with an infusion of new politicians.
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

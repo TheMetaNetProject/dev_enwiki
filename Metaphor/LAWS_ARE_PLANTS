@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Plants
+|Target frame=Law
+|Mappings={{Mapping
+|Target=law
+|Source=plant_entity
+}}{{Mapping
+|Target=legal_actions
+|Source=plant_attributes
+}}{{Mapping
+|Target=law_creator
+|Source=plant_nourishment
+}}{{Mapping
+|Target=jurisdiction
+|Source=plant_size
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=LAWS ARE LIVING ENTITIES
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=CREATING A LAW IS GROWING A PLANT
+}}{{Entailment
+|Entailment.Entailed metaphors=REFINING A LAW IS TRIMMING A PLANT
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Out of these discussions will grow legislation of farreaching importance.
+|Example.Provenance=The National Humane Review, Volumes 7-8, p.170
+}}
+|Entered by=Eve
+|Last reviewed by=Eve, Oana
+|Status=in development
+|Investigated for=English
+}}
+This is certainly not pervasive.  MAYBE PRUNE?  Eve

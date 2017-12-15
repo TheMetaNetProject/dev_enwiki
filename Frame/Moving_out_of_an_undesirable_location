@@ -1,0 +1,35 @@
+{{Frame
+|FrameNet frame=Escaping
+|Comments=Might change this to 'Moving away from an undesirable location', and change subcase relation as well.
+|Family=Motion Frames, Movement frames, Directional movement frames, Location frames, Translational motion frames, Moving entity frames, 
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion out of a location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=escape.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dig.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flee.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get.v out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=escape.n
+}}
+|LinkSpanish=Salir de un lugar indeseable
+}}

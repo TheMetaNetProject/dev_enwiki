@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RIGHTS ARE SHIELDS FROM HARM
+}}
+|Tags=tentative
+|Family=Governance metaphors, Democracy metaphors, Rights metaphors, Harm metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Protecting
+|Target frame=Citizen rights
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=RIGHTS ARE SHIELDS FROM HARM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do gun rights protect against tyranny?
+|Example.Provenance=http://www.csmonitor.com/USA/Justice/2010/0304/Behind-Supreme-Court-case-Do-gun-rights-protect-against-tyranny
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,24 @@
+{{Frame
+|Comments=do we really need this?
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot, 
+|Last reviewed by=Elise, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Differences in distance
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=canyon
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gulf
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chasm
+}}
+}}

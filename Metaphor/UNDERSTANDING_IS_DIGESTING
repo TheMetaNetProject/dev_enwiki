@@ -1,0 +1,36 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=FULLY COMPREHENDING IS DIGESTING
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=241
+}}
+|Family=Mind Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Digestion
+|Target frame=Understanding
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COMMUNICATING IS FEEDING
+|Related metaphor.Description=Opposite perspectives on the same source domain activity.
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=THINKING OVER IS CHEWING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ACQUIRING IDEAS IS EATING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I haven't fully digested the main gist of that paper.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

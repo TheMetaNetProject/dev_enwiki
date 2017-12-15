@@ -1,0 +1,62 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=STATUS IS VERTICALITY
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=HIGH STATUS IS UP
+}}
+|Tags=orientational
+|Family=Social Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Status is correlated with social power and physical power is correlated with verticality.
+|Source frame=Verticality
+|Target frame=Status
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=CONTROL IS VERTICALITY
+|Related metaphor.Description=Target conflation?
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+|Related metaphor.Description=An increase or decrease of status is upwards or downwards movement.
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=STATES ARE LOCATIONS
+|Related metaphor.Description=Status is location on a vertical scale.
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=An increase in status
+|Entailment.Source inference=Higher point(s) along a vertical scale
+|Entailment.Type=Scalar
+|Entailment.Entailed metaphors=HIGH STATUS IS UP
+}}{{Entailment
+|Entailment.Target entailment=A decrease in status
+|Entailment.Source inference=Lower point(s) along a vertical scale
+|Entailment.Type=Scalar
+|Entailment.Entailed metaphors=LOW STATUS IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He has a lofty position.
+|Example.Provenance=Metaphors We Live By (16)
+}}{{Example
+|Example.Language=English
+|Example.Text=She fell in status.
+|Example.Provenance=Metaphors We Live By (16)
+}}{{Example
+|Example.Language=English
+|Example.Text=He's a social climber.
+|Example.Provenance=Grady 1998:114
+}}{{Example
+|Example.Language=English
+|Example.Text=I reached a plateau in my career some years back.
+|Example.Provenance=Grady 1998:114
+}}
+|Entered by=Elise
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

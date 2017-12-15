@@ -1,0 +1,131 @@
+{{Frame
+|Comments=This is a generic frame that captures all kinds of impediments, whether they are obstacles in one's way, restraints, barriers, etc. This frame is unspecified as to the type of impediment. 
+
+It is also unspecified for type of motion (so not necessarily motion along a path). There was another frame called Difficulties_in_reaching_a_destination which was specified for the type of motion, namely Motion_along_a_path. However this was deleted for now. It can be recreated again in the future if necessary.
+
+It has other special cases, specialized by type of impediment.
+
+Its opposite is Enablement.
+|Family=Impediment and enablement frames, Motion impediments frames
+|Type=Cog, Composed
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana, Elise,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=impediment
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Motion
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Impediment to motion
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion.mover
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cripple.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keep.v from
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=block.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=block.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keep.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restrain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blanket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plow.v under
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deflect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deflection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captive.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=capture.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=captivity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=detain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=detainee.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=detainment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hamper.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stood in the way
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stand.v in the way
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=halt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=curb.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rein.v in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold-up.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=interfere.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=interference.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immobilize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=render.v motionless
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bring.v to a standstill
+}}
+|LinkSpanish=Impedimentos de movimiento
+|Applicability=English
+}}

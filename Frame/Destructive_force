@@ -1,0 +1,18 @@
+{{Frame
+|Family=Harm, Damage, Force dynamic frames, Harmful encounters frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Force
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=destructive.a
+}}
+|Applicability=English
+}}

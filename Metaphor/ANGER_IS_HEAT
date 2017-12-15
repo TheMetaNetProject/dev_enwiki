@@ -1,0 +1,49 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ANGER IS HEAT
+|Metaphor.Alias.Provenance=Women Fire and Dangerous Things
+|Metaphor.Alias.Page no=p. 383
+}}
+|Comments=The most general metaphor for anger.
+
+Cultural scope checked for Persian--Aria
+|Family=Anger Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Feeling hot when you are angry
+|Cultural scope=American English, Persian
+|Source frame=Heat
+|Target frame=Anger
+|Mappings={{Mapping
+|Target=anger_level
+|Source=heat_level
+}}{{Mapping
+|Target=anger_x-schema
+|Source=heat_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=EMOTIONAL INTENSITY IS TEMPERATURE
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=PASSION IS HEAT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Increasing or intensifying anger
+|Entailment.Source inference=Increase in heat over time
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He has a hot temper.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's burning with rage.
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|LinkSpanish=ENOJO ES CALOR
+|LinkPersian=عصبانیت، حرارت است
+|Investigated for=English
+|Relevant LUs=
+}}

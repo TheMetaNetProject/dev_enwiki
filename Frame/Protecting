@@ -1,0 +1,74 @@
+{{Frame
+|FrameNet frame=Protecting
+|Family=Concealment/Protection frames, Protecting frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=protected_thing
+}}{{Role
+|Role.Name=means_of_protection
+}}{{Role
+|Role.Name=threatening_thing
+|Role.Definition=source of potential harm to protected thing
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Harm
+}}
+|Bindings={{Binding
+|Binding.Local role=threatening_thing
+|Binding.Bound role=Harm.cause
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=protect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=protection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foster.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=look out for.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=look after.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=safeguard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=safeguard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shelter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shelter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sanctuary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harbor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=harbor.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=security blanket.n
+}}
+|LinkSpanish=Proteger
+|Applicability=English
+}}

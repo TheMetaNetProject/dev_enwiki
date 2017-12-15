@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=OPPORTUNITIES ARE POSSESSIONS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=OPPORTUNITIES ARE RESOURCES
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Comments=We may want to distinguish amongst these source domains. (Oana)
+|Family=Grady Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Object
+|Target frame=Opportunities
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We've got plenty of chances left.
+|Example.Provenance=Grady (1998)
+}}{{Example
+|Example.Language=English
+|Example.Text=I've squandered every opportunity to advance my career.
+|Example.Provenance=Grady (1998)
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,47 @@
+{{Frame
+|Family=Entity frames, Physical properties frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Fit
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Loose fit
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=tight.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tighten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strict.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=taut.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cramped.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compact.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=narrow.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stiff.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=snug.a
+}}{{LUs
+|LUs.Language=English
+}}
+|Applicability=English
+}}

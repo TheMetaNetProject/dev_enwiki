@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=EASE OF ACTION IS EASE OF MOTION ALONG A PATH
+}}
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Motion along a path
+|Target frame=Action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It is smooth sailing from here on in in the application process.
+|Example.Comments=Ease of action is owed to one inference of the sailing frame, namely the "smoothness" of the water surface and it resulting in a lack of turbulance during sailing. A specific metaphor is needed involving a specific sailing frame.
+}}{{Example
+|Example.Language=English
+|Example.Text=It's all downhill for the rest of the course.
+|Example.Comments=Ease of motion is owed to ease of human exertion given an incline. A specific metaphor intervenes here, drawing in the hill_climbing frame.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

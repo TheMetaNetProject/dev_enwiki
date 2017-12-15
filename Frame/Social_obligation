@@ -1,0 +1,24 @@
+{{Frame
+|Other aliases=Obligation
+|Comments=All obligation is social (even obligation to yourself, metaphorically, or with God).
+|Family=Action frames, Social frames,
+|Type=Frame
+|Cultural scope=American English
+|Entered by=MetaNet group,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Purposeful action
+|Related frame.Description=(actually 'incorporates as role' relation, but not created yet)
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Responsibility
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=obligation.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|FrameNet frame=Choosing
+|Comments=Selecting something from a range of options.
+|Family=Cognition Frames
+|Type=Primary
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=selector
+}}{{Role
+|Role.Name=options
+}}{{Role
+|Role.Name=selected_option
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cognizing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

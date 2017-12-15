@@ -1,0 +1,59 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Bodily functioning
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Liquid
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=blood.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bleeding.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bleed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hemorrhage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=circulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=circulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exsanguinate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloodletting
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exsanguination
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloodloss
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=artery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vein.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pulse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=staunch.v
+}}
+|Applicability=English
+}}

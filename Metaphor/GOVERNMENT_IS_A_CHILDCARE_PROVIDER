@@ -1,0 +1,56 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A NANNY
+}}
+|Family=Governance metaphors, Function of Government metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Child care
+|Target frame=Government
+|Mappings={{Mapping
+|Target=governor
+|Source=childcare_provider
+}}{{Mapping
+|Target=governed
+|Source=child(ren)
+}}{{Mapping
+|Target=governing_actions
+|Source=childcare_duties
+}}{{Mapping
+|Target=governor_objectives
+|Source=childcare_objectives
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS A PERSON
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GOVERNMENT IS A PARENT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Government has control over what the citizens can or cannot do
+|Entailment.Source inference=Childcare provider has control over what the children can or cannot do
+|Entailment.Type=control
+}}{{Entailment
+|Entailment.Target entailment=Government's responsibility is to ensure the health, safety and well-being of the citizens
+|Entailment.Source inference=Childcare provider's duties are to ensure the health, safety, and well-being of the children.
+|Entailment.Type=responsibility
+}}{{Entailment
+|Entailment.Target entailment=The citizens are not capable of taking care of themselves without the help of the government
+|Entailment.Source inference=Children are not capable of taking care of themselves without the help of a childcare provider.
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.
+|Example.Provenance=Comment on gothamist.com.  http://gothamist.com/2004/09/01/republican_notes_day_2_notes.php.  accessed 12/4/12.
+}}{{Example
+|Example.Language=English
+|Example.Text=Can I decide what size soda I want to drink? No, that’s the nanny state’s job.
+|Example.Provenance=article: "The Nanny State Comes to Stuyvesant" by David Cahn, 10/13/12.  http://stuyspectator.com/2012/10/03/the-nanny-state-comes-to-stuyvesant/  Accessed 12/4/12
+}}
+|Entered by=Ellen
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ЭТО ПОСТАВЩИК ОХРАНЫ ДЕТСТВА
+|Investigated for=English
+}}

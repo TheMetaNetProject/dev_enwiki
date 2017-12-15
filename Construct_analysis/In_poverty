@@ -1,0 +1,27 @@
+{{Construct analysis
+|text=in poverty
+|Entered by=Oana
+|Last reviewed by=Ellen
+|Status=in development
+|construction=Locative-PP
+|frames=Trajector landmark, Bounded region
+|cxncomments=Locative-PP cxn meaning is Trajector landmark.  In addition, since it binds its meaning to that of its preposition constituent, the construct 'in poverty' also utilizes the Bounded region frame (which is part of the meaning of 'in').  
+
+Locative-PP also binds the meaning of its NP constituent to the landmark role of Trajector landmark.
+|constituents={{CA constituent
+|constituent.string=in
+|constituent.cxn=In
+|constituent.frames=In, Trajector landmark, Bounded region
+}}{{CA constituent
+|constituent.string=poverty
+|constituent.cxn=NP
+|constituent.frames=Poverty
+}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor
+|metaphor.metaphor=STATES ARE LOCATIONS
+|metaphor.evokingsourceelements=in
+|metaphor.evokingtargetelements=poverty
+}}
+|examples=
+}}

@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIME IS MONEY
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Time Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Money
+|Target frame=Time
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIME IS A RESOURCE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We spent all day at the fair.
+|Example.Provenance=Elise
+}}{{Example
+|Example.Language=English
+|Example.Text=Time-theft
+}}
+|Entered by=Behrang, Elise
+|Status=in development
+|Investigated for=English, Persian
+|Relevant LUs=
+}}

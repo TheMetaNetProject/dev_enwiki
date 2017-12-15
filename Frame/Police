@@ -1,0 +1,30 @@
+{{Frame
+|Other aliases=Law Enforcement
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=police.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=police.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=policeman.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=law enforcement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=patrol.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=patrol.v
+}}
+|Applicability=English
+}}

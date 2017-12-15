@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Family=Strict father morality metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Straightness
+|Target frame=Morality
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=MORALITY IS STRAIGHTNESS
+|Related metaphor.Description=See the other entailment too: MORAL IS STRAIGHT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's a crooked politician.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Emotion Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Temperature
+|Target frame=Emotional intensity
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=EMOTIONAL INTENSITY IS TEMPERATURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She's lukewarm about him.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

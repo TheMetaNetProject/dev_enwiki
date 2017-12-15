@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ASSISTANCE IS SUPPORT
+|Metaphor.Alias.Provenance=Grady (1998)
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=HELP IS SUPPORT
+}}
+|Family=Grady Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Support
+|Target frame=Assistance
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=FUNCTIONALITY IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our conservation program needs your support.
+|Example.Provenance=Grady 1998
+}}{{Example
+|Example.Language=English
+|Example.Text=I've really been leaning on my friends the past few months.
+|Example.Provenance=Grady 1998
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

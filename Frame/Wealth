@@ -1,0 +1,89 @@
+{{Frame
+|Program alias=WEALTH
+|Comments=We had a Being_wealthy frame, and that had the LUs wealthy and rich. We need to think carefully whether we want various subcases of Experiencing an economic status (e.g., we didn't have Being_poor or Being_impoverished). (Oana)
+
+Removed 'treasure' as an LU because it tends to refer to physical entities (e.g. treasure collection, treasure hunter, dig for treasure).  [Ellen]
+|Family=Wealth frames,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Roles={{Role
+|Role.Name=wealthy_entity
+}}{{Role
+|Role.Name=wealth
+}}{{Role
+|Role.Name=degree of wealth
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Poverty
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Economic status
+}}
+|Bindings={{Binding
+|Binding.Local role=wealthy_entity
+|Binding.Bound role=Economic status.status_holder
+}}{{Binding
+|Binding.Local role=wealth
+|Binding.Bound role=Economic status.financial_resources
+}}{{Binding
+|Binding.Local role=degree of wealth
+|Binding.Bound role=Economic status.maximal_status
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=wealth.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rich.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wealthy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wealthiest
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=riches.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rich.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=richer
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=richest
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=affluence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=extremely rich.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoity toity
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prosperous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-off.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-to-do
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=financially independent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prosperity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-heeled.a
+}}
+|LinkSpanish=Riqueza
+|Applicability=English
+}}

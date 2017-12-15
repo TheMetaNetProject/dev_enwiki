@@ -1,0 +1,69 @@
+{{Frame
+|FrameNet frame=Employment_scenario, Being_employed
+|Comments=An employer employs an employee.  Employee agrees to perform certain duties that achieve employer-determined objectives, and employer compensates employee for performing these duties.
+|Family=Wealth and Social Class frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish, Persian
+|Cultural information=checked for cultural scope in English and Spanish - Karie, July 8 2014
+checked for cultural scope in Persian-Aria, August 20, 2014
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=employee
+|Role.Type=person
+|Role.FrameNet role=Employee
+}}{{Role
+|Role.Name=employer
+|Role.FrameNet role=Employer
+}}{{Role
+|Role.Name=employee_duties
+}}{{Role
+|Role.Name=employee_compensation
+|Role.FrameNet role=Compensation
+}}{{Role
+|Role.Name=employer_objectives
+}}{{Role
+|Role.Name=employer-employee_relation
+}}{{Role
+|Role.Name=employment_occupation
+|Role.Definition=Domain in which you are employed.
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Work scenario
+}}
+|Bindings={{Binding
+|Binding.Local role=employer
+|Binding.Bound role=Control.controlling_entity
+}}{{Binding
+|Binding.Local role=employee
+|Binding.Bound role=Control.dependent_entity
+}}{{Binding
+|Binding.Local role=employer-employee_relation
+|Binding.Bound role=Control.control_relation
+}}
+|Inferences={{Inference
+|Inference.Description=Employer has control over employee's actions.
+}}{{Inference
+|Inference.Description=Employer has responsibility to compensate employee for performing duties.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=employment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=employ.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=employee.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=employer.n
+}}
+|LinkSpanish=Empleo
+|LinkPersian=اشتغال
+|Applicability=English
+}}

@@ -1,0 +1,64 @@
+{{Frame
+|Description=Action which involves transfer of force to another entity
+|Comments=actors action transfers force from actor to acted upon
+|Family=Force dynamic frames, Action frames, Forced movement frame family, 
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=actor
+|Role.Definition=supplier of force
+}}{{Role
+|Role.Name=acted_upon
+|Role.Definition=entity that actor applies force to
+}}{{Role
+|Role.Name=force
+|Role.Type=Force
+}}{{Role
+|Role.Name=effector
+}}{{Role
+|Role.Name=x-schema
+|Role.Type=Process
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Force transfer
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Contact
+}}
+|Bindings={{Binding
+|Binding.Local role=force
+|Binding.Bound role=Action.effort
+}}{{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Action.actor
+}}{{Binding
+|Binding.Local role=effector
+|Binding.Bound role=Action.effector
+}}{{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Force transfer.force_originator
+}}{{Binding
+|Binding.Local role=acted_upon
+|Binding.Bound role=Force transfer.force_receiver
+}}
+|Inferences={{Inference
+|Inference.Description=The amount of force applied to the acted_upon is closely correlated with the amount of effort the actor exerts.
+}}{{Inference
+|Inference.Description=To apply force, actor must be in contact with acted_upon
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=push.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=press.v
+}}
+|LinkSpanish=Aplicación-fuerza
+}}

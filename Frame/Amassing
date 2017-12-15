@@ -1,0 +1,55 @@
+{{Frame
+|FrameNet frame=Amassing
+|Family=Resource Frames,
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Gain possession
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Resource transfer
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=amass.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accumulate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accumulation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collect.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stockpile.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stockpile.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gather.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aggregate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accrue.v
+}}
+|LinkSpanish=Amasar
+|Applicability=English
+}}

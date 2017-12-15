@@ -1,0 +1,96 @@
+{{Frame
+|Family=Harm, Damage, Harmful encounters frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie 18 Sept. 2014
+|Status=in development
+|Entered by=Elise, Ellen,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Destroying
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=tornado.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earthquake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=avalanche.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tsunami.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hurricane.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flood.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tidal wave.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=typhoon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drought.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=landslide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=volcanic eruption
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=volcano.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deluge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blizzard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cyclone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=twister.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firestorm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inferno.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=storm surge
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heat wave
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wildfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bushfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=natural disaster
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=storm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cataclysm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aftershock.n
+}}
+|LinkSpanish=Desastre natural
+|Applicability=English
+}}

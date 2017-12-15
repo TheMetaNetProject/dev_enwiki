@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Comments=This is a non-perspectivized view of the spatial relation. One perspectivized view is experiencer as trajector and state as landmark (EXPERIENCING A STATE IS BEING AT A LOCATION). The reversed view (state as trajector) is present in EXPERIENCING A STATE IS POSSESSING AN OBJECT and EXPERIENCED STATE IS A PROXIMATE OBJECT
+|Family=Event Structure Metaphor, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Spatial relation
+|Target frame=Experiencing a state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=entity_1
+}}{{Mapping
+|Target=state
+|Source=entity_2
+}}{{Mapping
+|Target=experienced_state_value
+|Source=spatial_relation_value
+}}
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=change of experience of a state
+|Entailment.Source inference=change of spatial relation
+}}{{Entailment
+|Entailment.Target entailment=co-incidence of experienced_state_value and value standard
+|Entailment.Source inference=co-location of entity_1 and entity_2
+}}{{Entailment
+|Entailment.Target entailment=difference between experienced_state_value and standard
+|Entailment.Source inference=difference in location of entity 1 and 2
+}}
+|Examples=
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

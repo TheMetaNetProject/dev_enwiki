@@ -1,0 +1,47 @@
+{{Frame
+|Description=Unexpected negative events or circumstances
+|Family=Harm,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Harm
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=mishap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=calamity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accident.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fluke.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=misadventure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fubar
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=setback
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=disaster
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=misfortune.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=catastrophe.n
+}}
+|LinkSpanish=Infortunio
+|Applicability=English
+}}

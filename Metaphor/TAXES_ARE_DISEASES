@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors, Taxation metaphors, Disease metaphors, Physical afflictions metaphors, 
+|Metaphor Type=Composed/complex
+|Source frame=Disease
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=tax_payer
+|Source=patient
+}}{{Mapping
+|Target=tax
+|Source=disease
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE DISEASES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to "the notion that taxes are like some kind of sexually transmitted disease," the Los Angeles Times reports.
+|Example.Provenance=http://www.huffingtonpost.com/2011/08/30/jerry-brown-lawmakers-taxes-stds_n_942702.html
+}}{{Example
+|Example.Language=English
+|Example.Text=Those insidious taxes infect every aspect of our lives.
+|Example.Provenance=http://www.lansingcitypulse.com/lansing/archives/020508/sports/index.html
+}}
+|Entered by=Ellen,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,25 @@
+{{Frame
+|FrameNet frame=Cotheme
+|Family=Unclassified, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Leadership
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=accompany
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accompaniment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=together
+}}
+|Applicability=English
+}}

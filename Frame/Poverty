@@ -1,0 +1,88 @@
+{{Frame
+|Program alias=POVERTY
+|Family=Poverty frames, Social problem frames, Poverty-related frame network
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Elise, Oana
+|Roles={{Role
+|Role.Name=impoverished_entity
+|Role.Definition=one or more people who are impoverished
+}}{{Role
+|Role.Name=impoverished_state
+|Role.Definition=state of impoverished_entity
+}}{{Role
+|Role.Name=amount of resources
+}}{{Role
+|Role.Name=degree of poverty
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Economic status
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Wealth
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social problems
+}}
+|Bindings={{Binding
+|Binding.Local role=amount of resources
+|Binding.Bound role=Economic status.status
+}}{{Binding
+|Binding.Local role=impoverished_entity
+|Binding.Bound role=Economic status.status_holder
+}}{{Binding
+|Binding.Local role=degree of poverty
+|Binding.Bound role=Economic status.minimal_status
+}}{{Binding
+|Binding.Local role=degree of poverty
+|Binding.Bound role=Social problems.social_problem
+}}{{Binding
+|Binding.Local role=impoverished_entity
+|Binding.Bound role=Social problems.society
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=poverty.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impoverishment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impoverished.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indigence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destitution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the 47 percent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the 53 percent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=underprivileged.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poverty line
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poorer.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=underprivileged.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poverty.n rate.n
+}}
+|LinkSpanish=Pobreza
+|Applicability=English
+}}

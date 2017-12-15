@@ -1,0 +1,28 @@
+{{Frame
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Governance frames,
+|Type=Frame
+|Cultural scope=American English, Persian
+|Status=in development
+|Entered by=Ellen, Oana,
+|Roles={{Role
+|Role.Name=Power_holder
+}}{{Role
+|Role.Name=Power_yielder
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legitimacy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=قدرت
+|Applicability=English
+}}

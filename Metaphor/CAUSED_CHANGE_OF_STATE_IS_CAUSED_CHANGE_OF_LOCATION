@@ -1,0 +1,48 @@
+{{Metaphor
+|Aliases=
+|Comments=This metaphor has two listings: it is listed as both an entailment of CHANGE OF STATE IS CHANGE OF LOCATION and as a composed metaphor that combines CAUSES ARE FORCES and EXPERIENCING A STATE IS BEING AT A LOCATION.
+|Family=Location Event Structure Metaphor,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Forced movement
+|Target frame=Caused change of state
+|Mappings={{Mapping
+|Target=agent
+|Source=agent
+}}{{Mapping
+|Target=affected
+|Source=mover
+}}{{Mapping
+|Target=state_change
+|Source=motion
+}}{{Mapping
+|Target=cause
+|Source=forceful_action
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSES ARE FORCES
+|Related metaphor.Description=Composes with EXPERIENCING A STATE IS BEING AT A LOCATION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EXPERIENCING A STATE IS BEING AT A LOCATION
+|Related metaphor.Description=Composes with CAUSES ARE FORCES
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CAUSATION IS OBJECT TRANSFER
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=She was forced into an arranged marriage.
+}}{{Example
+|Example.Language=English
+|Example.Text=Her parents kept pushing her until she succeeded.
+}}
+|Entered by=Oana, Ellen
+|Status=in development, release candidate
+|Relevant LUs=
+}}

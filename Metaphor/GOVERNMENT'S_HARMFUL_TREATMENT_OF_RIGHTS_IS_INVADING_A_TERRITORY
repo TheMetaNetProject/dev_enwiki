@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors, Rights metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American English
+|Source frame=Trespassing
+|Target frame=Rights
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=RIGHTS ARE TERRITORIES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The government overstepped a line when they proposed wiretapping citizens' phone lines.
+}}{{Example
+|Example.Language=English
+|Example.Text=Gay marriage is encroaching on our religious freedoms.
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

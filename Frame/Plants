@@ -1,0 +1,100 @@
+{{Frame
+|FrameNet frame=Planting
+|Comments=Please note: there exist the following frames: Plants, Weeds, Tending to plants, Plant life cycle. Add LUs accordingly.
+
+
+This frame assumes a knowledge system that distinguishes between animal and plant life, or sentient and non-sentient living entities. Our Linnean taxonomy of plants also structures to a great extent our plant-life categorization, so for the purpose of metaphor mapping, some plants will be more plant-like than others (e.g. flowers more-so than seaweed), and the selective mapping will reflect this categorization.
+|Family=Entity frames, Natural process frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=plant_entity
+}}{{Role
+|Role.Name=plant_anatomy
+}}{{Role
+|Role.Name=plant_size
+}}{{Role
+|Role.Name=plant_attributes
+|Role.Definition=Stems, leaves, color, fragrance, thorns, etc.
+}}{{Role
+|Role.Name=plant_life_cycle
+}}{{Role
+|Role.Name=plant_nourishment
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Biological entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gardening
+}}
+|Bindings={{Binding
+|Binding.Local role=plant_entity
+|Binding.Bound role=Biological entity.organism
+}}
+|Inferences={{Inference
+|Inference.Description=A plant starts off as a seed and grows given the right conditions.
+}}{{Inference
+|Inference.Description=Color, shape, size, and extent of spread are indicative of a plant's success in growing and staying alive.
+}}{{Inference
+|Inference.Description=When conditions are poor and light and nutrient supplies are cut, a plant will wither and die.
+}}{{Inference
+|Inference.Description=A plant's outward appearance of health is a reflection of its inner state of health.
+}}{{Inference
+|Inference.Description=Being removed from the ground and having its roots torn and separated poses a threat to the plant's survival.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=root.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=green.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fruit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fruit.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seed.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leaf.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stem.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tendril.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plant.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tree.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leaves.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grassroots.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grassroots.a
+}}
+|LinkSpanish=Planta
+|Applicability=English
+}}

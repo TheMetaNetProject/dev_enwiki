@@ -1,0 +1,52 @@
+{{Frame
+|Description=the state of relative firmness or solidity of a complex physical object
+|Family=Scale Frames,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=firmness_entity
+|Role.Type=Complex_physical_object
+}}{{Role
+|Role.Name=firmness_status
+|Role.Definition=position on firmness scale
+}}{{Role
+|Role.Name=firmness_scale
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Condition of physical object
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Complex physical object
+}}
+|Bindings={{Binding
+|Binding.Local role=firmness_scale
+|Binding.Bound role=Scale.parameter
+}}{{Binding
+|Binding.Local role=firmness_status
+|Binding.Bound role=Scale.position_on_scale
+}}{{Binding
+|Binding.Local role=firmness_entity
+|Binding.Bound role=Complex physical object
+}}{{Binding
+|Binding.Local role=firmness_entity
+|Binding.Bound role=Condition of physical object.physical_object
+}}{{Binding
+|Binding.Local role=firmness_status
+|Binding.Bound role=Condition of physical object.state_of_object
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=firmness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=solidity.n
+}}
+|LinkSpanish=Firmeza
+|Applicability=English
+}}

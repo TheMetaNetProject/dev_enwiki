@@ -1,0 +1,50 @@
+{{Metaphor
+|Aliases=
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Governance metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Cultural scope=American English, Persian
+|Source frame=Bounded region
+|Target frame=Control
+|Mappings={{Mapping
+|Target=scope_of_control
+|Source=proximal region
+}}{{Mapping
+|Target=controlling_entity
+|Source=center
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=STATES ARE LOCATIONS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=The actions of an entity that is within the controlling_entity's scope_of_control can be controlled by that controlling_entity
+|Entailment.Source inference=An entity located within the proximal region is proximal to the center (and therefore is likely to be accessible from the center)
+}}{{Entailment
+|Entailment.Target entailment=The actions of an entity that is not within a controlling_entity's scope_of_control are not controlled by that controlling_entity
+|Entailment.Source inference=an entity located in the distal_region is distal from the center (and therefore not likely to be accessible from the center)
+}}
+|Examples={{Example
+|Example.Text=His actions are beyond my control.
+|Example.Provenance=Ellen
+}}{{Example
+|Example.Text=The whole situation spiraled out of (our) control.
+|Example.Provenance=Ellen
+}}{{Example
+|Example.Text=He returned to power.
+}}{{Example
+|Example.Language=English
+|Example.Text=The president is in control of the executive branch.
+|Example.Comments=the 'scope of control' /proximal region in this case is defined relative to the dependent entity (the executive branch).
+}}{{Example
+|Example.Language=English
+|Example.Text=President Mubarak has stepped down from power.
+|Example.Comments=this example also uses CONTROL IS UP
+}}
+|Entered by=Ellen
+|Last reviewed by=Mark
+|Status=in development
+|LinkPersian=کنترل کردن منطقه محدود است
+|LinkRussian=КОНТРОЛЬ – ЭТО ОГРАНИЧЕННАЯ ОБЛАСТЬ
+}}

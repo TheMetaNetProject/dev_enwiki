@@ -1,0 +1,148 @@
+{{Frame
+|FrameNet frame=Buildings
+|Family=Entity frames, Object frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana, Ellen, Elise,
+|Last reviewed by=Elise
+|Roles={{Role
+|Role.Name=building_whole
+}}{{Role
+|Role.Name=building_framework
+}}{{Role
+|Role.Name=building_foundation
+}}{{Role
+|Role.Name=building_verticality
+}}{{Role
+|Role.Name=building_integrity
+}}{{Role
+|Role.Name=change_in_integrity
+}}{{Role
+|Role.Name=function
+}}{{Role
+|Role.Name=building_parts
+}}{{Role
+|Role.Name=builder
+}}{{Role
+|Role.Name=building_stability
+}}{{Role
+|Role.Name=foundation_material
+}}{{Role
+|Role.Name=foundation_composition
+}}{{Role
+|Role.Name=functional_status
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical structure
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Containing
+}}
+|Bindings={{Binding
+|Binding.Local role=building_whole
+|Binding.Bound role=Containing.container
+}}{{Binding
+|Binding.Local role=change_in_integrity
+|Binding.Bound role=Physical structure.change_in_integrity
+}}{{Binding
+|Binding.Local role=building_integrity
+|Binding.Bound role=Physical structure.structural_integrity
+}}{{Binding
+|Binding.Local role=structure_whole
+|Binding.Bound role=Physical structure.structure_whole
+}}{{Binding
+|Binding.Local role=base_support
+|Binding.Bound role=Physical structure.foundation_of_structure
+}}
+|Inferences={{Inference
+|Inference.Description=To be functional, a building needs to have structural integrity.
+}}{{Inference
+|Inference.Description=To be functional, a building needs to be 'upright'
+}}{{Inference
+|Inference.Description=Some parts of the building (e.g. foundation, pillars) support other parts of the building (e.g., pillars hold up the roof). If a supporting part is damaged, it will not provide as much support, and the building may collapse.
+}}{{Inference
+|Inference.Description=Destructive actions and/or processes cause a decrease in structural_integrity
+|Inference.Type=cause scalar change
+}}{{Inference
+|Inference.Description=Constructive actions cause an increase in structural_integrity
+|Inference.Type=cause scalar change
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=building.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foundation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brick.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bedrock.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=framework.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=house.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cornerstone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=edifice.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skyscraper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fortress.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fort.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=citadel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=superstructure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=window.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=door.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pillar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tower.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sky-scraper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=palace.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=castle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=keystone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bastion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shore.v up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=undermine.v
+}}
+|LinkSpanish=Edificio
+|Applicability=English
+}}

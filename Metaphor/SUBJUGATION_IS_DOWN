@@ -1,0 +1,33 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=BEING SUBJECT TO CONTROL IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=p. 15
+}}
+|Family=Orientational Metaphors, Primary Metaphors, 
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Control
+|Mappings={{Mapping
+|Target=subjugated_entity
+|Source=vertically_lower_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He is under my control.
+}}{{Example
+|Example.Language=English
+|Example.Text=He fell from power.
+}}{{Example
+|Example.Language=English
+|Example.Text=His power is on the decline.
+}}
+|Entered by=Oana,
+|Status=in development
+|Relevant LUs=
+}}

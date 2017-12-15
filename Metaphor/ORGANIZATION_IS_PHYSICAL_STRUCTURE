@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+|Metaphor.Alias.Provenance=Grady
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ABSTRACT STRUCTURE IS PHYSICAL STRUCTURE
+|Metaphor.Alias.Provenance=Kovecses 2005
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=LOGICAL ORGANIZATION IS PHYSICAL STRUCTURE
+|Metaphor.Alias.Provenance=Grady 1998
+}}
+|Family=Grady Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Physical structures composed of physical objects are structured in certain ways and organized in certain ways.
+|Source frame=Physical structure
+|Target frame=Organization
+|Mappings={{Mapping
+|Target=Organized_structure
+|Source=Physical_structure
+}}{{Mapping
+|Target=Organization_x-schema
+|Source=Physical_structure_x-schema
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Lakers' defense fell apart in the final quarter leading to an embarrassing upset.
+}}{{Example
+|Example.Language=English
+|Example.Text=Which part of the theory don't you agree with?
+|Example.Provenance=Grady (1998)
+}}{{Example
+|Example.Language=English
+|Example.Text=I admire the way this automated collection system is put together.
+|Example.Provenance=Grady (1998)
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen, oana
+|Status=in development
+|Relevant LUs=
+}}
+We need to distinguish the term Organization that essentially refers to structure (the "abstract Organization" used in this metaphor) from the one that refers to structured human social groups.

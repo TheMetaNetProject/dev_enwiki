@@ -1,0 +1,97 @@
+{{Frame
+|Family=Control of guns family, Gun debate,
+|Type=Frame
+|Cultural scope=American English, American progressive
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Gun control
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Advocacy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun lobbying.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun lobbying.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun doctrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control doctrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun doctrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=antigun doctrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control doctrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun ideology.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=antigun ideology.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun ideology.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control politics
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control politics
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control effort.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control effort.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control sentiment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control sentiment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=antigun sentiment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun sentiment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun sentiment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun-control lobby.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun control movement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti gun movement.n 
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anti-gun movement.n
+}}
+|Applicability=English
+}}

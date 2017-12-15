@@ -1,0 +1,30 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=source_of_authority
+}}{{Role
+|Role.Name=capability_to_act
+}}{{Role
+|Role.Name=trustworthiness
+}}{{Role
+|Role.Name=authority_entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust relationship
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Legitimacy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=مشروعیت دولت
+|Applicability=English
+}}

@@ -1,0 +1,71 @@
+{{Frame
+|Comments=This refers to the strictly financial sense of investment. Other meanings of investment will make use of this core meaning.
+|Family=Economic Frames, Resource Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=Investor
+}}{{Role
+|Role.Name=Invested_value
+}}{{Role
+|Role.Name=Investment_goal
+}}{{Role
+|Role.Name=Investment_outcome
+}}{{Role
+|Role.Name=investment_market
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Financial resource
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=invest
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=investment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grant
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=endowment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loan
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bankroll
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=buy stock in
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stock.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=investor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stock holder
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dividend
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=earnings
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divest
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=divestment
+}}
+|Applicability=English
+}}

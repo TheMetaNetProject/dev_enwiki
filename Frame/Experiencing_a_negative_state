@@ -1,0 +1,27 @@
+{{Frame
+|Family=State-related frames,
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=experiencer
+}}{{Role
+|Role.Name=domain
+|Role.Definition=some sort of negatively evaluated state
+}}{{Role
+|Role.Name=state_value
+}}{{Role
+|Role.Name=standard
+}}{{Role
+|Role.Name=state_x-schema
+|Role.Definition=how state value changes (or not) over time
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing a state
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

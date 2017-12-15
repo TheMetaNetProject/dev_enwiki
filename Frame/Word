@@ -1,0 +1,20 @@
+{{Frame
+|FrameNet frame=Linguistic_meaning
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=word_form
+|Role.FrameNet role=Form
+}}{{Role
+|Role.Name=word_meaning
+|Role.FrameNet role=Meaning
+}}{{Role
+|Role.Name=referent
+|Role.FrameNet role=Referent
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

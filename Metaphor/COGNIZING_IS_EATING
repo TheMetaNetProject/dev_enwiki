@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Description=A general metaphor, subsumed by MIND AS BODY metaphors.
+|Comments='Eating' in the metaphor title is a cover term for all food ingestion-related processes, and does not refer to the Eating frame.
+|Family=Mind Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Eating
+|Target frame=Cognizing
+|Mappings={{Mapping
+|Target=cognizer
+|Source=eater
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Eve, Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}
+So we need the COGNIZING x-schema to have things like beliefs, and consideration before committing to a belief and so on...Eve

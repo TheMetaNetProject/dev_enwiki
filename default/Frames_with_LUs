@@ -1,0 +1,8 @@
+{{#ask: [[Category:Frame]]
+| ?=Frame
+| ?Has description=Description
+| ?Frame.FrameNet frame=FN Frame
+| ?LUs#Lemmas=LUs | +index=2
+| format=table
+| mainlabel=-
+}}

@@ -1,0 +1,45 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SEEING IS TOUCHING
+|Metaphor.Alias.Provenance=Metaphor+
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=VISUAL ATTENTION IS CONTACT
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=VISION IS PHYSICAL CONTACT
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Touching
+|Target frame=Seeing scenario
+|Mappings={{Mapping
+|Target=eyes
+|Source=touching_limbs
+}}{{Mapping
+|Target=eyesight
+|Source=sense_of_touch
+}}{{Mapping
+|Target=thing_seen
+|Source=thing_touched
+}}{{Mapping
+|Target=visual_input
+|Source=tactile_input
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=VIRTUAL MOTION IS ACTUAL MOTION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Changing visual attention
+|Entailment.Source inference=Changing location
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=His eyes scoured the horizon.
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

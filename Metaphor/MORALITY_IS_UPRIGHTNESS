@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases=
+|Family=Morality metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Upright_posture
+|Target frame=Morality
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=MORALITY IS STRAIGHTNESS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Being moral
+|Entailment.Source inference=Being upright
+|Entailment.Entailed metaphors=BEING MORAL IS BEING UPRIGHT
+}}{{Entailment
+|Entailment.Target entailment=Being immoral
+|Entailment.Source inference=Being low
+|Entailment.Entailed metaphors=BEING IMMORAL IS BEING LOW
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's an upstanding citizen.
+|Example.Provenance=Lakoff (Moral Politics, p. 71)
+}}{{Example
+|Example.Language=English
+|Example.Text=That was a low thing to do.
+|Example.Provenance=Lakoff (Moral Politics, p. 71)
+}}{{Example
+|Example.Language=English
+|Example.Text=He's a snake in the grass.
+|Example.Provenance=Lakoff (Moral Politics, p. 71)
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

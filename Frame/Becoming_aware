@@ -1,0 +1,25 @@
+{{Frame
+|FrameNet frame=Awareness
+|Family=Cognition Frames,
+|Type=Primary
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=cognizer
+|Role.FrameNet role=Cognizer
+}}{{Role
+|Role.Name=content
+|Role.FrameNet role=Content
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Knowing
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Access to knowledge
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

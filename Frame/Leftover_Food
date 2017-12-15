@@ -1,0 +1,45 @@
+{{Frame
+|Description=This is meant to refer to undesirable scraps of food
+|Comments=I am not entirely sure about the name of this one but it is meant to account for the cluster of LU's such as "leftovers" "scraps" "sliver of the pie" and "crumbs".
+|Family=Eating Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Aucher,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Food
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=leftover.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crumb.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sliver.n of the pie
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tiny sliver
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=piece of the pie
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sliver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dreg.n
+}}
+|LinkSpanish=Alimento
+|Applicability=English
+}}

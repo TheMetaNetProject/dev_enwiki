@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases=
+|Description=e.g. She lives in the pits of poverty
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors,
+|Metaphor Level=Specific
+|Source frame=Being at a Low Location
+|Target frame=Impoverished
+|Mappings={{Mapping
+|Target=experiencer
+|Source=located_thing
+}}{{Mapping
+|Target=impoverishment
+|Source=low_landmark
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=BEING IMPOVERISHED IS BEING IN A BOUNDED REGION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=becoming impoverished
+|Entailment.Source inference=downward motion; motion towards low(er) location
+|Entailment.Entailed metaphors=BECOMING IMPOVERISHED IS MOVING DOWNWARDS
+}}{{Entailment
+|Entailment.Target entailment=being impoverished
+|Entailment.Source inference=co-location with low entity
+}}{{Entailment
+|Entailment.Target entailment=becoming less impoverished
+|Entailment.Source inference=motion upwards; motion away from a low location
+}}
+|Examples=
+|Entered by=Metabot,
+|Last reviewed by=Elise
+|Status=in development, auto imported, release candidate
+}}

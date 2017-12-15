@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS AN ORGANISM
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A BIOLOGICAL ENTITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A LIVING THING
+}}
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Biological entity
+|Target frame=Government institution
+|Mappings={{Mapping
+|Target=government_whole
+|Source=organism
+}}{{Mapping
+|Target=positions
+|Source=specialized_parts
+}}{{Mapping
+|Target=functional_status
+|Source=health_status
+}}{{Mapping
+|Target=position_duties
+|Source=part_function
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=INSTITUTION IS AN ORGANISM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Withered government: leave it to the rich
+|Example.Provenance=http://nicholasdyson.blogspot.com/2012/04/withered-government-leave-it-to-rich.html
+}}{{Example
+|Example.Language=English
+|Example.Text=“Government is not a machine, but a living thing. It falls, not under the theory of the universe, but under the theory of organic life. It is accountable to Darwin, not to Newton. It is modified by its environment, necessitated by its tasks, shaped to its functions by the sheer pressure of life. No living thing can have its organs offset against each other, as checks, and live." 
+|Example.Provenance=Woodrow Wilson, quoted in "the steady conservative" website.  http://thesteadyconservative.com/wordpress/2010/07/23/woodrow-wilson-and-historicism/
+}}
+|Last reviewed by=Eve (example), Ellen
+|Status=in development
+|Investigated for=English
+}}

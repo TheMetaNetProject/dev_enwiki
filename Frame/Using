@@ -1,0 +1,21 @@
+{{Frame
+|FrameNet frame=Using
+|Family=Excluded frames, 
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=used_entity
+|Role.Type=entity
+}}{{Role
+|Role.Name=user
+|Role.Type=entity
+}}{{Role
+|Role.Name=purpose_of_use
+|Role.Type=action x-schema parameter
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

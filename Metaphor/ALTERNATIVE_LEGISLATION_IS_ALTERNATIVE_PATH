@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Legislation metaphors, 
+|Cultural scope=American English
+|Source frame=Motion along a path
+|Target frame=Legislation enactment
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LEGISLATIVE ACTIVITY IS MOTION ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Fitch said in a report on Dec. 19 that it expected Congress to find a way to pull back from the “fiscal cliff,” but that it would not be “a credible plan to reduce the federal budget deficit and stabilize government debt over the medium term.”
+|Example.Provenance=http://www.nytimes.com/interactive/us/politics/debt-reckoning.html
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

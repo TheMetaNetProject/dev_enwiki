@@ -1,0 +1,20 @@
+{{Metaphor
+|Aliases=
+|Family=LOVE IS A JOURNEY Cascade, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Bounded region
+|Target frame=Relationship
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=RELATIONSHIPS ARE CONTAINERS
+|Related metaphor.Description=reverse "source special case of"
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

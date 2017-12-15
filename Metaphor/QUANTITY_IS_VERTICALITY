@@ -1,0 +1,57 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=QUANTITY IS VERTICALITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=MORE IS UP
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=15-16
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=QUANTITY IS VERTICAL ELEVATION
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Comments=Commonly referred to by one of its entailed metaphors, MORE IS UP.
+|Tags=orientational
+|Family=Scalar Metaphors, Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Type=Primary
+|Experiential basis=If you add more of a substance or of physical objects to a container or pile, the level goes up.
+|Cultural scope=universal
+|Source frame=Verticality
+|Target frame=Quantity
+|Mappings={{Mapping
+|Target=quantity_scale
+|Source=verticality_scale
+}}{{Mapping
+|Target=measure_of_quantity
+|Source=scalar_position
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CHANGE OF STATE IS CHANGE OF LOCATION
+|Related metaphor.Description=Increase and decrease of quantity is upwards and downwards movement.
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=greater quantities
+|Entailment.Source inference=Higher point(s) along a vertical scale
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=MORE IS UP
+}}{{Entailment
+|Entailment.Target entailment=lesser quantities
+|Entailment.Source inference=Lower point(s) along a vertical scale
+|Entailment.Type=aligned scales
+|Entailment.Entailed metaphors=LESS IS DOWN
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The number of books printed each year keeps going up.
+|Example.Provenance=Metaphors We Live By (15)
+}}{{Example
+|Example.Language=English
+|Example.Text=His income fell last year.
+|Example.Provenance=Metaphors We Live By (15-16)
+}}
+|Entered by=Oana, Elise
+|Last reviewed by=Ellen, Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

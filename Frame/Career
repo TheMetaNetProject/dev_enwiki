@@ -1,0 +1,26 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=career_follower
+}}{{Role
+|Role.Name=career_trajectory
+}}{{Role
+|Role.Name=career_domain
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Employment
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=career.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=job.n
+}}
+|Applicability=English
+}}

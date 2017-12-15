@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SEEKING KNOWLEDGE IS SEARCHING
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Mind Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Investigated for=English
+|Source frame=Searching
+|Target frame=Knowing
+|Mappings={{Mapping
+|Target=knowledge_seeker
+|Source=seeker_of_some_object
+}}{{Mapping
+|Target=sought_knowledge
+|Source=sought_object
+}}{{Mapping
+|Target=seeking_to_know_x-schema
+|Source=looking_for_object_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=KNOWING IS PERCEIVING
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=KNOWING IS SEEING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=There is knowledge to be sought
+|Entailment.Source inference=There is an object to be searched for
+|Entailment.Entailed metaphors=KNOWLEDGE IS AN OBJECT
+}}
+|Examples={{Example
+|Example.Text=He's looking for meaning in his life and isn't finding any.
+|Example.Language=English
+}}
+|Relevant LUs=
+|Entered by=Oana,
+|Status=in development
+}}

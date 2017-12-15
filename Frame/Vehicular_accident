@@ -1,0 +1,105 @@
+{{Frame
+|Family=Harm, Damage, Harmful encounters frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Misfortune
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vehicle
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Impact
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=train.n wreck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=train-wreck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trainwreck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fender bender
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fender-bender.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=off the rails
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=derail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=derailment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crash.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flameout.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flame-out.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tailspin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nosedive.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collision.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wreck.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shipwreck
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pileup
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pile-up
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wreckage
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=side-swipe
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sideswipe
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=head-on
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=t-bone
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=plow into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=collide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wreck.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blindside.v
+}}
+|LinkSpanish=Accidente vehicular
+|Applicability=English
+}}

@@ -1,0 +1,59 @@
+{{Frame
+|Description=Movement of an entity in a downward direction that is caused by some other entity or natural force
+|Program alias=ABYSS.Entrance
+|Comments=some LUs in this frame seem to actually describe 'caused motion into a bounded region'
+|Family=Motion Frames, Movement frames, Affected movement frames, Forced movement frame family, Moving entity frames,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported, release candidate
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=causer
+}}{{Role
+|Role.Name=mover
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Forced movement
+}}{{Related frame
+|Related frame.Relation type=is in causal relation with
+|Related frame.Name=Downward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=driven.v into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dragged.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=push.v into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thrown.v into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sucked.v into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lower.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drag.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=throw.v into
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=depress.v
+}}
+}}

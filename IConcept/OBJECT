@@ -1,0 +1,6 @@
+{{IARPASourceConcept
+|Definition=ICSI definition: this concept is created to house LUs pertaining to properties of physical objects - size, shape, strength, color, etc.
+|Comments=Can be thought of as Object Properties.
+|Owner=ICSI
+|LUs=tough, strong, big, small, rough, lax, large, weak, rigid, taut, grasp,
+}}

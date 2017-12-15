@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Morality metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Destructive force
+|Target frame=Moral corruption
+|Mappings={{Mapping
+|Target=corrupt_activities
+|Source=destructive_force
+}}{{Mapping
+|Target=corruption_affectee
+|Source=destroyed_entity
+}}{{Mapping
+|Target=corruption_effect
+}}{{Mapping
+|Target=destructive_effect
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CAUSES ARE FORCES
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana, Elise, 
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

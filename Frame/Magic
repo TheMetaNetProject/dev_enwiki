@@ -1,0 +1,123 @@
+{{Frame
+|Family=Magic frames
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=magic_user
+|Role.Definition=e.g. sorcerer
+}}{{Role
+|Role.Name=magical_object
+|Role.Definition=e.g. talisman
+}}{{Role
+|Role.Name=magical_action
+|Role.Type=x-schema
+|Role.Definition=e.g. casting a spell
+}}{{Role
+|Role.Name=magic_undergoer
+|Role.Definition=entity which is affected by magical action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Causation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=magic.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=magical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sorcery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sorcerer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=talisman.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=amulet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=charm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fetish.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=totem.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=magical.a spell.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bewitch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enchant.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wizardry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voodoo.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hoodoo.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=supernatural.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cast.v a spell
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cast.v spell.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=magical.a object.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mystical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=magician.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wtichraft.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hex.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hex.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alchemy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=totemic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wand.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=magic wand.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hocuspocus.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sleight of hand
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conjurer.n
+}}
+|LinkSpanish=Magia
+|Applicability=English
+}}

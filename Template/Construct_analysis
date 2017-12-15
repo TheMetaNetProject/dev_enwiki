@@ -1,0 +1,81 @@
+<noinclude>
+This is the "Construct analysis" template.
+It should be called in the following format:
+<pre>
+{{Construct analysis
+|text=
+|text gloss=
+|informalanalysis=
+|comment=
+|tags=
+|Entered by=
+|Last reviewed by=
+|Status=
+|construction=
+|frames=
+|cxncomments=
+|informalconstituentanalysis=
+|constituents={{CA constituent}}
+|bindings={{CA binding}}
+|metaphors={{CA metaphor}}
+|metonymy=
+|examples={{CA example}}
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Construct text:
+| {{#if:{{{text gloss|}}}|{{Printgloss|{{{text|}}}|{{{text gloss|}}}}}|{{{text|}}}}}{{#set:Has text={{{text|}}}|Has text gloss={{{text gloss|}}}}}
+|-
+! Informal analysis:
+| [[Has informal analysis::{{{informalanalysis|}}}]]
+|- {{#if:{{{comment|}}}| |style="display:none;"}}
+! Comments:
+| [[Has comment::{{{comment|}}}]]
+|- {{#if:{{{tags|}}}| |style="display:none;"}}
+! Tags:
+| {{#arraymap:{{{tags|}}}|,|x|[[Has tag::x]]}}
+|}
+
+'''Constructional Information:'''
+{| class="wikitable"
+! Construction:
+| [[Instantiates construction::{{{construction|}}}]]
+|-
+! Frames:
+| {{#arraymap:{{{frames|}}}|,|x|[[Evokes frame::Frame:x|x]]}}
+|-
+! Comments:
+| [[Has comment::{{{cxncomments|}}}]]
+|}
+
+'''Constituent constructional information:'''
+{{{constituents}}}
+
+'''Bindings:'''
+{{{bindings}}}
+
+'''Metaphor Information:'''
+{{{metaphors}}}
+
+'''Metonymy Information:'''
+{| class="wikitable"
+| [[Has metonymy information::{{{metonymy|}}}]]
+|}
+
+'''Examples:'''
+{{{examples}}}
+
+{| class="wikitable"
+! Entered by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Last reviewed by
+| [[Last reviewed by::{{{Last reviewed by|}}}]]
+|-
+! Status
+| {{#arraymap:{{{Status|}}}|,|x|[[Status::x]]}}
+|}
+
+[[Category:Construct analysis]]
+</includeonly>

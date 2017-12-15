@@ -1,0 +1,16 @@
+{{Frame
+|Description=Deep holes and chasms
+|Family=Entity frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Geographic feature
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

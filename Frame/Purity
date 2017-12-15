@@ -1,0 +1,23 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=pure_entity
+}}{{Role
+|Role.Name=pure_condition
+}}{{Role
+|Role.Name=purity_x-schema
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=pure.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=purity.n
+}}
+|Applicability=English
+}}

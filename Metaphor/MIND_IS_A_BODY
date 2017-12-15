@@ -1,0 +1,47 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MIND IS A BODY
+}}
+|Comments=This metaphor picks out the mapping MIND is a BODY in the generic metaphor COGNIZING IS BODILY FUNCTIONING. The label "MIND IS A BODY" is also generally used to refer to the metaphor family as a whole. In this database, MIND IS A BODY picks out an entailed metaphor.
+|Family=Mind Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Bodily functioning
+|Target frame=Cognizing
+|Mappings={{Mapping
+|Target=mind_whole
+|Source=body_whole
+}}{{Mapping
+|Target=mind_structure
+|Source=body_structure
+}}{{Mapping
+|Target=mental_capacticy
+|Source=bodily_capacity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=a well-functioning/non-functioning mind
+|Entailment.Source inference=a healthy/unhealthy body
+|Entailment.Type=fitness-related inferences; scalar
+}}{{Entailment
+|Entailment.Target entailment=products of the mind
+|Entailment.Source inference=products of the body
+}}{{Entailment
+|Entailment.Target entailment=mental processes
+|Entailment.Source inference=bodily processes
+}}{{Entailment
+|Entailment.Target entailment=results of mental processes
+|Entailment.Source inference=results of bodily processes
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Do the exercises at the end of this chapter.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

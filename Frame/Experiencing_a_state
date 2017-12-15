@@ -1,0 +1,42 @@
+{{Frame
+|FrameNet frame=State
+|Comments=we may want to make this frame more general so as to include states/properties that are not directly 'experienced' by the entity with which that state/property is associated. -- See Discussion
+|Family=State-related frames, Property-related frames, Poverty-related frame network, 
+|Type=Cog
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=experiencer
+|Role.Definition=entity which experiences or is otherwise associated with experienced_state_value
+|Role.FrameNet role=Entity
+}}{{Role
+|Role.Name=state
+|Role.Definition=parameter/domain of experience
+|Role.FrameNet role=State
+}}{{Role
+|Role.Name=experienced_state_value
+|Role.Definition=particular value of state experienced by and/or assoicated with experiencer at some point in time
+}}{{Role
+|Role.Name=standard
+|Role.Definition=state value  to which experienced_state_value is compared
+}}{{Role
+|Role.Name=stative_x-schema
+|Role.Type=x-schema
+|Role.Definition=x-schema in which state_value stays the same over some (unspecified) extent of time
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=State
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=state
+|Binding.Bound role=State.domain
+}}{{Binding
+|Binding.Local role=experienced_state_value
+|Binding.Bound role=State.profiled_state_value
+}}
+|Inferences=
+|Relevant LUs=
+}}

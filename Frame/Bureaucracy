@@ -1,0 +1,61 @@
+{{Frame
+|Family=Bureaucracy frames
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=institution_of_operation
+}}{{Role
+|Role.Name=members
+}}{{Role
+|Role.Name=functions
+}}{{Role
+|Role.Name=individuals_served
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Legislative action
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Government executive action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bureaucracy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bureaucrat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=administration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=official.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=civil service.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bureaucratic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=civil servant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pencil-pusher.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=red.a tape.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=red tape.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=red-tape.n
+}}
+|LinkSpanish=Burocracia
+|LinkPersian=بروکراسی
+|Applicability=English
+}}

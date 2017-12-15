@@ -1,0 +1,18 @@
+{{Frame
+|Comments=Took out 'cycle' LU for tests. Put back later.
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Process
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Source path goal
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

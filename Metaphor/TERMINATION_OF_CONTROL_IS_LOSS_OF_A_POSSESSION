@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Lose possession
+|Target frame=Control
+|Mappings={{Mapping
+|Target=controlling_entity
+|Source=donor
+}}{{Mapping
+|Target=ability_to_control
+|Source=possession
+}}{{Mapping
+|Target=control_relation_status.finish
+|Source=lose_possession_x-schema.finish
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL IS A POSSESSION
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=intially, controlling entity is in  control
+|Entailment.Source inference=initially, possessor possesses object
+}}{{Entailment
+|Entailment.Target entailment=at end, controlling entity is no longer in control
+|Entailment.Source inference=at end, possessor no longer possesses object
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government. 
+|Example.Provenance=http://thegazette.com/2012/07/14/people-have-lost-control-of-government/  July 14, 2012 letter to the editor, in The Gazette (Iowa Newspaper)
+}}{{Example
+|Example.Language=English
+|Example.Text=But meanwhile, you may not have noticed that our government gave away control of the Internet. 
+|Example.Provenance=http://www.bizzyblog.com/2009/10/11/honey-they-gave-away-the-internet/
+}}
+|Entered by=Ellen
+|Status=in development
+|Investigated for=English
+}}

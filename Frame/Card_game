@@ -1,0 +1,42 @@
+{{Frame
+|Family=Physical combat frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Game
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=card.n game.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cards.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=game of cards.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cut.v the cards.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flush.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aces and eights.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=UNO
+}}
+|Applicability=English
+}}

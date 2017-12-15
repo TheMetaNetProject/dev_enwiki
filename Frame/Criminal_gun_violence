@@ -1,0 +1,53 @@
+{{Frame
+|Comments=This is intended as a purposeful form of criminal gun violence, as opposed to Injurious gun use, which is differnt in that it also includes accidental gun 'violence'.
+|Family=Gun debate,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Crime
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Personal weapon
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Violence
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Injurious gun use
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun crime.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun homicide.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun murder.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun related crime.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun criminal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun felony.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handgun crime.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun atrocity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun related violent crime.n
+}}
+|Applicability=English
+}}

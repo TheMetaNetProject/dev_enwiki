@@ -1,0 +1,73 @@
+{{Frame
+|Comments=This frame is modeled after the US judicial system
+
+Cultural scope checked for Persian--Aria
+|Family=Governance frames,
+|Type=Frame
+|Cultural scope=American English, Persian
+|Cultural information=Governmental actions carried out by the judicial branch; reviewing constitutionality of laws
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=judicial_actor
+|Role.Definition=the judge, or court, that hands down verdicts
+}}{{Role
+|Role.Name=judicial_action_x-schema
+}}{{Role
+|Role.Name=judged_party
+|Role.Definition=the person(s) or laws under consideration
+}}{{Role
+|Role.Name=citizens
+}}{{Role
+|Role.Name=normative_judicial_actions
+}}{{Role
+|Role.Name=non-normative_judicial_actions
+}}{{Role
+|Role.Name=constraints_on_judicial_actions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Governing action
+}}
+|Bindings={{Binding
+|Binding.Local role=normative_judicial_actions
+|Binding.Bound role=Governing action.normative_governing_actions
+}}{{Binding
+|Binding.Local role=non-normative_judicial_actions
+|Binding.Bound role=Governing action.non-normative_governing_actions
+}}{{Binding
+|Binding.Local role=constraints_on_judicial_actions
+|Binding.Bound role=Governing action.constraints_on_governing_actions
+}}{{Binding
+|Binding.Local role=citizens
+|Binding.Bound role=Governing action.governed
+}}{{Binding
+|Binding.Local role=judicial_actor
+|Binding.Bound role=Governing action.governing_actor
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=judge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=justice.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legal.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jury.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=court.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=defendant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=constitutionality.a
+}}
+|LinkPersian=حکم قضایی
+|Applicability=English
+}}

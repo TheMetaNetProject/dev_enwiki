@@ -1,0 +1,31 @@
+{{Frame
+|FrameNet frame=Grasp
+|Family=Cognition Frames, Excluded frames,
+|Type=Frame, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=understanding_person
+|Role.Type=entity
+}}{{Role
+|Role.Name=understanding_x-schema
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Knowing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=understand
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=comprehend
+}}
+|LinkSpanish=Entender
+|Applicability=English
+}}

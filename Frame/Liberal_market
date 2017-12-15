@@ -1,0 +1,19 @@
+{{Frame
+|Comments=Companies are supposed to allow: living wages, regulations for safety, worker rights, regulation for taxes, controls on investment banks and trading. See Dodd-Frank law.
+|Family=Economic Frames,
+|Type=Frame
+|Status=in development
+|Entered by=MetaNet group,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Market
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=market.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,24 @@
+{{Frame
+|Family=Morality frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=moral_authority_entity
+}}{{Role
+|Role.Name=moral_authority_obeyer
+}}{{Role
+|Role.Name=moral_authority_power
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Morality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

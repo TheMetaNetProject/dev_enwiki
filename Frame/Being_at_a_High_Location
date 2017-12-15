@@ -1,0 +1,93 @@
+{{Frame
+|Family=Location frames, Position frames
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Being at a location
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Vertical position
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Being at a Low Location
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Upward motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=highest level.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=top one percent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=top of the pyramid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=on top
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stratosphere.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pinnacle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=top of the totem pole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=summit.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=apex.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sky-high.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=highest peak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stratospheric.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=high.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=higher.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=upper.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=highest.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=high.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=highest peak.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mountaintop.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=top.a
+}}
+|LinkSpanish=Estar en un lugar alto
+}}

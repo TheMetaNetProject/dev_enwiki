@@ -1,0 +1,90 @@
+{{Frame
+|Comments=Currently includes LU for 'transparent', which indicates an object is not a visual obstruction.  Will have to decide if we want to make a separate frame for this.
+|Family=Perception frames, Concealment/Protection frames, Protecting frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=seer
+}}{{Role
+|Role.Name=eyes
+}}{{Role
+|Role.Name=vision
+}}{{Role
+|Role.Name=focal_object
+}}{{Role
+|Role.Name=obstructing_object
+}}{{Role
+|Role.Name=unobstructed_elements_of_focal_object
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Seeing scenario
+}}
+|Bindings={{Binding
+|Binding.Local role=seer
+|Binding.Bound role=Seeing scenario.seer
+}}{{Binding
+|Binding.Local role=focal_object
+|Binding.Bound role=Seeing scenario.object_seen
+}}{{Binding
+|Binding.Local role=eyes
+|Binding.Bound role=Seeing scenario.eyes
+}}{{Binding
+|Binding.Local role=vision
+|Binding.Bound role=Seeing scenario.vision
+}}{{Binding
+|Binding.Local role=unobstructed_elements_of_focal_object
+|Binding.Bound role=Seeing scenario.perceptible_object_elements
+}}
+|Inferences={{Inference
+|Inference.Description=The seer desires to see the focal_object but cannot due to the obstructing_object.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=hide.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cover.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obscure.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conceal.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=opaque.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=transparent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=transparency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=facade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mask.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blanket.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blanket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=curtain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smokescreen.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smoke screen.n
+}}
+|LinkSpanish=Obstrucciones a la visión
+|Applicability=English
+}}

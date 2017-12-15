@@ -1,0 +1,65 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TRUST RELATIONSHIPS ARE BUILDINGS
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Trust relationship
+|Mappings={{Mapping
+|Target=relationship
+|Source=building_whole
+}}{{Mapping
+|Target=trusted_entity
+|Source=builder
+}}{{Mapping
+|Target=relationship_intensity
+|Source=building_integrity
+}}{{Mapping
+|Target=relationship_status
+|Source=building_stability
+}}{{Mapping
+|Target=basis_of_trust
+|Source=base_support
+}}{{Mapping
+|Target=trust_framework
+|Source=building_framework
+}}{{Mapping
+|Target=trust_emotion
+|Source=foundation_material
+}}{{Mapping
+|Target=change_in_relationship_integrity
+|Source=change_in_integrity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=RELATIONSHIPS ARE PHYSICAL STRUCTURES
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=increase in relationship intensity
+|Entailment.Source inference=increase in structural_integrity
+|Entailment.Type=paired scales
+}}{{Entailment
+|Entailment.Target entailment=decrease in relationship intensity
+|Entailment.Source inference=decrease in structural_integrity
+|Entailment.Type=paired scales
+}}{{Entailment
+|Entailment.Target entailment=caused change in intensity
+|Entailment.Source inference=caused change in structural_integrity
+|Entailment.Type=causal
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We are working hard to rebuild the trust of our customers.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=English
+|Example.Text=The scandals have shaken the foundations of trust in the market.
+|Example.Provenance=Jisup
+}}
+|Entered by=Jisup, 
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+}}

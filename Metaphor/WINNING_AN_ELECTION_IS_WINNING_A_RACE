@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors,
+|Source frame=Race
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS A RACE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=In the Supervisors race, my candidate came out slightly ahead of his closest rival.
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

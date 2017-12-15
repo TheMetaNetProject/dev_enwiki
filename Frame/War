@@ -1,0 +1,198 @@
+{{Frame
+|FrameNet frame=Fighting_activity
+|Comments=The Fighting_activity FN frame described disorganized fighting rather than organized warfare.
+
+Eve: I added side1 and side2. Eventually this has to be overhauled, so that there is a NONVIEWPOINTED War frame as well as a viewpointed one that is Invaded good guys vs. Invader bad guys.  But side1 and side2 are being linked to Competition.competitors.
+ALSO War should have an x-schema that can be mapped onto the Competition x-schema, and winner and loser roles that map onto the winner and loser roles in the Competition frame, and an Outcome that maps onto Outcome in Competition, and...
+
+Elise: now that the Competition frames are revamped, this needs to be overhauled as well.
+|Family=Physical conflict frames, Competition frames, Physical combat frame family,
+|Type=Frame, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=This frame captures organized wars fought by armies under hierarchical leadership with the use of weapons and strategies over territory.
+
+checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Eve, Elise,
+|Roles={{Role
+|Role.Name=battlefield
+|Role.Definition=territory that's fought over
+|Role.FrameNet role=Place
+}}{{Role
+|Role.Name=enemy_attack
+|Role.Type=x-schema phase
+}}{{Role
+|Role.Name=generals
+|Role.Definition=the top strategic leaders
+}}{{Role
+|Role.Name=army
+|Role.Definition=collective warfighters
+}}{{Role
+|Role.Name=enemy_combatants
+|Role.FrameNet role=Combatants
+}}{{Role
+|Role.Name=weapons
+|Role.FrameNet role=Means
+}}{{Role
+|Role.Name=war_strategies
+}}{{Role
+|Role.Name=civilians
+}}{{Role
+|Role.Name=victory
+|Role.Type=x-schema state
+}}{{Role
+|Role.Name=enemy_conquest
+}}{{Role
+|Role.Name=fighting
+|Role.Type=x-schema phase
+|Role.FrameNet role=Fighting
+}}{{Role
+|Role.Name=side1
+}}{{Role
+|Role.Name=side2
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Physical competition
+}}
+|Bindings={{Binding
+|Binding.Local role=War.side1
+|Binding.Bound role=Physical competition.competition_competitor1
+}}{{Binding
+|Binding.Local role=War.side2
+|Binding.Bound role=Physical competition.competition_competitor2
+}}
+|Inferences={{Inference
+|Inference.Description=The army engages in fighting against enemy_combatants on the battlefield using weapons in the context of a war_strategy devised by generals seeking to minimize enemy_conquest and achieve victory as quickly as possible.
+}}{{Inference
+|Inference.Description=The fighting occurs in response to an enemy_attack on a battlefield in which usually some amount of enemy_conquest has occurred.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=combat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=battle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=battle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soldier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=troop.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=war.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=warfare.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=warrior.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conquer.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=conquest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enemy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skirmish.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=skirmish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vanquish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weapon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vanquishment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ambush.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ambush.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=battlefield.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=battleground.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=combat zone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=front line.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=minefield.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ally.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=allies.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alliance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revolution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=victory.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arsenal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grenade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seige.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=beseige.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foe.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blitzkrieg.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bombard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bomb.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bomb.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blitz.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=blitz.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=torpedo.n
+}}
+|LinkSpanish=Guerra
+|LinkPersian=جنگ
+|Applicability=English
+}}

@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ENVIRONMENTAL HARM IS PHYSICAL INJURY
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Primary Metaphors, Harm metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Physical harm
+|Target frame=Environmental harm
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=HARM IS PHYSICAL INJURY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The oil spill has caused a shock to the environment.
+}}{{Example
+|Example.Language=English
+|Example.Text=Smog pollution is an environmental malaise.
+}}{{Example
+|Example.Language=English
+|Example.Text=Ecologists are nursing the Bay back to health.
+}}
+|Entered by=Oana,
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

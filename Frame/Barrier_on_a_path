@@ -1,0 +1,21 @@
+{{Frame
+|Description=Barriers that are located on physical paths, e.g. road blocks
+|Comments=Aka, external barrier on a path.
+
+Sisters include:
+Confinement
+Barrier to accessing a location
+|Family=Motion-affecting frames, Impediment and enablement frames,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Ellen, Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Barrier
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

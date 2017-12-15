@@ -1,0 +1,10 @@
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::universal]]
+* [[Allows value::American English]]
+* [[Allows value::Mexican Spanish]]
+* [[Allows value::Persian]]
+* [[Allows value::Russian]]
+* [[Allows value::American conservative]]
+* [[Allows value::American progressive]]

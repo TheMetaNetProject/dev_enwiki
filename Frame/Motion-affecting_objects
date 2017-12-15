@@ -1,0 +1,32 @@
+{{Frame
+|Family=Motion-affecting frames,
+|Type=Cog
+|Status=in development
+|Entered by=Ellen, Oana
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=impediment
+|Role.Type=Object
+|Role.Definition=the object that is affecting the mover's motion
+}}{{Role
+|Role.Name=affected_motion
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion-affecting external factors
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion-affecting external factors.mover
+}}{{Binding
+|Binding.Local role=impediment
+|Binding.Bound role=Motion-affecting external factors.impediment
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Motion-affecting external factors.affected_motion
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

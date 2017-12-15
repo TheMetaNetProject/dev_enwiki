@@ -1,0 +1,63 @@
+{{Frame
+|Comments=Created to house LUs. May revise later (Oana).
+|Family=Act on Object frames,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Object manipulation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=discard.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=throw.v away
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dispense.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dump.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dump.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=scrap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=garbage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=trash.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ditch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dispose.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jettison.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rid.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=get rid of
+}}
+|LinkSpanish=Desechar
+|Applicability=English
+}}

@@ -1,0 +1,62 @@
+{{Frame
+|Description=We may want to restrict this to Firearms (or Personal firearms), which would mean excluding things such as knives and bombs.
+|FrameNet frame=Weapon
+|Comments=Created for IARPA case study oy2.
+
+ammo, ammunition, bullet, weapon, explosive removed as LUs.
+|Family=Gun debate, Guns family
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=weapon_whole
+}}{{Role
+|Role.Name=ammunition
+}}{{Role
+|Role.Name=use_of_weapon
+|Role.Definition=See separate Weapon use frame for more roles
+}}{{Role
+|Role.Name=weapon_user
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Gun debate
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Complex physical object
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pistol.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shotgun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handgun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assault weapon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rifle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revolver.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=guns
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sidearm.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,17 @@
+{{Frame
+|Family=Bounding, Spatial relations,
+|Type=Cog, Primary
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=در
+}}

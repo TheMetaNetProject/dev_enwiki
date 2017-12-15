@@ -1,0 +1,22 @@
+{{Frame
+|Family=Cognition Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Sentient entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Cognizing
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Mente
+|Applicability=English
+}}

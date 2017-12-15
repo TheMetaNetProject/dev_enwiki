@@ -1,0 +1,120 @@
+{{Frame
+|FrameNet frame=Cause_motion
+|Other aliases=Caused motion, Cause motion, Cause change of location
+|Family=Affected movement frames, Movement frames, Motion Frames, Causation frames, Forced movement frame family, Moving entity frames,
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, release candidate
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=agent
+|Role.FrameNet role=Agent
+}}{{Role
+|Role.Name=mover
+|Role.Type=Object
+|Role.FrameNet role=Theme
+}}{{Role
+|Role.Name=source
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=path
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=goal
+|Role.FrameNet role=Goal
+}}{{Role
+|Role.Name=forceful_action
+|Role.Type=force-application frame
+|Role.Definition=action that causes motion
+|Role.FrameNet role=Means
+}}{{Role
+|Role.Name=motion
+|Role.Type=Motion along a path frame
+|Role.Definition=effect of forceful_action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is in causal relation with
+|Related frame.Name=Motion along a path
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Force-application
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causation
+}}
+|Bindings={{Binding
+|Binding.Local role=agent
+|Binding.Bound role=Force-application.actor
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Force-application.acted_upon
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion along a path.mover
+}}{{Binding
+|Binding.Local role=forceful_action
+|Binding.Bound role=Force-application.x-schema
+}}{{Binding
+|Binding.Local role=motion
+|Binding.Bound role=Motion along a path.motion_x-schema
+}}{{Binding
+|Binding.Local role=forceful_action
+|Binding.Bound role=Causation.cause
+}}{{Binding
+|Binding.Local role=motion
+|Binding.Bound role=Causation.effect
+}}{{Binding
+|Binding.Local role=agent
+|Binding.Bound role=Causation.agent
+}}
+|Inferences={{Inference
+|Inference.Description=the application of force precedes or accompanies the movement
+}}{{Inference
+|Inference.Description=the movement would not have occurred without the application of a force
+}}{{Inference
+|Inference.Description=the force impinges on the entity that moves
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=drag.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fling.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shove.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ram.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=push.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swing.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nudge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=accelerate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jerk.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jolt.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jolt.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drive.v
+}}
+|LinkSpanish=Movimiento forzado
+|Applicability=English
+}}

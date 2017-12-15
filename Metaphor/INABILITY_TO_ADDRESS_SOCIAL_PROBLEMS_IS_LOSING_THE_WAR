@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Comments=added source, target frames
+|Tags=mapping
+|Family=Governance metaphors, Social problems metaphors, Questionable entailments of metaphors, 
+|Metaphor Type=Entailed
+|Source frame=War
+|Target frame=Addressing social problems
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ADDRESSING SOCIAL PROBLEMS IS WAGING WAR
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=How America's losing the war on poverty
+|Example.Provenance=http://www.npr.org/2012/08/04/158141728/how-americas-losing-the-war-on-poverty
+|Example.Comments=cf war on crime, war on drugs, winning/losing...
+}}
+|Entered by=Jisup
+|Last reviewed by=Eve, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

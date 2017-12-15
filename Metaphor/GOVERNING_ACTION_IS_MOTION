@@ -1,0 +1,42 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative,
+|Family=Governance metaphors, Action special cases
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Motion along a path
+|Target frame=Governing action
+|Mappings={{Mapping
+|Target=governing_actor
+|Source=mover
+}}{{Mapping
+|Target=governing_action_x-schema
+|Source=motion_x-schema
+}}{{Mapping
+|Target=governing_objectives
+|Source=goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ACTION IS MOTION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Congress moved quickly to avoid a governmental shutdown.
+}}{{Example
+|Example.Language=English
+|Example.Text=The state took a big step toward banning assault weapons.
+}}{{Example
+|Example.Language=English
+|Example.Text=The legislature is considering an alternative approach to deficit reduction.
+}}{{Example
+|Example.Language=English
+|Example.Text=Postal Service bill faces roadblocks
+|Example.Provenance=http://money.cnn.com/2012/04/27/news/economy/postal-service-bill/index.htm
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

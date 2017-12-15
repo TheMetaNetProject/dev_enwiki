@@ -1,0 +1,40 @@
+{{Frame
+|Program alias=Ticket
+|Comments=Ticket is understood to be metonymic for the frame of paper granting permission to travel in some fashion (ie: passports, visas, etc)
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Elise, Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Aids to motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=ticket.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=visa.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=passport.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exit visa
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pass.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=license.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entry card.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=free pass.n
+}}
+}}

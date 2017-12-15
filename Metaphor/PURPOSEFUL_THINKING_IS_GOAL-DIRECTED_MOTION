@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+}}
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Self propelled motion to a destination
+|Target frame=Thinking about
+|Mappings={{Mapping
+|Target=thinker
+|Source=self-mover
+}}{{Mapping
+|Target=thinking_x_frame
+|Source=self-motion_x-schema
+}}{{Mapping
+|Target=desiredKnowledge
+|Source=goal
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Name=THINKING IS MOVING
+}}{{Related metaphor
+|Related metaphor.Name=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We are trying to find the most elegant approach to solving this problem.
+}}
+|Entered by=Oana, Ellen, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

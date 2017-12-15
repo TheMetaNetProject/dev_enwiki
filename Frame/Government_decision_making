@@ -1,0 +1,124 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=decision_maker
+}}{{Role
+|Role.Name=decision_maker_actions
+}}{{Role
+|Role.Name=decision_making_process
+}}{{Role
+|Role.Name=entity_under_consideration
+}}{{Role
+|Role.Name=entity_under_consideration_initial_state
+}}{{Role
+|Role.Name=entity_under_consideration_ongoing_state
+}}{{Role
+|Role.Name=entity_under_consideration_final_state
+}}{{Role
+|Role.Name=consideration
+}}{{Role
+|Role.Name=decison_making_outcome
+|Role.Definition=whether the bill is passes, accused is judged innocent, etc
+}}{{Role
+|Role.Name=act_of_deciding
+|Role.Definition=eg ruling, approval/veto, bill passage or failure
+}}{{Role
+|Role.Name=entity_under_consideration_status_change
+}}{{Role
+|Role.Name=introduction_of_entity_under_consideration
+|Role.Definition=eg proposing a bill
+}}{{Role
+|Role.Name=entity_under_consideration_characteristics
+|Role.Definition=the decision maker considers the characteristics of the entity under consideration in order to evaluate it
+}}{{Role
+|Role.Name=decision_making_standard
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Governing action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Caused change of state
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Decision making
+}}
+|Bindings={{Binding
+|Binding.Local role=decision_maker
+|Binding.Bound role=Governing action.governing_actor
+}}{{Binding
+|Binding.Local role=decision_maker
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=decision_maker
+|Binding.Bound role=Caused change of state.agent
+}}{{Binding
+|Binding.Local role=decision_maker_actions
+|Binding.Bound role=Caused change of state.cause
+}}{{Binding
+|Binding.Local role=decision_maker_actions
+|Binding.Bound role=Purposeful action.action_x-schema
+}}{{Binding
+|Binding.Local role=decision_maker_actions
+|Binding.Bound role=Governing action.Governing action.governing_action_x-schema
+}}{{Binding
+|Binding.Local role=decision_making_process
+|Binding.Bound role=Caused change of state
+}}{{Binding
+|Binding.Local role=entity_under_consideration
+|Binding.Bound role=Caused change of state.affected
+}}{{Binding
+|Binding.Local role=entity_under_consideration_initial_state
+|Binding.Bound role=Caused change of state.initial_state
+}}{{Binding
+|Binding.Local role=entity_under_consideration_final_state
+|Binding.Bound role=Caused change of state.final_state
+}}{{Binding
+|Binding.Local role=entity_under_consideration_ongoing_state
+|Binding.Bound role=Caused change of state.transition
+}}{{Binding
+|Binding.Local role=entity_under_consideration_status_change
+|Binding.Bound role=Caused change of state.state_change
+}}{{Binding
+|Binding.Local role=consideration
+|Binding.Bound role=Purposeful action.action_x-schema.ongoing
+}}{{Binding
+|Binding.Local role=decison_making_outcome
+|Binding.Bound role=X-schema.final
+}}{{Binding
+|Binding.Local role=act_of_deciding
+|Binding.Bound role=Purposeful action.action_x-schema.finish
+}}{{Binding
+|Binding.Local role=introduction_of_entity_under_consideration
+|Binding.Bound role=Purposeful action.action_x-schema.start
+}}{{Binding
+|Binding.Local role=entity_under_consideration
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=decision_maker
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=entity_under_consideration_characteristics
+|Binding.Bound role=Evaluation.behavior
+}}{{Binding
+|Binding.Local role=decision_making_standard
+|Binding.Bound role=Evaluation.standard
+}}{{Binding
+|Binding.Local role=consideration
+|Binding.Bound role=Evaluation.evaluation
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Toma de decisiones del gobierno
+|LinkPersian=تصمیم گیری دولت
+|Applicability=English
+}}

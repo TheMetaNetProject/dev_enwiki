@@ -1,0 +1,43 @@
+{{Frame
+|FrameNet frame=Relation
+|Family=Excluded frames,
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=entity_1
+|Role.FrameNet role=Entity_1
+}}{{Role
+|Role.Name=entity_2
+|Role.FrameNet role=Entity_2
+}}{{Role
+|Role.Name=relation
+|Role.Definition=the relation between entity_1 and entity_2
+}}{{Role
+|Role.Name=relation_type
+|Role.Definition=the nature of the relation, e.g. kinship
+|Role.FrameNet role=Relation_type
+}}{{Role
+|Role.Name=relation_value
+|Role.Definition=e.g. sibling
+}}{{Role
+|Role.Name=relation_value_x-schema
+|Role.Type=x-schema
+|Role.Definition=at least some relations can be conceptualized as a state of affairs that can potentially change over time. e.g. relation can start, continue, end
+}}
+|Related frames={{Related frame
+|Related frame.Name=Relationship
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=relation
+|Binding.Bound role=process.protagonist
+}}{{Binding
+|Binding.Local role=relation
+|Binding.Bound role=process.process
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Governance metaphors, Election metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Physical competition
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ELECTION IS A BOXING MATCH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=During the Democratic primary in 2008, John Edwards came out swinging but was swiftly knocked out of the election.
+}}
+|Entered by=Jisup
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

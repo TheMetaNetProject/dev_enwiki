@@ -1,0 +1,66 @@
+{{Frame
+|Description=Evaluator's evaluation of a thing based upon its visually-accessible features
+|Family=Evaluation Frames, Perception frames,
+|Type=Composed
+|Status=in development
+|Entered by=Elise,Ellen
+|Roles={{Role
+|Role.Name=evaluator
+}}{{Role
+|Role.Name=evaluee
+|Role.Type=object
+}}{{Role
+|Role.Name=visible part of evaluee
+|Role.Definition=part of evaluee which can be seen
+}}{{Role
+|Role.Name=visible properties
+|Role.Definition=properties of visible part of evaluee
+}}{{Role
+|Role.Name=expected visible properties
+|Role.Definition=standard by which object is evaluated
+}}{{Role
+|Role.Name=evaluation_outcome
+|Role.Definition=determination of whether visible properties are those expected
+}}{{Role
+|Role.Name=difficulties in evaluating
+|Role.Definition=things or processes that prevent or impact the act of evaluation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Visual obstruction
+}}
+|Bindings={{Binding
+|Binding.Local role=evaluator
+|Binding.Bound role=Evaluation.evaluator
+}}{{Binding
+|Binding.Local role=evaluator
+|Binding.Bound role=Visual obstruction.seer
+}}{{Binding
+|Binding.Local role=evaluee
+|Binding.Bound role=Visual obstruction.focal_object
+}}{{Binding
+|Binding.Local role=evaluee
+|Binding.Bound role=Evaluation.evaluee
+}}{{Binding
+|Binding.Local role=visible properties
+|Binding.Bound role=Evaluation.basis of evaluation
+}}{{Binding
+|Binding.Local role=visible properties
+|Binding.Bound role=Visual obstruction.unobstructed_elements_of_focal_object
+}}{{Binding
+|Binding.Local role=expected visible properties
+|Binding.Bound role=Evaluation.standard
+}}{{Binding
+|Binding.Local role=evaluation_outcome
+|Binding.Bound role=Evaluation.evaluation
+}}{{Binding
+|Binding.Local role=difficulties in evaluating
+|Binding.Bound role=Visual obstruction.obstructing_object
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

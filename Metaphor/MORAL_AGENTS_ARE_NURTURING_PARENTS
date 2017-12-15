@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Morality as nurturance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Nurturant parent family
+|Target frame=Moral action
+|Mappings={{Mapping
+|Target=moral_actor
+|Source=parent(s)
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=MORAL ACTION IS NURTURANCE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The government takes good care of its people.
+}}{{Example
+|Example.Language=English
+|Example.Text=The CEO looks after her employees with motherly kindness.
+}}{{Example
+|Example.Language=English
+|Example.Text=With gentle care and attention, the pastor's congregation will flourish.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

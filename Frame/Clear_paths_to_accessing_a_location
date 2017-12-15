@@ -1,0 +1,46 @@
+{{Frame
+|Comments=This means the active version of 'remove obstacles along a path'
+|Family=Impediment and enablement frames, Motion-affecting frames, Location frames,
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Physical path
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Access to a location
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=unobstructed.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=make.v way
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unhindered.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unhinder.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unblocked.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clear.v the area
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=clear.v the way
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vacate.v
+}}
+|LinkSpanish=Caminos claros hacia fuera de un lugar
+}}

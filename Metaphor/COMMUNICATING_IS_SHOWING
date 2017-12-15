@@ -1,0 +1,43 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=COMMUNICATING IS SHOWING
+}}
+|Family=Conduit Metaphor, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Cause to see
+|Target frame=Communication
+|Mappings={{Mapping
+|Target=communicator
+|Source=Shower
+}}{{Mapping
+|Target=addressee
+|Source=Seeer
+}}{{Mapping
+|Target=message
+|Source=Object_seen
+}}{{Mapping
+|Target=communicator
+|Source=perception_causer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COMMUNICATING IS POINTING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Success of communication
+|Entailment.Source inference=Responsiveness of addressee to shown thing
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Let me illustrate the theory with some examples.
+}}{{Example
+|Example.Language=English
+|Example.Text=I'm now going to show you that you are wrong.
+|Example.Provenance=The Political Mind, p. 7
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

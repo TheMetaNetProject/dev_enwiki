@@ -1,0 +1,60 @@
+{{Frame
+|Other aliases=The press, Journalism, News
+|Comments=Created to respond to demand for more target frames (May 2014).
+|Family=Democratic institutions frames,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=media_producers
+}}{{Role
+|Role.Name=media_audience
+}}{{Role
+|Role.Name=media_message
+}}{{Role
+|Role.Name=media_medium
+}}{{Role
+|Role.Name=media_influencers
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Communication
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Democratic institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=media.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=press.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=journalism.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=journalist.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=broadcasting.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=broadcast.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=newspaper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reporting.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reporter.n
+}}
+|LinkSpanish=Medio de comunicación
+|LinkPersian=رسانه
+|Applicability=English
+}}

@@ -1,0 +1,87 @@
+{{Frame
+|Description=Use of the language of religion to talk about dedication to an object/phenomenon.
+|Family=Morality frames, Zealotry Insanity Worship frame family,
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=worshipper
+}}{{Role
+|Role.Name=worshipped thing
+|Role.Definition=e.g. deity
+}}{{Role
+|Role.Name=worshipping_action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Moral action
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Deity
+}}
+|Bindings={{Binding
+|Binding.Local role=worshipper
+|Binding.Bound role=Deity.believer
+}}{{Binding
+|Binding.Local role=worshipped thing
+|Binding.Bound role=Deity.deity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=worship.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=venerate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=veneration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=idolize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=idolatry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=revere.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pray.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prayer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bow down to
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bow to
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deify.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glorify.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=canonize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reverence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=altar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shrine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=worshipper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gospel.n
+}}
+|Applicability=English
+}}

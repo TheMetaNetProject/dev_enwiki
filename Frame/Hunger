@@ -1,0 +1,47 @@
+{{Frame
+|Comments=This entry is dedicated to the cog corresponding to the internal sensation of hunger, rather than the frame that would be the external behavioral correlates of hunger.
+|Family=Eating Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=hunger_sensation
+}}{{Role
+|Role.Name=hunger_x-schema
+}}{{Role
+|Role.Name=experiencer
+|Role.Definition=the animate entity that is experiencing hunger_sensation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Eating
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=thirst.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thirsty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hunger.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hunger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hungry.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=munchies
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=appetite.n
+}}
+|LinkSpanish=Hambre
+|Applicability=English
+}}

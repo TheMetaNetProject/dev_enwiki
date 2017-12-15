@@ -1,0 +1,97 @@
+{{Frame
+|FrameNet frame=Rewards_and_punishments
+|Program alias=Punishment
+|Comments=This frame should probably be linked to some kind of Transgression or Crime frame (the reason the person is being punished), and also have some relation to a Reward frame
+|Family=Harm, Harm to living entity, Crime frames
+|Tags=Program sources
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=auto imported
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=punisher
+}}{{Role
+|Role.Name=punishee
+|Role.Type=entity
+}}{{Role
+|Role.Name=reason_for_punishment
+}}{{Role
+|Role.Name=type_of_punishment
+}}{{Role
+|Role.Name=results_of_punishment
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Harm to living entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Crime
+}}
+|Bindings={{Binding
+|Binding.Local role=punishee
+|Binding.Bound role=Harm.harmed_entity
+}}{{Binding
+|Binding.Local role=punishee
+|Binding.Bound role=Crime.criminal
+}}{{Binding
+|Binding.Local role=reason_for_punishment
+|Binding.Bound role=Crime.criminal_activity
+}}{{Binding
+|Binding.Local role=results_of_punishment
+|Binding.Bound role=Harm to living entity.harmful_effect
+}}{{Binding
+|Binding.Local role=punisher
+|Binding.Bound role=Harm to living entity.agent
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=penalty.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=punish.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=punishment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=penalize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=life sentence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=put in jail
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chastize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=punitive.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arrest.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arrest.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prison sentence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=condemn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=condemnation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crack.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crack.v the whip
+}}
+|LinkSpanish=Castigo
+}}

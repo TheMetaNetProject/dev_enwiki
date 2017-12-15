@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=The Time Orientation Metaphor
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=140
+}}
+|Family=Time Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=As we move through space, we perceive time as elapsing.
+|Source frame=Motion along a path
+|Target frame=Time
+|Mappings={{Mapping
+|Target=present_time
+|Source=location_of_observer
+}}{{Mapping
+|Target=past_time
+|Source=space_in_back_of_observer
+}}{{Mapping
+|Target=future_time
+|Source=space_in_front_of_observer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=TIME IS A MOVING OBJECT
+|Related metaphor.Description=Metaphoric duality relationship
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=That's all behind us now.
+}}{{Example
+|Example.Language=English
+|Example.Text=You can't go back in time!
+}}{{Example
+|Example.Language=English
+|Example.Text=We're looking ahead to the future.
+}}{{Example
+|Example.Language=English
+|Example.Text=He has a great future in front of him.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

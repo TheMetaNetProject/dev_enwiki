@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping, tentative
+|Family=Governance metaphors
+|Source frame=Upward motion
+|Target frame=Power
+|Mappings={{Mapping
+|Target=Power_holder
+|Source=mover
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONTROL IS UP
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Hitler's rise to power cannot be attributed to one event, but a mixture of factors including events happening outside Germany...
+|Example.Provenance=http://www.bbc.co.uk/schools/gcsebitesize/history/mwh/germany/hitlerpowerrev1.shtml
+}}{{Example
+|Example.Language=English
+|Example.Text=Regensburg’s political influence reached its peak when Regensburg was city of the Perpetual Diet or General Assembly of the Imperial Estates of the Holy Roman Empire from 1663 to 1806.
+|Example.Provenance=http://www.earli-jure2012.org/index.php?option=com_content&view=article&id=17&Itemid=16
+}}
+|Entered by=Eve
+|Last reviewed by=Ellen
+|Status=in development
+|LinkPersian=بدست آوردن قدرت، حرکت به سمت بالاست
+|Investigated for=English
+|Relevant LUs=
+}}

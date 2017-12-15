@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Building
+|Target frame=Career
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=CAREER IS A COMPLEX STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Stars whose careers collapsed in a relatively short amount of time
+|Example.Provenance=http://www.datalounge.com/cgi-bin/iowa/ajax.html?t=10379313#page:showThread,10379313
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

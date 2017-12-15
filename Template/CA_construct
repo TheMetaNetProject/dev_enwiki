@@ -1,0 +1,22 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA construct
+|construct.text=
+|construct.gloss=
+|construct.construction=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Text:
+| {{#ifeq:{{Lang|en}}|Persian|lang="fa" dir="rtl" align="right"}} | 
+{{Printgloss|{{{construct.text|}}}|{{{construct.gloss|}}}|{{Lang|}}}}
+|-
+!  Construction:
+|  {{{construct.construction|}}}
+|}{{#subobject:Is construct in
+|Has text={{{construct.text|}}}
+|Has text gloss={{{construct.gloss|}}}
+|Has construction={{{construct.construction|}}}}}
+</includeonly>

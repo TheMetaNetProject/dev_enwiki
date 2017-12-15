@@ -1,0 +1,39 @@
+{{Frame
+|Comments=Motion in order to avoid being at some location (which entails motion to some other destination).  Note that Avoiding in FrameNet refers to situations, not to locations.
+
+Need to decide if this is essentially a duplicate of the Avoiding obstacles frame.  Removed LU 'avoid' (12/2/14)
+|Family=Motion Frames, Movement frames, Directional movement frames, Translational motion frames
+|Type=Composed
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=self-mover
+}}{{Role
+|Role.Name=undesirable_location
+}}{{Role
+|Role.Name=source
+}}{{Role
+|Role.Name=path
+}}{{Role
+|Role.Name=goal
+}}{{Role
+|Role.Name=self-motion_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Self propelled motion to a destination
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Proximal distal
+}}
+|Bindings={{Binding
+|Binding.Local role=undesirable_location
+|Binding.Bound role=Proximal distal.center
+}}{{Binding
+|Binding.Local role=goal
+|Binding.Bound role=Proximal distal.distal_region
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

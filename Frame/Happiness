@@ -1,0 +1,47 @@
+{{Frame
+|Family=Emotion Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=experiencer
+}}{{Role
+|Role.Name=happiness
+|Role.Definition=the expeirenced emotion
+}}{{Role
+|Role.Name=cause_of_emotion
+}}{{Role
+|Role.Name=body
+|Role.Definition=body of the experiencer
+}}{{Role
+|Role.Name=bodily_effect
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emotion
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Emotion.experiencer
+}}{{Binding
+|Binding.Local role=happiness
+|Binding.Bound role=Emotion.emotion
+}}{{Binding
+|Binding.Local role=cause_of_emotion
+|Binding.Bound role=Emotion.cause_of_emotion
+}}{{Binding
+|Binding.Local role=bodily_effect
+|Binding.Bound role=Emotion.bodily_effect
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Emotion.body
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=happiness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=happy.a
+}}
+}}

@@ -1,0 +1,57 @@
+{{Frame
+|Description=factor(s) that negatively affect actor's ability to achieve objective
+|Family=Action frames, Excluded frames,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana, Ellen
+|Roles={{Role
+|Role.Name=actor
+}}{{Role
+|Role.Name=difficulty
+|Role.Definition=factor(s) that negatively affect actor's ability to achieve objective
+}}{{Role
+|Role.Name=objective
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Purposeful action
+}}
+|Bindings={{Binding
+|Binding.Local role=actor
+|Binding.Bound role=Purposeful action.actor
+}}{{Binding
+|Binding.Local role=objective
+|Binding.Bound role=Purposeful action.objective
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=difficulty.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=difficulties
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hardship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=distress
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crisis
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crises
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adversity
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=complication
+}}
+|LinkSpanish=Dificultades en la acción
+}}

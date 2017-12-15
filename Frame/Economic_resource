@@ -1,0 +1,28 @@
+{{Frame
+|Family=Economic Frames,
+|Tags=Program sources
+|Type=Frame
+|Status=auto imported
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Resource
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=funds.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fund.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=subsidy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=subsidize.v
+}}
+|LinkSpanish=Recursos  económicos
+}}

@@ -1,0 +1,56 @@
+{{Frame
+|Description=A person or people who are under the authority of a master
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=servant
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Servitude
+}}
+|Bindings={{Binding
+|Binding.Local role=servant
+|Binding.Bound role=Servitude.subjugated
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=servant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=serf.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slave.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=subservient
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vassal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thrall.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=in chains
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=maid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=butler.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lackey.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=footman.n
+}}
+|Applicability=English
+}}

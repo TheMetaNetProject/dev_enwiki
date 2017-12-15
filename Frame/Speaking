@@ -1,0 +1,62 @@
+{{Frame
+|FrameNet frame=Speak_on_topic
+|Family=Communication Frames, Excluded frames,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=speaker
+|Role.Type=Person
+|Role.FrameNet role=Speaker
+}}{{Role
+|Role.Name=addressee
+|Role.Type=Person
+|Role.FrameNet role=Audience
+}}{{Role
+|Role.Name=message
+}}{{Role
+|Role.Name=topic
+|Role.FrameNet role=Topic
+}}{{Role
+|Role.Name=manner
+|Role.FrameNet role=Manner
+}}{{Role
+|Role.Name=speaking_x-schema
+|Role.Definition=action of speaking
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Communication
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bodily functioning
+}}
+|Bindings={{Binding
+|Binding.Local role=speaker
+|Binding.Bound role=Communication.communicator
+}}{{Binding
+|Binding.Local role=addressee
+|Binding.Bound role=Communication.addressee
+}}{{Binding
+|Binding.Local role=message
+|Binding.Bound role=Communication.message
+}}{{Binding
+|Binding.Local role=topic
+|Binding.Bound role=Communication.topic
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=address.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=speak.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voice.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voice.v
+}}
+|Applicability=English
+}}

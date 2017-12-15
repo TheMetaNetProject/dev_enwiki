@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Steering a boat
+|Target frame=Leading a nation
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=LEADING A GROUP IS DRIVING A VEHICLE
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NATION IS A BOAT
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=FUTURE OF A NATION IS PATH OF BOAT
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Failing to lead a nation
+|Entailment.Source inference=Failing to steer a boat
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The president is steering the country into unknown waters.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

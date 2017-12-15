@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIME IS A RESOURCE
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=TIME IS A LIMITED RESOURCE
+}}
+|Comments=Relate this somehow to OPPORTUNITIES ARE RESOURCES.
+|Family=Time Metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Resource
+|Target frame=Time
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIME IS AN ENTITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our time is valuable.
+|Example.Provenance=Elise
+}}{{Example
+|Example.Language=English
+|Example.Text=We don't have much time.
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

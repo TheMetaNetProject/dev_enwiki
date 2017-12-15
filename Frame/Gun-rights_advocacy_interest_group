@@ -1,0 +1,43 @@
+{{Frame
+|Family=Gun rights family, Gun debate, 
+|Type=Frame
+|Cultural scope=American English, American conservative
+|Status=in development
+|Entered by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun-rights advocacy
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Organization
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=NRA.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=National Rifle Association
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=NAGR.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=National Association for Gun Rights
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Minutemen.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Second Amendment Foundation
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Gun Owners of America
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights advocate.n
+}}
+|Applicability=English
+}}

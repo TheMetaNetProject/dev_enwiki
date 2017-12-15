@@ -1,0 +1,47 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=NATION IS A MACHINE
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=COUNTRY IS A MACHINE
+}}
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=machine_entity
+}}{{Mapping
+|Target=nation_leaders
+|Source=operator_of_machine
+}}{{Mapping
+|Target=state_of_nation
+|Source=functional_status
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=NATION IS A COMPLEX STRUCTURE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Nation failing to function effectively
+|Entailment.Source inference=Machine breaking down
+}}{{Entailment
+|Entailment.Target entailment=Effectively-governed country functions efficiently
+|Entailment.Source inference=Well-maintained machine works efficiently
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=If the President doesn't show some leadership, the country will grind to a halt.
+}}{{Example
+|Example.Language=English
+|Example.Text=...and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly.
+|Example.Provenance=http://www.dcnepalevent.com/news/news-hightlights.php?nid=78946
+}}
+|Entered by=Oana,
+|Last reviewed by=Mark
+|Status=in development
+|LinkRussian=ПРАВИТЕЛЬСТВО - ЭТО МАШИНА
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Eating
+|Target frame=Resource consumption
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=CONSUMING TOO MANY RESOURCES IS EATING TOO MUCH FOOD
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This SUV sure is a gas guzzler.
+}}{{Example
+|Example.Language=English
+|Example.Text=Demand for paper goods is eating away at our planet's forests.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SICKNESS IS DOWN
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Tags=orientational,
+|Family=Well-being Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Health
+|Mappings={{Mapping
+|Target=sick_entity
+|Source=supine_entity
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=HEALTH IS VERTICALITY
+|Related metaphor.Description=A scalar entailment focusing on the negative end of the scale.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's sinking fast.
+}}{{Example
+|Example.Text=He came down with the flu.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors, Government institution metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Body
+|Target frame=Government institution
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GOVERNMENT INSTITUTION IS A BODY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Randy has a plan to turn a bloated government of Washington bureaucrats into a lean and efficient government
+|Example.Provenance=forbes.house.gov/issuesleg/leaf_lean.htm
+}}
+|Entered by=Ellen
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=PEOPLE ARE PLANTS
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Metaphor Type=Composed/complex
+|Source frame=Plants
+|Target frame=Person
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=DEVELOPING AN ATTRIBUTE IS CULTIVATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Bloom where you are planted.
+|Example.Provenance=Elise
+}}{{Example
+|Example.Language=English
+|Example.Text=The young man is rather green and does not have enough experience to drive the large machinery.
+}}{{Example
+|Example.Language=English
+|Example.Text=We saw the withered old woman.
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Comments=We need to formulate a high level market frame, from which we will create special case market frames (particular industries, job market, etc.). Roles are needed here.
+|Family=Economic Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Elisabeth
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Institution
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=market.n
+}}
+|Applicability=English
+}}

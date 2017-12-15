@@ -1,0 +1,35 @@
+{{Metaphor
+|Aliases=
+|Family=Taxation metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Physical harm
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=taxer
+|Source=agent
+}}{{Mapping
+|Target=tax_payer
+|Source=victim
+}}{{Mapping
+|Target=tax_payment
+|Source=harmful_effect
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=NEGATIVELY EVALUATED CONDITIONS ARE HARMFUL AGENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=High sales taxes hurt local small businesses.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=English
+|Example.Text=We are being taxed to death!
+|Example.Provenance=http://www.debate.org/opinions/are-taxes-in-the-u-s-fair
+}}
+|Entered by=Jisup
+|Status=in development
+|Investigated for=English
+}}

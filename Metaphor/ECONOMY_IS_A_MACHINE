@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases=
+|Family=Economics Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Economy
+|Mappings={{Mapping
+|Target=economy_whole
+|Source=machine_entity
+}}{{Mapping
+|Target=economic_efficiency
+|Source=functional_status
+}}{{Mapping
+|Target=purpose_of_economy
+|Source=purpose_of_machine
+}}{{Mapping
+|Target=economy_participants
+|Source=machine_users
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ECONOMY IS A COMPLEX STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=With The Economy Humming, Will Manufacturing Software Help Manufacturers Stay In Tune?
+|Example.Provenance=http://www.softwareerp.com/with-the-economy-humming-will-manufacturing-software-help-manufacturers-stay-in-tune/#ixzz2WRmxMXkK
+}}{{Example
+|Example.Language=English
+|Example.Text="Although we have a long way to go before we can put this recession behind us, the gears of our economic engine do appear ... to be slowly turning once again,"
+|Example.Provenance=http://truth-out.org/opinion/item/23160-jesus-is-an-economic-engine-dismantling-the-metaphoric-mechanization-of-everything
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|LinkSpanish=ECONOMÍA ES UNA MÁQUINA
+|LinkPersian=اقتصاد مقاومتی ماشین است
+|Investigated for=English
+}}

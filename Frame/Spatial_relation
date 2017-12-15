@@ -1,0 +1,34 @@
+{{Frame
+|Family=Spatial relations, Location frames,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=entity_1
+}}{{Role
+|Role.Name=entity_2
+}}{{Role
+|Role.Name=spatial_relation_type
+|Role.Definition=e.g. proximity, topology, alignment
+}}{{Role
+|Role.Name=spatial_relation_value
+|Role.Definition=e.g. close, contact
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Relation
+|Related frame.Description=specific domain: Space
+}}
+|Bindings={{Binding
+|Binding.Local role=entity_1
+|Binding.Bound role=Relation.entity_1
+}}{{Binding
+|Binding.Local role=entity_2
+|Binding.Bound role=Relation.entity_2
+}}
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Relación espacial
+|Applicability=English
+}}

@@ -1,0 +1,77 @@
+{{Frame
+|Family=Motion-affecting frames, Impediment and enablement frames, Motion impediments frames, 
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development
+|Entered by=Ellen, Oana
+|Roles={{Role
+|Role.Name=restraining_entity
+}}{{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=affected_motion
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion-affecting objects
+}}
+|Bindings={{Binding
+|Binding.Local role=restraining_entity
+|Binding.Bound role=Motion-affecting objects.impediment
+}}{{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion-affecting objects.mover
+}}{{Binding
+|Binding.Local role=affected_motion
+|Binding.Bound role=Motion-affecting objects.affected_motion
+}}
+|Inferences={{Inference
+|Inference.Description=When restraining entity is attached to mover, mover's ability to move is negatively affected.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=snare.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ensnare.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restrain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restrainment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restrict.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restraint.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=restriction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hindrance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hinder.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hold.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tangle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entangle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=entanglement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=suppress.v
+}}
+|LinkSpanish=Restricciones construidas
+|Applicability=English
+}}

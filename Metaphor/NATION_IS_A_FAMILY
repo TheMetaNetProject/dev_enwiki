@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Family
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=family_whole
+}}{{Mapping
+|Target=citizens
+|Source=family_members
+}}{{Mapping
+|Target=nation_leaders
+|Source=parents
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our national arguments are family arguments, we still talk to each other at the end of the day.
+}}
+|Entered by=MetaNet group, 
+|Last reviewed by=Mark, Oana
+|Status=in development
+|LinkRussian=НАЦИЯ - ЭТО СЕМЬЯ
+|Investigated for=English
+|Relevant LUs=
+}}

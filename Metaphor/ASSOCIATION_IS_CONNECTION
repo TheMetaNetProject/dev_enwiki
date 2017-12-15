@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Physical connection
+|Target frame=Association
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SIMILARITY IS PROXIMITY
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=CATEGORIES ARE BOUNDED REGIONS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Try to form connections with powerful people when you run for office.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=UNDERSTANDING IS FOLLOWING
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Mind Metaphors,
+|Source frame=Guided motion
+|Target frame=Understanding
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I don't follow you.
+|Example.Provenance=Elise
+|Example.Comments=from entailment: Not understanding is not following. Meaning: I don't understand what you're saying.
+}}{{Example
+|Example.Language=English
+|Example.Text=This lecture will be fast-paced, so try to keep up!
+|Example.Provenance=Elise
+|Example.Comments=involves inference that degree of comprehension is rate of following
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Relevant LUs=
+}}

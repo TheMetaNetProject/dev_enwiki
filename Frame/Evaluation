@@ -1,0 +1,33 @@
+{{Frame
+|FrameNet frame=Assessing
+|Comments=see discussion
+|Family=Evaluation Frames
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=evaluee
+|Role.Definition=entity being evaluated
+|Role.FrameNet role=Evaluee
+}}{{Role
+|Role.Name=evaluator
+|Role.Definition=person making evaluation
+|Role.FrameNet role=Judge
+}}{{Role
+|Role.Name=basis of evaluation
+|Role.Definition=parameter of evaluee that is being evaluated; could be person's behavior or appearance of an object
+}}{{Role
+|Role.Name=standard
+|Role.Definition=standard by which evaluee is being judged
+}}{{Role
+|Role.Name=evaluation
+|Role.Definition=how basis compares to standard
+}}
+|Related frames=
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=In order to be able to evaluate an evaluee's behavior, the evaluator needs to be able to know what the evaluee is doing.
+|Inference.Type=precondition
+}}
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,58 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=197
+}}
+|Comments=We could also make a metaphor in which the actor's objective is to get rid of an undesirable object.
+|Family=Object Event Structure Metaphor, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Gain possession
+|Target frame=Purposeful action
+|Mappings={{Mapping
+|Target=actor
+|Source=recipient
+}}{{Mapping
+|Target=action_x-schema
+|Source=getting_x-schema
+|Comment=action.x-schema.final = achivening purpose; getting_x-schema.final = gaining possession
+}}{{Mapping
+|Target=objective
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=CHANGE IS ACQUISITION
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EXPERIENCING A STATE IS POSSESSING AN OBJECT
+}}
+|Entailments={{Entailment}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=They just handed him the job.
+|Example.Provenance=Philosophy in the Flesh (197)
+}}{{Example
+|Example.Language=English
+|Example.Text=Seize the opportunity.
+|Example.Provenance=Philosophy in the Flesh (197)
+}}{{Example
+|Example.Language=English
+|Example.Text=I kept getting close to a world championship, but it kept escaping me.
+|Example.Provenance=Philosophy in the Flesh (197)
+}}{{Example
+|Example.Language=English
+|Example.Text=He finally managed to get a smile out of her.
+|Example.Provenance=Grady 1998:112
+}}{{Example
+|Example.Language=English
+|Example.Text=She landed four huge accounts this year.
+|Example.Provenance=Grady 1998:112
+}}
+|Entered by=Elise,
+|Last reviewed by=Oana, Ellen, Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

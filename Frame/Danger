@@ -1,0 +1,98 @@
+{{Frame
+|Description=An entity or situation that potentially imperils a person or thing
+|FrameNet frame=Risky_situation
+|Family=Harm, Harm to living entity, Endangerment frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=dangerous_entity
+|Role.FrameNet role=dangerous_entity
+}}{{Role
+|Role.Name=dangerous_situation
+|Role.FrameNet role=situation
+}}{{Role
+|Role.Name=endangered_entity
+|Role.FrameNet role=asset
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Physical harm
+}}
+|Bindings={{Binding
+|Binding.Local role=dangerous_entity
+|Binding.Bound role=Harm.cause
+}}{{Binding
+|Binding.Local role=endangered_entity
+|Binding.Bound role=Harm.harmed_entity
+}}
+|Inferences={{Inference
+|Inference.Description=If a dangerous entity/situation is present, the endangered_entity may come to harm.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=danger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dangerous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pose.v danger
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hazard.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hazardous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=peril.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perilous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=threat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=threatening.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=threaten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=endanger.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=endangerment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exigency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exigent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unsafe.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=risk.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=risk.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=risky.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=treacherous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=imperil.v
+}}
+|LinkSpanish=Peligro
+|Applicability=English
+}}

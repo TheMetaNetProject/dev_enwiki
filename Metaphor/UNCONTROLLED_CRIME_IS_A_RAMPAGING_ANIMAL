@@ -1,0 +1,31 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=UNCONTROLLED CRIME IS A RAMPAGING ANIMAL
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Animal
+|Target frame=Crime
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=ADDRESSING CRIME IS CONTROLLING AN ANIMAL
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CRIME IS AN ANIMAL
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Crime is stalking the youth of our major cities.
+}}{{Example
+|Example.Language=English
+|Example.Text=gang crime ravages inner cities, destroys families, and causes whole neighborhoods to hunker down in fear
+|Example.Provenance=http://www.philanthropyroundtable.org/topic/economic_opportunity/taking_it_to_the_streets
+}}
+|Entered by=?
+|Last reviewed by=oana
+|Status=in development
+|Investigated for=English
+}}

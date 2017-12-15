@@ -1,0 +1,23 @@
+{{Frame
+|Comments=Different from Gun Possession.
+|Family=Gun debate, 
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=gun_user
+}}{{Role
+|Role.Name=gun
+}}{{Role
+|Role.Name=purpose_of_gun_use
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Using
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

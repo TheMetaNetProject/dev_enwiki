@@ -1,0 +1,45 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ATTRIBUTES ARE POSSESSIONS
+|Metaphor.Alias.Provenance=Philosophy in the Flesh
+|Metaphor.Alias.Page no=p. 195
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Object Event Structure Metaphor, Possession metaphors, Primary Metaphors, 
+|Metaphor Type=Primary
+|Cultural scope=American English, Persian
+|Source frame=Possession
+|Target frame=Experiencing a state
+|Mappings={{Mapping
+|Target=experiencer
+|Source=possessor
+}}{{Mapping
+|Target=state
+|Source=possession
+}}{{Mapping
+|Target=experienced_state_value
+|Source=possess_relation_status
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=EXPERIENCE OF A STATE IS SPATIAL RELATION WITH AN ENTITY
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=ATTRIBUTES ARE POSSESSIONS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=experiencer is not experiencing a particualr state
+|Entailment.Source inference=lack of possession relation with a particular enity
+|Entailment.Entailed metaphors=NOT EXPERIENCING A STATE IS NOT POSSESSING AN OBJECT
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I have a headache.
+|Example.Provenance=PITF, p. 196
+}}
+|Entered by=Ellen,
+|Status=in development
+|LinkPersian=تجربۀ یک حالت، مالکیت شیء است
+|Investigated for=English
+|Relevant LUs=
+}}

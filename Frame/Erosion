@@ -1,0 +1,70 @@
+{{Frame
+|Description=The process and experience of effects of erosion
+|Comments=Includes both causal process and experiencing of erosion
+|Family=Harm, Damage, Harmful encounters frames, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Elise,
+|Last reviewed by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=eroded_entity
+|Role.Type=entity
+}}{{Role
+|Role.Name=erosion_process
+|Role.Type=x-schema
+|Role.Definition=progressive, slow, ongoing process
+}}{{Role
+|Role.Name=eroding_effect
+|Role.Definition=depletion of content/mass
+}}{{Role
+|Role.Name=eroding_outcome
+|Role.Definition=loss of structural integrity, functionality
+}}{{Role
+|Role.Name=erosion_cause
+|Role.Definition=entity or process, force
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Destructive natural process
+}}
+|Bindings={{Binding
+|Binding.Local role=eroded_entity
+|Binding.Bound role=Destructive natural process.destroyed_entity
+}}{{Binding
+|Binding.Local role=eroding_effect
+|Binding.Bound role=Destructive natural process.destructive_effect
+}}{{Binding
+|Binding.Local role=erosion_process
+|Binding.Bound role=Destructive natural process.destructive_process
+}}{{Binding
+|Binding.Local role=eroding_outcome
+|Binding.Bound role=Destructive natural process.consequence_of_destruction
+}}{{Binding
+|Binding.Local role=erosion_cause
+|Binding.Bound role=cause_of_destruction
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=erode.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=erosion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eat away.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corrosion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corrode.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=corrosiveness.n
+}}
+|LinkSpanish=Erosión
+|Applicability=English
+}}

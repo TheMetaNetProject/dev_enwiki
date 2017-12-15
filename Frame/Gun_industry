@@ -1,0 +1,50 @@
+{{Frame
+|Description=The manufacturing and sale of guns, any aspect of the industry.
+|Family=Gun debate, Gun rights family, 
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Commercial transaction
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun possession
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun sales.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sale.n of guns
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun industry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearms industry.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun show.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun show loophole.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun manufacturer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun maker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearms manufacturer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun fair.n
+}}
+|Applicability=English
+}}

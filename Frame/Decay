@@ -1,0 +1,62 @@
+{{Frame
+|Family=Harm, Aversion frames, Damage,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Elise
+|Roles={{Role
+|Role.Name=decaying_process
+|Role.FrameNet role=x-schema: slow, progressive, ongoing
+}}{{Role
+|Role.Name=decayed_entity
+}}{{Role
+|Role.Name=decaying_effect
+}}{{Role
+|Role.Name=decay_consequence
+}}{{Role
+|Role.Name=decay_cause
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Destructive natural process
+}}
+|Bindings={{Binding
+|Binding.Local role=decaying_process
+|Binding.Bound role=Destructive natural process.destructive_process
+}}{{Binding
+|Binding.Local role=decayed_entity
+|Binding.Bound role=Destructive natural process.destroyed_entity
+}}{{Binding
+|Binding.Local role=decaying_effect
+|Binding.Bound role=Destructive natural process.destructive_effect
+}}{{Binding
+|Binding.Local role=decay_consequence
+|Binding.Bound role=Destructive natural process.consequence_of_destruction
+}}{{Binding
+|Binding.Local role=decay_cause
+|Binding.Bound role=Destructive natural process.cause_of_destruction
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=decay.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rust.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rust.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rot.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=decay.n
+}}
+|LinkSpanish=Descomponerse
+|Applicability=English
+}}

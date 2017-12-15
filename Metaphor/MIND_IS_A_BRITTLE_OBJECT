@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=MIND IS A BRITTLE OBJECT
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Mind Metaphors, Primary Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Object
+|Target frame=Mind
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=MIND IS AN OBJECT
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=MIND IS A COMPLEX STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=His mind just snapped.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

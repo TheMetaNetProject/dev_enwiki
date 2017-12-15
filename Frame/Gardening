@@ -1,0 +1,20 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=horticulture.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=landscaping.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=floriculture.n
+}}
+|Applicability=English
+}}

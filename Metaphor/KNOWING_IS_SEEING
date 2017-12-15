@@ -1,0 +1,114 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=UNDERSTANDING IS SEEING
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=296
+}}
+|Comments=merged with UNDERSTANDING IS SEEING
+
+Cultural scope checked for Persian--Aria
+|Tags=tenative
+|Family=Mind Metaphors,  Grady Primary Metaphors
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=Gaining knowledge through looking around
+|Source frame=Seeing scenario
+|Target frame=Knowing
+|Mappings={{Mapping
+|Target=knower
+|Source=seeer
+}}{{Mapping
+|Target=mind
+|Source=eyes
+}}{{Mapping
+|Target=knowing_capacity
+|Source=vision_faculty
+}}{{Mapping
+|Target=knowledge
+|Source=object_seen
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=THINKING IS PERCEIVING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Gaining knowledge
+|Entailment.Source inference=Onset of seeing; coming into sight
+|Entailment.Type=x-schema_stage
+}}{{Entailment
+|Entailment.Target entailment=Aid to knowing
+|Entailment.Source inference=Aid to seeing
+|Entailment.Type=x-schema_condition
+|Entailment.Entailed metaphors=AID TO KNOWING IS A LIGHT SOURCE
+}}{{Entailment
+|Entailment.Target entailment=Impediments to knowing
+|Entailment.Source inference=Impediments to seeing (visual obstructions)
+|Entailment.Type=image schematic_obstacle
+|Entailment.Entailed metaphors=DIFFICULTIES IN KNOWING ARE VISUAL OBSTRUCTIONS
+}}{{Entailment
+|Entailment.Target entailment=Knower's ability to know
+|Entailment.Source inference=Seer's ability to see
+|Entailment.Type=x-schema_condition; ability
+|Entailment.Entailed metaphors=ABILITY TO KNOW IS ABILITY TO SEE
+}}{{Entailment
+|Entailment.Target entailment=Attempting to gain knowledge
+|Entailment.Source inference=Searching
+|Entailment.Type=intention
+|Entailment.Entailed metaphors=SEEKING KNOWLEDGE IS SEARCHING
+}}{{Entailment
+|Entailment.Target entailment=Gaining knowledge
+|Entailment.Source inference=Discovery
+|Entailment.Type=x-schema_stage
+|Entailment.Entailed metaphors=GAINING KNOWLEDGE IS DISCOVERY
+}}{{Entailment
+|Entailment.Target entailment=Knowing in detail
+|Entailment.Source inference=Seeing from a short distance
+|Entailment.Type=image schematic; perspective
+}}{{Entailment
+|Entailment.Target entailment=Knowing overall
+|Entailment.Source inference=Seeing from a relatively long distance
+|Entailment.Type=image schematic; perspective
+}}{{Entailment
+|Entailment.Target entailment=Knowing from a perspective
+|Entailment.Source inference=Seeing from a vantage point
+|Entailment.Type=image schematic; perspective
+}}{{Entailment
+|Entailment.Target entailment=Giving knowledge (communicating)
+|Entailment.Source inference=Showing
+|Entailment.Type=image schematic
+|Entailment.Entailed metaphors=COMMUNICATING IS SHOWING
+}}{{Entailment
+|Entailment.Target entailment=Knowing in detail
+|Entailment.Source inference=Seeing from a short distance
+}}{{Entailment
+|Entailment.Target entailment=being poised to know
+|Entailment.Source inference=being poised to see
+|Entailment.Entailed metaphors=BEING POISED TO KNOW IS BEING POSITIONED TO SEE WELL
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I see what you mean.
+|Example.Provenance=Philosophy in the Flesh
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|LinkPersian=دانستن، دیدن است
+|Investigated for=English
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=see.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=light.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vision.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=show.v
+}}
+}}

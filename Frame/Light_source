@@ -1,0 +1,65 @@
+{{Frame
+|Description=light emitted from an object or other light source
+|Status=in development
+|Entered by=Elise, Ellen
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Luminosity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=beacon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=glow.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lighthouse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flame.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flare.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lamp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=torch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=light.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gleam.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=candle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lantern.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flashlight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bonfire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fire.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aurora.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flash.n
+}}
+|Applicability=English
+}}

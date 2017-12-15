@@ -1,0 +1,20 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=nurturer
+}}{{Role
+|Role.Name=nurtured
+}}{{Role
+|Role.Name=degree_of_nurturance
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Affection
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

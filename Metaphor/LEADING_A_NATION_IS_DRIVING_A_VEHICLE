@@ -1,0 +1,40 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LEADING A NATION IS DRIVING A VEHICLE
+}}
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Driving a vehicle
+|Target frame=Nation
+|Mappings={{Mapping
+|Target=nation_whole
+|Source=vehicle
+}}{{Mapping
+|Target=nation_citizens
+|Source=vehicle_passengers
+}}{{Mapping
+|Target=nation_leaders
+|Source=vehicle_drivers
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=NATION IS A VEHICLE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The president drove the nation into a ditch.
+}}{{Example
+|Example.Language=English
+|Example.Text=Obama on GOP: 'They Drove The Country Into A Ditch...Now They Want The Keys Back'
+|Example.Provenance=http://www.newsmax.com/Manage/Videos/VideoGallery/Obama-on-GOP---They-Drove-The-Country-Into-A-Ditch/
+}}{{Example
+|Example.Language=English
+|Example.Text=Where was he when he drove our country off a cliff?
+|Example.Provenance=http://www.heraldnet.com/article/20130428/OPINION04/704289930
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,58 @@
+{{Frame
+|Family=Eating Frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Hunger
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=starve.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=starving.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=starvation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=emaciated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fast.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=famine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=famished.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=famishment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ravenous.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ravnousness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voracious.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voraciousness.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=emaciate.v
+}}
+|LinkSpanish=Inanición
+|Applicability=English
+}}

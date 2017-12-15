@@ -1,0 +1,25 @@
+{{Frame
+|Type=Frame
+|Applicability=English
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=system_whole
+}}{{Role
+|Role.Name=system_parts
+}}{{Role
+|Role.Name=system_mutual_interrelatedness _of_parts
+}}{{Role
+|Role.Name=system_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Network
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Part whole
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

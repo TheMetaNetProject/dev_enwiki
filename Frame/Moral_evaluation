@@ -1,0 +1,33 @@
+{{Frame
+|FrameNet frame=Morality_evaluation
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=evaluee
+|Role.Definition=person whose morality is being evaluated
+}}{{Role
+|Role.Name=judge
+|Role.Definition=person making evaluation
+}}{{Role
+|Role.Name=behavior
+|Role.Definition=evaluee's behavior
+}}{{Role
+|Role.Name=moral_standard
+|Role.Type=scale
+|Role.Definition=moral standard by which behavior and/or evaluee are being judged
+}}{{Role
+|Role.Name=moral_judgement
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Morality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

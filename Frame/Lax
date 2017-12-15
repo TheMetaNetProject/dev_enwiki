@@ -1,0 +1,73 @@
+{{Frame
+|Family=Physical properties frame family
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope English and Spanish - Karie August 20, 2014
+|Status=proposed
+|Entered by=Karie,
+|Roles={{Role
+|Role.Name=lax_entity
+}}{{Role
+|Role.Name=lax_status
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Firmness
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Firm
+}}
+|Bindings={{Binding
+|Binding.Local role=lax_entity
+|Binding.Bound role=Firmness.firmness_entity
+}}{{Binding
+|Binding.Local role=lax_status
+|Binding.Bound role=Firmness.firmness_status
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=lax.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=flaccid.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=soft.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slack.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=squishy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mushy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=limp.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pliable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=malleable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=compressible.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spongy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ductile.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moldeable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=elastic.a
+}}
+|LinkSpanish=Laxo
+|Applicability=English
+}}

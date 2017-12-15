@@ -1,0 +1,53 @@
+{{Frame
+|Comments=Let's define concentration. Is it concentration of resources? Of a substance?
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=?
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Mass
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Substance
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=concentrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=de-concentrate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diffuse.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=density.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=concentrated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=concentration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deconcentration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=de-concentration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diffusion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=diffuse.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=deconcentrate.v
+}}
+|LinkSpanish=Concentración
+}}

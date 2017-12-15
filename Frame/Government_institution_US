@@ -1,0 +1,53 @@
+{{Frame
+|Comments=The U.S. government is an example (salient subcase) of the Government institution frame. It includes particular structures such as executive, judicial and legislative branches. It is NOT a parliamentary system, where the elected head of state is the majority leader in parliament; instead it is a presidential system.  Frames for these two subclasses should also be created.
+|Family=Governance frames, Government frames, Function of Government frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Eve
+|Roles={{Role
+|Role.Name=government_whole
+}}{{Role
+|Role.Name=responsibilities
+|Role.Definition=government's responsibilities
+}}{{Role
+|Role.Name=functions
+|Role.FrameNet role=means by which responsibilities are filled
+}}{{Role
+|Role.Name=executive_branch
+|Role.Definition=a PART of the US government with its own functions
+}}{{Role
+|Role.Name=judicial_branch
+|Role.Definition=a PART of the US government with judicial functions
+}}{{Role
+|Role.Name=legislative-branch
+|Role.FrameNet role=A subpart of the US government with its own functions
+}}{{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Government institution
+|Related frame.Description=specific case
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Legislative branch
+|Related frame.Description=Legislative branch US should be a PART of Government institution US
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Judicial branch
+}}
+|Bindings={{Binding
+|Binding.Local role=government_whole
+|Binding.Bound role=Government institution.government_whole
+}}{{Binding
+|Binding.Local role=responsibilities
+|Binding.Bound role=Government institution.government_responsibilities
+}}{{Binding
+|Binding.Local role=functions
+|Binding.Bound role=Government institution.functions
+}}{{Binding
+|Binding.Local role=legislative_branch
+|Binding.Bound role=legislative branch.legislature
+}}{{Binding}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GREATER DEGREE OF GUN CONTROL LEGISLATION IS STRONGER PHYSICAL RESTRAINT
+}}
+|Description=DEMO.
+|Family=Gun debate metaphors, DEMO metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Physical strength
+|Target frame=Gun control legislation
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=LESSER DEGREE OF GUN CONTROL LEGISLATION IS WEAKER PHYSICAL RESTRAINT
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=GUN CONTROL IS PHYSICAL RESTRAINT
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

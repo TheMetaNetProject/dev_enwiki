@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=LEARNING IS ACQUIRING
+|Metaphor.Alias.Provenance=Grady (1998)
+|Metaphor.Alias.Page no=127
+}}
+|Family=Conduit Metaphor, Possession metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=A correlation between physically possessing an object and having access to it in other senses, to manipulate it, to examine it, and use it.
+|Source frame=Gain possession
+|Target frame=Learning
+|Mappings={{Mapping
+|Target=learner
+|Source=recipient
+}}{{Mapping
+|Target=learned_material
+|Source=possession
+}}{{Mapping
+|Target=learning_x-schema
+|Source=getting_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IDEAS ARE POSSESSIONS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=This gives me a great idea!
+}}{{Example
+|Example.Text=I got a much better idea of what was going on after the last meeting.
+}}{{Example
+|Example.Language=English
+|Example.Text=She had acquired an intimate knowledge of the terrain, which now helped her to travel quickly.
+|Example.Provenance=Grady 1998:124
+}}{{Example
+|Example.Language=English
+|Example.Text=Her experience gave her a great deal of knowledge.
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

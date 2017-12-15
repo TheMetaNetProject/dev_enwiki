@@ -1,0 +1,19 @@
+{{Frame
+|Family=Morality frames, Action frames,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Morality
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Purposeful action
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Acción moral
+|Applicability=English
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Comments=This is the designated location of the LU 'civic'.
+|Family=Social frames,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=MetaNet group,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Citizen participation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Community
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=civic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=civil.a
+}}
+|Applicability=English
+}}

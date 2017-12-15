@@ -1,0 +1,56 @@
+{{Frame
+|Family=Aversion frames, Eating Frames,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development, auto imported
+|Entered by=metabot
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Body weight
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Increase size
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=engorged.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fat
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fat cat
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloated.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloat
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bilge
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=puffed out
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obese
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=obesity
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=opulent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bulgy
+}}
+|LinkSpanish=Sobrepeso corporal
+}}

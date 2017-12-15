@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Tags=tentative
+|Family=Governance metaphors,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Tending to plants
+|Target frame=Law
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LAWS ARE PLANTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=I concede that it has become indispensable to prune legislation, but it seems to me that this must be done with prudence and thought.
+|Example.Provenance=http://www.justice.gc.ca/eng/pi/icg-gci/norm/index.html
+}}
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

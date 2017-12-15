@@ -1,0 +1,64 @@
+{{Frame
+|Comments=Removed "fortitude"...reconsider if we need to add it back.
+|Family=Scale Frames, Physical properties frame family, Entity properties frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Power
+}}{{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Physical strength scale
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=strength.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stamina.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muscle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brute.a force.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backbone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vitality.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=might.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mighty.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brawn.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brawny.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strengthen.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strong.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=muscular.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tough.a
+}}
+|LinkSpanish=Fuerza física
+|Applicability=English
+}}

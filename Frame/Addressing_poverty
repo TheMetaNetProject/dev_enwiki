@@ -1,0 +1,47 @@
+{{Frame
+|Family=Poverty frames, Poverty-related frame network, 
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Ellen,
+|Roles={{Role
+|Role.Name=poverty
+}}{{Role
+|Role.Name=impoverished
+|Role.Definition=(segment of) affected by poverty
+}}{{Role
+|Role.Name=problem_solvers
+}}{{Role
+|Role.Name=problem-solving_actions
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Addressing social problems
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Poverty
+}}
+|Bindings={{Binding
+|Binding.Local role=problem_solvers
+|Binding.Bound role=Addressing social problems.problem_solvers
+}}{{Binding
+|Binding.Local role=problem-solving_actions
+|Binding.Bound role=Addressing social problems.solving_actions
+}}{{Binding
+|Binding.Local role=poverty
+|Binding.Bound role=Addressing social problems.social_problem
+}}{{Binding
+|Binding.Local role=impoverished
+|Binding.Bound role=Addressing social problems.society
+}}{{Binding
+|Binding.Local role=impoverished
+|Binding.Bound role=Poverty.impoverished_entity
+}}{{Binding
+|Binding.Local role=poverty
+|Binding.Bound role=Poverty.impoverishment
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

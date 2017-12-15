@@ -1,0 +1,44 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=case
+|ConceptGroup=GUN OVERSIGHT
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Freedom; Gun debate.
+10/8/14 (Ellen): removed 'Gun-rights advocacy interest group' frame due to large number of bad LMs associated with NRA and National Rifle Association
+|ConceptFrames={{Linked frame
+|Frame name=Gun rights
+}}{{Linked frame
+|Frame name=Right to self-defense
+}}{{Linked frame
+|Frame name=Gun-rights advocacy
+}}{{Linked frame
+|Frame name=Second Amendment
+}}{{Linked frame
+|Frame name=Gun industry
+}}{{Linked frame
+|Frame name=Gun-rights advocate
+}}{{Linked frame
+|Frame name=Gun rights legislation
+}}{{Linked frame
+|Frame name=Gun possession
+}}{{Linked frame
+|Frame name=Gun ownership
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Responsibility
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Civil social-political community
+}}
+|BlacklistSourceLUs={{Blacklist source LUs
+|BlacklistSourceLU=corporate.a
+}}{{Blacklist source LUs
+|BlacklistSourceLU=task force.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=advocate.n
+}}{{Blacklist source LUs
+|BlacklistSourceLU=advocacy.n
+}}
+}}

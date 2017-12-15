@@ -1,0 +1,15 @@
+{{Frame
+|Family=Economic Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=MetaNet group, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Market
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

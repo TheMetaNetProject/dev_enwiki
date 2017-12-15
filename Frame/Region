@@ -1,0 +1,21 @@
+{{Frame
+|Description=A spatial expanse, with potentially differentiable sub-regions/locations
+|Family=Location frames, Bounding, 
+|Status=in development
+|Entered by=Ellen, Elise
+|Roles={{Role
+|Role.Name=background
+|Role.Definition=region as a whole
+}}{{Role
+|Role.Name=locations
+|Role.Definition=locations within region as whole, can be regions of various extent
+}}{{Role
+|Role.Name=location_relations
+|Role.Definition=relations between locations
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

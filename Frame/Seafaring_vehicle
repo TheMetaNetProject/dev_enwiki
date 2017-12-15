@@ -1,0 +1,41 @@
+{{Frame
+|Family=Entity frames, Vehicle frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Vehicle
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=ship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=boat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nautical.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cruise.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seagoing.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seafaring.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aquatic.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=oceangoing.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marine.adj
+}}
+}}

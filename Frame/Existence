@@ -1,0 +1,30 @@
+{{Frame
+|Description=stasis
+|FrameNet frame=Existence
+|Family=State-related frames, Excluded frames,
+|Tags=Program sources
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=be
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=exist
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=is
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=existence
+}}
+}}

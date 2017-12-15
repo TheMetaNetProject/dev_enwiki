@@ -1,0 +1,51 @@
+{{Frame
+|Description=A general frame for various types of energy sources, e.g. electricity, fuel,
+|FrameNet frame=Electricity
+|Family=Resource Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=type
+}}{{Role
+|Role.Name=amount
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Resource
+}}
+|Bindings={{Binding
+|Binding.Local role=type
+|Binding.Bound role=Resource.type
+}}{{Binding
+|Binding.Local role=amount
+|Binding.Bound role=Resource.amount
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=energy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=energize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=electrify.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=electricity.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fuel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fuel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=voltage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wattage.n
+}}
+|Applicability=English
+}}

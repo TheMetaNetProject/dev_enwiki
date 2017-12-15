@@ -1,0 +1,42 @@
+{{Frame
+|FrameNet frame=Being_operational
+|Family=Scale Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles={{Role
+|Role.Name=functional_entity
+|Role.Type=Complex_physical_object
+}}{{Role
+|Role.Name=functional_status
+|Role.Definition=position on functionality scale
+}}{{Role
+|Role.Name=functionality_scale
+|Role.Type=scale
+}}{{Role
+|Role.Name=functionality_beneficiary
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Need
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}
+|Bindings={{Binding
+|Binding.Local role=functionality_scale
+|Binding.Bound role=State.possible_state_values
+}}{{Binding
+|Binding.Local role=functional_status
+|Binding.Bound role=State.profiled_state_value
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=functional.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=functionality.n
+}}
+|Applicability=English
+}}

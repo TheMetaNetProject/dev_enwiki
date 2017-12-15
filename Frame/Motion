@@ -1,0 +1,55 @@
+{{Frame
+|Description=This is the most general Motion frame
+|Comments=Frame description: All or part of an entity (mover) moves with respect to some landmark or background. This general frame encompasses both "motion-in-place" (movement that can occur within a fixed location, e.g. spinning) and translational motion (in which the mover occupies a series of different locations over time -- see Motion_Along_A_Path).
+|Family=Movement frames, Motion Frames, Translational motion frames, Moving entity frames,
+|Type=Cog, Primary
+|Cultural scope=universal
+|Status=in development, release candidate
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=motion_x-schema
+}}{{Role
+|Role.Name=speed
+}}{{Role
+|Role.Name=direction
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Process.protagonist
+}}{{Binding
+|Binding.Local role=motion_x-schema
+|Binding.Bound role=Process.x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=move.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=motion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shift.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shift.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=movement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mobility.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mobile.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immovable.a
+}}
+}}

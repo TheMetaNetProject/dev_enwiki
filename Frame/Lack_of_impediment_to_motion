@@ -1,0 +1,17 @@
+{{Frame
+|Family=Impediment and enablement frames, Motion Frames, 
+|Type=Cog
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Enablement
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Impediment to motion
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

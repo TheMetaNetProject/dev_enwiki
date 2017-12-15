@@ -1,0 +1,38 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ROMANTIC RELATIONSHIPS ARE VEHICLES
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Comments=This metaphor is also a role mapping in ROMANTIC RELATIONSHIP IS A JOURNEY.
+|Family=LOVE IS A JOURNEY Cascade,
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Vehicle
+|Target frame=Romantic_relationship
+|Mappings={{Mapping
+|Target=relationship
+|Source=vehicle
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some source relation to
+|Related metaphor.Name=ROMANTIC RELATIONSHIP IS A JOURNEY
+|Related metaphor.Description=ROMANTIC RELATIONSHIP IS A JOURNEY have a mapping relationship<=vehicle, and this mapping yields its own metaphor.
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=RELATIONSHIPS ARE CONTAINERS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Romantic relationship encountering difficulties
+|Entailment.Source inference=Vehicle encountering obstacles
+|Entailment.Entailed metaphors=ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our relationship is veering off-course.
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

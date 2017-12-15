@@ -1,0 +1,46 @@
+{{Frame
+|FrameNet frame=Emotion_directed
+|Family=Emotion Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=experiencer
+}}{{Role
+|Role.Name=sadness
+}}{{Role
+|Role.Name=cause_of_sadness
+}}{{Role
+|Role.Name=body
+}}{{Role
+|Role.Name=bodily_effect
+}}{{Role
+|Role.Name=emotion_level
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emotion
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Emotion.experiencer
+}}{{Binding
+|Binding.Local role=sadness
+|Binding.Bound role=Emotion.emotion
+}}{{Binding
+|Binding.Local role=cause_of_sadness
+|Binding.Bound role=Emotion.cause_of_emotion
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Emotion.body
+}}{{Binding
+|Binding.Local role=bodily_effect
+|Binding.Bound role=Emotion.bodily_effect
+}}{{Binding
+|Binding.Local role=emotion_level
+|Binding.Bound role=Emotion.emotion_level
+}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

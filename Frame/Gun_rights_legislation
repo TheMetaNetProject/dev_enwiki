@@ -1,0 +1,49 @@
+{{Frame
+|Family=Gun debate, Legislation frames,
+|Type=Frame
+|Status=proposed
+|Entered by=Karie
+|Roles={{Role
+|Role.Name=legislation
+|Role.Definition=bill or law concerning use, ownership, etc. of guns
+}}{{Role
+|Role.Name=proponent_of_legislation
+}}{{Role
+|Role.Name=oponent_of_legislation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Gun legislation
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Personal weapon
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Gun rights
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro gun law.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro gun legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun rights legislation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro gun bill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun law.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pro-gun legislation.n
+}}
+|Applicability=English
+}}

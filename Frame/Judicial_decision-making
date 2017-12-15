@@ -1,0 +1,117 @@
+{{Frame
+|FrameNet frame=Ruling_legally
+|Comments=Based on US judicial system
+
+Cultural scope checked for Persian--Aria
+|Family=Governance frames,
+|Type=Frame
+|Cultural scope=American English, Persian
+|Cultural information=Judges rule on legality of laws, render verdicts in criminal and civil trial proceedings, and issue sentences
+|Status=in development
+|Entered by=Elise,
+|Roles={{Role
+|Role.Name=judicial_actor
+}}{{Role
+|Role.Name=judicial_ruling
+}}{{Role
+|Role.Name=judged_party
+}}{{Role
+|Role.Name=judicial_decision_process
+}}{{Role
+|Role.Name=deliberation
+}}{{Role
+|Role.Name=judged_party_status_change
+}}{{Role
+|Role.Name=judged_party_initial_status
+}}{{Role
+|Role.Name=judged_party_ruling_status
+}}{{Role
+|Role.Name=case_brought_to_court
+}}{{Role
+|Role.Name=judicial_outcome
+}}{{Role
+|Role.Name=judicial_actions
+}}{{Role
+|Role.Name=judicial_standards
+}}{{Role
+|Role.Name=judged_party_behavior
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Judicial action
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Government decision making
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Decision making
+}}
+|Bindings={{Binding
+|Binding.Local role=judicial_actor
+|Binding.Bound role=Judicial action.judicial_actor
+}}{{Binding
+|Binding.Local role=judicial_actor
+|Binding.Bound role=Government decision making.decision_maker
+}}{{Binding
+|Binding.Local role=judicial_ruling
+|Binding.Bound role=Government decision making.act_of_deciding
+}}{{Binding
+|Binding.Local role=judged_party
+|Binding.Bound role=Judicial action.judged_party
+}}{{Binding
+|Binding.Local role=judged_party
+|Binding.Bound role=Government decision making.entity_under_consideration
+}}{{Binding
+|Binding.Local role=judged_party_status_change
+|Binding.Bound role=Government decision making.entity_under_consideration_status_change
+}}{{Binding
+|Binding.Local role=judged_party_initial_status
+|Binding.Bound role=Government decision making.entity_under_consideration_initial_state
+}}{{Binding
+|Binding.Local role=judged_party_ongoing_status
+|Binding.Bound role=Government decision making.entity_under_consideration_ongoing_state
+}}{{Binding
+|Binding.Local role=judged_party_final_status
+|Binding.Bound role=Government decision making.entity_under_consideration_final_state
+}}{{Binding
+|Binding.Local role=case_brought_to_court
+|Binding.Bound role=Government decision making.introduction_of_entity_under_consideration
+}}{{Binding
+|Binding.Local role=judicial_outcome
+|Binding.Bound role=Government decision making.decison_making_outcome
+}}{{Binding
+|Binding.Local role=deliberation
+|Binding.Bound role=Government decision making.consideration
+}}{{Binding
+|Binding.Local role=judicial_actions
+|Binding.Bound role=Judicial action.judicial_action_x-schema
+}}{{Binding
+|Binding.Local role=judicial_actions
+|Binding.Bound role=Government decision making.decision_maker_actions
+}}{{Binding
+|Binding.Local role=judicial_standards
+|Binding.Bound role=Government decision making.decision_making_standard
+}}{{Binding
+|Binding.Local role=judged_party_behavior
+|Binding.Bound role=Government decision making.entity_under_consideration_characteristics
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=rule.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=convict.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=acquit.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overturn.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=uphold.v
+}}
+|LinkPersian=تصمیم گیری قضایی
+|Applicability=English
+}}

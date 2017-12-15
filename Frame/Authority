@@ -1,0 +1,75 @@
+{{Frame
+|Comments=An Authority_entity has legitimate control over one or more variables of entities/processes/situations that are within the Authority_entity's (legitimate) domain_of_authority.  This frame is a more specific subcase of Control, with added constraints relating to the legitimacy of the source of the Authority's power, the ways this control may be exercised, and which types of things can be controlled.  Note that "legitimacy" may be granted and/or assessed in different ways. With authority comes the implied responsibility to exercise that authority when needed.
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=authority_entity
+|Role.FrameNet role=Leader
+}}{{Role
+|Role.Name=domain_of_authority
+}}{{Role
+|Role.Name=source_of_authority
+|Role.Definition=e.g. authority_entity's competence or knowledge
+}}{{Role
+|Role.Name=governed
+|Role.FrameNet role=Governed
+}}{{Role
+|Role.Name=governed_activity
+|Role.FrameNet role=Activity
+}}{{Role
+|Role.Name=authority_power
+|Role.Definition=amount and/or type of power
+}}{{Role
+|Role.Name=authorized_actions
+}}{{Role
+|Role.Name=constraints_on_authorized_actions
+}}{{Role
+|Role.Name=authority_relation
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trust
+}}
+|Bindings={{Binding
+|Binding.Local role=authority_entity
+|Binding.Bound role=Control.controlling_entity
+}}{{Binding
+|Binding.Local role=domain_of_authority
+|Binding.Bound role=Control.scope_of_control
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Control.dependent_entity
+}}{{Binding
+|Binding.Local role=authority_power
+|Binding.Bound role=Control.ability_to_control
+}}{{Binding
+|Binding.Local role=governed_activity
+|Binding.Bound role=Control.dependent_process
+}}{{Binding
+|Binding.Local role=authority_entity
+|Binding.Bound role=Trust.trusted_entity
+}}{{Binding
+|Binding.Local role=governed
+|Binding.Bound role=Trust.trusting_entity
+}}{{Binding
+|Binding.Local role=authorized_actions
+|Binding.Bound role=Control.controlling_process
+}}{{Binding
+|Binding.Local role=authority_relation
+|Binding.Bound role=Control.control.relation
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=authority.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=authoritative.a
+}}
+|LinkPersian=اقتدار
+}}

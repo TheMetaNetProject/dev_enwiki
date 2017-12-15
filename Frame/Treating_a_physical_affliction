@@ -1,0 +1,154 @@
+{{Frame
+|Comments=There is also a Disease treatment frame. Consider which LUs are more general (and belong here) and which are specific to diseases and belong there.
+|Family=Harm, Harm to living entity, Disease frame family,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=treatment_provider
+}}{{Role
+|Role.Name=treatment_recipient
+}}{{Role
+|Role.Name=treated_affliction
+}}{{Role
+|Role.Name=treatment_procedure
+}}{{Role
+|Role.Name=treatment_tools
+}}{{Role
+|Role.Name=treatment_x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Physical affliction
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Causation
+}}
+|Bindings={{Binding
+|Binding.Local role=treated_affliction
+|Binding.Bound role=Physical affliction.affliction
+}}{{Binding
+|Binding.Local role=treatment_recipient
+|Binding.Bound role=Physical affliction.patient
+}}{{Binding
+|Binding.Local role=treatment_provider
+|Binding.Bound role=Causation.agent
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=band-aid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bandage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bandage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assuage.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prescribe.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=treat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alleviate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bandaid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=medicine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ameliorate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cure.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cure.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=curable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=incurable.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heal.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=relief.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=relieve.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=remedy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=remedy.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rehabilitation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rehabilitate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=elixir.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eradicate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=palliate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=patient.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prescription.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=treatment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=band aid.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=alleviation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=palliative.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=amelioration.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=doctor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nurse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=eradication.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=recover.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=recovery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=convalescence.n
+}}
+|LinkSpanish=Tratar una aflicción física
+}}

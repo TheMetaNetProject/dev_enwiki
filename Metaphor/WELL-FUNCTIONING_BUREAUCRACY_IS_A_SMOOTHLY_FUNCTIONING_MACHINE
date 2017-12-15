@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping, tentative
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Machine
+|Target frame=Bureaucracy
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=BUREAUCRACY IS A MACHINE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.
+}}
+|Entered by=Eve
+|Last reviewed by=Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

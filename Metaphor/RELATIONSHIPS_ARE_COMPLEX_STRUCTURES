@@ -1,0 +1,41 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=RELATIONSHIPS ARE COMPLEX PHYSICAL OBJECTS
+}}
+|Family=LOVE IS A JOURNEY Cascade, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Complex physical object
+|Target frame=Relationship
+|Mappings={{Mapping
+|Target=relationship_whole
+|Source=object_whole
+}}{{Mapping
+|Target=related_entities
+|Source=object_parts
+}}{{Mapping
+|Target=inter-relation
+|Source=object_part_relations
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=RELATIONSHIPS ARE OBJECTS
+}}{{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It takes work to build any relationship.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=English
+|Example.Text=The relationship fell apart.
+|Example.Provenance=Jisup
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

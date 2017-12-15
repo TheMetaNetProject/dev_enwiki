@@ -1,0 +1,38 @@
+{{Frame
+|Family=Entity frames,
+|Tags=Program sources
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Size
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Geographic feature
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=Alps.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mountain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=Himalayas.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prairie.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vast.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pyramid.n
+}}
+|LinkSpanish=Grandes características geográficas
+}}

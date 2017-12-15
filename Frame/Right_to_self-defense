@@ -1,0 +1,44 @@
+{{Frame
+|Family=Gun debate, Gun rights family,
+|Type=Frame
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=rights_holder
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Self-defense
+}}
+|Bindings={{Binding
+|Binding.Local role=rights_holder
+|Binding.Bound role=Self-defense.defender
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to self-defense.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to self-defence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right.n to self-defense
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=self-defense.n right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=self-defence.n right.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=right to self-protection.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=defensive use.n
+}}
+|Applicability=English
+}}

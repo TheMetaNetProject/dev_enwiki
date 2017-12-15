@@ -1,0 +1,30 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana, 
+|Roles={{Role
+|Role.Name=parent(s)
+}}{{Role
+|Role.Name=children
+}}{{Role
+|Role.Name=mother
+}}{{Role
+|Role.Name=father
+}}{{Role
+|Role.Name=family_whole
+}}{{Role
+|Role.Name=parenting_style
+|Role.Definition=Focus on empathy, need-based fairness, ...
+}}{{Role
+|Role.Name=traits_in_children
+|Role.Definition=Focus on empathy, tolerance, social responsibility...
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Nuclear family
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

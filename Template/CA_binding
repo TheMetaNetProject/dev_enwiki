@@ -1,0 +1,21 @@
+<noinclude>
+Call the template like this from the Construct analysis template:
+<pre>
+{{CA binding
+|binding.node1=
+|binding.node2=
+|binding.comment=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Binding:
+| {{{binding.node1|}}}={{{binding.node2|}}}
+|- {{#if:{{{comment|}}}| |style="display:none;"}}
+! Comments:
+| {{{binding.comment|}}}
+|}{{#subobject:Is binding in
+|Has binding node 1={{{binding.node1|}}}
+|Has binding node 2={{{binding.node2|}}}
+|Has comment={{{binding.comment|}}}}}
+</includeonly>

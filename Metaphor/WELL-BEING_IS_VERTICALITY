@@ -1,0 +1,52 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=WELL-BEING IS VERTICALITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=WELL-BEING IS UP
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Well-being Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Verticality
+|Target frame=Well-being
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GOODNESS IS VERTICALITY
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=QUANTITY IS VERTICALITY
+|Related metaphor.Description=more of something is usually good
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Well-being (feeling well physically and/or psychologically)
+|Entailment.Source inference=Upward motion along or high point on a vertical scale
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=WELL-BEING IS UP
+}}{{Entailment
+|Entailment.Target entailment=Ill-being (feeling bad physically and/or psychologically)
+|Entailment.Source inference=Downward motion along or low point on a vertical scale
+|Entailment.Type=scalar
+|Entailment.Entailed metaphors=ILL-BEING IS DOWN
+}}
+|Examples={{Example
+|Example.Text=Things are looking up today!
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=well-being.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=well.adv
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=good.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bad.adj
+}}
+}}

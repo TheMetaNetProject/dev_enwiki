@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Family=LOVE IS A JOURNEY Cascade, Life Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Motion along a path
+|Target frame=Life
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN
+|Related metaphor.Description=reverse "source special case of"
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Difficulties in progressing through life
+|Entailment.Source inference=Impediments to motion along a path
+|Entailment.Entailed metaphors=DIFFICULTIES IN PROGRESSING THROUGH LIFE ARE IMPEDIMENTS TO MOTION ALONG A PATH
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He made it this far in life without a partner, he can survive without one going forward.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

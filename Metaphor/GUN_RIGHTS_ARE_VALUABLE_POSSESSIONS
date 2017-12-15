@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GUN RIGHTS ARE VALUABLE OBJECTS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GUN RIGHTS ARE POSSESSIONS
+}}
+|Description=DEMO.
+|Comments=Any lack of clarity in the source domain name for this metaphor is a mirror image of the lack of clarity in the source frame network. It results from the intuition that possessions are inherently valuable.
+|Family=Gun debate metaphors, Rights metaphors, DEMO metaphors, 
+|Metaphor Level=Specific
+|Cultural scope=American English, American conservative
+|Source frame=Possessable object
+|Target frame=Gun rights
+|Mappings={{Mapping
+|Target=rights_holder
+|Source=possessor
+}}{{Mapping
+|Target=right
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=CITIZEN RIGHTS ARE POSSESSIONS
+}}
+|Entailments=
+|Examples=
+|Entered by=Ellen, Oana
+|Status=in development
+|Investigated for=English
+}}

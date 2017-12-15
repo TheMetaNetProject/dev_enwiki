@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Family=Legislation metaphors,
+|Metaphor Level=General
+|Source frame=Physical structure
+|Target frame=Law
+|Mappings={{Mapping
+|Target=law
+|Source=structure_whole
+}}{{Mapping
+|Target=law_creator
+|Source=structure_creator
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=LAWS ARE OBJECTS
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=NEGATIVELY AFFECTING A LAW IS CAUSING HARM TO A PHYSICAL STRUCTURE
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=dismantle gun laws
+}}
+|Entered by=Oana
+|Status=in development
+|Investigated for=English
+}}

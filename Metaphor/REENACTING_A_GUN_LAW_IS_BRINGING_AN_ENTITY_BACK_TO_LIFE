@@ -1,0 +1,32 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=REENACTING A GUN LAW IS RESTORING LIFE TO AN ENTITY
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=REENACTING A GUN LAW IS BRINGING AN ENTITY BACK TO LIFE
+}}
+|Family=Gun debate metaphors,
+|Source frame=Restore to life
+|Target frame=Gun control legislation
+|Mappings={{Mapping
+|Target=legislation
+|Source=life_liver
+}}{{Mapping
+|Target=proponent_of_legislation
+|Source=life_restorer
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=LAWS ARE LIVING ENTITIES
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Sixty-five members of his own party in the House of Representatives have urged the president not to resurrect the assault weapons ban that expired under George W. Bush. (One bright spot this year for gun control was in Maryland;
+|Example.Provenance=http://articles.baltimoresun.com/2009-04-12/news/0904100111_1_gun-control-guns-and-ammo-gun-violence
+|Example.Annotation="resurrect the assault weapons ban"
+}}
+|Entered by=Karie,
+|Last reviewed by=Oana
+|Status=proposed
+|Investigated for=English
+}}

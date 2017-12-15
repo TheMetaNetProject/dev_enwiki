@@ -1,0 +1,13 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment= 	9/22/14 (Oana): The following previously-linked frames are now deleted - Political region
+|ConceptFrames={{Linked frame
+|Frame name=Politics
+}}{{Linked frame
+|Frame name=Political equality
+}}{{Linked frame
+|Frame name=Political competition
+}}
+}}

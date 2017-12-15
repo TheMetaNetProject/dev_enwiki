@@ -1,0 +1,18 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - Legislative action.
+|ConceptFrames={{Linked frame
+|Frame name=Bureaucracy
+}}{{Linked frame
+|Frame name=Regulation
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs={{Blacklist target LUs
+|BlacklistTargetLU=rule.n
+}}
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

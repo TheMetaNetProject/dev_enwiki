@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GROUPS ARE POSSESSORS
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=GROUP MEMBERS ARE POSSESSIONS
+}}
+|Comments=Transitive metaphor:  Groups are Wholes are Possessors
+|Family=Possession
+|Metaphor Level=General
+|Source frame=Possession
+|Target frame=Group
+|Mappings={{Mapping
+|Target=group
+|Source=possessor
+}}{{Mapping
+|Target=members
+|Source=possession
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 1
+|Related metaphor.Name=GROUPS ARE PART-WHOLE STRUCTURES
+}}{{Related metaphor
+|Related metaphor.Relation type=has as transitive subpart 2
+|Related metaphor.Name=WHOLES ARE POSSESSORS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Milky Way belongs to a cluster of galaxies.
+|Example.Annotation="The Milky Way" = member [Target]/ possessed [Source]; "a cluster" = group [Target]/possessor [Source]; "belongs to" = [Source]
+}}{{Example
+|Example.Text=Our galaxy has at least 100 billion planets.
+}}
+|Entered by=Ellen
+|Status=in development
+|Relevant LUs=
+}}

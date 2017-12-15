@@ -1,0 +1,24 @@
+{{Frame
+|Description=Equal rights in political participation and being treated equally to other citizens under the law; having equal access to voicing opinions and freedoms.
+|Comments=should really be related to political participation and citizenship frames
+|Family=Politics frames,
+|Type=Frame
+|Status=in development
+|Entered by=Elise
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracy
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Equality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkSpanish=Igualdad política
+|Applicability=English
+}}

@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Family=Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Group
+|Target frame=Plurality
+|Mappings={{Mapping
+|Target=plurality_entity
+|Source=group
+}}{{Mapping
+|Target=individual_entities
+|Source=members
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=GROUPS ARE PART-WHOLE STRUCTURES
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MULTIPLICITY IS MASS
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Status=in development
+}}

@@ -1,0 +1,56 @@
+{{Frame
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Wealth and Social Class frames, Economic Frames, Poverty-related frame network, 
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=status holder
+|Role.Type=person
+}}{{Role
+|Role.Name=status
+}}{{Role
+|Role.Name=stative_x-schema
+}}{{Role
+|Role.Name=financial_resources
+}}{{Role
+|Role.Name=standard of living
+|Role.Definition=economic status the status holder compares themselves to
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Economic status
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing a state
+}}
+|Bindings={{Binding
+|Binding.Local role=status_holder
+|Binding.Bound role=Economic_status.status_holder
+}}{{Binding
+|Binding.Local role=status_holder
+|Binding.Bound role=Experiencing a state.experiencer
+}}{{Binding
+|Binding.Local role=status
+|Binding.Bound role=Economic status.status
+}}{{Binding
+|Binding.Local role=status
+|Binding.Bound role=Experiencing a state.experienced_state_value
+}}{{Binding
+|Binding.Local role=stative_x-schema
+|Binding.Bound role=Experiencing a state.stative_x-schema
+}}{{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Economic status.financial_resources
+}}{{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Experiencing a state.state
+}}{{Binding
+|Binding.Local role=standard of living
+|Binding.Bound role=Experiencing a state.standard
+}}
+|Inferences=
+|Relevant LUs=
+|LinkPersian=داشتن وضعیت اقتصادی مطلوب
+}}

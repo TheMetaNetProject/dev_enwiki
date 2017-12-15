@@ -1,0 +1,30 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SOCIETY IS A PERSON
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Social Metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Person
+|Target frame=Society
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=societies experience problems functioning
+|Entailment.Source inference=people experience physical ailments
+|Entailment.Entailed metaphors=SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our society is suffering from many social problems.
+}}
+|Entered by=Oana,
+|Last reviewed by=Ellen, Elise
+|Status=in development
+|LinkPersian=جامعه آدم است
+|Investigated for=English
+|Relevant LUs=
+}}

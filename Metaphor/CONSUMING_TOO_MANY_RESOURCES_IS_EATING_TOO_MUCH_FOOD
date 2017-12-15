@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=Overeating
+|Target frame=Resource consumption
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=CONSUMING RESOURCES IS EATING
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Developing nations are gobbling up our fossil fuels at any alarming rate.
+}}{{Example
+|Example.Language=English
+|Example.Text=The United States' insatiable appetite for electronics will entirely consume our supply of rare metals.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

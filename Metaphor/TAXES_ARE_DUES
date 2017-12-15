@@ -1,0 +1,29 @@
+{{Metaphor
+|Aliases=
+|Comments=This is a very specific metaphor; unclear what the source frame is (without creating a very specific Dues frame).
+|Tags=tentative,
+|Family=Governance metaphors, Taxation metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Cultural scope=American English
+|Source frame=Group membership
+|Target frame=Taxation
+|Mappings={{Mapping
+|Target=tax_payer
+|Source=member
+}}{{Mapping
+|Target=tax_payment
+|Source=membership_fee
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Taxes, after all, are dues that we pay for the privileges of membership in an organized society
+|Example.Provenance=quote from Franklin D. Roosevelt , cited on: http://itsamoneything.com/money/2009/03/taxes-are-membership-dues-in-organized.html
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,25 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame
+|Roles={{Role
+|Role.Name=Governed_individuals
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Institution
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Moral corruption
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=Governed individuals place Trust in Government.
+}}{{Inference
+|Inference.Description=Government in turn Trust the officials who fill roles of responsibility/authority in Government.
+}}
+|Relevant LUs=
+|Applicability=English
+}}

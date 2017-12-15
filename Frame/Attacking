@@ -1,0 +1,144 @@
+{{Frame
+|Description=Attacking actions performed on another animate entity
+|Comments=one person attacks another, typically with the objective of hurting the other person
+|Family=Physical conflict frames, Harm, Harm to living entity, Physical combat frame family
+|Type=Frame
+|Status=in development, release candidate
+|Entered by=Oana,
+|Last reviewed by=Ellen, Elise,
+|Roles={{Role
+|Role.Name=attacker
+|Role.Type=person
+}}{{Role
+|Role.Name=attacking_action
+|Role.Definition=action performed by attacker (agent)
+}}{{Role
+|Role.Name=attacked
+|Role.Type=person
+|Role.Definition=person that is attacked
+}}{{Role
+|Role.Name=reason_for_attack
+}}{{Role
+|Role.Name=weapon
+|Role.Definition=body part or object used by attacker
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Physical combat
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Harm to living entity
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Personal weapon
+}}
+|Bindings={{Binding
+|Binding.Local role=attacker
+|Binding.Bound role=Harm to living entity.agent
+}}{{Binding
+|Binding.Local role=attacking_action
+|Binding.Bound role=Harm to living entity.cause
+}}{{Binding
+|Binding.Local role=attacked
+|Binding.Bound role=Harm to living entity.victim
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=attack.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aggression.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aggressor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assailing
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assailant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assailment
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=offensive.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=onslaught.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strike.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=attacker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=attack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=kick.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=punch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bludgeon.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=beat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=jab.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pummel.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=smack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=beating.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tackle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoot.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spear.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stab.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assault.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=assault.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thrash.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=thrashing.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=whack.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wallop.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=besiege.v
+}}
+|Applicability=English
+}}

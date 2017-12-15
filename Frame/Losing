@@ -1,0 +1,24 @@
+{{Frame
+|FrameNet frame=Losing, Lose_possession
+|Comments=Coming to no longer be in possession of an object, and also being unable to identify the location of that object during the moment of loss. There is no visible cause of the loss (i.e. no forceful removal of the object by an external agent, or removal of the object by a non-volitional force).
+|Family=Possession Frames, 
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=loser
+}}{{Role
+|Role.Name=lost_object
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=misplace.v
+}}
+|Applicability=English
+}}

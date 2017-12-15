@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Family=Grady Primary Metaphors, Orientational Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Proximity
+|Target frame=Abstract relatedness
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=SIMILARITY IS PROXIMITY
+}}
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=INTERRELATEDNESS IS PHYSICAL INTERCONNECTEDNESS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=These ideas are closely related.
+|Example.Provenance=Metanet group
+}}
+|Entered by=MetaNet group,
+|Status=in development
+|Investigated for=English
+}}

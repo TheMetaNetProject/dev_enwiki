@@ -1,0 +1,49 @@
+{{Frame
+|Family=Mover-specific movement frames, Movement frames, Motion Frames, Moving entity frames, 
+|Type=Frame
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=Steering a boat
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=cast off.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adrift.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=on course.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=off course.prep
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=afloat.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=float.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drift.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=anchor.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moor.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sail.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=embark.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=navigate.v
+}}
+|Applicability=English
+}}

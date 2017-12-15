@@ -1,0 +1,60 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACQUIRING IDEAS IS EATING
+}}
+|Comments=See the numerous subcases of this metaphor for the relevant examples.
+|Family=Mind Metaphors, Primary Metaphors,
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=Eating
+|Target frame=Thinking about
+|Mappings={{Mapping
+|Target=ideas
+|Source=food
+}}{{Mapping
+|Target=thinker
+|Source=eater
+}}{{Mapping
+|Target=considering
+|Source=digesting
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IDEAS ARE FOOD
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=CONSIDERING IS CHEWING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=ACCEPTING IS SWALLOWING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COMMUNICATING IS FEEDING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=TESTING THE NATURE OF IDEAS IS SMELLING OR TASTING
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=acquired ideas
+|Entailment.Source inference=ingested food
+|Entailment.Entailed metaphors=IDEAS ARE FOOD
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=We pitched them the idea and they ate it right up.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's been feeding her lies all these years.
+}}{{Example
+|Example.Language=English
+|Example.Text=This article is hard to digest.
+|Example.Provenance=Reddy (1979)
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

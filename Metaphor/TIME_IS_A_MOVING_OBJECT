@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIME IS A MOVING OBJECT
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=The Moving Time Metaphor
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=141
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=MOMENTS IN TIME ARE OBJECTS IN MOTION ALONG A PATH
+|Metaphor.Alias.Provenance=Grady (1998)
+}}
+|Family=Time Metaphors, Grady Primary Metaphors, Time-motion metaphors
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=The correlation between the perception of motion and the awareness that the world-state has changed between one moment and the next. (See CHANGE IS MOTION
+|Source frame=Moving object
+|Target frame=Time
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in a dual relationship with
+|Related metaphor.Name=TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES
+|Related metaphor.Description=Metaphoric duality relationship
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Time flies.
+}}{{Example
+|Example.Language=English
+|Example.Text=The time will come when…
+}}{{Example
+|Example.Language=English
+|Example.Text=The time has long since gone when…
+}}{{Example
+|Example.Language=English
+|Example.Text=The time for action has arrived.
+}}
+|Entered by=Oana, Elise
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

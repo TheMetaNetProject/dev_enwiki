@@ -1,0 +1,80 @@
+{{Frame
+|Family=Economic Frames, Wealth and Social Class frames, Economic Inequality frames, Poverty-related frame network, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen, Elise, Aucher
+|Roles={{Role
+|Role.Name=status_holder
+|Role.Type=entity
+}}{{Role
+|Role.Name=financial_resources
+}}{{Role
+|Role.Name=status
+|Role.Definition=scalar value
+}}{{Role
+|Role.Name=minimal_status
+}}{{Role
+|Role.Name=intermediate_status
+}}{{Role
+|Role.Name=maximal_status
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social group
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Financial resource
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Possession
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Status
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=social class
+}}
+|Bindings={{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Scale.parameter
+}}{{Binding
+|Binding.Local role=status
+|Binding.Bound role=Scale.position_on_scale
+}}{{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Financial resource.type
+}}{{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Social group.defining_properties
+}}{{Binding
+|Binding.Local role=status_holder
+|Binding.Bound role=Social group.member
+}}{{Binding
+|Binding.Local role=financial_resources
+|Binding.Bound role=Possession.possessed
+}}{{Binding
+|Binding.Local role=status_holder
+|Binding.Bound role=Possession.possessor
+}}{{Binding
+|Binding.Local role=minimal_status
+|Binding.Bound role=Scale.minimal value
+}}{{Binding
+|Binding.Local role=maximal_status
+|Binding.Bound role=Scale.maximal value
+}}{{Binding
+|Binding.Local role=intermediate_status
+|Binding.Bound role=Scale.intermediate_values
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=economic status
+}}
+|LinkSpanish=Estado económico
+|Applicability=English
+}}

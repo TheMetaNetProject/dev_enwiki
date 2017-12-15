@@ -1,0 +1,38 @@
+{{Frame
+|Comments=This is a very specific scene drawing on several interacting frames. It is called up as a specific scenario in the context of ROMANTIC RELATIONSHIPS ARE A JOURNEY metaphor.
+|Type=Frame, Composed
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Boat
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Rocks_along_shore
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Boat motion x-schema
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Vehicular accident
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=A boat on the rocks is immobilized as a consequence of being on the rocks.
+}}{{Inference
+|Inference.Description=A boat on the rocks is damaged as a consequence of the collision that placed it in contact with rocks.
+}}{{Inference
+|Inference.Description=A boat on the rocks is not completely but partially destroyed, and as such it can be repaired.
+}}{{Inference
+|Inference.Description=Once repaired, it can be mobile again, and set back on its course.
+}}{{Inference
+|Inference.Description=Repair and re-mobilization of a boat that has collided with rocks will take a lot of work and effort.
+}}{{Inference
+|Inference.Description=Any passengers of the boat may be injured or harmed as a consequence of the collision.
+}}{{Inference
+|Inference.Description=Any passengers of the boat are no longer moving forward, since the boat has been rendered immobile.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoal.n
+}}
+}}

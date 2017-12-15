@@ -1,0 +1,36 @@
+{{Frame
+|FrameNet frame=Cycle_of_life_and_death, Dead_or_alive
+|Comments=Life stages can be viewed as a cycle or a linear path.
+Note: we may want to change this to 'Life developmental stages', which can be metaphorically understood in various ways.
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=beginning_of_life
+|Role.Definition=start of life cycle
+}}{{Role
+|Role.Name=developmental_stages
+|Role.Definition=intermediate stages within ongoing life
+}}{{Role
+|Role.Name=end_of_life
+|Role.Definition=end of life cycle
+}}{{Role
+|Role.Name=life_liver
+|Role.FrameNet role=Protagonist, Organism
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cycle
+|Related frame.Description=In one version, life is a cycle.
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=life cycle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lifecycle.n
+}}
+|Applicability=English
+}}

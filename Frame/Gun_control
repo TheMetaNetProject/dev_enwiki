@@ -1,0 +1,50 @@
+{{Frame
+|Description=A general frame for governmental controls on gun (and/or ammunition) ownership, use, sale, distribution, etc.
+|Family=Gun debate, Control of guns family,
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Ellen,
+|Roles={{Role
+|Role.Name=controlling_entity
+|Role.Definition=source of controls (and their enforcement), e.g. federal government
+}}{{Role
+|Role.Name=controlled_object
+|Role.Definition=guns, ammunition
+}}{{Role
+|Role.Name=affected_people
+|Role.Definition=people whose actions are affected by controlling entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Personal weapon
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n control.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n restriction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n control.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=firearm.n restriction.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=control of gun.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=control of firearm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=background check.n
+}}
+|Applicability=English
+}}

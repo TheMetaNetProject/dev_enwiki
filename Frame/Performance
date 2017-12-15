@@ -1,0 +1,32 @@
+{{Frame
+|Comments=Created to accommodate LUs needed for extraction in June 2014.
+Hmm, what source concept should 'stage' be in (as in 'the electoral stage')?
+|Type=Frame
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=stage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=perform.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=performance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drama.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dramatic.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=applause.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=standing.a ovation.n
+}}
+|Applicability=English
+}}

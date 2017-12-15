@@ -1,0 +1,54 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=A RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A BOAT ON THE ROCKS
+}}
+|Family=LOVE IS A JOURNEY Cascade,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Investigated for=English
+|Source frame=Boat on the rocks
+|Target frame=Romantic_relationship
+|Mappings={{Mapping
+|Target=relationship
+|Source=boat
+}}{{Mapping
+|Target=relationship_co_participants
+|Source=boat_passengers
+}}{{Mapping
+|Target=course_of_relationship
+|Source=path_of_boat
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=A relationship encountering difficulties is prevented from proceeding forward as a consequence of encountering relationship difficulties.
+|Entailment.Source inference=A boat on the rocks is immobilized as a consequence of being on the rocks.
+}}{{Entailment
+|Entailment.Target entailment=A relationship encountering difficulties is not necessarily a relationship that is over
+|Entailment.Source inference=A boat on the rocks is immobilized but can be repaired and sent back on its way
+}}{{Entailment
+|Entailment.Target entailment=A relationship encountering difficulties involves participants that are emotionally hurt
+|Entailment.Source inference=A boat on the rocks contains passengers who may be injured as a consequence of the boat colliding with rocks
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Their relationship is on the rocks.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=boat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=on the rocks.p
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stranded.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=grounded.adj
+}}
+|Entered by=Oana
+|Status=proposed
+}}

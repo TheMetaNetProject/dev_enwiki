@@ -1,0 +1,43 @@
+{{Frame
+|Family=Entity frames, 
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Blood-sucking creature
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloodsucker.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drain the lifeblood
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leech.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=parasite.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=leech.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bloodsucking
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bleed white
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sponge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sponge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=parasitic.a
+}}
+}}

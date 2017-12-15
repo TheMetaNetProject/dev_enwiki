@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=HIGH STATUS IS UP
+|Metaphor.Alias.Provenance=Oana
+}}
+|Tags=orientational,
+|Family=Scalar Metaphors, Orientational Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=Verticality
+|Target frame=Status
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=STATUS IS VERTICALITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He has a lofty position.
+}}{{Example
+|Example.Language=English
+|Example.Text=He'll rise to the top.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's at the peak of his career.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's climbing the ladder of success.
+}}{{Example
+|Example.Language=English
+|Example.Text=In that community there is little opportunity for upward mobility.
+}}{{Example
+|Example.Language=English
+|Example.Text=They are at the bottom of the social hierarchy.
+}}{{Example
+|Example.Language=English
+|Example.Text=She fell in status.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

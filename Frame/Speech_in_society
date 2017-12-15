@@ -1,0 +1,42 @@
+{{Frame
+|Other aliases=Voice in society
+|Comments=Created to refer to the 'speech' in 'free speech' and 'we have a voice in society'. Name can be changed (hard to get away from source domain).
+
+This is a TARGET frame; there just isn't a metaphor-free name for it; it's LUs are found in the source in which the metaphor lies (Speaking).
+
+For extraction purposes, LUs such as 'speech' and 'voice' have to be associated with this target frame, in order to extract LMs such as 'freedom of speech', 'have a voice', 'silence our voice' etc. For our purposes, we know these are source terms. 
+
+For this reason, the LUs 'speech' and 'voice' are temporarily here, to be moved once we decide what to do about this problem.
+|Type=Frame
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Communication
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Democracy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=voice.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=speech.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=expression.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=discourse.n
+}}
+|LinkSpanish=Expresión en la sociedad
+|Applicability=English
+}}

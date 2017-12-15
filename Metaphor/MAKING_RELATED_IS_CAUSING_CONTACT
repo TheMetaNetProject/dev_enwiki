@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Cause contact
+|Target frame=Relationship
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=RELATIONSHIPS ARE COMPLEX STRUCTURES
+}}{{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=RELATEDNESS IS PROXIMITY
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=It is unclear how the new law applies to this situation.
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

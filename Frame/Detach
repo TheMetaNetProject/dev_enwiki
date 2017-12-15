@@ -1,0 +1,47 @@
+{{Frame
+|FrameNet frame=Detaching
+|Family=Act on Object frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Karie, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Attach
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=detach.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=untie.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unlace.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unknot.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=untether.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unshackle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unbind.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unhitch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unfasten.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=unchain.v
+}}
+|Applicability=English
+}}
+undo.v

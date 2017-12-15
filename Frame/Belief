@@ -1,0 +1,38 @@
+{{Frame
+|Comments=Still need to add relations to other types of mental experiences
+|Family=Excluded frames, Cognition Frames,
+|Type=Cog
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=belief
+}}{{Role
+|Role.Name=believer
+}}{{Role
+|Role.Name=belief_relation
+|Role.Definition=the relation between the believer and his belief
+}}{{Role
+|Role.Name=belief_relation_status
+|Role.Definition=current belief relation status (e.g., very strong, not strong)
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Cognizing
+}}
+|Bindings={{Binding
+|Binding.Local role=believer
+|Binding.Bound role=Cognizing.cognizer
+}}{{Binding
+|Binding.Local role=belief
+|Binding.Bound role=Cognizing.topic
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=belief.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=believe.v
+}}
+|Applicability=English
+}}

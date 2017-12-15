@@ -1,0 +1,70 @@
+{{Frame
+|Other aliases=Beast
+|Family=Entity frames, Natural process frames
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Last reviewed by=Elise, Oana
+|Roles={{Role
+|Role.Name=animal
+|Role.Type=entity
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Animate entity
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=animal.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pig.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=swine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hog.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=horse.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=creature.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=critter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=varmint.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bark.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=wallow.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=species.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=phylum.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breed.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=breed.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pedigree.n
+}}
+|LinkSpanish=Animal
+|Applicability=English
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping
+|Family=Legislation metaphors
+|Metaphor Level=Specific
+|Cultural scope=American English
+|Source frame=Motion along a path
+|Target frame=Legislation enactment
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=ENACTING LEGISLATION IS CAUSING MOTION ALONG A PATH
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Senate Majority Leader Harry Reid, D-Nevada, told reporters that the next 24 hours would be "very important" toward efforts to reach a deal to lessen the harshest impacts of the fiscal cliff, a combination of broad tax hikes and deep spending cuts due to take effect at the start of the new year.
+|Example.Provenance=http://www.nytimes.com/interactive/us/politics/debt-reckoning.html
+}}
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

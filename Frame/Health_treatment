@@ -1,0 +1,105 @@
+{{Frame
+|Family=Harm to living entity, Disease frame family,
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development, release candidate
+|Last reviewed by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Treating a physical affliction
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=treatment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=surgery.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=therapy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=medical care.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=therapeutic.adj
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=medicine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=drug.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=panacea.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=antidote.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=medication.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=placebo.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inoculate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inoculation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vaccine.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vaccinate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immunize.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=immunization.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=medicate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pharmacy.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pharmaceutical.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dose.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cure-all.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=antibiotic.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=serum.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=balm.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=salve.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ointment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pill.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tonic.n
+}}
+|LinkSpanish=Tratamiento de salud
+|Applicability=English
+}}

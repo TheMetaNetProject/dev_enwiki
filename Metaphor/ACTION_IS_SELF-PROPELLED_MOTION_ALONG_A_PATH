@@ -1,0 +1,90 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=ACTIONS ARE SELF-PROPELLED MOVEMENTS
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=187
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ACTION IS SELF-PROPELLED MOTION
+|Metaphor.Alias.Provenance=PITF
+|Metaphor.Alias.Page no=191
+}}
+|Comments="actions are seen as movements that an agent carries out under the agent's own force" (PITF, p. 187)
+The current metaphor is defined for motion that involves a change in the mover's location (i.e. motion along a path).
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, Grady Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Experiential basis=The correlation between performing actions and moving.
+|Source frame=Self propelled motion
+|Target frame=Action
+|Mappings={{Mapping
+|Target=actor
+|Source=self-mover
+}}{{Mapping
+|Target=action_x-schema
+|Source=self-motion_x-schema
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ACTION IS MOTION ALONG A PATH
+|Related metaphor.Description=more specific source domain
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=manner of action
+|Entailment.Source inference=manner of self-propelled movement
+|Entailment.Type=x-schema conditions
+|Entailment.Entailed metaphors=MANNER OF ACTION IS MANNER OF MOVEMENT
+}}{{Entailment
+|Entailment.Target entailment=stage of action
+|Entailment.Source inference=stage of movement
+|Entailment.Type=x-schema stage
+|Entailment.Entailed metaphors=SUSPENSION OF ACTION IS THE STOPPING OF MOTION
+}}{{Entailment
+|Entailment.Target entailment=rate of action
+|Entailment.Source inference=speed of motion
+|Entailment.Type=paired scales
+|Entailment.Entailed metaphors=SPEED OF ACTION IS SPEED OF MOVEMENT
+}}{{Entailment
+|Entailment.Target entailment=impediments to action/freedom to act
+|Entailment.Source inference=presence/absence of conditions that affect motion
+|Entailment.Type=x-schema conditions
+|Entailment.Entailed metaphors=FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT
+}}{{Entailment
+|Entailment.Target entailment=external agents that affect action
+|Entailment.Source inference=external agents that affect motion
+|Entailment.Type=causal
+}}{{Entailment
+|Entailment.Target entailment=impediments to action/freedom to act
+|Entailment.Source inference=presence/absence of conditions that affect motion
+|Entailment.Type=x-schema conditions
+|Entailment.Entailed metaphors=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+}}{{Entailment
+|Entailment.Target entailment=sequence of movements
+|Entailment.Source inference=sequence of actions
+|Entailment.Type=x-schema sequence of stages
+|Entailment.Entailed metaphors=SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He exercised to the point of exhaustion.
+}}{{Example
+|Example.Language=English
+|Example.Text=She squeezed her way to thinner thighs.
+}}{{Example
+|Example.Language=English
+|Example.Text=He drank himself out of the promotion.
+}}{{Example
+|Example.Language=English
+|Example.Text=He went on with what he was doing.
+}}{{Example
+|Example.Language=English
+|Example.Text=She went back to sleep.
+}}{{Example
+|Example.Language=English
+|Example.Text=She successfully navigated her way through the contract negotiations.
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=proposed
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,27 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-noun_cop_S-noun-adj
+|CxnMPDescription=copula noun
+|Comments=poverty is a disease / poverty is burdenson / poverty seems to be a disease
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    ?target doc:hasPOS ?tpos .
+    FILTER regex(?spos, "^(N&#124;A&#124;J)") .
+    FILTER regex(?tpos, "^(N&#124;A)") .
+    ?cop rdf:type doc:Word .
+    ?cop doc:inSentence ?sent .
+    ?target doc:ncsubj ?cop .
+    ?source doc:xcomp+ ?cop .
+}
+}}

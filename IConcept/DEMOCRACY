@@ -1,0 +1,29 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted - 
+Citizen participation ();
+Equality (equal, equality);
+Political equality ();
+Freedom (freedom, free, liberty, civil liberty, personal liberty);
+Organization of power ();
+Government (government, govern, congress, governmental, the state);
+Government institution (government board, government bureau, government agency);
+Media (media, press, journalist, etc.);
+Ideology (ideology, ideologue);
+Rights (right, inalienable).
+|ConceptFrames={{Linked frame
+|Frame name=Democracy
+}}{{Linked frame
+|Frame name=Democratic government
+}}{{Linked frame
+|Frame name=Democratic ideology
+}}{{Linked frame
+|Frame name=Organization of power
+}}{{Linked frame
+|Frame name=Representation and decision-making
+}}{{Linked frame
+|Frame name=Democratic institution
+}}
+}}

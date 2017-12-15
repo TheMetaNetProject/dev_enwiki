@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases=
+|Family=Location Event Structure Metaphor, Action is Motion metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=Motion to a destination
+|Target frame=Purposeful action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=President Obama said the international community has made great strides toward locking down loose nuclear material, but warned the threat of nuclear materials falling into the hands of terrorist remains.
+|Example.Provenance=http://content.usatoday.com/communities/theoval/post/2012/03/obama-hails-progress-in-securing-loose-nukes/1#.UTT52OP942o
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

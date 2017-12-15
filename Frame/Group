@@ -1,0 +1,36 @@
+{{Frame
+|FrameNet frame=Aggregate
+|Comments=A set of entities that are seen as related and/or similar in one or more respects.  Prototypically, these entities are the same 'kind' of thing and are spatially proximate to one another.  Different metaphorical construals of groups are possible, involving Posssession, Containment, and/or PartWhole strucutre.
+|Type=Cog
+|Applicability=English
+|Status=in development
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=group
+|Role.Type=Entity
+|Role.FrameNet role=Aggregate
+}}{{Role
+|Role.Name=members
+|Role.FrameNet role=Individuals
+}}{{Role
+|Role.Name=sub-group
+}}{{Role
+|Role.Name=defining_properties
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Plurality
+}}
+|Bindings={{Binding
+|Binding.Local role=members
+|Binding.Bound role=Plurality.individual_entities
+}}{{Binding
+|Binding.Local role=group
+|Binding.Bound role=Plurality.plurality_entity
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=group, set
+}}
+}}

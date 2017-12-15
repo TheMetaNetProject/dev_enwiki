@@ -1,0 +1,57 @@
+{{Frame
+|Family=Eating Frames, Food frame family, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=chew.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gnaw.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=crunch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ruminate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=masticate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bite.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chomp.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=biting
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nibble.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nibble.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bite.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=munch.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chomp.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=munch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nibble.n
+}}
+|Applicability=English
+}}

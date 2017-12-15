@@ -1,0 +1,56 @@
+{{Frame
+|FrameNet frame=Obligation_scenario
+|Comments=We need to figure out a family for this.
+
+Really high-level. Specifics would be stated in subcases and other related frames.
+|Family=Social frames,
+|Type=Frame
+|Cultural scope=universal
+|Status=in development
+|Entered by=Unknown,
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=responsible_party
+|Role.Type=Person
+}}{{Role
+|Role.Name=duty
+|Role.Definition=What/whom one is responsible for.
+}}{{Role
+|Role.Name=beneficiary_of_fulfillment
+}}{{Role
+|Role.Name=source_of_obligation
+}}{{Role
+|Role.Name=fulfillment_of_duty
+}}{{Role
+|Role.Name=consequence
+}}{{Role
+|Role.Name=evaluator_of_fulfillment
+}}{{Role
+|Role.Name=actions_to_carry_out_duty
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Authority
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Person
+|Related frame.Description=Relation type: 'is constrained to be a property of', or something like that
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=responsibility.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=responsible.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=responsibly.adv
+}}
+|LinkSpanish=Responsabilidad
+|Applicability=English
+}}

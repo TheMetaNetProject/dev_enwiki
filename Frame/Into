@@ -1,0 +1,53 @@
+{{Frame
+|FrameNet frame=Into
+|Family=Bounding, Spatial relations,
+|Type=Cog, Composed
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Elise,
+|Roles={{Role
+|Role.Name=goal_interior
+}}{{Role
+|Role.Name=landmark
+}}{{Role
+|Role.Name=profiled_region
+}}{{Role
+|Role.Name=source_exterior
+}}{{Role
+|Role.Name=trajector
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Bounded region
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Source path goal
+}}
+|Bindings={{Binding
+|Binding.Local role=goal_interior
+|Binding.Bound role=Bounded region.interior
+}}{{Binding
+|Binding.Local role=landmark
+|Binding.Bound role=Bounded region.boundary
+}}{{Binding
+|Binding.Local role=source_exterior
+|Binding.Bound role=Bounded region.exterior
+}}{{Binding
+|Binding.Local role=trajector
+|Binding.Bound role=Source path goal.trajector
+}}{{Binding
+|Binding.Local role=landmark
+|Binding.Bound role=Source path goal.landmark
+}}{{Binding
+|Binding.Local role=source_exterior
+|Binding.Bound role=Source path goal.source
+}}{{Binding
+|Binding.Local role=goal_interior
+|Binding.Bound role=Source path goal.goal
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=into
+}}
+}}

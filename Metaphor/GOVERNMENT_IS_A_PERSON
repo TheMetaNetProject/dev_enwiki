@@ -1,0 +1,39 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=GOVERNMENT IS A PERSON
+}}
+|Comments=Cultural scope checked for Persian--Aria
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Cultural scope=American English, Persian
+|Source frame=Person
+|Target frame=Government
+|Mappings={{Mapping
+|Target=governor
+|Source=person
+}}{{Mapping
+|Target=governing_actions
+|Source=actions
+}}{{Mapping
+|Target=governor_objectives
+|Source=objectives
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=GOVERNMENT IS AN ORGANISM
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The US government loves you. In fact, it loves you so much that it’s willing shackle your legs together. Just to protect you – tough love, baby. Now, it may hurt a bit but just try to breathe through the pain. Remember – it hurts the government more than it hurts you.
+|Example.Provenance=http://www.good.is/posts/the-us-government-loves-you-except-you-hussie
+|Example.Comments=Note that this is also an example of GOVERNMENT IS PARENT. ("This hurts me more than it hurts you" is a reference to the frame of punishing a child.)
+}}
+|Entered by=Eve,
+|Last reviewed by=Mark
+|Status=in development
+|LinkPersian=حکومت مردم است
+|LinkRussian=ПРАВИТЕЛЬСТВО - ЭТО ОСОБА
+|Investigated for=English
+}}

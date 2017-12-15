@@ -1,0 +1,49 @@
+{{Frame
+|Family=Object Event Structure frames, Impediment and enablement frames, Concealment/Protection frames,
+|Tags=Program sources
+|Type=Cog, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Metabot,
+|Last reviewed by=Oana,
+|Roles={{Role
+|Role.Name=accessor
+}}{{Role
+|Role.Name=accessed_object
+}}{{Role
+|Role.Name=barrier_to_access
+}}{{Role
+|Role.Name=path_of_access
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Access
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Object
+}}
+|Bindings={{Binding
+|Binding.Local role=accessor
+|Binding.Bound role=Access.accessor
+}}{{Binding
+|Binding.Local role=accessed_object
+|Binding.Bound role=Object.object_entity
+}}{{Binding
+|Binding.Local role=accessed_object
+|Binding.Bound role=Access.accessed_entity
+}}{{Binding
+|Binding.Local role=barrier_to_access
+|Binding.Bound role=Access.barrier_to_access
+}}{{Binding
+|Binding.Local role=path_to_access
+|Binding.Bound role=Access.path_of_access
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=access
+}}
+|LinkSpanish=Acceso físico a un objeto
+}}

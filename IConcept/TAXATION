@@ -1,0 +1,21 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=ECONOMIC INEQUALITY
+|ConceptComment=9/22/14 (Oana): The following previously-linked frames are now deleted -
+Negatively evaluated condition ().
+|ConceptFrames={{Linked frame
+|Frame name=Taxation
+}}{{Linked frame
+|Frame name=Taxes
+}}
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames={{Blacklist source frames
+|BlacklistSourceFrame=Money
+}}{{Blacklist source frames
+|BlacklistSourceFrame=Family
+}}
+|BlacklistSourceLUs=
+}}

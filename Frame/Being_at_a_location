@@ -1,0 +1,81 @@
+{{Frame
+|FrameNet frame=Being_located
+|Family=Location frames, Position frames,
+|Tags=Program sources
+|Type=Cog
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported, release candidate
+|Entered by=Oana,
+|Last reviewed by=Elise, Ellen,
+|Roles={{Role
+|Role.Name=experiencer
+|Role.Type=entity
+|Role.Definition=entity at a location
+|Role.FrameNet role=theme
+}}{{Role
+|Role.Name=current_location
+|Role.Definition=where the entity is located at some profiled point in time (e.g. 'now')
+|Role.FrameNet role=location
+}}{{Role
+|Role.Name=locale
+|Role.Definition=the broader landscape which includes the current_location along with other potential locations
+|Role.FrameNet role=place
+}}{{Role
+|Role.Name=x-schema
+|Role.Type=ongoing process
+|Role.Definition=trajector's location(s) over some span of time
+}}{{Role
+|Role.Name=landmark
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Location
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Trajector landmark
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Process
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Trajector_landmark.trajector
+}}{{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Process.protagonist
+}}{{Binding
+|Binding.Local role=current_location
+|Binding.Bound role=Trajector_landmark.profiled_region
+}}{{Binding
+|Binding.Local role=locale
+|Binding.Bound role=Trajector_landmark.background
+}}{{Binding
+|Binding.Local role=x-schema
+|Binding.Bound role=Process.process
+}}{{Binding
+|Binding.Local role=landmark
+|Binding.Bound role=Trajector_landmark.landmark
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=location.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=locate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=be.v placed
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=place.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=linger.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dwell.v
+}}
+|LinkSpanish=Estar en un lugar
+}}

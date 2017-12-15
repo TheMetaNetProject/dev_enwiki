@@ -1,0 +1,21 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Mark,
+|Last reviewed by=Ellen, 
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Relationship
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=marriage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marry.v
+}}
+|Applicability=English
+}}

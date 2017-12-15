@@ -1,0 +1,47 @@
+{{Frame
+|Family=Motion Frames, Moving entity frames, 
+|Status=in development
+|Entered by=Karie
+|Roles={{Role
+|Role.Name=mover
+}}{{Role
+|Role.Name=motion_x-schema
+}}{{Role
+|Role.Name=backward_direction
+}}{{Role
+|Role.Name=motion_speed
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion along a path
+}}
+|Bindings={{Binding
+|Binding.Local role=mover
+|Binding.Bound role=Motion.mover
+}}{{Binding
+|Binding.Local role=backward_direction
+|Binding.Bound role=Motion.direction
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=recede.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=retreat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pull.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fall.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=move.v back
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=backward movement.n
+}}
+|Applicability=English
+}}
+withdraw.v, withdrawal.n

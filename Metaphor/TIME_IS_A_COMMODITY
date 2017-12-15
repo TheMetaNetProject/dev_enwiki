@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TIME IS A VALUABLE COMMODITY
+|Metaphor.Alias.Provenance=Metaphors We Live By
+|Metaphor.Alias.Page no=7-9
+}}
+|Family=Time Metaphors
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Commodity
+|Target frame=Time
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=TIME IS A RESOURCE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Don't waste your time.
+|Example.Provenance=Elise
+}}
+|Entered by=Oana, Elise
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

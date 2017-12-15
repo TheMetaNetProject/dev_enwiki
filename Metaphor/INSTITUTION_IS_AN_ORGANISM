@@ -1,0 +1,37 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Biological entity
+|Target frame=Institution
+|Mappings={{Mapping
+|Target=institution_whole
+|Source=organism
+}}{{Mapping
+|Target=positions
+|Source=specialized_parts
+}}{{Mapping
+|Target=position_duties
+|Source=part_function
+}}{{Mapping
+|Target=functional_status
+|Source=health_status
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=INSTITUTION IS A COMPLEX PHYSICAL OBJECT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=May 27, 2011 – The “health” of an institution is measured by the effectiveness of its organization and mission, and also by how well it plans for the future.
+|Example.Provenance=www.healthcaredesignmagazine.com/.../strategic-planning-and-institu...
+}}{{Example
+|Example.Language=English
+}}
+|Entered by=Oana,
+|Last reviewed by=Eve
+|Status=in development
+|Investigated for=English
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|Comments=Created to reflect insights from site visit April 2014.
+|Family=Democracy frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles={{Role
+|Role.Name=democratic_governor
+}}{{Role
+|Role.Name=democratic_jurisdiction_region
+}}{{Role
+|Role.Name=governed_(of_democratic_state)
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Government
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkPersian=دولت دموکراتیک
+|Applicability=English
+}}

@@ -1,0 +1,82 @@
+{{Frame
+|FrameNet frame=Kinship
+|Comments=This is the most general culturally unspecific family frame. See individual cultural models for family for e.g., nuclear family.
+|Family=Social frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=family_members
+|Role.Definition=multiplex role
+}}{{Role
+|Role.Name=family_member_relations
+}}{{Role
+|Role.Name=family_whole
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social group
+}}
+|Bindings={{Binding
+|Binding.Local role=famly_members
+|Binding.Bound role=Social group.members
+}}{{Binding
+|Binding.Local role=family_member_relations
+|Binding.Bound role=Social group.member_relation
+}}{{Binding
+|Binding.Local role=family_whole
+|Binding.Bound role=Social group.social_group.whole
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=parent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=child.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=children.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=family.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mother.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=father.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=son.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=daughter.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sister.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brother.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sibling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cousin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=aunt.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=uncle.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=niece.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nephew.n
+}}
+|Applicability=English
+}}

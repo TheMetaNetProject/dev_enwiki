@@ -1,0 +1,26 @@
+{{Metaphor
+|Aliases=
+|Comments=this metaphor is similar to CONTROL IS A POSSESSION -- may want to delete this one and list this name as an alias under other metaphor?
+|Family=Possession metaphors, 
+|Metaphor Type=Composed/complex
+|Source frame=Possession
+|Target frame=Power
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Entailed metaphors=LEGITIMATE POWER IS AN ENTRUSTED OBJECT
+}}{{Entailment
+|Entailment.Entailed metaphors=ILLEGITIMATE POWER IS A STOLEN OBJECT
+}}{{Entailment
+|Entailment.Entailed metaphors=GAINING POWER IS GAINING A POSSESSION
+}}{{Entailment
+|Entailment.Entailed metaphors=LOSING POWER IS LOSING A POSSESSION
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He holds all the power.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

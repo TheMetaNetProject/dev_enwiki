@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=QUALITIES ARE SUBSTANCES
+|Metaphor.Alias.Provenance=Oana
+}}
+|Family=Primary Metaphors, Ontological Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Substance
+|Target frame=Quality
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He has a lot of smarts.
+}}{{Example
+|Example.Language=English
+|Example.Text=He's devoid of common sense.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

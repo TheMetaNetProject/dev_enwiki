@@ -1,0 +1,76 @@
+{{Frame
+|FrameNet frame=Leadership
+|Family=Leaders frames, Government frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Leadership
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Nation
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=king.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=queen.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=monarch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=premier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=president.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reign.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shah.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sovereign.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sultan.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vice-president.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chancellor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=prime minister.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=tsar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sheik.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=vizier.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dictator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=minister.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=emperor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=despot.n
+}}
+|Applicability=English
+}}

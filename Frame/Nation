@@ -1,0 +1,59 @@
+{{Frame
+|Family=Governance frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana, Ellen
+|Roles={{Role
+|Role.Name=nation_whole
+}}{{Role
+|Role.Name=nation_geographic_area
+}}{{Role
+|Role.Name=nation_member_regions
+}}{{Role
+|Role.Name=nation_citizens
+}}{{Role
+|Role.Name=nation_leaders
+}}{{Role
+|Role.Name=national_government
+}}{{Role
+|Role.Name=state_of_nation
+}}{{Role
+|Role.Name=nation_infrastructure
+}}{{Role
+|Role.Name=basis_of_continued_existence
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Political region
+}}
+|Bindings={{Binding
+|Binding.Local role=nation_geographic_area
+|Binding.Bound role=Political region.locale
+}}{{Binding
+|Binding.Local role=nation_citizens
+|Binding.Bound role=Political region.population
+}}{{Binding
+|Binding.Local role=nation_member_regions
+|Binding.Bound role=Political region.sub_locale
+}}{{Binding
+|Binding.Local role=national_government
+|Binding.Bound role=Political region.governing_instituion
+}}{{Binding
+|Binding.Local role=state_of_nation
+|Binding.Bound role=Political region.state_of_region
+}}{{Binding
+|Binding.Local role=nation_infrastructure
+|Binding.Bound role=Political region.infrastructure
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=nation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=country.n
+}}
+|LinkSpanish=Nación
+|LinkPersian=ملت
+|Applicability=English
+}}

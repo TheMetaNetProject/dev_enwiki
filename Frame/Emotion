@@ -1,0 +1,48 @@
+{{Frame
+|FrameNet frame=Experiencer_obj
+|Comments=Folk theory of emotion
+|Family=Emotion Frames
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Jisup
+|Roles={{Role
+|Role.Name=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=emotion
+}}{{Role
+|Role.Name=cause_of_emotion
+|Role.Definition=cause of the emotion or change in emotion_level
+|Role.FrameNet role=Stimulus
+}}{{Role
+|Role.Name=body
+|Role.Definition=body of the emotion experiencer
+}}{{Role
+|Role.Name=bodily_effect
+|Role.Definition=effect of emotion on body
+}}{{Role
+|Role.Name=face_appearance
+}}{{Role
+|Role.Name=emotion_level
+}}{{Role
+|Role.Name=emotion_limit
+}}{{Role
+|Role.Name=mind
+|Role.Definition=mind of the emotion experiencer
+}}{{Role
+|Role.Name=emotional_action
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Bodily functioning
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The emotion or change in emotion_level occurs because of a cause.
+}}{{Inference
+|Inference.Description=A change in emotion_level is accompanied by a corresponding change in bodily_effect and face_appearance.
+}}{{Inference
+|Inference.Description=When emotion_level reaches an emotion_limit, the mind is no longer able to control the emotion resulting in an emotional_action.
+}}
+|Relevant LUs=
+}}

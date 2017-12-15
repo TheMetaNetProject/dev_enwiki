@@ -1,0 +1,53 @@
+{{Frame
+|FrameNet frame=Money
+|Family=Money frames, Resource Frames, Economic Frames,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=MetaNet group,
+|Last reviewed by=Oana
+|Roles={{Role}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Financial resource
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=money.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=currency.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dollar.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dollars
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cash.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=capital.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bucks
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=legal tender
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=coin.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=banknote.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=dollar bill
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=funds
+}}
+}}

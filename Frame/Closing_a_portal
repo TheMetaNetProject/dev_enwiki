@@ -1,0 +1,45 @@
+{{Frame
+|Comments=actually more like a subprocess of Portal.
+there's no correlate Opening a Portal frame
+|Family=Impediment and enablement frames, Motion impediments frames, 
+|Tags=Program sources
+|Cultural information=checked cultural scope for English and Spanish - Karie July 9 2014
+|Status=in development, auto imported
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Portals
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=lock.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=close.v the door
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slam.v shut
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shut.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=slam.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lock.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shutter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=close.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=close off.v
+}}
+|LinkSpanish=Cierra de un portal
+}}

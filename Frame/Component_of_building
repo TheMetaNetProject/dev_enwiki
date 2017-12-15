@@ -1,0 +1,38 @@
+{{Frame
+|FrameNet frame=Architectural_part
+|Family=Entity frames,
+|Tags=Program sources
+|Status=auto imported
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Support
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Building
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=building block
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brick
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=facade.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=veneer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=false front
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ceiling.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=roof.n
+}}
+}}

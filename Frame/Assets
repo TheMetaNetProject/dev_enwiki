@@ -1,0 +1,22 @@
+{{Frame
+|Description=financial assets
+|Family=Resource Frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Ellen, Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Financial resource
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=asset
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=holdings
+}}
+|Applicability=English
+}}

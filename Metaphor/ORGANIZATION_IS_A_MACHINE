@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases=
+|Family=Governance metaphors, Ontological Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Machine
+|Target frame=Organization
+|Mappings={{Mapping
+|Target=organization_whole
+|Source=machine_entity
+}}{{Mapping
+|Target=organizational_efficacy
+|Source=functional_status
+}}{{Mapping
+|Target=ogranization_mission
+|Source=purpose_of_machine
+}}{{Mapping
+|Target=head_of_organization
+|Source=operator_of_machine
+}}{{Mapping
+|Target=organization_management_x-schema
+|Source=operating_x-schema
+|Comment=e.g., machine is 'running', organizations are 'running'
+}}{{Mapping
+|Target=organization_subparts
+|Source=machine_parts
+}}{{Mapping
+|Target=organization_procedures
+|Source=procedures_for_operation
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Since the enactment of SB 163 (Evans), the three branches of state government have been working smoothly in the transition process called for in that landmark legislation.
+|Example.Provenance=http://www.leginfo.ca.gov/pub/11-12/bill/asm/ab_2651-2700/ab_2685_cfa_20120509_173812_asm_floor.html
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+}}

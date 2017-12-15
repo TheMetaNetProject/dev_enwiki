@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Complex physical object
+|Target frame=Social group
+|Mappings={{Mapping
+|Target=social_group_whole
+|Source=object_whole
+}}{{Mapping
+|Target=members
+|Source=object_parts
+}}{{Mapping
+|Target=member_relation
+|Source=object_part_relations
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=ORGANIZATION IS PHYSICAL STRUCTURE
+}}
+|Entailments=
+|Examples=
+|Entered by=Oana,
+|Last reviewed by=Ellen
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

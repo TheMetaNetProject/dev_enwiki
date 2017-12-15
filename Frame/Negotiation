@@ -1,0 +1,35 @@
+{{Frame
+|Comments=Created to house LUs.
+|Type=Frame
+|Cultural scope=Mexican Spanish
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=negotiate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=negotiation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=negotiator.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mediation.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=mediate.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arbiter.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=arbitrator.n
+}}
+|LinkSpanish=Negociación
+|Applicability=English
+}}

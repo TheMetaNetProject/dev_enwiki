@@ -1,0 +1,23 @@
+{{Metaphor
+|Aliases=
+|Description=e.g., "buried in debt"
+|Tags=Program sources
+|Family=Poverty metaphors, Poverty as an individual problem metaphors, 
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Motion impediments
+|Target frame=Debt
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=DIFFICULTIES ARE IMPEDIMENTS TO MOVEMENT
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Debt is holding me back from reaching my goals.
+}}
+|Entered by=Oana,
+|Last reviewed by=Elise
+|Status=in development
+}}

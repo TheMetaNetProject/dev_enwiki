@@ -1,0 +1,28 @@
+{{Metaphor
+|Aliases=
+|Family=Emotion Metaphors, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Pressure in a container
+|Target frame=Emotion
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=EMOTIONS ARE SUBSTANCES
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=BODY IS A CONTAINER FOR EMOTIONS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=He's bursting with excitement.
+}}{{Example
+|Example.Language=English
+|Example.Text=That joke is side-splittingly funny.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

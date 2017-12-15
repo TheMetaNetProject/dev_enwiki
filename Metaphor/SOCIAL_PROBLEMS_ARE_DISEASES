@@ -1,0 +1,65 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=SOCIAL PROBLEMS ARE DISEASES
+|Metaphor.Alias.Provenance=George Lakoff
+}}{{Metaphor.Alias
+|Metaphor.Alias.Name=ADDRESSING SOCIAL PROBLEMS IS TREATING A DISEASE
+}}
+|Family=Physical afflictions metaphors, Poverty as a social problem metaphors, Social problems metaphors, Disease metaphors,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=Disease
+|Target frame=Social problems
+|Mappings={{Mapping
+|Target=problem
+|Source=disease
+}}{{Mapping
+|Target=society
+|Source=person
+}}{{Mapping
+|Target=honest_citizen
+|Source=healthy_cell
+}}{{Mapping
+|Target=immoral_citizen
+|Source=diseased_cell
+}}{{Mapping
+|Target=social_program
+|Source=bodily_healing_system
+}}{{Mapping
+|Target=social_functioning
+|Source=health_status
+}}{{Mapping
+|Target=authority
+|Source=doctor
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=IMMORALITY IS DISEASE
+}}{{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Societal actions can help reduce or eliminate social problems
+|Entailment.Source inference=people's actions can alleviate symptoms and cure disease
+|Entailment.Entailed metaphors=ADDRESSING SOCIAL PROBLEMS IS TREATING AN ILLNESS
+}}{{Entailment
+|Entailment.Target entailment=inability to address social problems results in continued poor function
+|Entailment.Source inference=inability to treat disease results in continued poor health
+|Entailment.Entailed metaphors=INABILITY TO ADDRESS SOCIAL PROBLEMS IS INABILITY TO TREAT A DISEASE
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Our society is turning gangrene with dishonesty.
+|Example.Provenance=Jisup
+}}{{Example
+|Example.Language=Persian
+|Example.Text=اینگونه جنبشهای اجتماعی (social movements) در واقع یک بیماری اجتتماعی هستند.
+}}
+|Entered by=Jisup
+|Last reviewed by=Ellen, Elise, Oana
+|Status=in development, release candidate
+|LinkSpanish=PROBLEMAS SOCIALES SON ENFERMEDADES
+|Investigated for=English
+|Relevant LUs=
+}}

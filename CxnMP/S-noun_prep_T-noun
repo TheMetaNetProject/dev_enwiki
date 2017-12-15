@@ -1,0 +1,39 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_prep_T-noun
+|CxnMPDescription=N prep N constructions
+|Comments=path to poverty / the leap into politics
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:hasPOS ?tpos .
+    ?source (doc:hasPOS&#124;doc:hasRPOS) ?spos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N") .
+    ?prepword rdf:type doc:Word .
+    ?prepword doc:inSentence ?sent .
+    ?prepword doc:hasPOS ?prepPOS .
+    ?prepword (doc:iobj&#124;doc:ncmod) ?source .
+    FILTER (regex(?prepPOS, "^(TO&#124;IN&#124;PREP)")) .
+    {
+        ?target doc:dobj ?prepword .
+    } UNION {
+        ?andword rdf:type doc:Word .
+        ?andword doc:inSentence ?sent .
+        ?andword doc:hasLemma ?andLemma .
+        FILTER (regex(?andLemma, "^(and&#124;or)$", "i")) .
+        ?andword doc:dobj ?prepword .
+        ?target doc:conj ?andword .
+    }
+    FILTER (!regex(?slemma, "^(percent&#124;fraction&#124;amount&#124;quantity)$", "i")) .
+}
+}}

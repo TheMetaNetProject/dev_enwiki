@@ -1,0 +1,107 @@
+{{Frame
+|Comments=The FN frame Experiencer_obj is close but pertains to emotions in response to stimuli and is not specific to anger.
+|Family=Emotion Frames,
+|Type=Frame, Composed
+|Cultural information=Folk theory of the physiological effect of anger.
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Oana
+|Roles={{Role
+|Role.Name=experiencer
+}}{{Role
+|Role.Name=anger
+|Role.Definition=the experienced emotion
+}}{{Role
+|Role.Name=anger_level
+}}{{Role
+|Role.Name=body
+|Role.Definition=body of the experiencer
+}}{{Role
+|Role.Name=body_heat
+}}{{Role
+|Role.Name=body_pressure
+}}{{Role
+|Role.Name=body_agitation
+}}{{Role
+|Role.Name=face_appearance
+}}{{Role
+|Role.Name=anger_limit
+}}{{Role
+|Role.Name=angry_action
+}}{{Role
+|Role.Name=cause_of_anger
+|Role.Definition=the cause of the anger
+}}{{Role
+|Role.Name=other_people
+}}{{Role
+|Role.Name=mind_condition
+|Role.Definition=condition of the mind of the experiencer
+}}{{Role
+|Role.Name=mind
+|Role.Definition=mind of angry person
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Emotion
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Bodily functioning
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Emotion.experiencer
+}}{{Binding
+|Binding.Local role=body
+|Binding.Bound role=Emotion.body
+}}{{Binding
+|Binding.Local role=anger
+|Binding.Bound role=Emotion.emotion
+}}{{Binding
+|Binding.Local role=anger_level
+|Binding.Bound role=Emotion.emotion_level
+}}{{Binding
+|Binding.Local role=anger_limit
+|Binding.Bound role=Emotion.emotion_limit
+}}{{Binding
+|Binding.Local role=face_appearance
+|Binding.Bound role=Emotion.face_appearance
+}}{{Binding
+|Binding.Local role=cause_of_anger
+|Binding.Bound role=Emotion.cause_of_emotion
+}}{{Binding
+|Binding.Local role=angry_action
+|Binding.Bound role=Emotional.emotional_action
+}}{{Binding
+|Binding.Local role=body_heat
+|Binding.Bound role=Emotion.bodily_effect
+}}{{Binding
+|Binding.Local role=body_pressure
+|Binding.Bound role=Emotion.bodily_effect
+}}{{Binding
+|Binding.Local role=body_agitation
+|Binding.Bound role=Emotion.bodily_effect
+}}{{Binding
+|Binding.Local role=mind
+|Binding.Bound role=Emotion.mind
+}}
+|Inferences={{Inference
+|Inference.Description=As anger_level increases, its physiological effects increase (body_heat, body_pressure, body_agitation, and redness of face_appearance).
+}}{{Inference
+|Inference.Description=There is an anger_limit beyond which control of the anger is lost, and anger_level becomes apparent through an angry_action which may be directed at other_people.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=anger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=angry
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=furious
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fury
+}}
+|LinkSpanish=Ira
+|Applicability=English
+}}

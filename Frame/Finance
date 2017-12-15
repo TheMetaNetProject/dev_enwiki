@@ -1,0 +1,27 @@
+{{Frame
+|Family= Economic Frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Economy
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=financial.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=finance.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=investment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fiscal.a
+}}
+|Applicability=English
+}}

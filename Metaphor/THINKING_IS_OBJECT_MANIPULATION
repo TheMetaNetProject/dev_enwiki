@@ -1,0 +1,44 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=THINKING IS OBJECT MANIPULATION
+|Metaphor.Alias.Provenance=Metaphors We Live By
+}}
+|Family=Mind Metaphors,
+|Metaphor Type=Composed/complex
+|Investigated for=English
+|Source frame=Object_manipulation
+|Target frame=Thinking about
+|Mappings={{Mapping
+|Target=ideas
+|Source=objects
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=COGNIZING IS BODILY FUNCTIONING
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=UNDERSTANDING IS GRASPING
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=COMMUNICATING IS OBJECT TRANSFER
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=MEMORY IS A STOREHOUSE
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=REMEMBERING IS RETRIEVAL
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Ideas
+|Entailment.Source inference=Objects
+|Entailment.Entailed metaphors=IDEAS ARE OBJECTS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Let's toss some ideas around.
+|Example.Provenance=Elise
+}}
+|Relevant LUs=
+|Entered by=Oana, Jisup, Elise
+|Status=in development
+}}

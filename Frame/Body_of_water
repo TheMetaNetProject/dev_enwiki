@@ -1,0 +1,74 @@
+{{Frame
+|Description=natural or manmade bodies of water
+|Comments=FrameNet has a general Natural features frame that covers both this and other geographic features like mountains, valleys, beaches, etc
+|Family=Entity frames, Fluid frame family, 
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Elise,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Fluid containment
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Geographic feature
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=ocean.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lake.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pond.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=seaway.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sea.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bay.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brook.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=river.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stream.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=channel.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=cove.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=fjord.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gulf.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=inlet.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loch.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pool.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strait.n
+}}
+|LinkSpanish=Cuerpo de agua
+|Applicability=English
+}}

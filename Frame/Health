@@ -1,0 +1,51 @@
+{{Frame
+|FrameNet frame=Health_response
+|Family=Scale Frames,
+|Type=Frame, Primary
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=state_of_health
+}}{{Role
+|Role.Name=entity_possessing_health
+|Role.Type=Biological_entity
+}}{{Role
+|Role.Name=degree_of_health
+}}{{Role
+|Role.Name=domain_of_health
+|Role.Definition=I.e., whether pysical and if so, what body part; whether psychological, if so, what aspect of the psyche
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Well-being
+|Related frame.Description=Well-being encompasses all manner of physical and psychological goodness
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Experiencing a state
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=Scale
+}}
+|Bindings={{Binding
+|Binding.Local role=entity_possessing_health
+|Binding.Bound role=Experiencing a state.experiencer
+}}{{Binding
+|Binding.Local role=degree_of_health
+|Binding.Bound role=Experiencing a state.experienced_state_value
+}}
+|Inferences={{Inference
+|Inference.Description=When one is healthy, one is not sick; when one is sick one is not healthy.
+|Inference.Type=If p then not q; if q then not p
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=health.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=healthy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=healthiness.n
+}}
+|Applicability=English
+}}

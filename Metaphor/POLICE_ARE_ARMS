@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Comments=There is metonymy here that needs to be resolved. Has been tagged as metonymy.
+|Tags=mapping,  tentative, metonymy
+|Family=Governance metaphors
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=Body
+|Target frame=Police
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=The Maryland Natural Resources Police (NRP) is the enforcement arm of the Department of Natural Resources (DNR).
+|Example.Provenance=www.dnr.state.md.us/nrp/
+}}{{Example
+|Example.Language=English
+|Example.Text=David might have escaped the strong arm of the law, but the same can't be said for Kelly, who received a suspended jail sentence for a crime she did not commit ...
+|Example.Provenance=www.jacisbox.co.uk/reviews/corrie2.htm
+}}
+|Entered by=Eve
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,22 @@
+{{Frame
+|Comments=High-level abstract opportunity frame.
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Metabot,
+|Last reviewed by=Oana
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=opportunity
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=opportunities
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=chance
+}}
+}}

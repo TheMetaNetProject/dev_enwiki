@@ -1,0 +1,22 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=OPPORTUNITIES ARE PATHS
+|Metaphor.Alias.Provenance=Oana
+}}
+|Comments=see discussion
+|Family=Location Event Structure Metaphor, Primary Metaphors, 
+|Metaphor Type=Primary
+|Source frame=Physical path
+|Target frame=Opportunities
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=His job offer opened up new paths of opportunity for him.
+}}
+|Entered by=Oana,
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

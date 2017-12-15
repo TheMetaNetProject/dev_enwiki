@@ -1,0 +1,82 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=COMMUNICATION IS OBJECT EXCHANGE
+}}
+|Family=Conduit Metaphor, Primary Metaphors, 
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=Transfer scenario
+|Target frame=Communication
+|Mappings={{Mapping
+|Target=communicator
+|Source=transferor
+}}{{Mapping
+|Target=addressee
+|Source=transfer_recipient
+}}{{Mapping
+|Target=message
+|Source=transferred_object
+}}{{Mapping
+|Target=language
+|Source=vehicle_for_transfer
+|Comment=these roles are not in frames
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=IDEAS ARE OBJECTS
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Success of communication
+|Entailment.Source inference=Success of transfer
+|Entailment.Type=x-schema stage
+}}{{Entailment
+|Entailment.Target entailment=Accepting ideas
+|Entailment.Source inference=Accepting objects
+}}{{Entailment
+|Entailment.Target entailment=Understanding
+|Entailment.Source inference=Ability to accept objects
+}}{{Entailment
+|Entailment.Target entailment=Intially, addressee is not aware of message
+|Entailment.Source inference=Initially, transfer_recipient does not possess transferred_object
+}}{{Entailment
+|Entailment.Target entailment=acquiring ideas
+|Entailment.Source inference=gaining possession of objects
+}}{{Entailment
+|Entailment.Target entailment=Words and linguistic expressions
+|Entailment.Source inference=containers and vehicles via which objects are transferred
+|Entailment.Entailed metaphors=WORDS ARE CONTAINERS
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=You gave me a great idea!
+}}{{Example
+|Example.Language=English
+|Example.Text=Try to pack more thoughts into fewer words.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=Whenever you have a good idea practice capturing it in words.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=Don't force your meanings into the wrong words.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=Try to get your thoughts across better.
+|Example.Provenance=Reddy (1979)
+}}{{Example
+|Example.Language=English
+|Example.Text=You still have to give me an idea of what you mean.
+|Example.Provenance=Reddy (1979)
+}}
+|Entered by=Ellen, Oana
+|Last reviewed by=Oana
+|Status=in development
+|LinkPersian=ارتباطات، انتقال جسم است
+|Investigated for=English
+|Relevant LUs=
+}}

@@ -1,0 +1,48 @@
+{{Frame
+|Comments=Fillmore 1982
+Closest FN frame is Locale_by_use, but too many irrelevant LUs.
+
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=patron
+}}{{Role
+|Role.Name=waiter
+}}{{Role
+|Role.Name=menu
+}}{{Role
+|Role.Name=maitre_d
+}}{{Role
+|Role.Name=meal
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Commercial_transaction
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Hosting
+}}
+|Bindings={{Binding
+|Binding.Local role=patron
+|Binding.Bound role=Hosting.guest
+}}{{Binding
+|Binding.Local role=maitre_d
+|Binding.Bound role=Hosting.host
+}}{{Binding
+|Binding.Local role=patron
+|Binding.Bound role=Commercial_transaction.buyer
+}}{{Binding
+|Binding.Local role=restaurant_owner
+|Binding.Bound role=Commercial_transaction.seller
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=restaurant.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bistro.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,59 @@
+{{Frame
+|Comments=Modeled on US exec branch
+|Family=Governance frames,
+|Type=Frame
+|Cultural information=Actions made by the executive branch of government - i.e., the President of a country or Governor of a state and associated functions.
+|Status=in development
+|Entered by=Elise
+|Roles={{Role
+|Role.Name=executive_actor
+|Role.Definition=e.g. President
+}}{{Role
+|Role.Name=citizens
+}}{{Role
+|Role.Name=governing_objectives
+}}{{Role
+|Role.Name=executive_action_outcome
+}}{{Role
+|Role.Name=affected_jurisdiction
+}}{{Role
+|Role.Name=constraints_on_executive_actions
+}}{{Role
+|Role.Name=normative_executive_actions
+}}{{Role
+|Role.Name=non-normative_executive_actions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Governing action
+}}
+|Bindings={{Binding
+|Binding.Local role=executive_actor
+|Binding.Bound role=Governing action.governing_actor
+}}{{Binding
+|Binding.Local role=citizens
+|Binding.Bound role=Governing action.governed
+}}{{Binding
+|Binding.Local role=governing_objectives
+|Binding.Bound role=Governing action.governing_objectives
+}}{{Binding
+|Binding.Local role=executive_action_outcome
+|Binding.Bound role=Governing action.governing_action_outcome
+}}{{Binding
+|Binding.Local role=affected_jurisdiction
+|Binding.Bound role=Governing action.affected_jurisdiction
+}}{{Binding
+|Binding.Local role=constraints_on_executive_actions
+|Binding.Bound role=Governing action.constraints_on_governing_actions
+}}{{Binding
+|Binding.Local role=normative_executive_actions
+|Binding.Bound role=Governing action.normative_governing_actions
+}}{{Binding
+|Binding.Local role=non-normative_executive_actions
+|Binding.Bound role=Governing action.non-normative_governing_actions
+}}
+|Inferences=
+|Relevant LUs=
+|LinkPersian=قوه مجریه
+|Applicability=English
+}}

@@ -1,0 +1,33 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-verb Prep T-noun
+|CxnMPDescription=Verb Prep Noun
+|Comments=pull up out of poverty and unemployment
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^V") .
+    ?prep rdf:type doc:Word .
+    ?prep doc:inSentence ?sent .
+    ?prep doc:hasPOS ?prepPOS .
+    ?conj rdf:type doc:Word .
+    ?conj doc:inSentence ?sent .
+    ?conj doc:hasPOS ?conjPOS .
+    FILTER regex(?conjPOS, "^C") .
+    ?target doc:conj ?conj .
+    ?conj doc:dobj ?prep .
+    FILTER regex(?prepPOS, "^I") .
+    ?prep doc:iobj ?source .
+}
+
+}}

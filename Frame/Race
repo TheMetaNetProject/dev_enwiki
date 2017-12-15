@@ -1,0 +1,114 @@
+{{Frame
+|Description=Two or more racers compete to finish a physical course first.
+|Family=Competition frames,
+|Tags=tentative
+|Type=Frame
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Ellen
+|Last reviewed by=Elise
+|Roles={{Role
+|Role.Name=racers
+}}{{Role
+|Role.Name=racer1
+}}{{Role
+|Role.Name=racer2
+}}{{Role
+|Role.Name=race_event
+}}{{Role
+|Role.Name=outcome
+}}{{Role
+|Role.Name=winner
+}}{{Role
+|Role.Name=loser
+}}{{Role
+|Role.Name=prize
+}}{{Role
+|Role.Name=race x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Recreational competition
+}}
+|Bindings={{Binding
+|Binding.Local role=racer1
+|Binding.Bound role=Recreational competition.competitor1
+}}{{Binding
+|Binding.Local role=racer2
+|Binding.Bound role=Recreational competition.competitor2
+}}{{Binding
+|Binding.Local role=prize
+|Binding.Bound role=Recreational competition.prize
+}}{{Binding
+|Binding.Local role=outcome
+|Binding.Bound role=Recreational competition.outcome
+}}{{Binding
+|Binding.Local role=race_event
+|Binding.Bound role=Recreational competition.event
+}}{{Binding
+|Binding.Local role=race x-schema
+|Binding.Bound role=Recreational competition.activity_x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=handicap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=race.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=starting line.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=starting gate.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=finish line.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=neck and neck
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lap
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lead
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=headstart
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=horse race.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=marathon.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=sprint
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=finish
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handicapped
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=race.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=foot race.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=racer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=front runner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=front-runner.n
+}}
+|LinkSpanish=Carrera
+|Applicability=English
+}}

@@ -1,0 +1,25 @@
+{{Frame
+|Family=Event Structure frames, Force dynamic frames, Force frames
+|Type=Cog
+|Status=in development
+|Entered by=Oana, Ellen,
+|Roles={{Role
+|Role.Name=force
+}}{{Role
+|Role.Name=force_amount
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=power.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=force.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pressure.n
+}}
+|Applicability=English
+}}

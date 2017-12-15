@@ -1,0 +1,27 @@
+{{Metaphor
+|Aliases=
+|Comments=Need to add Boxing Match frame (subcase of Sports competition)
+|Tags=tentative,
+|Family=Election metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Physical competition
+|Target frame=Election
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=ELECTIONS ARE COMPETITIVE SPORTS EVENTS
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=the candidates came out punching
+}}{{Example
+|Example.Language=English
+|Example.Text=Beasley won the first round of Democratic primary for lieutenant governor in 1970, but failed to win a majority.
+|Example.Provenance=en.wikipedia.org/wiki/Jere_Beasley
+}}
+|Entered by=Ellen
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+}}

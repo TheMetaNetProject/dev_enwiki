@@ -1,0 +1,148 @@
+{{Frame
+|Comments=is currently both Burden and the perspective of "being burdened" (whereas "remove burden" is a separate frame)
+|Family=Motion-affecting frames, Impediment and enablement frames, Endangerment frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen, Oana
+|Roles={{Role
+|Role.Name=burdened_entity
+|Role.Type=physical_entity
+|Role.Definition=the being carrying the burden
+}}{{Role
+|Role.Name=burden
+|Role.Type=physical_entity
+|Role.Definition=the load supported byt the burdened_entity
+}}{{Role
+|Role.Name=weight_of_burden
+|Role.Type=weight scale
+}}{{Role
+|Role.Name=relation_burden_to_burdened
+|Role.Type=force-dynamic x-schema
+|Role.Definition=burdened_entity supports burden
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Weight
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Motion-affecting objects
+}}
+|Bindings={{Binding
+|Binding.Local role=burdened_entity
+|Binding.Bound role=Motion impediment.mover
+}}
+|Inferences={{Inference
+|Inference.Description=Presence of 'burden relation' has a negative effect on the burdened entity's well-being and/or ability to move.
+}}{{Inference
+|Inference.Description=Degree of negative effect is related to the weight of the burden.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=burden.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burden.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weigh.v on
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heavy.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=load.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stress.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=stress.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strain.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=strain.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=hardship.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weigh.v down
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=encumber.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=encumberment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burden.v with
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=ton.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heap.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pile.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pile.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overload.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overburden.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=weight.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=millstone.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=albatross.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heavy.a load.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=burdensome.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=back-breaking.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=heap.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=brunt.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=baggage.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=shoulder.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overburden.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=overload.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=bear.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=saddle.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=saddle.n
+}}
+|LinkSpanish=Carga
+|Applicability=English
+}}

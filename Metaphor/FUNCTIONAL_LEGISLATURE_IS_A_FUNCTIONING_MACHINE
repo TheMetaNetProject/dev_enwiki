@@ -1,0 +1,34 @@
+{{Metaphor
+|Aliases=
+|Tags=mapping, tentative
+|Family=Legislation metaphors, 
+|Metaphor Level=General
+|Source frame=Operating a machine
+|Target frame=Legislative action
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=LEGISLATURE IS A MACHINE
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=English
+|Example.Text=With a heavy Republican majority, Congress churned out bill after bill.
+}}{{Example
+|Example.Language=English
+|Example.Text=With a unified House and Senate, the well-oiled gears of government turn smoothly.
+}}{{Example
+|Example.Language=English
+|Example.Text="I look forward to helping keep the legislative wheels turning smoothly in our 105-day session"
+|Example.Provenance=http://housedemocrats.wa.gov/jim-moeller/clark-county-lawmaker-resumes-leadership-duties-in-upcoming-session-peers-select-jim-moeller-speaker-pro-tempore-designate/
+}}{{Example
+|Example.Language=English
+|Example.Text=Cloture would make the legislative gears turn smoothly.
+|Example.Provenance=Winner-Take-All Politics (2011). Jacob S. Hacker and Paul Pierson. pg 243.
+}}
+|Entered by=Eve, Elise
+|Last reviewed by=Oana
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

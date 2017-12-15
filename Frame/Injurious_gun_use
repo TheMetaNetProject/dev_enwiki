@@ -1,0 +1,65 @@
+{{Frame
+|Description=This general frame is intended to represent the commonalities across a range of contexts in which the discharge of a gun (potentially) results in injury to a person. Specific contexts, such as criminal use of guns, and sanctioned use of guns (e.g. by the police) can be elaborated in subcases.
+|Other aliases=Gun violence
+|Family=Gun debate,
+|Status=in development
+|Entered by=Ellen Elise Oana,
+|Roles={{Role
+|Role.Name=gun_user
+|Role.Type=person
+|Role.Definition=person who (possibly unintentionally) fires the gun at injured_party
+}}{{Role
+|Role.Name=injured_party
+|Role.Type=person
+|Role.Definition=person injured by the gun shot
+}}{{Role
+|Role.Name=gun
+}}{{Role
+|Role.Name=firing_of_gun
+|Role.Type=x-schema
+}}{{Role
+|Role.Name=injurious_effect
+|Role.Type=x-schema
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Social problems
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Harm to living entity
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Violence
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Personal weapon
+}}
+|Bindings={{Binding
+|Binding.Local role=firing_of_gun
+|Binding.Bound role=Harm to living entity.cause
+}}{{Binding
+|Binding.Local role=injurious_effect
+|Binding.Bound role=Harm to living entity.harmful_effect
+}}{{Binding
+|Binding.Local role=injurious_effect
+|Binding.Bound role=Social problems.social_problem
+}}{{Binding
+|Binding.Local role=injured_party
+|Binding.Bound role=Harm to living entity.victim
+}}{{Binding
+|Binding.Local role=gun_user
+|Binding.Bound role=Harm to living entity.agent
+}}{{Binding
+|Binding.Local role=gun_user
+|Binding.Bound role=Personal weapon.weapon_user
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n violence.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=gun.n death.n
+}}
+|Applicability=English
+}}

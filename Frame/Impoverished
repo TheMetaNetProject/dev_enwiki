@@ -1,0 +1,127 @@
+{{Frame
+|Other aliases=Being impoverished
+|Comments=The LUs for this frame refer either to poor people (e.g. the indigent) or to the state of being impoverished (e.g. penniless).  These elaborate the 'experiencer' and the 'impoverishment' roles of this frame, respectively.
+|Family=The Poor frames, Poverty-related frame network,
+|Tags=Program sources
+|Cultural scope=American English
+|Status=in development, auto imported, release candidate
+|Entered by=Metabot,
+|Last reviewed by=Ellen
+|Roles={{Role
+|Role.Name=experiencer
+|Role.Definition=poor person(s)
+}}{{Role
+|Role.Name=economic_state
+}}{{Role
+|Role.Name=impoverishment
+}}{{Role
+|Role.Name=state_x-schema
+|Role.Definition=how economic state value changes over time (wrt standard of 'impoverishment')
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing a negative state
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Poverty
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Experiencing an economic status
+}}
+|Bindings={{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Experiencing a negative state.experiencer
+}}{{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Poverty.impoverished_entity
+}}{{Binding
+|Binding.Local role=impoverishment
+|Binding.Bound role=Experiencing a negative state.standard
+}}{{Binding
+|Binding.Local role=state_x-schema
+|Binding.Bound role=Experiencing a negative state.state_x-schema
+}}{{Binding
+|Binding.Local role=economic_state
+|Binding.Bound role=Experiencing a negative state.domain
+}}{{Binding
+|Binding.Local role=experiencer
+|Binding.Bound role=Experiencing an economic status.status holder
+}}{{Binding
+|Binding.Local role=impoverishment
+|Binding.Bound role=Experiencing an economic status.status
+}}{{Binding
+|Binding.Local role=state_x-schema
+|Binding.Bound role=Experiencing an economic status.stative_x-schema
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=impoverished
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=destitute.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=broke.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=indigent.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poverty-stricken
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=penniless
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=moneyless
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=needy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the poor
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor people
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor families
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poorest people
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poorest families
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=working poor
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=homeless.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=pauper.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=poor children
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=underprivileged.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the indigent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=the destitute
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=welfare queen.n
+}}
+}}

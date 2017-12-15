@@ -1,0 +1,28 @@
+{{Frame
+|Other aliases=Fictive motion
+|Family=Motion Frames,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=cognizer
+}}{{Role
+|Role.Name=locus_of_cognizer's_attention
+}}{{Role
+|Role.Name=pathway_scanned
+}}{{Role
+|Role.Name=starting_locus_of_attention
+}}{{Role
+|Role.Name=intermediate_loci_of_attention
+}}{{Role
+|Role.Name=ending_locus_of_attention
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=Attention
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

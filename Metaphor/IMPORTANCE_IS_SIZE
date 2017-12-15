@@ -1,0 +1,46 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=IMPORTANCE IS SIZE
+|Metaphor.Alias.Provenance=Oana
+}}
+|Comments=Size is a property of objects or entities.
+|Family=Scalar Metaphors, Grady Primary Metaphors,
+|Metaphor Type=Primary
+|Source frame=Size
+|Target frame=Importance
+|Mappings={{Mapping
+|Target=entity_evaluated_for_importance
+|Source=entity
+}}{{Mapping
+|Target=degree_of_importance
+|Source=scalar_position
+}}{{Mapping
+|Target=importance_scale
+|Source=size_scale
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=QUANTITY IS SIZE
+}}
+|Entailments={{Entailment
+|Entailment.Target entailment=Being important or significant
+|Entailment.Source inference=Having a large size
+}}{{Entailment
+|Entailment.Target entailment=Being unimportant or insignificant
+|Entailment.Source inference=Having a small size
+|Entailment.Type=scalar
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=A big part of this mission was not to contaminate the planet with Earth organisms.
+|Example.Provenance=Coca
+}}{{Example
+|Example.Language=English
+|Example.Text=Texaco is a relatively small player in the California gasoline market but a bigger factor in the Eastern states that want to follow California's lead.
+|Example.Provenance=Coca
+}}
+|Entered by=Oana, Aria
+|Status=in development
+|Investigated for=English
+|Relevant LUs=
+}}

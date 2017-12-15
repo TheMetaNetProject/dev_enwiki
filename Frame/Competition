@@ -1,0 +1,116 @@
+{{Frame
+|Description=Generic frame for any type of competition in which there are at least two sides competing for some advantageous outcome. See sub-cases for different types of competitions.
+|FrameNet frame=Competition
+|Family=Competition frames, Physical combat frame family,
+|Type=Frame, Composed
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Eve, Elise,
+|Roles={{Role
+|Role.Name=competition_event
+}}{{Role
+|Role.Name=competition_x-schema
+}}{{Role
+|Role.Name=competition_prize
+|Role.Definition=advantageous outcome for winner of competition
+}}{{Role
+|Role.Name=competition_purpose
+}}{{Role
+|Role.Name=competition_start
+}}{{Role
+|Role.Name=competition_end
+}}{{Role
+|Role.Name=competition_competitor1
+}}{{Role
+|Role.Name=competition_competitor2
+}}{{Role
+|Role.Name=competiition_outcome
+|Role.Definition=result of competition
+}}{{Role
+|Role.Name=competition_winner
+}}{{Role
+|Role.Name=competition_loser
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Evaluation
+}}
+|Bindings=
+|Inferences={{Inference
+|Inference.Description=The competitor who performs best on some scale (distance, quantity acquires or produced, intensity, amount, duration) is the winner.
+|Inference.Type=cultural
+}}{{Inference
+|Inference.Description=All other competitors who are not the winner are the losers.
+}}
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=compete.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=competition.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=win.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=lose.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=winner.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loser.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=defeat.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=defeat.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=challenge.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=challenge.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=opponent.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adversary.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=challenger.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=opposer.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rival.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=rival.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=triumph.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=winner-take-all.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=loss.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=champion.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=competitor.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=competitive.a
+}}
+|LinkSpanish=Competencia
+|Applicability=English
+}}

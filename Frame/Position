@@ -1,0 +1,77 @@
+{{Frame
+|Family=Excluded frames, 
+|Type=Frame
+|Status=in development
+|Roles={{Role
+|Role.Name=job_holder
+}}{{Role
+|Role.Name=responsibilities
+}}{{Role
+|Role.Name=position
+}}{{Role
+|Role.Name=subordinates
+}}{{Role
+|Role.Name=superior
+}}{{Role
+|Role.Name=job_holder_actions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Power
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Responsibility
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Employment
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Career
+}}
+|Bindings={{Binding
+|Binding.Local role=job_holder
+|Binding.Bound role=Power.power_yielder
+}}{{Binding
+|Binding.Local role=job_holder
+|Binding.Bound role=Power.power_holder
+}}{{Binding
+|Binding.Local role=subordinates
+|Binding.Bound role=Power.power_yielder
+}}{{Binding
+|Binding.Local role=superior
+|Binding.Bound role=Power.power_holder
+}}{{Binding
+|Binding.Local role=responsibilities
+|Binding.Bound role=Responsibility.duty
+}}{{Binding
+|Binding.Local role=job_holder
+|Binding.Bound role=Responsibility.responsible_party
+}}{{Binding
+|Binding.Local role=position
+|Binding.Bound role=Responsibility.source_of_obligation
+}}{{Binding
+|Binding.Local role=job_holder_actions
+|Binding.Bound role=Responsibility.fulfillment_of_duty
+}}{{Binding
+|Binding.Local role=superior
+|Binding.Bound role=Responsibility.evaluator_of_fulfillment
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=job.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=career.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=position.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=office.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=employment.n
+}}
+|Applicability=English
+}}

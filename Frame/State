@@ -1,0 +1,27 @@
+{{Frame
+|FrameNet frame=State
+|Family=State-related frames
+|Type=Cog
+|Entered by=Ellen
+|Roles={{Role
+|Role.Name=domain
+|Role.Definition=parameter that is directly associated with an entity over some period of time
+|Role.FrameNet role=State
+}}{{Role
+|Role.Name=possible_state_values
+|Role.Definition=possible values associated with parameter: may be presence/absence of state, or may be scalar values
+}}{{Role
+|Role.Name=value_relations
+|Role.Definition=relation between values, can be continuous or discrete
+}}{{Role
+|Role.Name=profiled_state_value
+|Role.Definition=state value that is profiled at some point/span of  time
+}}{{Role
+|Role.Name=standard
+|Role.Definition=serves as reference value by which other values may be specified
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+}}

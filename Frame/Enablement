@@ -1,0 +1,31 @@
+{{Frame
+|Other aliases=Enablement of motion
+|Comments=Refers to Enablement in the domain of motion as opposed to action. (should be renamed to Enablement_of_motion).
+
+This very general frame encapsulates both: active aids to motion, and lack of impediments to motion.
+
+For the two versions see specifically: Aids to motion, and Lack of impediments to motion
+|Family=Impediment and enablement frames, Excluded frames, Causation frames, 
+|Tags=Program sources
+|Type=Cog
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=enabling_source
+}}{{Role
+|Role.Name=enabled_entity
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=enable.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enablement.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=enabling.adj
+}}
+}}

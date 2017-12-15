@@ -1,0 +1,27 @@
+{{Frame
+|Comments=Entrusting is the giving of power/control to someone to potentially harm you.
+|Status=in development
+|Roles={{Role
+|Role.Name=entrusting_entity
+}}{{Role
+|Role.Name=entrusted_entity
+}}{{Role
+|Role.Name=thing_entrusted
+}}
+|Related frames={{Related frame
+|Related frame.Name=Delegation of trust
+}}{{Related frame
+|Related frame.Name=Control
+}}{{Related frame
+|Related frame.Name=Power
+}}{{Related frame
+|Related frame.Name=Investment
+|Related frame.Description=Investment is subcase of Trust
+}}{{Related frame
+|Related frame.Name=Benefit
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

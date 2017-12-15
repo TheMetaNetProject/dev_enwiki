@@ -1,0 +1,40 @@
+{{Frame
+|FrameNet frame=Relation_between_individuals
+|Type=Frame, Composed
+|Status=in development
+|Roles={{Role
+|Role.Name=relationship_whole
+}}{{Role
+|Role.Name=related_entity_1
+}}{{Role
+|Role.Name=related_entity_2
+}}{{Role
+|Role.Name=relationship_status
+|Role.Type=scale
+}}{{Role
+|Role.Name=inter-relation
+|Role.Definition=set of relations between E1 and E2
+}}{{Role
+|Role.Name=relation_E1-E2
+|Role.Definition=relation between entity_1 and entity_2
+}}{{Role
+|Role.Name=relation_type_E1-E2
+|Role.Definition=type of relation betwen entity1 and entity2
+}}{{Role
+|Role.Name=relation_E2-E1
+|Role.Definition=relation between entity_2 and entity_1
+}}{{Role
+|Role.Name=relation_type_E2-E1
+|Role.Definition=type of relation between entity2 and entity1
+}}{{Role
+|Role.Name=static_dynamic_status_of_relationship
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Relation
+}}
+|Bindings={{Binding}}
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

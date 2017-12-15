@@ -1,0 +1,18 @@
+{{Frame
+|Family=Act on Object frames, Machine frames, 
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=run.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=operate.v
+}}
+|Applicability=English
+}}

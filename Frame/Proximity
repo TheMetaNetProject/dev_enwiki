@@ -1,0 +1,59 @@
+{{Frame
+|FrameNet frame=Proximity_image_frame
+|Comments=Refers to the proximity scale, and not solely to 'being close', which is only one end of the scale.
+|Family=Scale Frames, Image Schemas,
+|Type=Cog, Primary
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Status=in development
+|Entered by=Oana, Ellen,
+|Roles={{Role
+|Role.Name=ground
+|Role.Definition=landmark
+|Role.FrameNet role=Ground
+}}{{Role
+|Role.Name=profiled_region
+|Role.FrameNet role=Profiled_region
+}}{{Role
+|Role.Name=proximity_scale
+|Role.Type=scale
+|Role.Definition=relative (scalar) distance from ground
+}}{{Role
+|Role.Name=norm
+|Role.Definition=normal/expected distance between profiled_region and ground
+}}{{Role
+|Role.Name=degree_of_proximity
+|Role.Definition=how profiled_region differs from norm
+|Role.FrameNet role=Degree
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Scale
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Trajector landmark
+}}
+|Bindings={{Binding
+|Binding.Local role=ground
+|Binding.Bound role=Trajector landmark.landmark
+}}{{Binding
+|Binding.Local role=profiled_region
+|Binding.Bound role=Trajector landmark.profiled_region
+}}{{Binding
+|Binding.Local role=norm
+|Binding.Bound role=Scale.norm
+}}
+|Inferences={{Inference
+|Inference.Description=Distance less than norm is 'close'/'proximal', distance greater than norm is 'far'/'distal'.
+}}{{Inference
+|Inference.Description=The closer an object gets to another object, the smaller the distance between them becomes.
+}}{{Inference
+|Inference.Description=The further an object gets from another object, the greater the distance between them becomes.
+}}{{Inference
+|Inference.Description=Motion is required in order to increase or decrease proximity between two objects.
+}}
+|Relevant LUs=
+|LinkSpanish=Proximidad
+|Applicability=English
+}}

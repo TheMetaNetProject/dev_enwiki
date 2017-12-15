@@ -1,0 +1,25 @@
+{{Frame
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Roles={{Role
+|Role.Name=network_whole
+}}{{Role
+|Role.Name=network_parts
+}}{{Role
+|Role.Name=network_connections
+}}{{Role
+|Role.Name=sub_networks
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Connection
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=System
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=English
+}}

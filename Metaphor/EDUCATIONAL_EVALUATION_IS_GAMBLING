@@ -1,0 +1,24 @@
+{{Metaphor
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=TESTING IS BETTING
+}}
+|Family=Education metaphors,
+|Metaphor Type=Composed/complex
+|Source frame=Gambling
+|Target frame=Educational evaluation
+|Mappings=
+|Related metaphors=
+|Entailments={{Entailment
+|Entailment.Target entailment=Taking an important test
+|Entailment.Source inference=High-stakes betting
+|Entailment.Type=source and target subcase
+}}
+|Examples={{Example
+|Example.Language=English
+|Example.Text=Apparently, I’m not the only parent who’s concerned about high stakes testing.
+|Example.Provenance=http://workingclassstudies.wordpress.com/2013/04/08/how-the-working-class-gets-schooled/
+}}
+|Entered by=Elise,
+|Status=in development
+|Investigated for=English
+}}

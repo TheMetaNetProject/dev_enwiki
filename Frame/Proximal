@@ -1,0 +1,59 @@
+{{Frame
+|Family=Image Schemas,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+|Status=in development
+|Entered by=Oana
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Proximity
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=Distant
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=near
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=nearby
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=next to
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=proximal
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=adjacent
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=within reach
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=reachable
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=attainable
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=approachable
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=handy
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=within grasp
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=within one's grasp
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=close
+}}
+|LinkSpanish=Próximo
+|Applicability=English
+}}

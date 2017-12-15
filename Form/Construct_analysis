@@ -1,0 +1,143 @@
+<noinclude>
+This is the "Construct analysis" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Construct analysis|autocomplete on namespace=Construct analysis|namespace=Construct analysis}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Construct analysis}}}
+{| class="formtable"
+! Text:
+| {{{field|text|property=Has text}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Text Gloss:
+| {{{field|text gloss|property=Has text gloss|class=enformfield}}}
+|-
+! Informal analysis:
+| {{{field|informalanalysis|property=Has informal analysis}}}
+|-
+! Comment:
+| {{{field|comment}}}
+|-
+! Tags:
+| {{{field|tags|property=Has tags|input type=text with autocomplete}}}
+|-
+! Entered by:
+| {{{field|Entered by|property=Entered by|input type=text with autocomplete|mandatory}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by|property=Last reviewed by|input type=text with autocomplete}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list|mandatory}}}
+|}
+
+'''Constructional information:'''
+{| class="formtable"
+! Construction:
+| {{{field|construction|property=Instantiates construction}}}
+|-
+! Frames:
+| {{{field|frames|property=Evokes frame}}}
+|-
+! Comments:
+| {{{field|cxncomments}}}
+|}
+'''Constituent constructional information:'''
+{| class="formtable"
+! Informal analysis:
+| {{{field|informalconstituentanalysis|property=Has informal analysis}}}
+|-
+! Constituents:
+| {{{field|constituents|holds template|mandatory}}}
+|}
+
+'''Bindings:'''
+{{{field|bindings|holds template}}}
+
+'''Metaphors:'''
+{{{field|metaphors|holds template|mandatory}}}
+
+'''Metonymy:'''
+{{{field|metonymy|Property=Has metonymy description}}}
+
+'''Examples:'''
+{{{field|examples|holds template|mandatory}}}
+{{{end template}}}
+
+{{{for template|CA constituent|multiple|label=Constituent constructional information|embed in field=Construct analysis[constituents]}}}
+
+'''String:''' {{{field|constituent.string|property=Has string|class=metaex}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|constituent.gloss|property=Has string gloss|class=metagl}}}
+}}
+'''Cx Analysis link:''' {{{field|constituent.construct|property=Has cx analysis}}}
+
+'''Cxn:''' {{{field|constituent.cxn|property=Instantiates construction}}}
+
+'''Frames:''' {{{field|constituent.frames|property=Evokes frame}}}
+
+{{{end template}}}
+
+{{{for template|CA binding|multiple|label=Construction-frame Bindings|embed in field=Construct analysis[bindings]}}}
+'''Node 1:''' {{{field|binding.node1}}}
+
+'''Node 2:''' {{{field|binding.node2}}}
+
+'''Comment:''' {{{field|binding.comment}}}
+
+{{{end template}}}
+
+{{{for template|CA metaphor|multiple|label=Metaphor Information|embed in field=Construct analysis[metaphors]}}}
+
+'''Metaphor:''' {{{field|metaphor.metaphor|property=Involves metaphor}}}
+
+'''Evoking elements:''' 
+{| class="formtable"
+! Source:
+| {{{field|metaphor.evokingsourceelements|property=Has source evoking element}}}
+|-
+! Target:
+| {{{field|metaphor.evokingtargetelements|property=Has target evoking element}}}
+|}
+
+'''Comments:'''
+{{{field|metaphor.comment|property=Has comment}}}
+
+{{{end template}}}
+
+{{{for template|CA example|multiple|label=Example sentences|embed in field=Construct analysis[examples]}}}
+
+{{{field|example.language|property=Is language|input type=text|default={{Lang|en}}|hidden}}}
+
+'''Text:''' {{{field|example.text|property=Has text|class=metaex|rows=3}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|example.gloss|property=Has text gloss|class=metagl|rows=3}}}
+
+'''English translation:''' {{{field|example.english translation|property=Has English translation|class=metatr|rows=3}}}
+
+}}
+'''Provenance:''' {{{field|example.provenance|property=Has provenance}}}
+
+'''Annotation:''' {{{field|example.annotation|property=Has annotation|rows=3|class=enformfield}}}
+
+'''Comments:''' {{{field|example.comment|property=Has comment|rows=3|class=enformfield}}}
+
+{{{end template}}}
+
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

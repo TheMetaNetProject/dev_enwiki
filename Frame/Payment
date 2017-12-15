@@ -1,0 +1,39 @@
+{{Frame
+|Comments=Let's think about where to put: toll, fee, cost, tariff.
+|Family=Excluded frames,
+|Type=Frame
+|Status=in development
+|Entered by=Oana,
+|Last reviewed by=Ellen, Oana
+|Roles={{Role
+|Role.Name=payer
+|Role.Definition=person who initially has money
+}}{{Role
+|Role.Name=payment
+}}{{Role
+|Role.Name=payment_amount
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a perspective on
+|Related frame.Name=Financial transaction
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=pay.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=payment.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=price.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spend.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=spending.n
+}}
+|Applicability=English
+}}

@@ -1,0 +1,19 @@
+{{Frame
+|Family=Communication Frames, Excluded frames,
+|Cultural scope=American English, Mexican Spanish
+|Cultural information=checked cultural scope for English and Spanish - Karie July 8 2014
+
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=discuss.v
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=converse.v
+}}
+|LinkSpanish=Discutir
+|Applicability=English
+}}

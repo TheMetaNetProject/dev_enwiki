@@ -1,0 +1,34 @@
+{{Frame
+|Comments=Needed for Gun Debate.
+|Family=Gun debate, Governance frames,
+|Cultural scope=American English
+|Status=in development
+|Entered by=Oana,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Rights
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=Government institution US
+}}{{Related frame
+|Related frame.Relation type=incorporates as a role
+|Related frame.Name=Second Amendment
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=English
+|LUs.Lemmas=constitution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=constitutional.a
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=American constitution.n
+}}{{LUs
+|LUs.Language=English
+|LUs.Lemmas=US constitution.n
+}}
+|Applicability=English
+}}
